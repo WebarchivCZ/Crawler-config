@@ -1,4 +1,4 @@
-Crawler-config
+Crawler configuration in WebArchiv.cz
 ==============
 
-WebArchiv.cz crawler configuration.
+WebArchiv.cz crawler configuration history.
