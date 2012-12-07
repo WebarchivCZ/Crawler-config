@@ -37,9 +37,18 @@
 # This Properties map is specified in the Java 'property list' text format
 # http://java.sun.com/javase/6/docs/api/java/util/Properties.html#load%28java.io.Reader%29
 
-metadata.operatorContactUrl=ENTER_AN_URL_WITH_YOUR_CONTACT_INFO_HERE_FOR_WEBMASTERS_AFFECTED_BY_YOUR_CRAWL
-metadata.jobName=basic
-metadata.description=Basic crawl starting with useful defaults
+# Values changing with each crawl
+metadata.jobName=Serials 2013-01-1M
+metadata.description=Pravidelná sklizeň semínek s každoměsíční frekvencí
+
+# Stable values
+metadata.operatorContactUrl=http://webarchiv.cz/kontakty/
+metadata.operator=Rudolf Kreibich
+metadata.operatorFrom=webarchiv@nkp.cz
+metadata.organization=National Library of the Czech Republic - WebArchiv.cz
+metadata.audience=WebArchiv.cz Users
+metadata.userAgentTemplate=Mozilla/5.0 (compatible; heritrix/@VERSION@ +@OPERATOR_CONTACT_URL@)
+metadata.robotsPolicyName=ignore
 
 ##..more?..##
    </value>
