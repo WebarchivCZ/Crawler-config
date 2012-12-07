@@ -40,6 +40,9 @@
 # Values changing with each crawl
 metadata.jobName=Serials 2013-01-1M
 metadata.description=Pravidelná sklizeň semínek s každoměsíční frekvencí
+frontier.queueTotalBudget=15000
+# INSPECT: There is change that balanceReplenishAmount doesnt work as expected IE: Crawl 5k URIs, and wait for other seeds to crawl until 5k URIs - check FRONTIER
+frontier.balanceReplenishAmount=5000
 
 # Stable values
 metadata.operatorContactUrl=http://webarchiv.cz/kontakty/
@@ -407,10 +410,11 @@ http://example.example/example
  <!-- FRONTIER: Record of all URIs discovered and queued-for-collection -->
  <bean id="frontier" 
    class="org.archive.crawler.frontier.BdbFrontier">
-  <!-- <property name="queueTotalBudget" value="-1" /> -->
-  <!-- <property name="balanceReplenishAmount" value="3000" /> -->
+  <property name="queueTotalBudget" value="[see override above]"
+  <property name="balanceReplenishAmount" value="[see override above]" />
   <!-- <property name="errorPenaltyAmount" value="100" /> -->
   <!-- <property name="precedenceFloor" value="255" /> -->
+<!-- INSPECT! Does BaseQueuePrecedencePolicy works with balanceReplenishAmount? --!>
   <!-- <property name="queuePrecedencePolicy">
         <bean class="org.archive.crawler.frontier.precedence.BaseQueuePrecedencePolicy" />
        </property> -->
