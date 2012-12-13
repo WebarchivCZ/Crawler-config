@@ -410,7 +410,7 @@ http://example.example/example
  <!-- FRONTIER: Record of all URIs discovered and queued-for-collection -->
  <bean id="frontier" 
    class="org.archive.crawler.frontier.BdbFrontier">
-  <property name="queueTotalBudget" value="[see override above]"
+  <property name="queueTotalBudget" value="[see override above]" />
   <property name="balanceReplenishAmount" value="[see override above]" />
   <!-- <property name="errorPenaltyAmount" value="100" /> -->
   <!-- <property name="precedenceFloor" value="255" /> -->
