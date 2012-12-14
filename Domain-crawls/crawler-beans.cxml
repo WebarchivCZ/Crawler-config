@@ -44,6 +44,15 @@ frontier.queueTotalBudget=15000
 # INSPECT: There is change that balanceReplenishAmount doesnt work as expected IE: Crawl 5k URIs, and wait for other seeds to crawl until 5k URIs - check FRONTIER
 frontier.balanceReplenishAmount=5000
 
+# DISTRIBUTED CRAWLING - if true, check if proper localName is set per Crawler and do not forget to mention how many crawlers will join the party. -->
+hashCrawlMapper.enabled=true
+# Local name of Crawler is number starting with 0.
+hashCrawlMapper.localName=0
+# Number of crawlers among which to split up the URIs.
+hashCrawlMapper.crawlerCount=5
+# Diversions directory should be shared between crawlers per job.
+hashCrawlMapper.diversionDir=/mnt/archives/archive12/pre-fetch-diversions
+
 # Stable values
 metadata.operatorContactUrl=http://webarchiv.cz/kontakty/
 metadata.operator=Rudolf Kreibich
@@ -207,6 +216,17 @@ http://example.example/example
     turn for collection comes up. The DispositionChain is applied 
     after a URI is fetched and analyzed/link-extracted.
   -->
+
+<!-- DISTRIBUTED CRAWLING -->	
+ <bean id="hashCrawlMapper" class="org.archive.crawler.processor.HashCrawlMapper">
+  <property name="enabled" value="[see override above]" />
+  <property name="localName" value="[see override above]" />
+  <property name="diversionDir" value="[see override above]" />
+  <property name="checkUri" value="true" />
+  <property name="checkOutlinks" value="false"/>
+  <property name="rotationDigits" value="10" />
+  <property name="crawlerCount" value="[see override above]" />
+</bean>
   
  <!-- CANDIDATE CHAIN --> 
  <!-- first, processors are declared as top-level named beans -->
@@ -234,6 +254,8 @@ http://example.example/example
    <list>
     <!-- apply scoping rules to each individual candidate URI... -->
     <ref bean="candidateScoper"/>
+    <!-- DISTRIBUTED CRAWLING -->
+    <ref bean="hashCrawlMapper"/>
     <!-- ...then prepare those ACCEPTed to be enqueued to frontier. -->
     <ref bean="preparer"/>
    </list>
@@ -324,6 +346,8 @@ http://example.example/example
     <!-- re-check scope, if so enabled... -->
     <ref bean="preselector"/>
     <!-- ...then verify or trigger prerequisite URIs fetched, allow crawling... -->
+    <!-- DISTRIBUTED CRAWLING, INSPECT! hashCrawlMapperProcessor should be here as stated in yahoo groups, bud i found no bean for it so Heritrix complains and i am changing it for now to hashCrawlMapper:-->
+    <ref bean="hashCrawlMapper"/>
     <ref bean="preconditions"/>
     <!-- ...fetch if DNS URI... -->
     <ref bean="fetchDns"/>
