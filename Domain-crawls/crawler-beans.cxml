@@ -414,7 +414,7 @@ http://example.example/example
   <property name="balanceReplenishAmount" value="[see override above]" />
   <!-- <property name="errorPenaltyAmount" value="100" /> -->
   <!-- <property name="precedenceFloor" value="255" /> -->
-<!-- INSPECT! Does BaseQueuePrecedencePolicy works with balanceReplenishAmount? --!>
+<!-- INSPECT! Does BaseQueuePrecedencePolicy works with balanceReplenishAmount? -->
   <!-- <property name="queuePrecedencePolicy">
         <bean class="org.archive.crawler.frontier.precedence.BaseQueuePrecedencePolicy" />
        </property> -->
