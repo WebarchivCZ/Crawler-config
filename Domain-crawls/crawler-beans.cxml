@@ -702,7 +702,7 @@ http://example.example/example
  <!-- BDBMODULE: shared BDB-JE disk persistence manager -->
  <bean id="bdb" 
   class="org.archive.bdb.BdbModule">
-  <!-- <property name="dir" value="state" /> -->
+  <!-- <property name="dir" value="/opt/heritrix/jobs/2013-state" /> -->
   <!-- if neither cachePercent or cacheSize are specified (the default), bdb
        uses its own default of 60% -->
   <!-- <property name="cachePercent" value="0" /> -->
