@@ -40,6 +40,8 @@
 # Values changing with each crawl
 metadata.jobName=Serials 2013-01-1M
 metadata.description=Pravidelná sklizeň semínek s každoměsíční frekvencí
+warcWriter.prefix=Serials-2013-01-1M
+warcWriter.storePaths=/mnt/archives/archive12/2013/serials/Serials-2013-02-1M_2M
 frontier.queueTotalBudget=15000
 # INSPECT: There is change that balanceReplenishAmount doesnt work as expected IE: Crawl 5k URIs, and wait for other seeds to crawl until 5k URIs - check FRONTIER
 frontier.balanceReplenishAmount=5000
@@ -372,7 +374,7 @@ http://example.example/example
  <!-- first, processors are declared as top-level named beans  -->
  <bean id="warcWriter" class="org.archive.modules.writer.WARCWriterProcessor">
   <!-- <property name="compress" value="true" /> -->
-  <!-- <property name="prefix" value="IAH" /> -->
+  <property name="prefix" value="[See override above]"/>
   <!-- <property name="suffix" value="${HOSTNAME}" /> -->
   <!-- <property name="maxFileSizeBytes" value="1000000000" /> -->
   <!-- <property name="poolMaxActive" value="1" /> -->
@@ -380,11 +382,11 @@ http://example.example/example
   <!-- <property name="skipIdenticalDigests" value="false" /> -->
   <!-- <property name="maxTotalBytesToWrite" value="0" /> -->
   <!-- <property name="directory" value="${launchId}" /> -->
-  <!-- <property name="storePaths">
-        <list>
-         <value>warcs</value>
-        </list>
-       </property> -->
+  <property name="storePaths">
+	<list>
+         <value>"[See override above]"</value>
+	</list>
+       </property>
   <!-- <property name="writeRequests" value="true" /> -->
   <!-- <property name="writeMetadata" value="true" /> -->
   <!-- <property name="writeRevisitForIdenticalDigests" value="true" /> -->
