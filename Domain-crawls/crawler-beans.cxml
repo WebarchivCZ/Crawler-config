@@ -55,6 +55,9 @@ hashCrawlMapper.crawlerCount=5
 # Diversions directory should be shared between crawlers per job.
 hashCrawlMapper.diversionDir=/mnt/archives/archive12/pre-fetch-diversions
 
+# FACEBOOK / TWITTER crawling
+# INSPECT: I am not sure how to properly override sheets, so if you wanna turn off FB/TWITTER extraction, set extractorFacebookScroll.enabled and extractorTwitterScrollOne.enabled and extractorTwitterScrollFurther.enabled to false.
+
 # Stable values
 metadata.operatorContactUrl=http://webarchiv.cz/kontakty/
 metadata.operator=Rudolf Kreibich
@@ -344,7 +347,57 @@ http://example.example/example
  <bean id="extractorJs" class="org.archive.modules.extractor.ExtractorJS">
  </bean>
  <bean id="extractorSwf" class="org.archive.modules.extractor.ExtractorSWF">
- </bean>    
+ </bean>
+
+<!--
+#
+# CUSTOM EXTRACTORS:
+#
+-->
+
+<!-- FACEBOOK Extraction - https://webarchive.jira.com/wiki/display/Heritrix/Facebook+and+Twitter+Scroll-down -->
+ <bean id="extractorFacebookScroll" class="org.archive.modules.extractor.ExtractorMultipleRegex">
+  <property name="enabled" value="false"/>
+  <property name="uriRegex" value="^https?://(?:www\.)?facebook\.com/[^/?]+$"/>
+  <property name="contentRegexes">
+   <map>
+    <entry key="jsonBlob" value="\[&quot;TimelineContentLoader&quot;,&quot;registerTimePeriod&quot;,[^,]+,[^,]+,[^,]+,\{(&quot;profile_id&quot;:[^}]+)\},false,null,(\d+),"/>
+    <entry key="ajaxpipeToken" value="&quot;ajaxpipe_token&quot;:&quot;([^&quot;]+)&quot;"/>
+    <entry key="timeCutoff" value="&quot;setTimeCutoff&quot;,[^,]*,\[(\d+)\]\]"/>
+   </map>
+  </property>
+  <property name="template">
+    <value>/ajax/pagelet/generic.php/ProfileTimelineSectionPagelet?ajaxpipe=1&amp;ajaxpipe_token=${ajaxpipeToken[1]}&amp;no_script_path=1&amp;data=${java.net.URLEncoder.encode('{' + jsonBlob[1] , 'UTF-8')},&quot;time_cutoff&quot;%3A${java.net.URLEncoder.encode(timeCutoff[1] , 'UTF-8')},&quot;force_no_friend_activity&quot;%3Afalse%7D&amp;__user=0&amp;__a=1&amp;__adt=${jsonBlob[2]}</value>
+  </property>
+ </bean>
+
+<!-- TWITTER Extraction - https://webarchive.jira.com/wiki/display/Heritrix/Facebook+and+Twitter+Scroll-down -->
+ <bean id="extractorTwitterScrollOne" class="org.archive.modules.extractor.ExtractorMultipleRegex">
+  <property name="enabled" value="false"/>
+  <property name="uriRegex" value="^https?://(?:www\.)?twitter\.com/([^/]+)/?(?:\?.*)?$"/>
+  <property name="contentRegexes">
+   <map>
+    <entry key="maxId" value="data-max-id=&quot;(\d+)&quot;"/>
+   </map>
+  </property>
+  <property name="template">
+   <value>/i/profiles/show/${uriRegex[1]}/timeline/with_replies?include_available_features=1&amp;include_entities=1&amp;max_id=${maxId[1]}</value>
+  </property>
+ </bean>
+ <bean id="extractorTwitterScrollFurther" class="org.archive.modules.extractor.ExtractorMultipleRegex">
+  <property name="enabled" value="false"/>
+  <property name="uriRegex" value="^https?://(?:www\.)?twitter\.com/i/profiles/show/([^/]+)/timeline/with_replies\?include_available_features=1&amp;include_entities=1&amp;max_id=\d+$"/>
+  <property name="contentRegexes">
+   <map>
+    <entry key="maxId" value="&quot;max_id&quot;:&quot;(\d+)&quot;"/>
+   </map>
+  </property>
+  <property name="template">
+   <value>/i/profiles/show/${uriRegex[1]}/timeline/with_replies?include_available_features=1&amp;include_entities=1&amp;max_id=${maxId[1]}</value>
+  </property>
+ </bean>
+
+    
  <!-- now, processors are assembled into ordered FetchChain bean -->
  <bean id="fetchProcessors" class="org.archive.modules.FetchChain">
   <property name="processors">
@@ -370,6 +423,10 @@ http://example.example/example
     <ref bean="extractorJs"/>
     <!-- ...extract outlinks from Flash content... -->
     <ref bean="extractorSwf"/>
+<!-- CUSTOM EXTRACTORS -->
+    <ref bean="extractorFacebookScroll"/>
+    <ref bean="extractorTwitterScrollOne"/>
+    <ref bean="extractorTwitterScrollFurther"/>
    </list>
   </property>
  </bean>
@@ -472,6 +529,74 @@ http://example.example/example
  <!-- URI UNIQ FILTER: Used by frontier to remember already-included URIs --> 
  <bean id="uriUniqFilter" 
    class="org.archive.crawler.util.BdbUriUniqFilter">
+ </bean>
+
+<!--
+   CUSTOM OVERLAY SHEETS
+-->
+
+<!-- FACEBOOK Extraction sheet -->
+ <bean id="enableFacebookScroll" class="org.archive.spring.Sheet">
+  <property name="map">
+   <map>
+    <entry key="extractorFacebookScroll.enabled" value="true"/>
+   </map>
+  </property>
+ </bean>
+ <bean class="org.archive.crawler.spring.SurtPrefixesSheetAssociation">
+  <property name="surtPrefixes">
+   <list>
+    <value>http://(com,facebook,</value>
+   </list>
+  </property>
+  <property name="targetSheetNames">
+   <list>
+    <value>enableFacebookScroll</value>
+   </list>
+  </property>
+ </bean>
+
+<!-- TWITTER Extraction sheet -->
+ <bean id="enableTwitterScrollOne" class="org.archive.spring.Sheet">
+  <property name="map">
+   <map>
+    <entry key="extractorTwitterScrollOne.enabled" value="true"/>
+   </map>
+  </property>
+ </bean>
+ <bean class="org.archive.crawler.spring.SurtPrefixesSheetAssociation">
+  <property name="surtPrefixes">
+   <list>
+    <value>http://(com,twitter,)/</value>
+    <value>http://(com,twitter,www,)/</value>
+   </list>
+  </property>
+  <property name="targetSheetNames">
+   <list>
+    <value>enableTwitterScrollOne</value>
+   </list>
+  </property>
+ </bean>
+ <bean id="enableTwitterScrollFurther" class="org.archive.spring.Sheet">
+  <property name="map">
+   <map>
+    <entry key="extractorTwitterScrollFurther.enabled" value="true"/>
+    <entry key="extractorTwitterScrollOne.enabled" value="false"/>
+   </map>
+  </property>
+ </bean>
+ <bean class="org.archive.crawler.spring.SurtPrefixesSheetAssociation">
+  <property name="surtPrefixes">
+   <list>
+    <value>http://(com,twitter,)/i/profiles/show/</value>
+    <value>http://(com,twitter,www,)/i/profiles/show/</value>
+   </list>
+  </property>
+  <property name="targetSheetNames">
+   <list>
+    <value>enableTwitterScrollFurther</value>
+   </list>
+  </property>
  </bean>
  
  <!--
