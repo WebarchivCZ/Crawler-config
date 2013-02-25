@@ -135,7 +135,9 @@ http://example.example/example
     <property name="path" value="seeds.txt" />
    </bean>
   </property>
+  <!-- sourceTagSeeds: Whether to tag seeds with their own URI as a heritable 'source' String, which will be carried-forward to all URIs discovered on paths originating from that seed. When present, such source tags appear in the second-to-last crawl.log field. https://webarchive.jira.com/wiki/display/Heritrix/AbstractFrontier+source-tag-seeds -->
   <property name='sourceTagSeeds' value='false'/>
+  <!-- Number of lines of seeds-source to read on initial load before proceeding with crawl. Default is -1, meaning all. Any other value will cause that number of lines to be loaded before fetching begins, while all extra lines continue to be processed in the background. Generally, this should only be changed when working with very large seed lists, and scopes that do *not* depend on reading all seeds. http://builds.archive.org:8080/javadoc/heritrix-3.1.0/org/archive/modules/seeds/TextSeedModule.html#blockAwaitingSeedLines -->
   <property name='blockAwaitingSeedLines' value='-1'/>
  </bean>
  
