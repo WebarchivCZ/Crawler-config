@@ -570,6 +570,223 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
    CUSTOM OVERLAY SHEETS
 -->
 
+<!-- LOCAL REGEX ASSOCIATION-->
+
+<!-- LOCAL CALENDARS -->
+ <bean id="rejectLocalCalendars" class="org.archive.modules.deciderules.MatchesListRegexDecideRule" autowire-candidate="false">
+  <property name="decision" value="REJECT"/>
+ </bean>
+ <bean id="rejectLocalCalendars-sheet" class="org.archive.spring.Sheet">
+  <property name="map">
+   <map>
+    <entry key="rejectLocalCalendars.regexList">
+     <list>
+<!--TODO REFINE EXPRESSIONS AND ADD NEW -->
+      <value>.*agronavigator.cz*/kalendar.asp\?.*</value>
+      <value>.*agroporadenstvi.cz.*/kalendar.asp\?.*</value>
+      <value>http://zbraslav\.info/kalendar-akci/.*/201[5-9]/.*</value>
+      <value>.*&amp;month:int=[0-9]{1,2}&amp;year:int=(?!(2010|2011)).*</value>
+      <value>.*knihy_prehled\.asp\?rok=201[6-9]{1}.*</value>
+     </list>
+    </entry>
+   </map>
+  </property>
+ </bean>
+ <bean class="org.archive.crawler.spring.SurtPrefixesSheetAssociation">
+  <property name="surtPrefixes">
+   <list>
+    <value>+fantasyplanet.cz</value>
+    <value>+agroporadenstvi.cz</value>
+    <value>+coena.cz</value>
+    <value>+agronavigator.cz</value>
+    <value>+zbraslav.info</value>
+   </list>
+  </property>
+  <property name="targetSheetNames">
+   <list>
+    <value>rejectLocalCalendars-sheet</value>
+   </list>
+  </property>
+ </bean>
+
+<!-- LOCAL TRAPS -->
+ <bean id="rejectLocalTraps" class="org.archive.modules.deciderules.MatchesListRegexDecideRule" autowire-candidate="false">
+  <property name="decision" value="REJECT" />
+ </bean>
+ <bean id="rejectLocalTraps-sheet" class='org.archive.spring.Sheet'>
+  <property name='map'>
+   <map>
+    <entry key='rejectLocalTraps.regexList'>
+     <list>
+      <value>.*/profil\.php.*</value>
+      <value>.*#comments.*</value>
+      <value>.*%E2%8C%A9.*</value>
+      <value>.*&amp;do=discussion-.*</value>
+      <value>.*&amp;event=inquiry_vote.*</value>
+      <value>.*-/17\.4\.5\.1$</value>
+      <value>.*-/3\.19\.9\.37$</value>
+      <value>.*-/selfbox\.asp$</value>
+      <value>.*/.*leta/.*leta/.*</value>
+      <value>.*/.*stoleti/.*stoleti/.*</value>
+      <value>.*/ClanekHodnoceni/.*</value>
+      <value>.*/Shared_UserLoginBar\.asp.*</value>
+      <value>.*/[0-9]{4,5}\.[0-9]{1,2}\.[0-9]{1,2}\.[0-9]{1,2}[^/].*</value>
+      <value>.*/[0-9]{5}\.[0-9]{1,2}\.[0-9]{1,2}\.[0-9]{1,2}[^/].*</value>
+      <value>.*/\?hash=.*</value>
+      <value>.*/\?likeit=.*</value>
+      <value>.*/\?reply=.*</value>
+      <value>.*/_diskuse=reagovat/.*</value>
+      <value>.*/action_send/.*</value>
+      <value>.*/admin/.*</value>
+      <value>.*/antispam\.php\?antispamkod=.*</value>
+      <value>.*/bazar/.*</value>
+      <value>.*/cgi-bin/mail\.cgi/.*</value>
+      <value>.*/clanek-diskuse\.php.*</value>
+      <value>.*/clanek-poslat\.php.*</value>
+      <value>.*/clanek-tisk\.php.*</value>
+      <value>.*/clanek\.asp\?we=diskuze.*</value>
+      <value>.*/comment\.php.*</value>
+      <value>.*/comment_list\.php.*</value>
+      <value>.*/diskuse/pridat.*</value>
+      <value>.*/doporucit-stranku/.*</value>
+      <value>.*/feed/.*</value>
+      <value>.*/forward\?path=node.*</value>
+      <value>.*/getProfilUserStats\.php.*</value>
+      <value>.*/hlasovat/\?poll.*</value>
+      <value>.*/kalendar-akci-na-pamatkach/actions/\?f=&amp;in_f=.*</value>
+      <value>.*/news_mail\.php.*</value>
+      <value>.*/novy_komentar.*</value>
+      <value>.*/outbound-article/.*</value>
+      <value>.*/pocasi/.*</value>
+      <value>.*/post/1\.5$</value>
+      <value>.*/post/quote\.html$</value>
+      <value>.*/post/reply\.html$</value>
+      <value>.*/print_preview\.php.*</value>
+      <value>.*/racebook/.*/.*\?sort=alphabetical</value>
+      <value>.*/racebook/.*/.*\?sort=mostactive</value>
+      <value>.*/racebook/.*/.*\?sort=mostdiscussed</value>
+      <value>.*/racebook/.*/.*\?sort=mostmembers</value>
+      <value>.*/racebook/.*/.*\?sort=mostwalls</value>
+      <value>.*/register\?destination=comment.*</value>
+      <value>.*/search\.php\?query=.*</value>
+      <value>.*/search_user\.php.*</value>
+      <value>.*/tipafriend/.*</value>
+      <value>.*/uimg/vvc/.*</value>
+      <value>.*/vlozeni-dotazu\.asp.*</value>
+      <value>.*/xml/.*</value>
+      <value>.*/zabava-na-mobil/.*</value>
+      <value>.*1wM7Wad1eE6Uq5Msxf68HfV4HeHdbGOAcvmCgW520zf\.C7$</value>
+      <value>.*=Login$</value>
+      <value>.*EditDiscussion.*</value>
+      <value>.*EditRequest.*</value>
+      <value>.*EditUser.*</value>
+      <value>.*Profile.*</value>
+      <value>.*\?re=.*</value>
+      <value>.*akceKomentar=.*</value>
+      <value>.*board-admin\.pl.*</value>
+      <value>.*categoryId=.*categoryId=.*</value>
+      <value>.*dinsert\.php.*</value>
+      <value>.*doporucit\?d=.*</value>
+      <value>.*func=showtipresults.*</value>
+      <value>.*http://www.radiovaticana.cz/clanek_odeslat.php4\?id=.*</value>
+      <value>.*inquiryAnswerId=-1.*</value>
+      <value>.*isidorus.net/google/.*</value>
+      <value>.*loginr=.*</value>
+      <value>.*mebio\.cz/ratings.*</value>
+      <value>.*racebook/groups.html\?sort=alphabetical</value>
+      <value>.*racebook/groups.html\?sort=mostdiscussed</value>
+      <value>.*stranka=1&amp;razeni=.*</value>
+      <value>.*view.php3\?vid=966.*</value>
+      <value>.*zprava-tisk\.asp\?.*</value>
+      <value>^(.*)(/forum/)(.*)$</value>
+      <value>^(.*)(login.php)(.*)$</value>
+      <value>^(.*)(mode=post)(.*)$</value>
+      <value>^(.*)(posting.php)(.*)$</value>
+      <value>http://.*http://.*</value>
+      <value>http://archiv\.cbvk\.cz/historicke_mapy.*</value>
+      <value>http://archiv\.cbvk\.cz/kramerius/.*</value>
+     </list>
+    </entry>
+   </map>
+  </property>
+ </bean>
+ <bean class='org.archive.crawler.spring.SurtPrefixesSheetAssociation'>
+  <property name="surtPrefixes">
+   <list>
+    <value>http://(cz,abclinuxu,</value>
+    <value>http://(cz,aeoroweb,</value>
+    <value>http://(cz,agronavigator,</value>
+    <value>http://(cz,agroporadenstvi,</value>
+    <value>http://(cz,aperio,</value>
+    <value>http://(cz,aquapage,</value>
+    <value>http://(cz,asz,</value>
+    <value>http://(cz,babyweb,</value>
+    <value>http://(cz,beskydy,</value>
+    <value>http://(cz,biom,</value>
+    <value>http://(cz,ihned,respekt,blog,</value>
+    <value>http://(cz,bobosikova,</value>
+    <value>http://(cz,wendys,botanika</value>
+    <value>http://(cz,cbvk,</value>
+    <value>http://(cz,cestr,</value>
+    <value>http://(cz,coena,</value>
+    <value>http://(org,czechinvest,</value>
+    <value>http://(cz,czso,</value>
+    <value>http://(cz,divokevino,</value>
+    <value>http://(cz,drogy-info,</value>
+    <value>http://(cz,e15,</value>
+    <value>http://(cz,fantasyplanet,</value>
+    <value>http://(cz,flymag,</value>
+    <value>http://(cz,hedvabnastezka,</value>
+    <value>http://(cz,hkcr,</value>
+    <value>http://(cz,iliteratura,</value>
+    <value>http://(net,isidorus,</value>
+    <value>http://(cz,itpoint,</value>
+    <value>http://(cz,izdoprava,</value>
+    <value>http://(cz,jvkcb,</value>
+    <value>http://(net,k-report,</value>
+    <value>http://(cz,khszlin,</value>
+    <value>http://(cz,klinikazdravi,</value>
+    <value>http://(cz,leadersmagazine,</value>
+    <value>http://(cz,marinka,</value>
+    <value>http://(cz,mebio,</value>
+    <value>http://(cz,mediar,</value>
+    <value>http://(cz,mezinami,</value>
+    <value>http://(cz,militaria,</value>
+    <value>http://(cz,musicserver,</value>
+    <value>http://(cz,neaktuality,</value>
+    <value>http://(cz,neaktualne,</value>
+    <value>http://(cz,lidovky,neviditelnypes,</value>
+    <value>http://(cz,nhlpro,</value>
+    <value>http://(cz,npu,</value>
+    <value>http://(cz,nvf,</value>
+    <value>http://(cz,okruhari,</value>
+    <value>http://(cz,paraple,</value>
+    <value>http://(cz,pravnik,</value>
+    <value>http://(info,prohlizece,</value>
+    <value>http://(cz,radiovaticana,</value>
+    <value>http://(cz,ruce,</value>
+    <value>http://(cz,rvp,</value>
+    <value>http://(cz,specnaz,</value>
+    <value>http://(cz,stavebni-forum,</value>
+    <value>http://(cz,valka,</value>
+    <value>http://(cz,veda,</value>
+    <value>http://(cz,volby,</value>
+    <value>http://(com,volleycountry,</value>
+    <value>http://(cz,vuzt,</value>
+    <value>http://(net,fobiazine,</value>
+    <value>http://(com,vlacky,</value>
+    <value>http://(info,zbraslav,</value>
+    <value>http://(cz,zeny,</value>
+   </list>
+  </property>
+  <property name='targetSheetNames'>
+   <list>
+    <value>rejectLocalTraps-sheet</value>
+   </list>
+  </property>
+ </bean>
+
+
 <!-- FACEBOOK Extraction sheet -->
  <bean id="enableFacebookScroll" class="org.archive.spring.Sheet">
   <property name="map">
