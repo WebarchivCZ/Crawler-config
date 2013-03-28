@@ -102,14 +102,12 @@ http://example.example/example
        <property name="operatorContactUrl" value="[see override above]"/>
        <property name="jobName" value="[see override above]"/>
        <property name="description" value="[see override above]"/>
-  <!-- <property name="robotsPolicyName" value="obey"/> -->
-  <!-- <property name="operator" value=""/> -->
-  <!-- <property name="operatorFrom" value=""/> -->
-  <!-- <property name="organization" value=""/> -->
-  <!-- <property name="audience" value=""/> -->
-  <!-- <property name="userAgentTemplate" 
-         value="Mozilla/5.0 (compatible; heritrix/@VERSION@ +@OPERATOR_CONTACT_URL@)"/> -->
-       
+       <property name="robotsPolicyName" value="[see override above]"/>
+       <property name="operator" value="[see override above]"/>
+       <property name="operatorFrom" value="[see override above]"/>
+       <property name="organization" value="[see override above]"/>
+       <property name="audience" value="[see override above]"/>
+       <property name="userAgentTemplate" value="[see override above]"/>
  </bean>
  
  <!-- SEEDS: crawl starting points 
