@@ -912,7 +912,74 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
    </list>
   </property>
  </bean>
- 
+
+<!-- BIG BUDGET -->
+<bean id='bigBudget' class='org.archive.spring.Sheet'>
+ <property name='map'>
+  <map>
+   <entry key='frontier.queueTotalBudget' value='60000'/>
+  </map>
+ </property>
+</bean>
+<bean class='org.archive.crawler.spring.SurtPrefixesSheetAssociation'>
+ <property name='surtPrefixes'>
+  <list>
+   <value>+itpoint.cz</value>
+   <value>+leadersmagazine.cz</value>
+  </list>
+ </property>
+ <property name='targetSheetNames'>
+  <list>
+   <value>bigBudget</value>
+  </list>
+ </property>
+</bean>
+
+<!-- GENTLE FETCH -->
+<bean id='gentleFetch' class='org.archive.spring.Sheet'>
+ <property name='map'>
+  <map>
+   <entry key='fetchHttp.maxFetchKBSec' value='30'/>
+  </map>
+ </property>
+</bean>
+<bean class='org.archive.crawler.spring.SurtPrefixesSheetAssociation'>
+ <property name='surtPrefixes'>
+  <list>
+   <value>+specnaz.cz</value>
+   <value>+czso.cz</value>
+   <value>+volby.cz</value>
+  </list>
+ </property>
+ <property name='targetSheetNames'>
+  <list>
+   <value>gentleFetch</value>
+  </list>
+ </property>
+</bean>
+
+<!-- IGNORE COOKIES -->
+<bean id='ignoreCookies' class='org.archive.spring.Sheet'>
+ <property name='map'>
+  <map>
+   <entry key='fetchHttp.ignoreCookies' value='true'/>
+  </map>
+ </property>
+</bean>
+<bean class='org.archive.crawler.spring.SurtPrefixesSheetAssociation'>
+ <property name='surtPrefixes'>
+  <list>
+   <value>+coena.cz</value>
+  </list>
+ </property>
+ <property name='targetSheetNames'>
+  <list>
+   <value>ignoreCookies</value>
+  </list>
+ </property>
+</bean>
+
+
  <!--
    EXAMPLE SETTINGS OVERLAY SHEETS
    Sheets allow some settings to vary by context - usually by URI context,
@@ -933,6 +1000,7 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
  </property>
 </bean>
 
+<!-- SMALL BUDGET -->
 <!-- smallBudget: any URI to which this sheet's settings are applied 
      will give its containing queue small values for balanceReplenishAmount 
      (causing it to have shorter 'active' periods while other queues are 
@@ -941,9 +1009,21 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
 <bean id='smallBudget' class='org.archive.spring.Sheet'>
  <property name='map'>
   <map>
-   <entry key='frontier.balanceReplenishAmount' value='20'/>
-   <entry key='frontier.queueTotalBudget' value='100'/>
+   <entry key='frontier.balanceReplenishAmount' value='1000'/>
+   <entry key='frontier.queueTotalBudget' value='5600'/>
   </map>
+ </property>
+</bean>
+<bean class='org.archive.crawler.spring.SurtPrefixesSheetAssociation'>
+ <property name='surtPrefixes'>
+  <list>
+   <value>+www.vlacky.com</value>
+  </list>
+ </property>
+ <property name='targetSheetNames'>
+  <list>
+   <value>smallBudget</value>
+  </list>
  </property>
 </bean>
 
