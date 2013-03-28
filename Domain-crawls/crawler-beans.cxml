@@ -152,18 +152,23 @@ http://example.example/example
   <!-- <property name="seedsAsSurtPrefixes" value="true" /> -->
   <!-- <property name="alsoCheckVia" value="false" /> -->
   <!-- <property name="surtsSourceFile" value="" /> -->
-  <!-- <property name="surtsDumpFile" value="${launchId}/surts.dump" /> -->
-  <!-- <property name="surtsSource">
+  <property name="surtsDumpFile" value="${launchId}/surts.dump" />
+  <property name="surtsSource">
         <bean class="org.archive.spring.ConfigString">
          <property name="value">
           <value>
+           +http://(com,youtube,c,
+           +http://(com,youtube-nocookie,c,
+           +http://(com,ytimg,
+           +http://(be,youtu,
+           +http://(com,youtube,www,)/crossdomain.xml
            # example.com
            # http://www.example.edu/path1/
            # +http://(org,example,
           </value>
          </property> 
         </bean>
-       </property> -->
+       </property>
  </bean>
 
  <!-- SCOPE: rules for which discovered URIs to crawl; order is very 
@@ -375,6 +380,7 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
  </bean> 
  <bean id="extractorJs" class="org.archive.modules.extractor.ExtractorJS">
  </bean>
+ <bean id="extractorXml" class="org.archive.modules.extractor.ExtractorXML"/>
  <bean id="extractorSwf" class="org.archive.modules.extractor.ExtractorSWF">
  </bean>
 
@@ -383,6 +389,18 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
 # CUSTOM EXTRACTORS:
 #
 -->
+
+<!-- YOUTUBE EXTRACTION - thx to Noah -->
+ <bean id="extractorYoutubeEmbedded" class="org.archive.modules.extractor.ExtractorImpliedURI">
+  <property name="regex" value="^(http://(?:www.)?youtube.com)/(?:v|embed)/([a-zA-Z0-9_-]+).*$"/>
+  <property name="format" value="$1/watch?v=$2"/>
+ </bean>
+ <bean id="extractorYoutubeWatchPage" class="org.archive.modules.extractor.ExtractorImpliedURI">
+  <property name="regex" value="^(http://[^/]*\.c\.youtube\.com)/[^?]+\?(.*)$"/>
+  <property name="format" value="$1/videoplayback?$2"/>
+  <property name="enabled" value="true"/>
+ </bean>
+
 
 <!-- FACEBOOK Extraction - https://webarchive.jira.com/wiki/display/Heritrix/Facebook+and+Twitter+Scroll-down -->
  <bean id="extractorFacebookScroll" class="org.archive.modules.extractor.ExtractorMultipleRegex">
@@ -460,6 +478,7 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
     <ref bean="extractorFacebookScroll"/>
     <ref bean="extractorTwitterScrollOne"/>
     <ref bean="extractorTwitterScrollFurther"/>
+    <ref bean="extractorYoutubeWatchPage"/>
    </list>
   </property>
  </bean>
