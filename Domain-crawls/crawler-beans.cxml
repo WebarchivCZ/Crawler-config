@@ -38,20 +38,22 @@
 # http://java.sun.com/javase/6/docs/api/java/util/Properties.html#load%28java.io.Reader%29
 
 # Values changing with each crawl
-metadata.jobName=Serials 2013-01-1M
-metadata.description=Pravidelná sklizeň semínek s každoměsíční frekvencí
-warcWriter.prefix=Serials-2013-01-1M
-warcWriter.storePaths=/mnt/archives/archive12/2013/serials/Serials-2013-02-1M_2M
+metadata.jobName=Serials 2013-03-1M_6M
+metadata.description=Pravidelná sklizeň semínek s měsíční frekvencí a půlroční frekvencí.
+warcWriter.prefix=Serials-2013-03-1M_6M
+warcWriter.storePaths=/mnt/archives/archive12/2013/serials/Serials-2013-03-1M_6M
 frontier.queueTotalBudget=15000
 # INSPECT: There is change that balanceReplenishAmount doesnt work as expected IE: Crawl 5k URIs, and wait for other seeds to crawl until 5k URIs - check FRONTIER
 frontier.balanceReplenishAmount=5000
+# YOUTUBE: Do you wanna save youtube videos?
+extractorYoutubeWatchPage.enabled=false
 
 # DISTRIBUTED CRAWLING - if true, check if proper localName is set per Crawler and do not forget to mention how many crawlers will join the party. -->
 hashCrawlMapper.enabled=true
 # Local name of Crawler is number starting with 0.
 hashCrawlMapper.localName=0
 # Number of crawlers among which to split up the URIs.
-hashCrawlMapper.crawlerCount=5
+hashCrawlMapper.crawlerCount=3
 # Diversions directory should be shared between crawlers per job.
 hashCrawlMapper.diversionDir=/mnt/archives/archive12/pre-fetch-diversions
 
@@ -62,7 +64,7 @@ hashCrawlMapper.diversionDir=/mnt/archives/archive12/pre-fetch-diversions
 # URL: https://webarchive.jira.com/wiki/display/Heritrix/Duplication+Reduction+Processors
 #
 # State directory for duplication reduction, we keep state files for calendar year. Change to bdb for other crawls.
-historyBdb.dir="/opt/heritrix/jobs/2013-recrawl-state"
+historyBdb.dir=/opt/heritrix/jobs/2013-recrawl-state
 # These settings should be added to any crawl that is to provide historical-fetch information for future de-duplication (such as the first of two crawls, or every crawl of an ongoing series)
 fetchHistoryProcessor.historyLength=20
 
@@ -440,7 +442,7 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
  <bean id="extractorYoutubeWatchPage" class="org.archive.modules.extractor.ExtractorImpliedURI">
   <property name="regex" value="^(http://[^/]*\.c\.youtube\.com)/[^?]+\?(.*)$"/>
   <property name="format" value="$1/videoplayback?$2"/>
-  <property name="enabled" value="true"/>
+  <property name="enabled" value="[see override above]"/>
  </bean>
 
 
