@@ -1,4 +1,4 @@
 Crawler configuration in WebArchiv.cz
 ==============
 
-WebArchiv.cz crawler configuration history.
+Heritrix 3 configuration history.
