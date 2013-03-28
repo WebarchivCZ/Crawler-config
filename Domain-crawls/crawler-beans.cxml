@@ -409,8 +409,7 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
   <!-- <property name="digestContent" value="true" /> -->
   <!-- <property name="digestAlgorithm" value="sha1" /> -->
  </bean>
- <bean id="extractorHttp" class="org.archive.modules.extractor.ExtractorHTTP">
- </bean>
+ <bean id="extractorHttp" class="org.archive.modules.extractor.ExtractorHTTP"/>
  <bean id="extractorHtml" class="org.archive.modules.extractor.ExtractorHTML">
   <!-- <property name="extractJavascript" value="true" /> -->
   <!-- <property name="extractValueAttributes" value="true" /> -->
@@ -422,13 +421,10 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
   <!-- <property name="maxAttributeNameLength" value="1024" /> -->
   <!-- <property name="maxAttributeValueLength" value="16384" /> -->
  </bean>
- <bean id="extractorCss" class="org.archive.modules.extractor.ExtractorCSS">
- </bean> 
- <bean id="extractorJs" class="org.archive.modules.extractor.ExtractorJS">
- </bean>
+ <bean id="extractorCss" class="org.archive.modules.extractor.ExtractorCSS"/>
+ <bean id="extractorJs" class="org.archive.modules.extractor.ExtractorJS"/>
  <bean id="extractorXml" class="org.archive.modules.extractor.ExtractorXML"/>
- <bean id="extractorSwf" class="org.archive.modules.extractor.ExtractorSWF">
- </bean>
+ <bean id="extractorSwf" class="org.archive.modules.extractor.ExtractorSWF"/>
 
 <!--
 #
