@@ -184,11 +184,11 @@ http://example.example/example
           <property name="decision" value="REJECT"/>
           <property name="seedsAsSurtPrefixes" value="false"/>
           <property name="surtsDumpFile" value="${launchId}/negative-surts.dump" /> 
-     <!-- <property name="surtsSource">
+          <property name="surtsSource">
            <bean class="org.archive.spring.ConfigFile">
             <property name="path" value="negative-surts.txt" />
            </bean>
-          </property> -->
+          </property>
     </bean>
     <!-- ...and REJECT those from a configurable (initially empty) set of URI regexes... -->
     <bean class="org.archive.modules.deciderules.MatchesListRegexDecideRule">
