@@ -532,7 +532,8 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
   <property name="prefix" value="[See override above]"/>
   <!-- <property name="suffix" value="${HOSTNAME}" /> -->
   <!-- <property name="maxFileSizeBytes" value="1000000000" /> -->
-  <!-- <property name="poolMaxActive" value="1" /> -->
+  <!-- INSPECT: in H1 we had 5 arc pool, setting to 2 for now -->
+       <property name="poolMaxActive" value="2" />
   <!-- <property name="MaxWaitForIdleMs" value="500" /> -->
   <!-- <property name="skipIdenticalDigests" value="false" /> -->
   <!-- <property name="maxTotalBytesToWrite" value="0" /> -->
