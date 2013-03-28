@@ -1,3 +1,4 @@
+# ArchiveIt Crawls since November 2012
 #Seedlist generated: 28.03.2013 16:53
 #Seedlist generated: 28.03.2013 16:59
 #Seeds count: 1784
@@ -49,6 +50,7 @@ http://anlet.cz
 http://anthrop.sci.muni.cz
 http://anticomm.co.uk
 http://antikomplex.cz
+http://antiochia.cz
 http://antisemitismus.wz.cz
 http://antonin-dvorak.cz
 http://antropologie.zcu.cz/antropowebzin-12009
@@ -68,6 +70,7 @@ http://archiv.jsi.cz
 http://archiv.knihovny.cz
 http://archiv.otevrena-veda.cz
 http://archiv.soc.cas.cz
+http://arcis.ff.cuni.cz
 http://arnika.org
 http://artmagazin.eu
 http://artslexikon.cz
@@ -115,6 +118,7 @@ http://blog.oldmapsonline.org
 http://bohmischleipa.cz
 http://boiohaemum.cz
 http://boleradice.cz
+http://books.knihovna-cl.cz/katalog/
 http://botanika.wendys.cz
 http://botany.cz
 http://bovepul.blog.cz
@@ -133,6 +137,7 @@ http://buyfeel.eu
 http://calg.atlasweb.cz
 http://canov.jergym.cz
 http://cantica.kh.cz
+http://casodej.cz/analyza17.htm
 http://casopiskomar.wz.cz
 http://caus.cz
 http://cbvk.cz
@@ -191,6 +196,7 @@ http://coelho.cz
 http://collegium.cz
 http://collegiummarianum.cz
 http://comscore.cz
+http://concert-melodrama.cz
 http://cozp.cuni.cz
 http://cpds.cz
 http://cpkp.cz
@@ -224,6 +230,7 @@ http://czechofil.pinger.pl
 http://czechpressphoto.cz
 http://czso.cz
 http://daidalos.ff.cuni.cz
+http://dana.chatrny.cz
 http://danielposta.com
 http://dataplan.info
 http://david-zbiral.cz
@@ -234,6 +241,7 @@ http://dendrochronologie.cz
 http://dendrologickazahrada.cz
 http://denisakrausova.net
 http://dentalcare.cz
+http://denvedy.ff.cuni.cz
 http://depersonalizace.info
 http://designeast.eu
 http://deskovehry.info
@@ -264,6 +272,7 @@ http://ds.fox1.cz
 http://dslr-astrophotography.cz
 http://duly.eu
 http://dusevnivlastnictvi.cz
+http://dv.ff.cuni.cz
 http://e-ott.info
 http://e-psycholog.eu
 http://e-sport.cz
@@ -318,6 +327,7 @@ http://festivalnadrekou.cz
 http://filatelie.fsr.cz
 http://files.klic02.webnode.cz
 http://files.protesin.cz
+http://files.ukr.knihovna.cz
 http://filipcerny.cz
 http://film.ff.cuni.cz
 http://filmoveplatno.cz
@@ -454,6 +464,7 @@ http://inoboediens.estranky.cz
 http://insolvencni-zakon.justice.cz
 http://inter-art.cz
 http://iom.cz
+http://ip.muzeumcl.cz:90/katalog/
 http://ipen.arnika.org
 http://ipma.cz
 http://irafm.osu.cz
@@ -466,10 +477,15 @@ http://is.muni.cz/elportal/
 http://isidorus.net
 http://issar.cenia.cz
 http://isvs.cz
+http://itakura.ite.tul.cz/jan/rozhledny/rozhled.html
+http://itakura.kes.tul.cz/jan/rozhledny/
+http://itakura.kes.tul.cz/jan/rozhledny/rozhled.html
 http://iti.fi.muni.cz
 http://iti.mff.cuni.cz
 http://itvar.cz
+http://iu.ff.cuni.cz
 http://iuridictum.pecina.cz
+http://ivan.chatrny.cz
 http://ivdmr.fss.muni.cz
 http://ivris.fss.muni.cz
 http://izdoprava.cz
@@ -638,6 +654,7 @@ http://mesicni.blogspot.com
 http://mesicni.blogspot.cz
 http://mestyskolovec.cz
 http://metacentrum.cz
+http://metodej.chatrny.cz
 http://mfcr.cz
 http://mghs.cz
 http://mhdfoto.cz
@@ -770,6 +787,7 @@ http://pcrady.cnews.cz
 http://pedagogika.ff.cuni.cz
 http://pedologie.cz
 http://pedologie.czu.cz
+http://pekar.kozakov.cz
 http://periodika.osu.cz/eris/
 http://pernerscontacts.upce.cz
 http://perseus.cenia.cz
@@ -1026,6 +1044,8 @@ http://teslaradio.webgarden.cz
 http://tesnopis.cz
 http://textmining.zcu.cz
 http://thechemistry.cz
+http://tilia.zf.mendelu.cz/ustavy/556/ustav_556/atlas_reva/
+http://tilia.zf.mendelu.cz/ustavy/556/ustav_556/atlas_reva/atlas_reva.pdf
 http://tina-b.eu
 http://tisicileti.cz
 http://tisk.cirkev.cz
@@ -1151,6 +1171,7 @@ http://www.actualgyn.com
 http://www.adam.cz
 http://www.adamek.cz
 http://www.adamovaokoli.ic.cz
+http://www.adolfwolfli.cz
 http://www.aemnp.eu
 http://www.agriculturaits.czu.cz
 http://www.agrocr.cz
@@ -1178,6 +1199,7 @@ http://www.amcr.cz
 http://www.americkecentrum.cz
 http://www.anifest.cz
 http://www.anthropark.wz.cz
+http://www.antonin-solc.cz
 http://www.antropologie.org
 http://www.apavcas.cz
 http://www.arcana.cz
@@ -1185,6 +1207,7 @@ http://www.archaia.cz
 http://www.armadninoviny.cz
 http://www.artbrut.cz
 http://www.arte-fakt.cz
+http://www.arthuraminimojove.cz
 http://www.artlist.cz
 http://www.asffh.info
 http://www.astro.cz
@@ -1195,6 +1218,7 @@ http://www.ateo.cz/pg/home/
 http://www.auditrodina.eu
 http://www.aukce.postovniholub.cz
 http://www.b-p-k.cz
+http://www.banjo-kreuzertone.cz
 http://www.barancicova.cz
 http://www.bellum.cz
 http://www.bezpecnemesto.eu
@@ -1212,6 +1236,7 @@ http://www.blisty.cz
 http://www.bohemia-balet.cz
 http://www.bohemia-patchwork-klub.cz
 http://www.bohemiajazzfestival.cz
+http://www.bollywood.cz
 http://www.bourky.com
 http://www.bourky.cz
 http://www.bratriebenove.cz
@@ -1226,6 +1251,7 @@ http://www.caag.cz/egrse.php
 http://www.caledonianclub.eu
 http://www.cannabiscup.cz
 http://www.capv.cz
+http://www.casodej.cz
 http://www.casopisstavebnictvi.cz
 http://www.casr.cz
 http://www.castrov.cz
@@ -1243,6 +1269,7 @@ http://www.ceska-karikatura.cz
 http://www.ceskam.cz
 http://www.ceskapomoc.cz
 http://www.ceskapozice.cz
+http://www.ceskaprirovnani.cz
 http://www.ceskaskola.cz
 http://www.ceskavize.cz
 http://www.ceske-tradice.cz
@@ -1255,6 +1282,7 @@ http://www.cestananovyzeland.cz
 http://www.cestydoprirody.cz
 http://www.cestyzaopevnenim.net
 http://www.cezetmania.info
+http://www.chatrny.cz
 http://www.chempokusy.webzdarma.cz
 http://www.chilliorg.cz
 http://www.chkf.cz
@@ -1316,6 +1344,7 @@ http://www.demagogie.cz
 http://www.denmalychobci.cz
 http://www.designsupermarket.cz
 http://www.detektivka.com
+http://www.detskachirurgie.cz
 http://www.detskaprava.cz
 http://www.diit.cz
 http://www.diskusniforum.org
@@ -1330,6 +1359,7 @@ http://www.drogy-info.cz
 http://www.duly.cz
 http://www.dusecz.com
 http://www.dusekarpat.cz
+http://www.dvorakantonin.com
 http://www.dzs.cz/index.php?a=view-project-folder&project_folder_id=421&
 http://www.e-castolovice.cz
 http://www.ead.cz
@@ -1405,6 +1435,7 @@ http://www.grantjournal.com
 http://www.grapheion.cz
 http://www.greendoors.cz
 http://www.gvuo.cz
+http://www.haydn-festival.eu
 http://www.hedvabnastezka.cz
 http://www.helcom.cz
 http://www.hermanice.com
@@ -1428,7 +1459,7 @@ http://www.ics.muni.cz/zpravodaj/
 http://www.icv.mendelu.cz
 http://www.igeometry.cz
 http://www.iips.cz/cs/lidska-prava/bulletin-centra/
-http://www.iips.cz/data/files/Centrum%20LP/bulletin%20LP
+http://www.iips.cz/data/files/Centrum LP/bulletin LP
 http://www.ilaw.cas.cz/medlawjournal/
 http://www.im.fme.vutbr.cz
 http://www.imc.cas.cz
@@ -1477,6 +1508,7 @@ http://www.jvkcb.cz
 http://www.jvsystem.net/app19/
 http://www.kaes.cz
 http://www.kan.cz
+http://www.kardinalberan.cz
 http://www.karlin.mff.cuni.cz/katedry/kdm/
 http://www.kehilaprag.cz
 http://www.kftp.cz
@@ -1485,6 +1517,7 @@ http://www.kleio.cz
 http://www.klic-css.cz
 http://www.klicnik.eu
 http://www.klinikazdravi.cz
+http://www.klubilustratoru.cz
 http://www.klucov.cz
 http://www.kmp.plzen-city.cz
 http://www.knihovna-cl.cz
@@ -1530,6 +1563,7 @@ http://www.langweil.cz
 http://www.laterna.cz
 http://www.latrine.cz
 http://www.lauder.cz
+http://www.lecivydomek.cz/carodej/
 http://www.legionar.org
 http://www.lencova.eu
 http://www.lfa.cz
@@ -1540,6 +1574,7 @@ http://www.liptal.eu
 http://www.listy.cz
 http://www.litweb.cz
 http://www.logobox.cz
+http://www.loriseu.eu
 http://www.ludvikvaculik.cz
 http://www.magic-exlibris.webgarden.cz
 http://www.magrata.com
@@ -1570,6 +1605,7 @@ http://www.meteosvatonovice.unas.cz
 http://www.mezinami.cz
 http://www.mfcr.cz/cps/rde/xchg/mfcr/xsl/ek_fiskalni_vyhledy.html
 http://www.mfcr.cz/cps/rde/xchg/mfcr/xsl/makr_vyzkum_studie.html
+http://www.michalnesazal.com
 http://www.mikrofotobanky.cz
 http://www.milan-stech.cz
 http://www.milanstech.cz
@@ -1586,6 +1622,7 @@ http://www.moraviamagna.cz
 http://www.moskyt.net
 http://www.mpsv.cz/cs/3644
 http://www.mrsbrno.cz
+http://www.msjn.cz
 http://www.mujlt.law.muni.cz
 http://www.multikultura.cz
 http://www.museum.mineral.cz
@@ -1609,6 +1646,7 @@ http://www.ncbr.muni.cz
 http://www.nconzo.cz
 http://www.neaktuality.cz
 http://www.nectiny.cz
+http://www.nejsmevsichnistejni.cz
 http://www.neuhaus.cz
 http://www.nezradime.cz
 http://www.nfpk.cz
@@ -1801,6 +1839,7 @@ http://www.radioeng.cz/papers/2011-4.htm
 http://www.radiovaticana.cz
 http://www.razeni.cz
 http://www.rda-vysocina.cz
+http://www.realisticky.cz
 http://www.refernet.cz
 http://www.rencin.cz
 http://www.restauro.cz
@@ -1870,7 +1909,9 @@ http://www.stavebni-forum.cz
 http://www.steril.cz/casopis/
 http://www.steril.cz/css/files/
 http://www.stinstromu.net
+http://www.stoppiratstvi.cz
 http://www.stranaos.com
+http://www.strasilky.cz
 http://www.strazky.mistecko.cz
 http://www.straznici.com
 http://www.studena.valka.cz/
@@ -1929,6 +1970,7 @@ http://www.ucimse.cz
 http://www.udu.cas.cz
 http://www.uiv.cz
 http://www.ujc.cas.cz
+http://www.ukr.knihovna.cz
 http://www.unhcr.cz
 http://www.uniform-buttons.com
 http://www.uniformni-knofliky.cz
@@ -1949,6 +1991,7 @@ http://www.ustrcr.cz/cs/srpen-1968
 http://www.ustrcr.cz/cs/vzdelavani
 http://www.uvu-plzen.cz
 http://www.uzsvm.cz
+http://www.v4dis.eu
 http://www.vaclavchochola.cz
 http://www.valka.cz
 http://www.varhany.org
