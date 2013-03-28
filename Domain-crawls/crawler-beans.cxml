@@ -194,10 +194,68 @@ http://example.example/example
     <bean class="org.archive.modules.deciderules.MatchesListRegexDecideRule">
           <property name="decision" value="REJECT"/>
      <!-- <property name="listLogicalOr" value="true" /> -->
-     <!-- <property name="regexList">
+     <!-- INSPECT: Can i make Regex list external? -->
+	  <property name="regexList">
            <list>
+                <value>.*/.*wordpress3\.0\.1$</value>
+                <value>.*//www\.tai2\.cz.$</value>
+                <value>.*/AddComment\.asp.*</value>
+                <value>.*/\d{1,2}\.\d{1,2}\.\d{4}$</value>
+                <value>.*/ajax/hodnoceni-clanek/.*</value>
+                <value>.*/atom_cs$</value>
+                <value>.*/captcha\.php.*</value>
+                <value>.*/clanek/preposlat/.*</value>
+                <value>.*/commentAction/.*</value>
+                <value>.*/comment\.php\?akce=new.*</value>
+                <value>.*/ecard\.php.*</value>
+                <value>.*/edit\.php.*</value>
+                <value>.*/feed$</value>
+                <value>.*/feed/.*</value>
+                <value>.*/feeds/.*</value>
+                <value>.*/fullTextSearch\.asp.*</value>
+                <value>.*/hlasuj\.asp.*</value>
+                <value>.*/like\.php.*</value>
+                <value>.*/login/.*</value>
+                <value>.*/login\.asp.*</value>
+                <value>.*/login\.php.*</value>
+                <value>.*/mailto/.*</value>
+                <value>.*/odeslat-odkaz-e-mailem\?.*</value>
+                <value>.*/rss$</value>
+                <value>.*/rss/.*</value>
+                <value>.*/send_link\.php.*</value>
+                <value>.*/share.?\.php.*</value>
+                <value>.*/wp-login\.php.*</value>
+                <value>.*ZaslatEmailem.*</value>
+                <value>.*\?add_disc.*</value>
+                <value>.*\?album=random.*</value>
+                <value>.*\?like=1.*</value>
+                <value>.*\?sel_ids=1$</value>
+                <value>.*a\.lightbox.*</value>
+                <value>.*adlog\.*php.*</value>
+                <value>.*akce=comment_re.*</value>
+                <value>.*cid=AuthCookie.*</value>
+                <value>.*format=feed.*</value>
+                <value>.*forwardAuthenticated\.jsp.*</value>
+                <value>.*function\.fopen.*</value>
+                <value>.*google\.com/bookmarks/mark\?.*</value>
+                <value>.*l_op=brokenlink.*</value>
+                <value>.*l_op=ratelink.*</value>
+                <value>.*name=Your_Account.*</value>
+                <value>.*op=FriendSend.*</value>
+                <value>.*replytocom=.*</value>
+                <value>.*sps.cz/RDS/type=news.*</value>
+                <value>.*ul.enhanced.*</value>
+                <value>http://twitter\.com/login.*</value>
+                <value>http://twitter\.com/share.*</value>
+                <value>http://www\.google\.com/reader.*</value>
+                <value>www.df.biom.cz.*</value>
+                <value>www.geofond.cz/mapsphere/EEARTH/default.aspx?lang=cs.*</value>
+                <value>www.geofond.cz/mapsphere/MapWin.aspx?M_WizID=24&amp;M_Site=geofond&amp;M_Lang=cs.*</value>
+                <value>www.spnv.cz/file.php?nid=9560&amp;oid=1998061.*</value>
+                <value>www.spnv.cz/file.php?nid=9560&amp;oid=1998070.*</value>
+                <value>www.svaz.chf.cz/shop.aspx?catid=225.*</value>
            </list>
-          </property> -->
+          </property>
     </bean>
     <!-- ...and REJECT those with suspicious repeating path-segments... -->
     <bean class="org.archive.modules.deciderules.PathologicalPathDecideRule">
