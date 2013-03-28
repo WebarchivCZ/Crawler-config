@@ -154,21 +154,10 @@ http://example.example/example
   <!-- <property name="surtsSourceFile" value="" /> -->
   <property name="surtsDumpFile" value="${launchId}/surts.dump" />
   <property name="surtsSource">
-        <bean class="org.archive.spring.ConfigString">
-         <property name="value">
-          <value>
-           +http://(com,youtube,c,
-           +http://(com,youtube-nocookie,c,
-           +http://(com,ytimg,
-           +http://(be,youtu,
-           +http://(com,youtube,www,)/crossdomain.xml
-           # example.com
-           # http://www.example.edu/path1/
-           # +http://(org,example,
-          </value>
-         </property> 
-        </bean>
-       </property>
+   <bean class="org.archive.spring.ConfigFile">
+    <property name="path" value="surts.txt" />
+   </bean>
+  </property>
  </bean>
 
  <!-- SCOPE: rules for which discovered URIs to crawl; order is very 
