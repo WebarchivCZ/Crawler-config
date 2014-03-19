@@ -18,6 +18,7 @@
 +eshop.golf.cz
 +eshop.petr-cech.cz
 +eshop.tkani.cz
++fotobasne.cz
 +gayer.muzeumhk.cz/katalog/
 +git.abclinuxu.cz
 +inzerce.apatykar.info/
