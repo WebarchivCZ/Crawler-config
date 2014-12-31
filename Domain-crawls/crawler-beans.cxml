@@ -38,11 +38,11 @@
 # http://java.sun.com/javase/6/docs/api/java/util/Properties.html#load%28java.io.Reader%29
 
 # Values changing with each crawl
-metadata.jobName=Caslin 2014
-metadata.description=Sklizeň webu Souborného katalogu ČR před jeho změnou.
-warcWriter.prefix=Caslin-2014-10-00
-warcWriter.storePaths=/mnt/archives/archive13/2014/topics/Caslin-2014-10
-frontier.queueTotalBudget=30000
+metadata.jobName=Serials 2014-11_12-1M_2M_ArchiveIt_NoContract
+metadata.description=Pravidelná sklizeň semínek s měsíční a dvou měsíční frekvencí a archivace semínek s nízkou frekvencí přidaných předchozí měsíc. K tomu zameškaná sklizeň za minulý měsíc.
+warcWriter.prefix=Serials-2014-12-1M_2M_ArchiveIt_NoContract
+warcWriter.storePaths=/mnt/archives/archive13/2014/serials/Serials-2014-12-1M_2M_ArchiveIt_NoContract
+frontier.queueTotalBudget=15000
 # INSPECT: There is change that balanceReplenishAmount doesnt work as expected IE: Crawl 5k URIs, and wait for other seeds to crawl until 5k URIs - check FRONTIER
 frontier.balanceReplenishAmount=5000
 # YOUTUBE: Do you wanna save youtube videos?
