@@ -1,8 +1,0 @@
-# +http://(org,example,
-# example.com
-# http://www.example.edu/path1/
-+http://(be,youtu,
-+http://(com,youtube,c,
-+http://(com,youtube,www,)/crossdomain.xml
-+http://(com,youtube-nocookie,c,
-+http://(com,ytimg,
