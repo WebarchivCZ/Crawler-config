@@ -1,0 +1,17 @@
+# https://webarchive.jira.com/wiki/display/ARIH/SURT+Rules
+# Ceskatelevize.cz - ../ct24/svet/terorismus jako seed, ale články jsou v ../ct24/svet - tj. zkusím surtem zvětšit scope
++http://(cz,ceskatelevize,)/ct24/svet/
+# To samé český rozhlas
++http//(cz,rozhlas,)/plus/
+# To samé zprávy idnes.cz, ale zde rozšiřuji na root
++http://(cz,idnes,zpravy,)
+# U ihned rožšíříme scope přes celý web, články jsou z různých kategorií
++http://(cz,ihned,
+# U aktuálně rozšituje též ve velkém
++http://(cz,aktualne,zpravy,)
+# To samé, byli tam české články tak rozšiřuji
++http//(cz,denik,)
+# atd. atd.
++http://(cz,denikreferendum.cz,)/clanek/
++http://(cz,blesk,www,)/clanek/
++http://(cz,eurozpravy,
