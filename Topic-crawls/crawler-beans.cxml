@@ -38,35 +38,35 @@
 # http://java.sun.com/javase/6/docs/api/java/util/Properties.html#load%28java.io.Reader%29
 
 # Values changing with each crawl
-metadata.jobName=Charlie Hebdo 2015
-metadata.description=Sklizeň k útoku na francouzský satirický časopis Charlie Hebdo 7.ledna 2015. - QA - dosklizení nesklizeného obsahu
-warcWriter.prefix=Charlie_Hebdo-2015-01-QA-00
-warcWriter.storePaths=/mnt/archives/archive13/2015/topics/Charlie_Hebdo-2015-01
-frontier.queueTotalBudget=30000
+metadata.jobName=Uprchlická krize v EU | Doménová sklizeň
+metadata.description=Sklizeň domén na téma uprchlická sklizeň v EU
+warcWriter.prefix=MigrantCrisisEU-2015-10
+warcWriter.storePaths=/mnt/archives/archive14/2015/topics/MigrantCrisisEU
+frontier.queueTotalBudget=-1
 # INSPECT: There is change that balanceReplenishAmount doesnt work as expected IE: Crawl 5k URIs, and wait for other seeds to crawl until 5k URIs - check FRONTIER
 frontier.balanceReplenishAmount=5000
 # YOUTUBE: Do you wanna save youtube videos?
 extractorYoutubeWatchPage.enabled=true
 
 # DISTRIBUTED CRAWLING - if true, check if proper localName is set per Crawler and do not forget to mention how many crawlers will join the party. -->
-hashCrawlMapper.enabled=false
+#hashCrawlMapper.enabled=false
 # Local name of Crawler is number starting with 0.
-hashCrawlMapper.localName=0
+#hashCrawlMapper.localName=0
 # Number of crawlers among which to split up the URIs.
-hashCrawlMapper.crawlerCount=3
+#hashCrawlMapper.crawlerCount=3
 # Diversions directory should be shared between crawlers per job.
-hashCrawlMapper.diversionDir=/mnt/archives/archive12/pre-fetch-diversions
+#hashCrawlMapper.diversionDir=/mnt/archives/archive12/pre-fetch-diversions
 
 # FACEBOOK / TWITTER crawling
 # INSPECT: I am not sure how to properly override sheets, so if you wanna turn off FB/TWITTER extraction, set extractorFacebookScroll.enabled and extractorTwitterScrollOne.enabled and extractorTwitterScrollFurther.enabled to false.
 
-# DUPLICATION REDUCTION LEGACY
+# DUPLICATION REDUCTION
 # URL: https://webarchive.jira.com/wiki/display/Heritrix/Duplication+Reduction+Processors
 #
 # State directory for duplication reduction, we keep state files for calendar year. Change to bdb for other crawls.
-historyBdb.dir=/opt/heritrix/jobs/2015-recrawl-history
+#historyBdb.dir=/opt/heritrix/jobs/2015-recrawl-state
 # These settings should be added to any crawl that is to provide historical-fetch information for future de-duplication (such as the first of two crawls, or every crawl of an ongoing series)
-# fetchHistoryProcessor.historyLength=20
+#fetchHistoryProcessor.historyLength=20
 
 # Stable values
 metadata.operatorContactUrl=http://webarchiv.cz/kontakty/
@@ -157,7 +157,7 @@ http://example.example/example
   <property name="surtsDumpFile" value="${launchId}/surts.dump" />
   <property name="surtsSource">
    <bean class="org.archive.spring.ConfigFile">
-    <property name="path" value="surts.txt" />
+    <property name="path" value="../Shared-config/surts.txt" />
    </bean>
   </property>
  </bean>
@@ -188,7 +188,7 @@ http://example.example/example
           <property name="surtsDumpFile" value="${launchId}/negative-surts.dump" /> 
           <property name="surtsSource">
            <bean class="org.archive.spring.ConfigFile">
-            <property name="path" value="negative-surts.txt" />
+            <property name="path" value="../Shared-config/negative-surts.txt" />
            </bean>
           </property>
     </bean>
@@ -199,6 +199,7 @@ http://example.example/example
      <!-- INSPECT: Can i make Regex list external? -->
 	  <property name="regexList">
            <list>
+<!-- Disabling global exclusion
                 <value>.*/.*wordpress3\.0\.1$</value>
                 <value>.*//www\.tai2\.cz.$</value>
                 <value>.*/AddComment\.asp.*</value>
@@ -256,6 +257,7 @@ http://example.example/example
                 <value>www.spnv.cz/file.php?nid=9560&amp;oid=1998061.*</value>
                 <value>www.spnv.cz/file.php?nid=9560&amp;oid=1998070.*</value>
                 <value>www.svaz.chf.cz/shop.aspx?catid=225.*</value>
+-->
            </list>
           </property>
     </bean>
@@ -288,7 +290,7 @@ http://example.example/example
     after a URI is fetched and analyzed/link-extracted.
   -->
 
-<!-- DISTRIBUTED CRAWLING -->	
+<!-- DISTRIBUTED CRAWLING is unnecessary for topic Crawls
  <bean id="hashCrawlMapper" class="org.archive.crawler.processor.HashCrawlMapper">
   <property name="enabled" value="[see override above]" />
   <property name="localName" value="[see override above]" />
@@ -298,9 +300,10 @@ http://example.example/example
   <property name="rotationDigits" value="10" />
   <property name="crawlerCount" value="[see override above]" />
 </bean>
+-->
 
-<!-- DUPLICATION REDUCTION LEGACY-->
-<!-- More info here: https://webarchive.jira.com/wiki/display/Heritrix/Duplication+Reduction+Processors
+<!-- DUPLICATION REDUCTION LEGACY -->
+<!-- More info here: https://webarchive.jira.com/wiki/display/Heritrix/Duplication+Reduction+Processors>
  <bean id="fetchHistoryProcessor" class="org.archive.modules.recrawl.FetchHistoryProcessor">
   <property name="historyLength" value="[see override above]" />
  </bean>
@@ -314,7 +317,7 @@ http://example.example/example
    <ref bean="historyBdb"/>
   </property>
  </bean>
--->
+ -->
 
  <!-- CANDIDATE CHAIN --> 
  <!-- first, processors are declared as top-level named beans -->
@@ -342,8 +345,9 @@ http://example.example/example
    <list>
     <!-- apply scoping rules to each individual candidate URI... -->
     <ref bean="candidateScoper"/>
-    <!-- DISTRIBUTED CRAWLING -->
+    <!-- DISTRIBUTED CRAWLING
     <ref bean="hashCrawlMapper"/>
+-->
     <!-- ...then prepare those ACCEPTed to be enqueued to frontier. -->
     <ref bean="preparer"/>
    </list>
@@ -497,20 +501,21 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
     <!-- re-check scope, if so enabled... -->
     <ref bean="preselector"/>
     <!-- ...then verify or trigger prerequisite URIs fetched, allow crawling... -->
-    <!-- DISTRIBUTED CRAWLING, INSPECT! hashCrawlMapperProcessor should be here as stated in yahoo groups, bud i found no bean for it so Heritrix complains and i am changing it for now to hashCrawlMapper:-->
+    <!-- DISTRIBUTED CRAWLING, INSPECT! hashCrawlMapperProcessor should be here as stated in yahoo groups, bud i found no bean for it so Heritrix complains and i am changing it for now to hashCrawlMapper:
     <ref bean="hashCrawlMapper"/>
+-->
     <ref bean="preconditions"/>
     <!-- ...fetch if DNS URI... -->
-<!-- DUPLICATION REDUCTION LEGACY
+<!-- DUPLICATION REDUCTION
     <ref bean="persistLoadProcessor"/>
 -->
     <ref bean="fetchDns"/>
     <!-- <ref bean="fetchWhois"/> -->
     <!-- ...fetch if HTTP URI... -->
     <ref bean="fetchHttp"/>
-<!-- DUPLICATION REDUCTION LEGACY   
-    <ref bean="fetchHistoryProcessor" />
--->    
+<!-- DUPLICATION REDUCTION 
+    <ref bean="fetchHistoryProcessor" />    
+-->
 <!-- ...extract outlinks from HTTP headers... -->
     <ref bean="extractorHttp"/>
     <!-- ...extract outlinks from HTML content... -->
@@ -571,18 +576,11 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
  <bean id="dispositionProcessors" class="org.archive.modules.DispositionChain">
   <property name="processors">
    <list>
-<!-- DUPLICATION REDUCTION -->
-    <bean class="org.archive.modules.recrawl.ContentDigestHistoryLoader" />
-
     <!-- write to aggregate archival files... -->
     <ref bean="warcWriter"/>
-<!-- DUPLICATION REDUCTION -->
-    <bean class="org.archive.modules.recrawl.ContentDigestHistoryStorer" />
-
-<!-- DUPLICATION REDUCTION LEGACY
+<!-- DUPLICATION REDUCTION
     <ref bean="persistStoreProcessor" />
 -->
-
     <!-- ...send each outlink candidate URI to CandidateChain, 
          and enqueue those ACCEPTed to the frontier... -->
     <ref bean="candidates"/>
@@ -596,7 +594,7 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
  <!-- CRAWLCONTROLLER: Control interface, unifying context -->
  <bean id="crawlController" 
    class="org.archive.crawler.framework.CrawlController">
-    <property name="maxToeThreads" value="200" />
+	<property name="maxToeThreads" value="200" />
   <!-- <property name="pauseAtStart" value="true" /> -->
   <!-- <property name="runWhileEmpty" value="false" /> -->
   <!-- <property name="recorderInBufferBytes" value="524288" /> -->
@@ -1227,7 +1225,7 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
   <!-- <property name="uriErrorsLogPath" value="uri-errors.log" /> -->
   <!-- <property name="runtimeErrorsLogPath" value="runtime-errors.log" /> -->
   <!-- <property name="nonfatalErrorsLogPath" value="nonfatal-errors.log" /> -->
-  <!-- <property name="logExtraInfo" value="false" /> -->
+  <!-- <property name="logExtraInfo" value="true" /> -->
  </bean>
  
  <!-- SHEETOVERLAYMANAGER: manager of sheets of contextual overlays
@@ -1247,21 +1245,21 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
   <!-- <property name="cacheSize" value="0" /> -->
   <!-- <property name="useSharedCache" value="true" /> -->
   <!-- <property name="expectedConcurrency" value="25" /> -->
-</bean>
+ </bean>
 
 <!-- DUPLICATION REDUCTION -->
 <!-- BDBMODULE: shared BDB-JE disk persistence manager -->
- <bean id="historyBdb"
+<!-- <bean id="historyBdb"
   class="org.archive.bdb.BdbModule" autowire-candidate="false">
    <property name="dir" value="[see override above]"/>
- </bean>
- 
-<bean id="contentDigestHistory"
-  class="org.archive.modules.recrawl.BdbContentDigestHistory">
-   <property name="bdbModule">
-    <ref bean="historyBdb" />
-   </property>
- </bean>
+-->
+  <!-- if neither cachePercent or cacheSize are specified (the default), bdb
+       uses its own default of 60% -->
+  <!-- <property name="cachePercent" value="0" /> -->
+  <!-- <property name="cacheSize" value="0" /> -->
+  <!-- <property name="useSharedCache" value="true" /> -->
+  <!-- <property name="expectedConcurrency" value="25" /> -->
+<!-- </bean> -->
 
  
  <!-- BDBCOOKIESTORAGE: disk-based cookie storage for FetchHTTP -->

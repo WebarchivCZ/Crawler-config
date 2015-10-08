@@ -1,16 +1,5 @@
-http://www.vlada.cz/cz/media-centrum/aktualne/premier-sobotka-a-ministr-zaoralek-uctili-nedelnim-pochodem-v-parizi-obeti-teroristickeho-utoku-125892/
-http://www.vlada.cz/cz/media-centrum/aktualne/premier-bohuslav-sobotka-uctil-obeti-parizskeho-teroristickeho-utoku-zapisem-do-kondolencni-knihy--125913/
-http://www.vlada.cz/cz/clenove-vlady/premier/videa/video-vlada-cr-vyjadruje-soustrast--podporu-rodinam-obeti-a-solidaritu-francouzske-vlade-125862/
-http://www.vlada.cz/cz/media-centrum/tiskove-zpravy/kondolence-premiera-sobotky-francouzskemu-premierovi-vallsovi-125839/
-http://www.ceskatelevize.cz/ct24/svet/terorismus/
-http://www.rozhlas.cz/plus/vse/_themeline/2487?pos=0&mode=10
-http://zpravy.idnes.cz/utok-na-francouzsky-tydenik-dg1-/zahranicni.aspx?klic=64235
-http://archiv.ihned.cz/tagy/Charlie-Hebdo-313383
-http://zpravy.aktualne.cz/charlie-hebdo/l~7ce99838966011e49fc3002590604f2e/
-http://www.denik.cz/tema/utok-na-sidlo-tydeniku-charlie-hebdo-v-parizi.html
-http://denikreferendum.cz/tema/charlie-hebdo
-http://www.blesk.cz/tag/Charlie%20Hebdo/1
-http://vyhledavani.eurozpravy.cz/klicove-slovo/slovo/teroristicke-utoky-ve-francii-na-redakci-tydeniku-charlie-hebdo-7-ledna-2015-a-koser-obchod-8-ledna-2015-853
-
-# Heritrix added seed redirect from http://vyhledavani.eurozpravy.cz/klicove-slovo/slovo/teroristicke-utoky-ve-francii-na-redakci-tydeniku-charlie-hebdo-7-ledna-2015-a-koser-obchod-8-ledna-2015-853.
-http://vyhledavani.eurozpravy.cz/klicove-slovo/slovo/mattel-853
+http://www.migraceonline.cz/
+http://www.ivcrn.cz/
+http://martinkonvicka.blog.idnes.cz
+http://www.vyzvavedcu.cz/
+http://www.pomocuprchlikum.cz

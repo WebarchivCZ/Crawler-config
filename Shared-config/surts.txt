@@ -1,0 +1,9 @@
+# +http://(org,example,
+# example.com
+# http://www.example.edu/path1/
+# More at: https://webarchive.jira.com/wiki/display/ARIH/SURT+Rules
++http://(be,youtu,
++http://(com,youtube,c,
++http://(com,youtube,www,)/crossdomain.xml
++http://(com,youtube-nocookie,c,
++http://(com,ytimg,
