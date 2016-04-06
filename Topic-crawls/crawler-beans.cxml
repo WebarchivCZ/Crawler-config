@@ -40,7 +40,7 @@
 # Values changing with each crawl
 metadata.jobName=Uprchlická krize v EU | Doménová sklizeň
 metadata.description=Sklizeň domén na téma uprchlická sklizeň v EU
-warcWriter.prefix=MigrantCrisisEU-2015-12
+warcWriter.prefix=MigrantCrisisEU-2015-02
 warcWriter.storePaths=/mnt/archives/archive14/2015/topics/MigrantCrisisEU
 frontier.queueTotalBudget=-1
 # INSPECT: There is change that balanceReplenishAmount doesnt work as expected IE: Crawl 5k URIs, and wait for other seeds to crawl until 5k URIs - check FRONTIER
@@ -48,14 +48,17 @@ frontier.balanceReplenishAmount=5000
 # YOUTUBE: Do you wanna save youtube videos?
 extractorYoutubeWatchPage.enabled=true
 
+bdb.dir=/opt/heritrix/jobs/state-topic
+
+
 # DISTRIBUTED CRAWLING - if true, check if proper localName is set per Crawler and do not forget to mention how many crawlers will join the party. -->
-#hashCrawlMapper.enabled=false
+hashCrawlMapper.enabled=false
 # Local name of Crawler is number starting with 0.
-#hashCrawlMapper.localName=0
+hashCrawlMapper.localName=0
 # Number of crawlers among which to split up the URIs.
-#hashCrawlMapper.crawlerCount=3
+hashCrawlMapper.crawlerCount=3
 # Diversions directory should be shared between crawlers per job.
-#hashCrawlMapper.diversionDir=/mnt/archives/archive12/pre-fetch-diversions
+hashCrawlMapper.diversionDir=/mnt/archives/archive12/pre-fetch-diversions
 
 # FACEBOOK / TWITTER crawling
 # INSPECT: I am not sure how to properly override sheets, so if you wanna turn off FB/TWITTER extraction, set extractorFacebookScroll.enabled and extractorTwitterScrollOne.enabled and extractorTwitterScrollFurther.enabled to false.
@@ -290,7 +293,7 @@ http://example.example/example
     after a URI is fetched and analyzed/link-extracted.
   -->
 
-<!-- DISTRIBUTED CRAWLING is unnecessary for topic Crawls
+<!-- DISTRIBUTED CRAWLING -->	
  <bean id="hashCrawlMapper" class="org.archive.crawler.processor.HashCrawlMapper">
   <property name="enabled" value="[see override above]" />
   <property name="localName" value="[see override above]" />
@@ -300,7 +303,6 @@ http://example.example/example
   <property name="rotationDigits" value="10" />
   <property name="crawlerCount" value="[see override above]" />
 </bean>
--->
 
 <!-- DUPLICATION REDUCTION LEGACY -->
 <!-- More info here: https://webarchive.jira.com/wiki/display/Heritrix/Duplication+Reduction+Processors>
@@ -345,9 +347,8 @@ http://example.example/example
    <list>
     <!-- apply scoping rules to each individual candidate URI... -->
     <ref bean="candidateScoper"/>
-    <!-- DISTRIBUTED CRAWLING
+    <!-- DISTRIBUTED CRAWLING -->
     <ref bean="hashCrawlMapper"/>
--->
     <!-- ...then prepare those ACCEPTed to be enqueued to frontier. -->
     <ref bean="preparer"/>
    </list>
@@ -501,19 +502,18 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
     <!-- re-check scope, if so enabled... -->
     <ref bean="preselector"/>
     <!-- ...then verify or trigger prerequisite URIs fetched, allow crawling... -->
-    <!-- DISTRIBUTED CRAWLING, INSPECT! hashCrawlMapperProcessor should be here as stated in yahoo groups, bud i found no bean for it so Heritrix complains and i am changing it for now to hashCrawlMapper:
+    <!-- DISTRIBUTED CRAWLING, INSPECT! hashCrawlMapperProcessor should be here as stated in yahoo groups, bud i found no bean for it so Heritrix complains and i am changing it for now to hashCrawlMapper:-->
     <ref bean="hashCrawlMapper"/>
--->
     <ref bean="preconditions"/>
     <!-- ...fetch if DNS URI... -->
-<!-- DUPLICATION REDUCTION
+<!-- DUPLICATION REDUCTION LEGACY
     <ref bean="persistLoadProcessor"/>
 -->
     <ref bean="fetchDns"/>
     <!-- <ref bean="fetchWhois"/> -->
     <!-- ...fetch if HTTP URI... -->
     <ref bean="fetchHttp"/>
-<!-- DUPLICATION REDUCTION 
+<!-- DUPLICATION REDUCTION LEGACY
     <ref bean="fetchHistoryProcessor" />    
 -->
 <!-- ...extract outlinks from HTTP headers... -->
@@ -578,7 +578,7 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
    <list>
     <!-- write to aggregate archival files... -->
     <ref bean="warcWriter"/>
-<!-- DUPLICATION REDUCTION
+<!-- DUPLICATION REDUCTION LEGACY
     <ref bean="persistStoreProcessor" />
 -->
     <!-- ...send each outlink candidate URI to CandidateChain, 
@@ -1238,7 +1238,7 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
  <!-- BDBMODULE: shared BDB-JE disk persistence manager -->
  <bean id="bdb" 
   class="org.archive.bdb.BdbModule">
-  <property name="dir" value="/opt/heritrix/jobs/state-topic" />
+  <property name="dir" value="[see override above]" />
   <!-- if neither cachePercent or cacheSize are specified (the default), bdb
        uses its own default of 60% -->
   <!-- <property name="cachePercent" value="0" /> -->
@@ -1247,7 +1247,7 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
   <!-- <property name="expectedConcurrency" value="25" /> -->
  </bean>
 
-<!-- DUPLICATION REDUCTION -->
+<!-- DUPLICATION REDUCTION LEGACY -->
 <!-- BDBMODULE: shared BDB-JE disk persistence manager -->
 <!-- <bean id="historyBdb"
   class="org.archive.bdb.BdbModule" autowire-candidate="false">

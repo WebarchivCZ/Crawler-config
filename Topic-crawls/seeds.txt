@@ -1,3 +1,4 @@
+# Heritrix added seed redirect from https://www.facebook.com/V%C4%9Bdci-proti-strachu-a-lhostejnosti-1419801911680231/timeline/.
 http://amnesty.cz/migrace?utm_source=cpc&gclid=CKiKq-GsgMgCFQrhGwodte8G0w
 http://blisty.cz/topics/407-imigrace-do-evropy
 http://blog.aktualne.cz/hledani.php?q=migrace
@@ -48,6 +49,9 @@ https://m.facebook.com/profile.php?id=1449382722009561&tsid=0.1320696349721402&s
 https://m.facebook.com/profile.php?id=427198237369899&tsid=0.2102399526629597
 https://m.facebook.com/sociologpetrhampl?fref=ts&tsid=0.14443820295855403&source=typeahead
 https://www.facebook.com/V%C4%9Bdci-proti-strachu-a-lhostejnosti-1419801911680231/timeline/
+https://www.facebook.com/V%C4%9Bdci-proti-strachu-a-lhostejnosti-1419801911680231/timeline/?_fb_noscript=1
 
 # Heritrix added seed redirect from https://www.facebook.com/V%C4%9Bdci-proti-strachu-a-lhostejnosti-1419801911680231/timeline/.
 https://www.facebook.com/V%C4%9Bdci-proti-strachu-a-lhostejnosti-1419801911680231/timeline/?_fb_noscript=1
+# Heritrix added seed redirect from https://m.facebook.com/martin.konvicka.18?fref=ts&tsid=0.6872538323514163.
+https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fmartin.konvicka.18%3Ffref%3Dts%26tsid%3D0.6872538323514163&refsrc=https%3A%2F%2Fm.facebook.com%2Fmartin.konvicka.18&_rdr
