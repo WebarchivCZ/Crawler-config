@@ -42,6 +42,7 @@
 +kybernetika.utia.cas.cz
 +library.cs.cas.cz
 +mapmaker.geofond.cz/ewatermt/
++milostravnicek.cz/
 +msfx.lib.cas.cz/
 +nakupnigalerie.babyweb.cz
 +obchod.valka.cz
@@ -65,6 +66,7 @@
 +www.kkvysociny.cz:666/Carmen/
 +www.knihovna-uo.cz/clavius/
 +www.knihovna-uo.cz:8080/Carmen
++www.milostravnicek.cz
 +www.mlab.cz/WebSVN/
 +www.npkk.cz/kpwinsqlnpkk/
 +www.padlo.cz/bazar
