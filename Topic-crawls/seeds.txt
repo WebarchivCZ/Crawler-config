@@ -1,57 +1,84 @@
-# Heritrix added seed redirect from https://www.facebook.com/V%C4%9Bdci-proti-strachu-a-lhostejnosti-1419801911680231/timeline/.
-http://amnesty.cz/migrace?utm_source=cpc&gclid=CKiKq-GsgMgCFQrhGwodte8G0w
-http://blisty.cz/topics/407-imigrace-do-evropy
-http://blog.aktualne.cz/hledani.php?q=migrace
-http://blog.aktualne.cz/hledani.php?q=uprchl%C3%ADci
-http://blog.idnes.cz/search?q=migrace&period=90&order=relevance
-http://blog.idnes.cz/search?q=uprchl%C3%ADci&period=90
-http://denikreferendum.cz/tema/migranti-a-utecenci
-http://denikreferendum.cz/tema/uprchlici
-http://domaci.ihned.cz/tagy/uprchlici-2717
-http://echo24.cz/f/uprchl%C3%ADci
-http://hledani.rozhlas.cz/?query=uprchl%C3%ADci
-http://martinkonvicka.blog.idnes.cz
-http://nazory.aktualne.cz/hledani/?query=migrace
-http://nazory.aktualne.cz/hledani/?query=uprchl%C3%ADci
-http://nemcova.cz/search?searchword=uprchl%C3%ADci
-http://okamura.blog.idnes.cz/
-http://tn.nova.cz/tema/11366-uprchlici
-http://tn.nova.cz/tema/25273-migranti
-http://vlada.cz/scripts/modules/fg/fulltxt.php?langid=1&locale=CZ&sort=rank&searchtext=uprchl%C3%ADci
-http://vyhledavani.eurozpravy.cz/klicove-slovo/slovo/uprchlici-3337
-http://www.blesk.cz/tag/uprchl%C3%ADci/1
-http://www.blesk.cz/uprchlicka-krize
-http://www.ceskatelevize.cz/ct24/tema/153898-uprchlicka-krize
-http://www.ceskenoviny.cz/tema/index.php?id_seznam=823
-http://www.ivcrn.cz/
-http://www.klaus.cz/search/?q=uprchl%C3%ADci&ok=Hledat
-http://www.lidovky.cz/hledej.aspx?q=migrace&hledej=Hledat
-http://www.lidovky.cz/hledej.aspx?q=uprchl%EDci&hledej=Hledat
-http://www.migraceonline.cz/
-http://www.mvcr.cz/azyl-migrace-a-integrace.aspx
-http://www.mvcr.cz/clanek/migracni-a-azylova-politika-ceske-republiky-470144.aspx?q=Y2hudW09NA%3D%3D
-http://www.novinky.cz/hledej?w=uprchl%C3%ADci&isPhrase=0&section=-1&excludeWords=&dateFrom=&dateTo=
-http://www.parlamentnilisty.cz/tagy/uprchl%C3%ADci
-http://www.pomocuprchlikum.cz
-http://www.reflex.cz/vyhledavani?q=migrace&sa=&hash=fd0f71c1455&keyword=migrace
-http://www.reflex.cz/vyhledavani?q=uprchl%C3%ADci&sa=&hash=fd0f71c1455&keyword=uprchl%25C3%25ADci
-http://www.respekt.cz/uprchlici
-http://www.tyden.cz/archiv/?vyhledat=migrace&x=0&y=0
-http://www.tyden.cz/archiv/?vyhledat=uprchl%C3%ADci&x=0&y=0
-http://www.vyzvavedcu.cz/
-http://zahranicni.ihned.cz/tagy/uprchlici-2717
-http://zpravy.aktualne.cz/uprchlici/l~i:keyword:1118/
-http://zpravy.idnes.cz/priliv-uprchliku-do-evropy-dfm-/zahranicni.aspx?klic=64244
-https://m.facebook.com/ivcrn?fref=ts
-https://m.facebook.com/martin.konvicka.18?fref=ts&tsid=0.6872538323514163
-https://m.facebook.com/profile.php?id=1419801911680231&_rdr
-https://m.facebook.com/profile.php?id=1449382722009561&tsid=0.1320696349721402&source=typeahead
-https://m.facebook.com/profile.php?id=427198237369899&tsid=0.2102399526629597
-https://m.facebook.com/sociologpetrhampl?fref=ts&tsid=0.14443820295855403&source=typeahead
-https://www.facebook.com/V%C4%9Bdci-proti-strachu-a-lhostejnosti-1419801911680231/timeline/
-https://www.facebook.com/V%C4%9Bdci-proti-strachu-a-lhostejnosti-1419801911680231/timeline/?_fb_noscript=1
+http://anime.akihabara.cz/
+http://ceskerodeo.cz/
+http://denemarkova.cz
+http://ells.cz/
+http://harrypotter.wikia.com/
+http://maaristaan-detskakniha.blogspot.com/
+http://neff.cz
+http://pullingcz.unas.cz/
+http://rudis.cz
+http://shirai.cz/
+http://spolekpaseni.cz/
+http://vratislavmanak.blogspot.cz
+http://vytrvalost.com/cet/
+http://www.brezinova.cz/
+http://www.canicross.cz/
+http://www.cesky-jazyk.cz
+http://www.ceskydogracingklub.cz/
+http://www.citarny.cz
+http://www.cjf.cz/
+http://www.coursingy.cz/
+http://www.ctenar.net/
+http://www.ctenarsky-denik.cz/
+http://www.czechcoursingclub.cz/
+http://www.czetra.cz/
+http://www.czqha.cz/
+http://www.dockdiving.cz/
+http://www.dogdancingclubcr.cz/
+http://www.dogracing.cz/
+http://www.dogtrekking.info/
+http://www.dressageacademy.cz/
+http://www.emilhakl.cz
+http://www.hajicek.info
+http://www.ivanklima.cz
+http://www.janbalaban.cz
+http://www.jaroslavbalvin.cz
+http://www.jwp-prochazka.cz
+http://www.katerina-tuckova.cz
+http://www.klarasmolikova.cz/
+http://www.klubagility.cz/
+http://www.klubknihomolu.cz/
+http://www.knihi.cz/
+http://www.knihydetem.cz/
+http://www.kodovky.cz/
+http://www.ludvikvaculik.cz
+http://www.meander.cz/festival-deti-ctete-2016
+http://www.milos-urban.cz
+http://www.monyova.cz
+http://www.nejlepsiknihydetem.cz/
+http://www.nllg.eu
+http://www.nocsandersenem.cz/
+http://www.pavel-kohout.com
+http://www.pavelcech.wz.cz/
+http://www.petra-soukupova.cz
+http://www.renatafucikova.cz/
+http://www.rostemesknihou.cz
+http://www.steampunkblog.cz/
+http://www.svetdetskefantazie.cz/clanky/clanky-o-literature-pro-deti
+http://www.terezabouckova.cz
+http://www.veletrhdetskeknihy.cz
+http://www.viewegh.cz
+http://www.vsestrannost.cz/
+http://www.vytrvalost.com/
+http://www.wrc.cz/
+http://www.zdenek-sverak.cz
+http://www.zlatastuha.cz/
 
-# Heritrix added seed redirect from https://www.facebook.com/V%C4%9Bdci-proti-strachu-a-lhostejnosti-1419801911680231/timeline/.
-https://www.facebook.com/V%C4%9Bdci-proti-strachu-a-lhostejnosti-1419801911680231/timeline/?_fb_noscript=1
-# Heritrix added seed redirect from https://m.facebook.com/martin.konvicka.18?fref=ts&tsid=0.6872538323514163.
-https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fmartin.konvicka.18%3Ffref%3Dts%26tsid%3D0.6872538323514163&refsrc=https%3A%2F%2Fm.facebook.com%2Fmartin.konvicka.18&_rdr
+# Heritrix added seed redirect from http://www.cesky-jazyk.cz/.
+http://www.cesky-jazyk.cz/cjl/
+# Heritrix added seed redirect from http://www.hajicek.info/.
+http://www.hajicek.info/index.html
+# Heritrix added seed redirect from http://www.janbalaban.cz/.
+http://www.janbalaban.cz/home-2.html
+# Heritrix added seed redirect from http://maaristaan-detskakniha.blogspot.com/.
+http://maaristaan-detskakniha.blogspot.cz/
+# Heritrix added seed redirect from http://harrypotter.wikia.com/.
+http://harrypotter.wikia.com/wiki/Main_Page
+# Heritrix added seed redirect from http://www.rostemesknihou.cz/.
+http://www.rostemesknihou.cz/cz/
+# Heritrix added seed redirect from http://shirai.cz/.
+http://shirai.cz/shirai-js-error/
+# Heritrix added seed redirect from http://www.rostemesknihou.cz/cz/.
+http://www.rostemesknihou.cz/cz/o-kampani/aktuality
+# Heritrix added seed redirect from http://www.rostemesknihou.cz/cz/o-kampani/aktuality.
+http://www.rostemesknihou.cz/cz/o-kampani/aktuality/
