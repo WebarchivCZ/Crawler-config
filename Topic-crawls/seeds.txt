@@ -1,84 +1,56 @@
-http://anime.akihabara.cz/
-http://ceskerodeo.cz/
-http://denemarkova.cz
-http://ells.cz/
-http://harrypotter.wikia.com/
-http://maaristaan-detskakniha.blogspot.com/
-http://neff.cz
-http://pullingcz.unas.cz/
-http://rudis.cz
-http://shirai.cz/
-http://spolekpaseni.cz/
-http://vratislavmanak.blogspot.cz
-http://vytrvalost.com/cet/
-http://www.brezinova.cz/
-http://www.canicross.cz/
-http://www.cesky-jazyk.cz
-http://www.ceskydogracingklub.cz/
-http://www.citarny.cz
-http://www.cjf.cz/
-http://www.coursingy.cz/
-http://www.ctenar.net/
-http://www.ctenarsky-denik.cz/
-http://www.czechcoursingclub.cz/
-http://www.czetra.cz/
-http://www.czqha.cz/
-http://www.dockdiving.cz/
-http://www.dogdancingclubcr.cz/
-http://www.dogracing.cz/
-http://www.dogtrekking.info/
-http://www.dressageacademy.cz/
-http://www.emilhakl.cz
-http://www.hajicek.info
-http://www.ivanklima.cz
-http://www.janbalaban.cz
-http://www.jaroslavbalvin.cz
-http://www.jwp-prochazka.cz
-http://www.katerina-tuckova.cz
-http://www.klarasmolikova.cz/
-http://www.klubagility.cz/
-http://www.klubknihomolu.cz/
-http://www.knihi.cz/
-http://www.knihydetem.cz/
-http://www.kodovky.cz/
-http://www.ludvikvaculik.cz
-http://www.meander.cz/festival-deti-ctete-2016
-http://www.milos-urban.cz
-http://www.monyova.cz
-http://www.nejlepsiknihydetem.cz/
-http://www.nllg.eu
-http://www.nocsandersenem.cz/
-http://www.pavel-kohout.com
-http://www.pavelcech.wz.cz/
-http://www.petra-soukupova.cz
-http://www.renatafucikova.cz/
-http://www.rostemesknihou.cz
-http://www.steampunkblog.cz/
-http://www.svetdetskefantazie.cz/clanky/clanky-o-literature-pro-deti
-http://www.terezabouckova.cz
-http://www.veletrhdetskeknihy.cz
-http://www.viewegh.cz
-http://www.vsestrannost.cz/
-http://www.vytrvalost.com/
-http://www.wrc.cz/
-http://www.zdenek-sverak.cz
-http://www.zlatastuha.cz/
+http://700.karlovyvary.cz/
+http://a2larm.cz/2016/02/slavit-narozeni-karla-iv-je-nebezpecna-hloupost/
+http://brussels.czechcentres.cz/cs/program/detail-akce/karel-iv10/
+http://k700.eu/
+http://karel700.cuni.cz/
+http://karel700.zivykraj.cz/
+http://otecvlasti.eu/
+http://vesmir.cz/2016/05/14/uraz-ohrozil-zivot-karla-iv/
+http://vyhledavani.eurozpravy.cz/klicove-slovo/slovo/karel-iv-700-let-od-narozeni-9016
+http://www.aktualne.cz/karel-iv/l~i:keyword:9360/
+http://www.apha.cz/karel-iv-700-let
+http://www.avcr.cz/cs/karolus-quartus-1316-2016/
+http://www.carolusquartus.eu/cz/
+http://www.ceskatelevize.cz/ct24/tema/359215-karel-iv
+http://www.ceskatelevize.cz/porady/vyroci/karel-iv-700-let/
+http://www.ceskozemepribehu.cz/
+http://www.cirkev.cz/cs/aktuality/160510700-let-do-narozeni-karla-iv-pripomina-i-katolicka-cirkev
+http://www.cirkev.cz/cs/aktuality/160516pozdrav-papeze-frantiska-pro-oslavu-700-let-od-narozeni-karla-iv
+http://www.cz-museums.cz/web/kalendarium-akci/700-vyroci-karla-iv
+http://www.denik.cz/tema/700-vyroci-narozeni-krale-karla-iv.html
+http://www.denik.cz/tema/700-vyroci-narozeni-krale-karla-iv.html?strana=2
+http://www.hiu.cas.cz/cs/oslavy-700--vyroci-narozeni-karla-iv-.ep/
+http://www.imostecko.cz/vyroci-700-vyroci-narozeni-karla-iv-most/
+http://www.karel-700-vysocina.cz/aktuality.html
+http://www.kareljeking.cz/
+http://www.karlovapraha.cz/
+http://www.korunovacnislavnosti.cz/
+http://www.mediar.cz/700-vyroci-karel-iv-jdou-desitky-milionu/
+http://www.mzv.cz/jnp/cz/zahranicni_vztahy/cr_v_mezinarodnich_organizacich/unesco/aktualne/vyroci_narozeni_karla_iv_oficialnim.html
+http://www.ngprague.cz/exposition-detail/karel-iv-1316-1378/
+http://www.prague.eu/file/edee/universal/maps/karel_iv_brozura_cs.pdf
+http://www.rozhlas.cz/zpravy/historie/_zprava/pristi-rok-uplyne-700-let-od-narozeni-karla-iv-praha-zacala-s-pripravami-oslav--1490827
+http://www.rozhlas.cz/zpravy/politika/_zprava/1467751
+http://www.udu.cas.cz/cs/700-vyroci-narozeni-karla-iv/
+http://www.vhu.cz/vystava-predstavuje-velkeho-panovnika-i-jako-cloveka/
+http://zpravy.idnes.cz/karel-IV.aspx
+http://zpravy.rozhlas.cz/plus/historie/_zprava/karel-iv-mistr-propagandy--1618106
+https://www.hrad.cz/cs/kultura-na-hrade/program/oslavy-700.-vyroci-narozeni-karla-iv.-na-prazskem-hrade-10499
+https://www.novinky.cz/kultura/salon/403300-milena-bartlova-otec-vlasti-a-stavitel-mostu-dnes-je-to-700-let-od-narozeni-karla-iv.html
+https://www.npu.cz/cs/npu-a-pamatkova-pece/npu-jako-instituce/akce/8100-karlstejnsky-poklad-kultura-cisarskeho-dvora-karla-iv
+https://www.npu.cz/cs/npu-a-pamatkova-pece/npu-jako-instituce/zpravy/9717-lucembursky-rok-a-vyroci-narozeni-karla-iv-oslavi-pamatky-unikatnimi-vystavami-a-zajimavymi-programy
 
-# Heritrix added seed redirect from http://www.cesky-jazyk.cz/.
-http://www.cesky-jazyk.cz/cjl/
-# Heritrix added seed redirect from http://www.hajicek.info/.
-http://www.hajicek.info/index.html
-# Heritrix added seed redirect from http://www.janbalaban.cz/.
-http://www.janbalaban.cz/home-2.html
-# Heritrix added seed redirect from http://maaristaan-detskakniha.blogspot.com/.
-http://maaristaan-detskakniha.blogspot.cz/
-# Heritrix added seed redirect from http://harrypotter.wikia.com/.
-http://harrypotter.wikia.com/wiki/Main_Page
-# Heritrix added seed redirect from http://www.rostemesknihou.cz/.
-http://www.rostemesknihou.cz/cz/
-# Heritrix added seed redirect from http://shirai.cz/.
-http://shirai.cz/shirai-js-error/
-# Heritrix added seed redirect from http://www.rostemesknihou.cz/cz/.
-http://www.rostemesknihou.cz/cz/o-kampani/aktuality
-# Heritrix added seed redirect from http://www.rostemesknihou.cz/cz/o-kampani/aktuality.
-http://www.rostemesknihou.cz/cz/o-kampani/aktuality/
+# Heritrix added seed redirect from http://www.mzv.cz/jnp/cz/zahranicni_vztahy/cr_v_mezinarodnich_organizacich/unesco/aktualne/vyroci_narozeni_karla_iv_oficialnim.html.
+http://www.mzv.cz/jnp/cz/zahranicni_vztahy/cr_v_mezinarodnich_organizacich/unesco/aktualne/vyroci_narozeni_karla_iv_oficialnim.html
+# Heritrix added seed redirect from http://karel700.zivykraj.cz/.
+http://karel700.zivykraj.cz/cz/
+# Heritrix added seed redirect from http://www.korunovacnislavnosti.cz/.
+http://www.korunovacnislavnosti.cz/vitejte
+# Heritrix added seed redirect from http://www.mzv.cz/jnp/cz/zahranicni_vztahy/cr_v_mezinarodnich_organizacich/unesco/aktualne/vyroci_narozeni_karla_iv_oficialnim.html.
+http://www.mzv.cz/jnp/cz/zahranicni_vztahy/cr_v_mezinarodnich_organizacich/unesco/aktualne/vyroci_narozeni_karla_iv_oficialnim.html
+# Heritrix added seed redirect from http://www.korunovacnislavnosti.cz/vitejte.
+http://www.korunovacnislavnosti.cz/vitejte;jsessionid=FD04057F8E33A125E1671A488DA26AA1?0
+# Heritrix added seed redirect from http://www.mzv.cz/jnp/cz/zahranicni_vztahy/cr_v_mezinarodnich_organizacich/unesco/aktualne/vyroci_narozeni_karla_iv_oficialnim.html.
+http://www.mzv.cz/jnp/cz/zahranicni_vztahy/cr_v_mezinarodnich_organizacich/unesco/aktualne/vyroci_narozeni_karla_iv_oficialnim.html
+# Heritrix added seed redirect from http://www.mzv.cz/jnp/cz/zahranicni_vztahy/cr_v_mezinarodnich_organizacich/unesco/aktualne/vyroci_narozeni_karla_iv_oficialnim.html.
+http://www.mzv.cz/jnp/cz/zahranicni_vztahy/cr_v_mezinarodnich_organizacich/unesco/aktualne/vyroci_narozeni_karla_iv_oficialnim.html
