@@ -38,22 +38,23 @@
 # http://java.sun.com/javase/6/docs/api/java/util/Properties.html#load%28java.io.Reader%29
 
 # Values changing with each crawl
-metadata.jobName=OH-2016-09
-metadata.description=Druhá tematická sklizeň k Olympijským Hrám 2016 v Riu
-warcWriter.prefix=OH-2016-09
-warcWriter.storePaths=/mnt/archives/archive14/2016/topics/OH-2016-08
-frontier.queueTotalBudget=15000
+metadata.jobName=retrokon.nkp.cz
+metadata.description=Speciální sklizeň retrokon.nkp.cz před koncem technické podpory
+warcWriter.prefix=retrokon
+warcWriter.storePaths=/mnt/archives/archive14/2016/topics/retrokon
+frontier.queueTotalBudget=-1
 # INSPECT: There is change that balanceReplenishAmount doesnt work as expected IE: Crawl 5k URIs, and wait for other seeds to crawl until 5k URIs - check FRONTIER
 frontier.balanceReplenishAmount=5000
 # YOUTUBE: Do you wanna save youtube videos?
 extractorYoutubeWatchPage.enabled=true
 
-bdb.dir=/opt/heritrix/jobs/bdb-state-topic-OH
+# bdb for Heritrix states
+bdb.dir=/opt/heritrix/jobs/bdb-state-retrokon
 
 # URL-Agnostic Duplication Reduction - https://webarchive.jira.com/wiki/display/Heritrix/Duplication+Reduction+Processors
 # State directory for duplication reduction. Use for topics, which will crawled multipletimes.
 
-historyBdb.dir=/opt/heritrix/jobs/bdb-state-history-topic-OH
+historyBdb.dir=/opt/heritrix/jobs/bdb-state-history-retrokon
 
 # DISTRIBUTED CRAWLING - if true, check if proper localName is set per Crawler and do not forget to mention how many crawlers will join the party. -->
 hashCrawlMapper.enabled=false
