@@ -21,6 +21,7 @@
 +fotobasne.cz
 +gayer.muzeumhk.cz/katalog/
 +git.abclinuxu.cz
++http://89.233.169.82:8080/odtahy/odtahy.php
 +inzerce.apatykar.info/
 +ipac.kvkli.cz
 +katalog.cbvk.cz
@@ -41,6 +42,7 @@
 +kramerius2.svkhk.cz/kramerius/
 +kybernetika.utia.cas.cz
 +library.cs.cas.cz
++mail.mppraha.cz:8080/odtahy/odtahy.php
 +mapmaker.geofond.cz/ewatermt/
 +milostravnicek.cz/
 +msfx.lib.cas.cz/
@@ -56,6 +58,7 @@
 +svk5.svkkl.cz
 +svk7.svkkl.cz
 +vufind.mzk.cz
++web.mppraha.cz/zmena-terminu/
 +www.caspv.cz/cz/e-shop/
 +www.df.biom.cz
 +www.geofond.cz/wasgi/
