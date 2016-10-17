@@ -1,3 +1,4 @@
+http://adernerova.cz/
 http://alternativa.online/
 http://blokprotiislamizaci.cz/
 http://cibulka.net/
@@ -6,7 +7,12 @@ http://csns.cz/kraj-karlovarsky
 http://csns.cz/kraj-plzensky
 http://csns.cz/kraj-stredocesky
 http://dapcomdaniel.wixsite.com/budoucnostprolk
+http://dobravolbamsk.cz/
 http://hdkhk.cz/
+http://hnutiok.cz/
+http://janhornik.cz/
+http://jaromiravitkova.cz/
+http://jaromirstrnad.cz/
 http://jihocesky-kraj.cssd.cz/
 http://jihocesky.zeleni.cz/
 http://jihomoravsky-kraj.cssd.cz/
@@ -22,8 +28,11 @@ http://koaliceopk.cz/
 http://koaliceproregion.cz/
 http://krajnovegenerace.cz/
 http://kralovehradecky-kraj.kdu.cz/
+http://kralovehradecky-kraj.kdu.cz/domu
 http://kralovehradecky.spolecne2016.cz/
 http://liberecky.spolecne2016.cz/
+http://michaelcanov.cz/
+http://milusehorska.cz/
 http://moravskoslezsky-kraj.cssd.cz/
 http://moravskoslezsky.kdu.cz/domu
 http://moravskoslezsky.spolecne2016.cz/
@@ -38,12 +47,17 @@ http://olomoucky-kraj.cssd.cz/
 http://olomoucky.spolecne2016.cz/
 http://olomoucky.spoz2013.cz/
 http://pardubice.svobodni.cz/
+http://pardubicky-kraj.cssd.cz/
 http://pardubicky.soukromnici.cz/cs/
 http://pardubicky.spolecne2016.cz/
 http://pardubicky.spoz2013.cz/
 http://patriotistrana.cz/
+http://pavel-stanek.cz/
+http://petr-holecek.cz/
+http://petr-orel.cz/
 http://plzensky-kraj.cssd.cz/
 http://projiznicechy.cz/
+http://renatachmelova.cz/
 http://rscms.cz/
 http://s-a-s.cz/
 http://spd.cz/
@@ -56,9 +70,11 @@ http://stredocesky.spolecne2016.cz/
 http://ustecko.zeleni.cz/
 http://ustecky.spolecne2016.cz/
 http://volby.cz/pls/kz2016/kz83?xjazyk=CZ&xdatum=20161007
+http://volby.cz/pls/senat/se1111?xjazyk=CZ&xdatum=20161007&xv=2&xt=2
 http://volby.kscm.cz/
 http://vychodocesi2.webnode.cz/
 http://www.anobudelip.cz
+http://www.bohumilstibal.cz/
 http://www.cssd-ustinadlabem.cz/
 http://www.cssd-zlinskykraj.cz/
 http://www.cssd.cz
@@ -68,26 +84,41 @@ http://www.cssdpardubice.cz/
 http://www.dobravolbamsk.cz/
 http://www.dobryplan.cz/
 http://www.dsss.cz/
+http://www.golasowska.cz/
 http://www.hnhrm.cz/
 http://www.hnutiok.cz/
 http://www.hozk.cz/
+http://www.janhasek.cz/
 http://www.jchasici.cz/
+http://www.jchasici.cz/aktuality/
 http://www.jihocesi2012.cz/
+http://www.jindrichflorian.cz/
+http://www.jiriholubar.cz/
+http://www.jirioberfalzer.cz/
 http://www.jsmeprokraj.cz/
 http://www.kcolomouc.cz/
 http://www.kdu.cz
+http://www.kdu.cz/domu
 http://www.kduplzen.cz/
 http://www.kduvysocina.cz/
 http://www.koalicehk.kdu.cz/
+http://www.koalicehk.kdu.cz/domu
 http://www.koaliceok.cz/
 http://www.koalicepk.cz/
 http://www.koaliceproplzenskykraj.cz/
 http://www.koalicespdspo.cz/
 http://www.konzervativnistrana.cz/
 http://www.korunaceska.cz/
+http://www.kosdosenatu.cz/
 http://www.krajskevolby2016.cz/
 http://www.ksc.cz/
 http://www.kscm.zlin.cz/
+http://www.ladislav-vaclavec.cz/
+http://www.lumirkantor.cz/
+http://www.machacdosenatu.cz/
+http://www.marek-vavra.cz/
+http://www.michalstehlik.cz/
+http://www.mladek.eu/
 http://www.mladizeleni.cz/
 http://www.moravane.cz/
 http://www.mvcr.cz/clanek/kraje-2016-cisla-pro-oznaceni-hlasovacich-listku-politickych-stran-politickych-hnuti-a-koalic.aspx
@@ -102,6 +133,7 @@ http://www.obcane2011.eu/
 http://www.ods.cz
 http://www.otevrenykraj.cz/
 http://www.pardubice.kscm.cz/
+http://www.petr-silar.cz/
 http://www.piratiazeleni.cz/
 http://www.prokraj.net/
 http://www.proolomouc.cz/
@@ -109,9 +141,12 @@ http://www.prootevrenykraj.cz/
 http://www.prozdraviasport.cz/
 http://www.romea.cz/
 http://www.romea.cz/cz/stitek/romska-demokraticka-strana-2
+http://www.ruzickadosenatu.cz/
 http://www.severocesi.cz/
+http://www.skromach.cz/
 http://www.snk1.cz/
 http://www.soukromnici.cz/
+http://www.soukromnici.cz/cs/
 http://www.spokojenykraj.cz/
 http://www.spolecne2016.cz/
 http://www.spozlin.cz/
@@ -124,25 +159,66 @@ http://www.starostoveprolibereckykraj.cz/
 http://www.starostoveproobcany.cz/
 http://www.strananos.cz/
 http://www.stranaprav.cz/
+http://www.tomasczernin.cz/
+http://www.tomasjirsa.cz/
 http://www.top09.cz/
 http://www.usvitnarodnikoalice.cz/
+http://www.vaclavbelohradsky.cz/
 http://www.volbaproolomouc.cz/
+http://www.volbaproolomouc.cz/cs
+http://www.vystrcil.cz/
+http://www.zaloudik.cz/
 http://www.zeleni-msk.cz/
 http://www.zeleni.cz/
 http://www.zeleniapiratijmk.cz/
 http://www.zijemevysocinou.cz/
+http://www.zijemevysocinou.cz/cs/
 http://www.zitbrno.cz/
 http://www.zlin.kdu.cz/
+http://www.zlin.kdu.cz/domu
 http://www.zmenaprolibereckykraj.cz/
 http://www.zmenaprovysocinu.net/
 http://zelenavysocina.cz/
 http://zlinsky.spolecne2016.cz/
 http://zlinskykraj.svobodni.cz/
 http://zmenaprolidi.cz/
+https://cs.wikipedia.org/wiki/Volby_do_Sen%C3%A1tu_Parlamentu_%C4%8Cesk%C3%A9_republiky_2016
 https://cs.wikipedia.org/wiki/Volby_do_zastupitelstev_kraj%C5%AF_v_%C4%8Cesku_2016
 https://web.svobodni.cz/
+https://www.cssd.cz/
 https://www.kscm.cz/
 https://www.pirati.cz/
 https://www.pro-region.cz
 https://www.spoluprokraj.cz/
 https://www.starostove-nezavisli.cz
+
+# Heritrix added seed redirect from http://www.naskraj.cz/.
+http://pardubicky-kraj.cssd.cz/
+# Heritrix added seed redirect from http://www.jchasici.cz/.
+http://www.jchasici.cz/aktuality/
+# Heritrix added seed redirect from http://www.cssd.cz/.
+https://www.cssd.cz/
+# Heritrix added seed redirect from http://www.vystrcil.cz/.
+http://www.vystrcil.cz/web/
+# Heritrix added seed redirect from http://www.zijemevysocinou.cz/.
+http://www.zijemevysocinou.cz/cs/
+# Heritrix added seed redirect from http://www.kdu.cz/.
+http://www.kdu.cz/domu
+# Heritrix added seed redirect from http://kralovehradecky-kraj.kdu.cz/.
+http://kralovehradecky-kraj.kdu.cz/domu
+# Heritrix added seed redirect from http://www.zlin.kdu.cz/.
+http://www.zlin.kdu.cz/domu
+# Heritrix added seed redirect from http://www.dobravolbamsk.cz/.
+http://dobravolbamsk.cz/
+# Heritrix added seed redirect from http://www.koalicehk.kdu.cz/.
+http://www.koalicehk.kdu.cz/domu
+# Heritrix added seed redirect from http://www.vystrcil.cz/web/.
+http://www.vystrcil.cz/web/hlavni-stranka/
+# Heritrix added seed redirect from http://www.volbaproolomouc.cz/.
+http://www.volbaproolomouc.cz/cs
+# Heritrix added seed redirect from http://jmk.svobodni.cz/.
+http://jihomoravsky.spolecne2016.cz/
+# Heritrix added seed redirect from http://www.hnutiok.cz/.
+http://hnutiok.cz/
+# Heritrix added seed redirect from http://www.soukromnici.cz/.
+http://www.soukromnici.cz/cs/
