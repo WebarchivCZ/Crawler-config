@@ -222,3 +222,35 @@ http://jihomoravsky.spolecne2016.cz/
 http://hnutiok.cz/
 # Heritrix added seed redirect from http://www.soukromnici.cz/.
 http://www.soukromnici.cz/cs/
+# Heritrix added seed redirect from http://www.cssd.cz/.
+https://www.cssd.cz/
+# Heritrix added seed redirect from http://www.naskraj.cz/.
+http://pardubicky-kraj.cssd.cz/
+# Heritrix added seed redirect from http://www.koalicehk.kdu.cz/.
+http://www.koalicehk.kdu.cz/domu
+# Heritrix added seed redirect from http://www.zijemevysocinou.cz/.
+http://www.zijemevysocinou.cz/cs/
+# Heritrix added seed redirect from http://www.zlin.kdu.cz/.
+http://www.zlin.kdu.cz/domu
+# Heritrix added seed redirect from http://jmk.svobodni.cz/.
+http://jihomoravsky.spolecne2016.cz/
+# Heritrix added seed redirect from http://www.dobravolbamsk.cz/.
+http://dobravolbamsk.cz/
+# Heritrix added seed redirect from http://www.vystrcil.cz/.
+http://www.vystrcil.cz/web/
+# Heritrix added seed redirect from http://www.kdu.cz/.
+http://www.kdu.cz/domu
+# Heritrix added seed redirect from http://www.jchasici.cz/.
+http://www.jchasici.cz/aktuality/
+# Heritrix added seed redirect from http://kralovehradecky-kraj.kdu.cz/.
+http://kralovehradecky-kraj.kdu.cz/domu
+# Heritrix added seed redirect from http://www.soukromnici.cz/.
+http://www.soukromnici.cz/cs/
+# Heritrix added seed redirect from http://www.vystrcil.cz/web/.
+http://www.vystrcil.cz/web/hlavni-stranka/
+# Heritrix added seed redirect from http://www.volbaproolomouc.cz/.
+http://www.volbaproolomouc.cz/cs
+# Heritrix added seed redirect from http://www.vystrcil.cz/web/.
+http://www.vystrcil.cz/web/hlavni-stranka/
+# Heritrix added seed redirect from http://www.hnutiok.cz/.
+http://hnutiok.cz/
