@@ -38,10 +38,10 @@
 # http://java.sun.com/javase/6/docs/api/java/util/Properties.html#load%28java.io.Reader%29
 
 # Values changing with each crawl
-metadata.jobName=Serials 2016-09-1M_6M_CUNI_ArchiveIt
-metadata.description=Pravidelná sklizeň semínek s měsíční a půl roční frekvencí, sklizeň webů Karlovy univerzity, archivace semínek s nízkou frekvencí přidaných za minulý měsíc.
-warcWriter.prefix=Serials-2016-09-1M_6M_CUNI_ArchiveIt
-warcWriter.storePaths=/mnt/archives/archive14/2016/serials/Serials-2016-09-1M_6M_CUNI_ArchiveIt
+metadata.jobName=Serials 2016-10-1M_2M_6M_CUNI_ArchiveIt
+metadata.description=Pravidelná sklizeň semínek s měsíční a dvou měsíční frekvencí, zopakovaná sklizeň pro půl roční frekvenci a minulý měsíc, protože předchozí spadlo, sklizeň webů Karlovy univerzity, archivace semínek s nízkou frekvencí přidaných za minulý měsíc.
+warcWriter.prefix=Serials-2016-10-1M_2M_6M_CUNI_ArchiveIt
+warcWriter.storePaths=/mnt/archives/archive14/2016/serials/Serials-2016-10-1M_2M_6M_CUNI_ArchiveIt
 frontier.queueTotalBudget=15000
 # INSPECT: There is change that balanceReplenishAmount doesnt work as expected IE: Crawl 5k URIs, and wait for other seeds to crawl until 5k URIs - check FRONTIER
 frontier.balanceReplenishAmount=5000
