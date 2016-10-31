@@ -1146,17 +1146,16 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
  
  <!-- DISK SPACE MONITOR: 
       Pauses the crawl if disk space at monitored paths falls below minimum threshold -->
- <!-- 
+
  <bean id="diskSpaceMonitor" class="org.archive.crawler.monitor.DiskSpaceMonitor">
-   <property name="pauseThresholdMiB" value="500" />
+   <property name="pauseThresholdMiB" value="5000" />
    <property name="monitorConfigPaths" value="true" />
    <property name="monitorPaths">
      <list>
-       <value>PATH</value>
+       <value>/opt/heritrix/jobs</value>
      </list>
    </property>
  </bean>
- -->
  
  <!-- 
    REQUIRED STANDARD BEANS
