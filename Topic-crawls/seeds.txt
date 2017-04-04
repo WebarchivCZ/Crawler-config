@@ -112,3 +112,70 @@ https://www.miroslavholec.cz/blog
 https://www.seznamsebezpecne.cz/
 https://www.skolaetikety.cz/
 https://www.spolecenske-chovani.com/
+
+# Heritrix added seed redirect from http://journals.muni.cz/.
+https://journals.muni.cz/
+# Heritrix added seed redirect from http://www.skolaetikety.cz/.
+https://www.skolaetikety.cz/
+# Heritrix added seed redirect from http://www.miroslavholec.cz/blog.
+https://www.miroslavholec.cz/blog
+# Heritrix added seed redirect from http://www.spolecenske-chovani.com/.
+https://www.spolecenske-chovani.com/
+# Heritrix added seed redirect from http://vaclav4.cz/.
+http://vaclav4.cz/index.php
+# Heritrix added seed redirect from http://www.diplomaticka-akademie.cz/.
+http://www.diplomaticka-akademie.cz/index.php/cs/
+# Heritrix added seed redirect from http://www.seznamsebezpecne.cz/.
+https://www.seznamsebezpecne.cz/
+# Heritrix added seed redirect from http://www.logikanasbavi.cz/.
+https://www.logikanasbavi.cz/
+# Heritrix added seed redirect from http://www.elegantnicesko.cz/.
+https://www.elegantnicesko.cz/
+# Heritrix added seed redirect from http://retrocip.cz/.
+https://retrocip.cz/
+# Heritrix added seed redirect from http://muni.academia.edu/Tom%C3%A1%C5%A1Ondr%C3%A1%C4%8Dek/.
+http://muni.academia.edu/Tom%C3%A1%C5%A1Ondr%C3%A1%C4%8Dek
+# Heritrix added seed redirect from http://www.rostemesknihou.cz/.
+http://www.rostemesknihou.cz/cz/
+# Heritrix added seed redirect from http://www.koniggratz1866.eu/.
+http://www.koniggratz1866.eu/Uvodni-stranka.html
+# Heritrix added seed redirect from http://www.rostemesknihou.cz/cz/.
+http://www.rostemesknihou.cz/cz/o-kampani/aktuality
+# Heritrix added seed redirect from http://www.rostemesknihou.cz/cz/o-kampani/aktuality.
+http://www.rostemesknihou.cz/cz/o-kampani/aktuality/
+# Heritrix added seed redirect from http://www.spolecenske-chovani.com/.
+https://www.spolecenske-chovani.com/
+# Heritrix added seed redirect from http://www.skolaetikety.cz/.
+https://www.skolaetikety.cz/
+# Heritrix added seed redirect from http://journals.muni.cz/.
+https://journals.muni.cz/
+# Heritrix added seed redirect from http://vaclav4.cz/.
+http://vaclav4.cz/index.php
+# Heritrix added seed redirect from http://www.seznamsebezpecne.cz/.
+https://www.seznamsebezpecne.cz/
+# Heritrix added seed redirect from http://www.rostemesknihou.cz/.
+http://www.rostemesknihou.cz/cz/
+# Heritrix added seed redirect from http://www.miroslavholec.cz/blog.
+https://www.miroslavholec.cz/blog
+# Heritrix added seed redirect from http://www.koniggratz1866.eu/.
+http://www.koniggratz1866.eu/Uvodni-stranka.html
+# Heritrix added seed redirect from http://www.logikanasbavi.cz/.
+https://www.logikanasbavi.cz/
+# Heritrix added seed redirect from http://www.diplomaticka-akademie.cz/.
+http://www.diplomaticka-akademie.cz/index.php/cs/
+# Heritrix added seed redirect from http://www.elegantnicesko.cz/.
+https://www.elegantnicesko.cz/
+# Heritrix added seed redirect from http://muni.academia.edu/Tom%C3%A1%C5%A1Ondr%C3%A1%C4%8Dek/.
+http://muni.academia.edu/Tom%C3%A1%C5%A1Ondr%C3%A1%C4%8Dek
+# Heritrix added seed redirect from http://www.rostemesknihou.cz/cz/.
+http://www.rostemesknihou.cz/cz/o-kampani/aktuality
+# Heritrix added seed redirect from http://www.rostemesknihou.cz/cz/o-kampani/aktuality.
+http://www.rostemesknihou.cz/cz/o-kampani/aktuality/
+# Heritrix added seed redirect from http://retrocip.cz/.
+https://retrocip.cz/
+# Heritrix added seed redirect from http://www.rostemesknihou.cz/cz/.
+http://www.rostemesknihou.cz/cz/o-kampani/aktuality
+# Heritrix added seed redirect from http://www.rostemesknihou.cz/cz/o-kampani/aktuality.
+http://www.rostemesknihou.cz/cz/o-kampani/aktuality/
+# Heritrix added seed redirect from http://www.rostemesknihou.cz/cz/o-kampani/aktuality.
+http://www.rostemesknihou.cz/cz/o-kampani/aktuality/
