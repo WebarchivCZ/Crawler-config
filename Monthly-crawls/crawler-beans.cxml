@@ -38,10 +38,10 @@
 # http://java.sun.com/javase/6/docs/api/java/util/Properties.html#load%28java.io.Reader%29
 
 # Values changing with each crawl
-metadata.jobName=Serials 2017-01-1M_V1_CUNI_ArchiveIt
-metadata.description=Pravidelná sklizeň semínek s měsíční frekvencí, jednorázová půlroční sklizeň, sklizeň webů Karlovy univerzity, archivace semínek s nízkou frekvencí přidaných za minulý měsíc.
-warcWriter.prefix=Serials-2017-01-1M_V1_CUNI_ArchiveIt
-warcWriter.storePaths=/mnt/archives/archive14/2017/serials/Serials-2017-01-1M_V1_CUNI_ArchiveIt
+metadata.jobName=Serials 2017-03-1M_6M_NoContract_CUNI_ArchiveIt
+metadata.description=Pravidelná sklizeň semínek s měsíční frekvencí, pravidelná sklizeň semínek s půlroční frekvencí, sklizeň semínek bez smlouvy, sklizeň webů Karlovy univerzity, archivace semínek s nízkou frekvencí přidaných za minulý měsíc.
+warcWriter.prefix=Serials-2017-03-1M_6M_NoContract_CUNI_ArchiveIt
+warcWriter.storePaths=/mnt/archives/archive14/2017/serials/Serials-2017-03-1M_6M_NoContract_CUNI_ArchiveIt
 frontier.queueTotalBudget=15000
 # INSPECT: There is change that balanceReplenishAmount doesnt work as expected IE: Crawl 5k URIs, and wait for other seeds to crawl until 5k URIs - check FRONTIER
 frontier.balanceReplenishAmount=5000
@@ -69,10 +69,10 @@ historyBdb.dir=/opt/heritrix/jobs/2017-history-state
 # Stable values
 crawlController.scratchDir=/opt/heritrix/jobs/scratch
 metadata.operatorContactUrl=http://webarchiv.cz/kontakty/
-metadata.operator=Rudolf Kreibich
+metadata.operator=Zdenko Vozár
 metadata.operatorFrom=webarchiv@nkp.cz
 metadata.organization=National Library of the Czech Republic - WebArchiv.cz
-metadata.audience=WebArchiv.cz Users
+metadata.audience=Webarchiv.cz Users
 metadata.userAgentTemplate=Mozilla/5.0 (compatible; heritrix/@VERSION@ +@OPERATOR_CONTACT_URL@)
 metadata.robotsPolicyName=ignore
 

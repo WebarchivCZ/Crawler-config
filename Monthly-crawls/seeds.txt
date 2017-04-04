@@ -1,9 +1,11 @@
-# Manually generated from SQL
 # Websites of Charles University | weby Karlovy Univerzity | Seeds count: 808 | Generated in August 2016 : https://github.com/WebArchivCZ/Crawler-config/blob/06b0f3f9eac02253b5e777cf01ac9838424db508/Topic-crawls/seeds.txt
-#Seedlist generated: 30.01.2017 13:55
-#Seedlist generated: 30.01.2017 14:02
-#Seeds count: 334
-#Seeds count: 47
+#In memoriam Kardinal Vlk: kardinal.cz 
+#Seedlist generated: 23.03.2017 18:24
+#Seedlist generated: 23.03.2017 18:28
+#Seedlist generated: 23.03.2017 18:29
+#Seeds count: 18
+#Seeds count: 2631
+#Seeds count: 339
 1f1.cuni.cz
 1f2.cuni.cz
 1f3.cuni.cz
@@ -170,6 +172,7 @@ egypt.cuni.cz
 egypt.ff.cuni.cz
 egyptologie.ff.cuni.cz
 eis.cuni.cz
+ejes.cz
 ejrn.cuni.cz
 ekonom.cuni.cz
 eks.fhs.cuni.cz
@@ -250,405 +253,2978 @@ home.cerge.cuni.cz
 horo.natur.cuni.cz
 hp02.troja.mff.cuni.cz
 htf.cuni.cz
+htto://csbslidice.cz
+http://004.cz 
 http://1.bp.blogspot.com
+http://1620.webpark.cz 
 http://2.bp.blogspot.com
 http://25fps.cz
 http://3.bp.blogspot.com
+http://30minut.cz 
+http://3d-tisk.cz
+http://3dgrafika.cz 
+http://3pol.cz
 http://4.bp.blogspot.com
 http://404m.com
+http://57osobnosti.cz 
+http://8.cz
+http://8jinak.cz 
+http://MPX.cz 
+http://NPPE.libinst.cz 
+http://a-kontra.net 
 http://abclinuxu.cz
+http://abcsvatych.com 
+http://abilympics.cz 
+http://acecs.cz 
+http://aces.safarikovi.org
+http://ach.upol.cz/ucebnice/ 
+http://acpm.cz
+http://acpo.fsv.cuni.cz
+http://acta.musicologica.cz
+http://actavet.vfu.cz
+http://adamekma.sweb.cz
+http://admin2.lhost.cz/Include/Data/ 
+http://ado.cz/poutni/
+http://adrex.cz 
 http://aeroweb.cz
+http://aesthetics.ff.cuni.cz
+http://aforismy.webnode.cz
+http://agch.upol.cz 
+http://agents.felk.cvut.cz 
+http://agritech.cz
+http://agroenvi.cz
 http://agronavigator.cz
 http://akce.plzen.eu
+http://aks.zde.cz 
 http://aktuality.firstnet.cz
+http://alarmo.nostalghia.cz 
+http://aldebaran.cz 
+http://alena-hanakova.cz 
+http://aleph.nkp.cz/web/ok.htm
+http://aleph.nkp.cz/web/slkprir/
+http://alfaelektronky.cz
+http://alfredvedvore.cz
+http://alternativaplus.cz
+http://aluze.cz
+http://amazonskepralesy.cz 
+http://amrp.cz
+http://analytika.byethost2.com 
+http://ancr.cz 
+http://andragogika.ff.cuni.cz
+http://andrejbabis.blog.idnes.cz 
+http://anlet.cz
+http://anrcr.cz
+http://anthrop.sci.muni.cz
+http://antika.avonet.cz 
+http://antikomplex.cz
+http://antimony.wz.cz 
+http://antonin-dvorak.cz
+http://antropologie.zcu.cz/antropowebzin-12009
+http://ap.pef.czu.cz 
 http://apatykar.info
+http://apetitonline.cz 
+http://apha.cz 
 http://apic-ak.cz
+http://apk.ffa.vutbr.cz
+http://aquapage.cz
+http://aranearium.cz
+http://aras.cz
+http://archaiabrno.org
+http://architectaward.cz 
 http://archiv.coi.cz
+http://archiv.festival.cz
+http://archiv.jsi.cz
+http://archiv.otevrena-veda.cz
+http://archiv.soc.cas.cz
+http://arnika.org
+http://arnika.org/odpady
+http://arnika.org/pvc
+http://arnika.org/ucastverejnosti
 http://artmagazin.eu
+http://asicr.cz
+http://astfm.tul.cz
+http://astrofoto.cz 
+http://astronomia.zcu.cz
+http://astronuklfyzika.cz
+http://astroscripts.vsb.cz 
+http://astrosvet.com 
+http://ateam.zcu.cz
+http://atlashub.wz.cz 
 http://atominfo.cz
+http://autobusovenoviny.cz
+http://autoroad.cz 
+http://avo.cz
+http://avs.vyuka.info
 http://babyweb.cz
+http://baldeagle.eu
+http://baraka.cz
+http://barduvblog.blogspot.com 
+http://barduvblog.blogspot.cz 
+http://barrandien.wz.cz 
+http://basketbal.cz 
+http://basti.borec.cz/ 
+http://batikovat.cz 
+http://beerresearch.cz
 http://behej.com
+http://beskydy.cz 
+http://bezdruzickalokalka.cz 
+http://bezzabradli.pano3d.cz 
+http://bible21.cz
+http://bigmag.cz 
+http://bimba.cz
+http://bio-mleko.cz 
 http://biom.cz
+http://biskoupky.cz 
+http://bloc.cz
+http://blog.aktualne.centrum.cz/blogy/jan-hnizdil.php/ 
+http://blog.aktualne.centrum.cz/blogy/lubomir-zaoralek.php/ 
+http://blog.aktualne.centrum.cz/blogy/premysl-sobotka.php/
+http://blog.aktualne.cz/blogy/matej-hollan.php/
+http://blog.antonindanek.cz 
+http://blog.ataxo.cz 
 http://blog.baraka.cz
+http://blog.bcbezky.cz 
+http://blog.idnes.cz/blog/1191/
 http://blog.idnes.cz/blog/12258/
+http://blog.idnes.cz/blog/6442/
 http://blog.idnes.cz/blog/9144/
+http://blog.idnes.cz/blog/9337/
+http://blog.lvalenta.cz 
+http://blog.naucmese.cz
+http://blogovyroman.idnes.cz 
+http://bodovy-system.blog.cz 
+http://bohmischleipa.cz
+http://bohumildolezal.lidovky.cz 
+http://bohuslavsobotka.cz 
+http://boiohaemum.cz
 http://boleradice.cz
+http://botanika.wendys.cz
 http://botany.cz
+http://bovepul.blog.cz
 http://box.mefistofeles.cz
 http://bp.blogspot.com
+http://bp.blogspot.com 
+http://bpk.cz
+http://bpm-cz.blogspot.com 
+http://bpm-cz.blogspot.cz 
 http://brandysko.cz
+http://brazlie.blogspot.com 
+http://brdy.org
+http://breclav.eu 
+http://brutalassault.cz 
+http://bryle.cz
+http://bts.vscht.cz
+http://buchtyaloutky.rajce.idnes.cz
+http://buiatrie.cz 
+http://bulletin.skipcr.cz
+http://bunkry.cz
+http://burianzdenek.cz
 http://burma-center.org
-http://casodej.cz/analyza17.htm
+http://business.center.cz 
+http://bustehrad.cz 
+http://buyfeel.eu
+http://by-the-way.cz 
+http://bz-uk.cz 
+http://cajovnik.cz 
+http://camelot.czweb.org 
+http://canov.jergym.cz
+http://capek.misto.cz 
+http://capoeira.unas.cz 
+http://carolusquartus.eu
+http://casajc.ff.cuni.cz
+http://casopis.hostbrno.cz
+http://casopis.programator.cz 
 http://casopiskomar.wz.cz
+http://casopispromodernifilologii.ff.cuni.cz 
 http://caus.cz
+http://cbusbs.cz 
+http://cca.fcca.cz
+http://cccc.uochb.cas.cz
+http://cea.livinghistory.cz
+http://cebr.vse.cz
+http://cechoaustralan.com
+http://cejiss.org 
+http://cejpp.eu
+http://celticeurope.cz
+http://cenadalnic.oziveni.cz
+http://cenyandel.cz 
+http://ceramics-silikaty.cz 
+http://cernochov.cz 
+http://certnakoze.cz 
+http://cesi.sk
+http://ceska-apatyka.cz
+http://ceska-pisen.estranky.cz
+http://ceska-televize.uvadi.cz 
+http://ceskaghetta.cz
 http://ceskaskola.cz
-http://cestina20.cz
+http://cesles.silvarium.net
+http://cestina.cz 
+http://cestyapamatky.cz
+http://cetnici.habartov.cz 
+http://cfuc.vse.cz 
+http://cgs.flu.cas.cz 
 http://chcemeadopci.cz
 http://chcemebytpestouny.cz
+http://chemicke-listy.cz/Bulletin/ 
+http://chemie.gfxs.cz 
+http://chemie.upol.cz/aupo/
+http://chemie.utb.cz
+http://chemie.zajimavost.cz 
+http://chemie3d.wz.cz
 http://chemievjidle.cz
 http://chinaski.cz
+http://chip.cz 
+http://chlum1866.cz
+http://chodicilide.cz 
+http://chodime.cz
+http://choreahistorica.cz
 http://chrudimskenoviny.cz
+http://chrz.wz.cz 
+http://chysecko.milevsko.cz 
+http://cibulka.com 
+http://cikrtoviny.cz 
+http://cipa.cz 
 http://cirkev.wordpress.com
+http://cirkevnimajetek.cz
+http://cisvts.cz
+http://civetta.gacr.cas.cz/wordpress
+http://civilizace.mysteria.cz/ 
+http://cl.ff.cuni.cz
+http://clfa.cz
+http://clovecepohnise.cz
+http://clovek.ff.cuni.cz
+http://cls.meditorial.cz 
+http://cmf.ff.cuni.cz 
+http://cmhcd.vychozi.cz 
+http://cms.flu.cas.cz
+http://cnb.cz 
 http://cnews.cz
+http://cnspb.wz.cz
+http://codyprint.cz
+http://collegium.cz
+http://collegiummarianum.cz
+http://cpkp.cz
+http://cpvp.cz
+http://crc.muni.cz
+http://cs-letci.com
+http://cs-magazin.com/hucin/
+http://cs.balcanica.info
+http://cs.christiantoday.com 
+http://csds.cz
+http://csfv.org
+http://csns2005.cz 
+http://csol.cz 
+http://csvh.cz 
+http://ctk.cz 
+http://ctu-uk.cz
+http://curiavitkov.cz
+http://cuzzs.cz
+http://cvis.cz
+http://cvtvhs.cz 
+http://cyklo.praha-mesto.cz 
+http://cyrilametodej.cz 
+http://cz-raf.webnode.cz
 http://czech-ba.cz
+http://czech-hs.cz 
+http://czech-iran.webnode.cz 
+http://czech-logistics.eu 
+http://czech-music.net
+http://czech.czbelspol.cz 
 http://czech.prague.usembassy.gov
+http://czechcenter.org 
+http://czechhouselondon.cz 
+http://czechkid.eu
+http://czechmusic.org 
 http://czechofil.com
 http://czechofil.pinger.pl
-http://dejepis.pajka.info
+http://czechtourism.cz 
+http://czechurol.cz 
+http://czepos.cuzk.cz 
+http://czso.cz
+http://daidalos.ff.cuni.cz
+http://damu.cz
+http://danbarta.cz 
+http://danmaterna.cz 
+http://dar.site.cas.cz 
+http://dasfilmfest.cz 
+http://david-zbiral.cz
+http://dejepis.com
+http://dejiny.nln.cz
+http://dekujeme-odchazime.cz 
+http://deliandiver.org 
+http://dendrochronologie.cz
+http://dendrologickazahrada.cz
+http://denik.obce.cz 
+http://dentalcare.cz
 http://designeast.eu
-http://dieceze.misto.cz
-http://digit.nkp.cz
+http://deskovehry.info
+http://deti.vls.cz/
+http://detiaknihy.cz
+http://dienstbier.cz 
+http://digiarena.e15.cz 
+http://digiarena.zive.cz 
+http://digital-preservation-cz.blogspot.cz
+http://digitalislam.eu 
+http://dimense.blog.cz
+http://dingir.cz
+http://diskriminace.cz 
+http://disparity.vsb.cz
+http://divadlotabor.cz 
+http://divysveta.webz.cz 
 http://dmsbambus.cz
+http://dobraadresa.cz
+http://doctrine.cz
+http://dokurte.cz 
+http://domaci-vyrobky.cz 
+http://domek.cz 
+http://domino.cni.cz/NP/NotesPortalCNI.nsf/key/hlavni_stranka?Open 
+http://doprava.praha-mesto.cz 
+http://dopravni.net 
+http://doprirody.com
+http://drama.cz
+http://dropin.cz 
+http://druidova.mysteria.cz
+http://dslr-astrophotography.cz
+http://duly.eu
+http://dusevnivlastnictvi.cz
+http://dvorak-society.org 
+http://e-auto.cz 
+http://e-cajovna.net 
+http://e-fyzika.cz 
+http://e-islam.cz 
+http://e-komerce.cz 
 http://e-ott.info
+http://e-psycholog.eu
 http://e-sport.cz
 http://e15.cz
-http://edpilot.nkp.cz
-http://eifl.nkp.cz
-http://eifl.nkp.cz/stary_web/
-http://eifl.nkp.cz/stary_web/eifl.htm
-http://eitinger.cz
+http://ebondy.sweb.cz
+http://ec.europa.eu/ceskarepublika/ 
+http://echomagazin.com 
+http://ecologica.cz 
+http://ecologicaplus.cz 
+http://econnect.ecn.cz/ 
+http://effatha.cho.cz 
+http://egov.cz 
+http://egypt.ff.cuni.cz/EgTez/
+http://egyptologie.ff.cuni.cz
+http://ei.czechian.net
+http://ejbi.org 
+http://ekobrana.cz/
+http://ekolist.cz 
+http://ekospotrebitel.cz
+http://ekozahrady.com
+http://eldum.phil.muni.cz
 http://elektrorevue.cz
+http://elektrotechnickestavebnice.xf.cz 
+http://elektrotechnika.cz 
+http://emil.htmlplanet.com 
 http://emulgatory.cz
+http://en.valka.cz
+http://energyspectrum.net 
+http://entrancegallery.com
+http://enviweb.cz 
+http://eposcr.eu 
 http://equichannel.cz
 http://eretz.cz
-http://eunenicool.cz
+http://eris.osu.eu
+http://erss2.webnode.cz
+http://eshop.tkani.cz 
+http://etnologie.ff.cuni.cz
+http://eu.avcr.cz
 http://euractiv.cz
+http://eurookna.stolpa.biz 
+http://eurozpravy.cz 
 http://evalabusova.cz
+http://evangnet.cz 
+http://evarcha.cz
+http://evis.osu.cz
+http://ewrc.cz 
+http://exoticke-ovoce.coajak.cz 
+http://extra.cz 
 http://extrahardware.cnews.cz
 http://extranotebook.cnews.cz
 http://extrawindows.cnews.cz
+http://f1news.autoroad.cz 
+http://fa.vutbr.cz 
+http://factumpress.com 
+http://fai.econ.muni.cz
+http://fantasy-scifi.net 
 http://fantasyplanet.cz
 http://fanzine.topzine.cz
+http://faraon.wz.cz/ 
+http://farnost-karlin.cz 
 http://fblaboratory.blogspot.com
 http://fblaboratory.blogspot.cz
+http://fca.fcca.cz
+http://fch.upol.cz
+http://fel.cvut.cz
+http://feldpost.sweb.cz 
 http://feminismus.cz
+http://festival.cz
+http://festivalnadrekou.cz
+http://fhk.cz 
+http://filatelie.fsr.cz
+http://files.czech-iran.webnode.cz 
+http://files.fitnessbusiness.cz
+http://files.klic02.webnode.cz
+http://files.ww2collection4.webnode.cz
+http://filipweber.cz
+http://filmcenter.cz 
+http://filmcommission.cz 
+http://filmoveplatno.cz
+http://filmwave.srnet.cz 
 http://finance.cz
+http://financnik.cz 
 http://finexpert.cz
+http://fit-porod.cz 
+http://fjfi.cce.cz/af.html
 http://flymag.cz
+http://fod.cz
+http://fok.cz 
 http://foodnet.cz
+http://fortifikace.net
+http://forum.valka.cz
+http://foto.astronomy.cz 
+http://fotoaparat.cz 
 http://fotobookaktuality.blogspot.com
 http://fotobookaktuality.blogspot.cz
-http://full.nkp.cz/nkkr/
-http://full.nkp.cz/nkkr/NKKR.html
+http://fotonoviny.cz 
+http://fotoroman.cz
+http://fottea.czechphycology.cz
+http://franzferdinand.cz
+http://freebit.cz 
+http://fu.ff.cuni.cz
 http://futuraproject.cz
+http://fysis.cz
+http://fyzika.jreichl.com
+http://fyzmatik.pise.cz 
+http://fyzweb.cuni.cz/knihovna/fermilab/ 
+http://fyzweb.cz
+http://gajdy.cz 
 http://galerie.bourky.com
 http://galerie.bourky.cz
+http://galerie.valka.cz
+http://galeriejeleni.cz
+http://galeriemagda.cz
+http://gallery.insect.cz 
+http://games.tiscali.cz 
+http://gchmin.ic.cz
+http://genderonline.cz
+http://genetika-biologie.cz
+http://genetika.wz.cz
+http://geneze.info
+http://gentlemensingers.cz
+http://geo.ujep.cz
+http://geografickelisty.com 
+http://geography.cz/geograficke-rozhledy/
+http://geologie.unas.cz 
+http://geologie.vsb.cz
 http://ggpht.com
+http://girlinczechland.com
+http://girlinczechland.wordpress.com
+http://gis.vsb.cz/GIS_Ostrava/
+http://gis.vsb.cz/gis2010
+http://globalpolitics.cz 
+http://glosy.info 
+http://glpartnerstvi.cz 
 http://golf.cz
+http://granamazonia.cz
 http://guns-info.cz
+http://gurmetklub.cz 
+http://gyne.cz
 http://h-aluze.cz
+http://h.htm
+http://habsburk.wz.cz 
+http://hagioterapie.cz
+http://halmil.blog.cz 
+http://halo.astronomie.cz 
+http://hamelika.webzdarma.cz 
+http://harekrsna.cz
+http://havlik.blog.idnes.cz 
+http://havran.pefr.net
+http://heis.vuv.cz
 http://helpnet.cz
+http://heraldica.cz
+http://heraldicka-spol.net
+http://historicalsociology.cz
+http://historie.hranet.cz
+http://historie.upol.cz/19/
+http://hitspraha.cz 
+http://hjs.ff.cuni.cz
+http://hledampraci.cz/pracovni-pravo/
+http://hokuv.com 
+http://hollan.blog.respekt.cz/
+http://hollan.blog.respekt.ihned.cz
+http://holocaust.cz
+http://home.tiscali.cz/bovepul/
+http://home.zcu.cz/~smid/ 
+http://home.zcu.cz/~tomiczek/ 
+http://homosexualita.cz
+http://horice.safarikovi.org
+http://hornibojanovice.cz
 http://hornicky-klub.info
+http://horskasluzba.cz 
+http://hory-krkonose.cz 
 http://horyinfo.cz
-http://http://www.bastiat.kvalitne.cz
+http://hplc.cz
+http://hrad.cz 
+http://hrusice.muzeumompv.cz
+http://hscr.cz 
+http://humanicus.org
+http://humanisti.cz
+http://humpolec.org
+http://hurvinkuv.pinknet.cz 
+http://iapsa.cz
+http://ibby.cz
+http://ic.mnichovice.info 
+http://icdcprague.org
 http://icm.cz
 http://idaret.cz
+http://idif.cz 
+http://idnes.cz 
+http://ieee.cz
+http://iel.vscht.cz
+http://iforum.cuni.cz
+http://iir.cz
+http://ikvalita.cz
 http://iliteratura.cz
+http://img.ihned.cz 
+http://img1.ceskatelevize.cz/specialy/zlatapraha/ 
+http://img2.ceskatelevize.cz/specialy/zlatapraha/ 
+http://img5.ceskatelevize.cz/specialy/zlatapraha/ 
+http://industry.biomed.cas.cz
+http://ineb.nkp.cz
 http://info.muni.cz
+http://info.siliconhill.cz
 http://infoportaly.cz
+http://informace-scf.cz
 http://informacezbrna.cz
+http://ingressia.cz 
+http://inoboediens.estranky.cz
+http://insolvencni-zakon.justice.cz
+http://institutpraha.cz 
+http://internet.er.cz 
+http://interval.cz 
+http://iom.cz
+http://ipk.nkp.cz
+http://irafm.osu.cz
 http://irenamauranovotna.blog.idnes.cz
+http://irz.cz
+http://is.muni.cz/clanky/
+http://is.muni.cz/do/
+http://is.muni.cz/do/1499/el/estud/pedf/js10/chemie/web/index.html
+http://is.muni.cz/elportal/
+http://isidorus.net
+http://ispv.cz
+http://isvs.cz
+http://itblob.havrlant.net 
+http://itest.cz 
+http://iuridictum.pecina.cz
+http://ivankral.net 
+http://ivdmr.fss.muni.cz
+http://ivris.fss.muni.cz
+http://iwaldorf.cz
 http://izdoprava.cz
+http://jagr68.wz.cz 
+http://jaktridit.cz 
 http://janasimonova.blog.idnes.cz
+http://janplechac.com 
+http://janpoupe.blogspot.cz 
+http://japonsko.info 
+http://jaro.krivohlavy.cz
 http://jarodic.cz
+http://javascript.webz.cz/index.php3 
+http://jaweta.sweb.cz
+http://jeronymklimes.webpark.cz
+http://jeseniky-tourism.cz 
+http://jetrichovicko.euweb.cz 
+http://jewishmuseum.cz
+http://jihoceskyherold.cz
+http://jihogen.wz.cz 
 http://jiri.peterka.cz
+http://jiribouska.com 
+http://jirilouzensky.txt.cz
+http://jks.euin.org 
 http://jlbjlt.net
-http://karaimskahagada.estranky.cz
-http://kasz.sweb.cz/pf03/
+http://jnp.zive.cz 
+http://juniorinternet.cz
+http://juniorinternetcz.netvisio.cz
+http://kabrt-josef.blog.cz
+http://kap.fp.tul.cz
+http://kardinal.cz 
+http://karel-may.majerco.net
+http://karelburian.cz
+http://karelkryl.cz
+http://karelwagner.blog.idnes.cz
+http://karluvmost.cz 
+http://karolinaloskotova.blog.cz 
+http://katedra.munimedia.cz
 http://katerinaklasnova.cz
+http://kdf.mff.cuni.cz
 http://kdu.cz
 http://kducsl.cz
+http://keltoman.sweb.cz
+http://kfch.upce.cz
+http://khspce.cz 
+http://khszlin.com
+http://kisk.phil.muni.cz
+http://kjj.cz 
+http://kladnominule.cz
+http://klarinetweb.wz.cz
+http://klatovynet.cz/sds/ 
+http://klicove-hnuti.webnode.cz 
+http://klimes.mysteria.cz
+http://klimes.wz.cz
+http://kmochuvkolin.cz 
+http://kmochuvkolin.eu 
+http://knihotoc.cz
+http://knihovna-pardubice.cz
+http://knihovna.litomysl.cz
+http://knihovna.nkp.cz
 http://knihovna.policka.org
+http://knihovnam.nkp.cz
 http://knihovnice.cz
+http://koaliceprozdravi.cz 
+http://kohoutikriz.org
 http://komeniologie.flu.cas.cz
-http://kostym.cz
+http://koment.cz
+http://komiksfest.cz
+http://komora.fotografu.cz 
+http://koncentracni-tabory.estranky.cz
+http://konference.3d-tisk.cz
+http://konference.osu.cz/khv/
+http://konzument.cz
+http://koordona.cz 
+http://kopejtkova.cz 
+http://kosikareni.cz 
+http://kosmos-news.kosmo.cz 
+http://kozy.cz 
+http://kr-karlovarsky.cz 
+http://kr-olomoucky.cz 
+http://kr-stredocesky.cz 
 http://kr-ustecky.cz
 http://kr-vysocina.cz
+http://kr-zlinsky.cz 
 http://kraj-jihocesky.cz
 http://kraj-lbc.cz
+http://krajane.radio.cz 
+http://kratkyfilm.cz
+http://krimi-servis.cz
+http://kriminalistika.eu
+http://krivosik.blogspot.com 
+http://krivosik.blogspot.cz 
+http://krizovatka.skaut.cz 
+http://krizovatkyarchitektury.cz 
+http://krumlov-net.cz
+http://ksicht.natur.cuni.cz
+http://ksn.cz 
+http://ksn.cz/index.php?dok=0071&vse=vse 
+http://ksp.mff.cuni.cz
+http://kti.mff.cuni.cz/~bartak/clp/
 http://kudyznudy.cz
+http://kuh.housle.cz 
+http://kuhnata.cz
+http://kuks.estranky.cz
+http://kulicky.eu
+http://kurdove.ecn.cz 
+http://kvetena.cz
+http://kviff.com
+http://kybernetika.utia.cas.cz 
+http://kzv.kkvysociny.cz
+http://laborator.pod.cz
+http://labtestsonline.cz 
+http://ladislavvins.blog.idnes.cz
+http://langerovamirka.blog.respekt.ihned.cz
 http://langweil.info
+http://lanovky.unas.cz 
+http://lawi-author.cz 
+http://leosjanacek.com 
+http://lesnims.cz
+http://lesypraha.cz 
+http://letectvi.wz.cz 
 http://letemsvetemapplem.eu
+http://letnislavnosti.cz
+http://lf.clavmon.cz 
+http://lfs.cz
 http://liberecky-kraj.cz
+http://libpro.cts.cuni.cz 
+http://lidecko.cz 
+http://lidemesta.cz
+http://lidice.cz 
+http://lingvistika.mysteria.cz 
+http://linuxzone.cz
 http://literarky.cz
+http://literarni.cz 
 http://literarninoviny.cz
+http://litprocess.ru
+http://litvinovjanov.blog.cz 
+http://lms.vscht.cz 
+http://logika.ff.cuni.cz
+http://lok-scl.cz 
+http://lokality.geology.cz 
+http://lokomotivy.euweb.cz
+http://lokopin.wz.cz
+http://lslany.cz 
+http://lubojaty.zrnkapisku.eu
+http://lucie.cz 
+http://lucy.troja.mff.cuni.cz/~tichy/ 
+http://ludmila.frantiskanstvi.cz
+http://ludviksalvator.cz
+http://lupa.cz
+http://luzice.cz 
+http://lyrik.cz
+http://magazin.lesba.cz 
+http://magazin.specialista.info 
+http://managerweb.ihned.cz/200-T0V000-d1 
+http://mano.cz 
+http://manzelstvi.cz 
+http://marastjakcyp.com 
+http://marcelkonecny.blogspot.cz 
+http://marianjurecka.blog.idnes.cz 
+http://marketingovenoviny.cz 
+http://marmolata.gacr.cas.cz
+http://martin.hinner.info/math/Fraktaly/ 
+http://martin.typomil.com
+http://martinadamek.cz
+http://martindejdar.com 
+http://martinkonvicka.blog.idnes.cz 
+http://masozravky.com 
+http://math.feld.cvut.cz 
+http://math.muni.cz
+http://mathonline.fme.vutbr.cz
+http://matlab.feld.cvut.cz
+http://matrix-2001.cz 
+http://matuska.lyrik.cz
+http://mc-galerie.cz
+http://mdg.vsb.cz
+http://medard.soc.cas.cz
+http://media.fel.cvut.cz
+http://mediadeskcz.eu
 http://mediainfo.cz
 http://mediar.cz
-http://medo.cz/jaromir/kniha_snar/
-http://mesicraka.cz/
+http://medico.juristic.cz 
+http://mediradce.wgz.cz
+http://medmicro.info
+http://melanomy.cz 
+http://members.chello.at/hoskovec/
+http://members.tripod.com/gamma_photon/ 
+http://mendelu.vedeckecasopisy.cz/publicFiles/
+http://mesec.cz
+http://mesic.astronomie.cz
+http://mesta.obce.cz/hlavnice/ 
+http://metalopolis.net 
+http://metancity.com 
+http://mfantasy.cz 
 http://mfcr.cz
+http://mff.cuni.cz 
 http://mhdfoto.cz
+http://mhdzive.cz 
+http://mic.muhb.cz 
+http://michalkubicek.cz
 http://mikrogranty.cz
+http://milanchovanec.blog.idnes.cz 
+http://milanurban.cz 
+http://milcice.eu
+http://milevskoklaster.cz 
+http://miloslavvlcek.blog.idnes.cz 
+http://miloslavvlcek.cz 
+http://miminet.cz 
+http://miminka.cz 
+http://miminko.com 
+http://mineral.cz
+http://mineraly.net 
+http://minigolfsport.cz 
+http://minimalizacesikany.cz
+http://mista.unas.cz
+http://mistnikultura.cz 
+http://mix.cz 
+http://mkc.cz 
 http://mladejovsky.blogspot.com
 http://mladejovsky.blogspot.cz
+http://mluhovy.com 
 http://mluveny.panacek.com
+http://mo.mff.cuni.cz/p/
 http://mobilenet.cz
+http://modelova-zeleznice.wz.cz 
+http://moje-rodina.cz 
+http://mojebrno.wz.cz
+http://mojejaponsko.blogspot.cz
 http://mojenozky.cz
+http://mojesocdem.cz 
+http://mollusca.wz.cz 
+http://montanya.org 
+http://morava24.cz 
+http://moravsko-slezsko.cz 
+http://mosty.cz 
+http://motejlek.com 
+http://motorkari.cz 
+http://moviescreen.cz
+http://moznost.info 
+http://moznost.wz.cz 
+http://mp.muhb.cz 
+http://mp3.slovozivota.cz 
 http://mpsv.cz
+http://mpz.cz
+http://mrk.cz 
+http://mujipod.cz 
+http://mujmac.cz 
+http://mujweb.cz/www/brixi/ 
+http://mujweb.cz/www/lugh/ 
+http://mukolin.cz 
+http://musicaflorea.cz
+http://musicology.ff.cuni.cz
 http://musicserver.cz
+http://muslim-inform.cz 
 http://muzes.cz
+http://muzeum-beroun.cz
+http://muzeum-cv.net/
+http://muzeum.krnov.cz
+http://muzeum.mineral.cz
+http://muzeumjilove.cz 
+http://muzeumusti.cz
+http://myschwerk.webzdarma.cz 
+http://myslivost.wz.cz 
+http://mze.cz 
+http://nabla.cz
+http://nachrichten.tschechien-online.org/ 
+http://nadace.olympic.cz
+http://nadanedite.cz
+http://nahoranky.cz
+http://nakrizovatce.knihovna.cz
+http://namastenepal.cz
+http://nanomedicina.sweb.cz 
+http://napoleonska-spolecnost.cz
+http://narodnidemokracie.cz
+http://narodopisnaspolecnost.cz
+http://naseadresa.cz 
 http://naszviretnik.net
+http://natur.cuni.cz/cho/
+http://naturfoto.cz 
+http://navarova.wz.cz
+http://navrcholu.cz 
 http://nazeleno.cz
+http://ncsml.org 
+http://nd03.jxs.cz
+http://nd04.jxs.cz
+http://nd05.jxs.cz
+http://ndk.cz
+http://nebmech.astronomy.cz 
+http://nechcikazy.cz 
+http://nechtenasbyt.cz 
+http://needrland.cz 
+http://nehybnost.cz 
+http://nejlepsiknihydetem.cz 
+http://nejvetsicech.cz 
+http://neonatologie.cz 
+http://neoweb.cz 
+http://netdubacek.euweb.cz
 http://netshopper.cz
 http://neviditelnypes.cz
 http://neviditelnypes.lidovky.cz
+http://new-presence.cz 
+http://new.petr.sweb.cz 
+http://newceltic.czechian.net 
+http://nezakladnam.cz 
+http://nezavirejteoci.cz
 http://nhlpro.cz
-http://novy.ropid.cz/
+http://nipos-mk.cz 
+http://nocturno.webnode.cz
+http://nomenomen.cz 
+http://nosppp.cmkos.cz 
+http://nova.medicina.cz 
+http://novanobilitas.eu
+http://noveextra.blogspot.com 
+http://noveextra.blogspot.cz 
+http://novohradky.info
+http://novyles.cz 
+http://npsumava.cz
+http://nros.cz 
+http://nuov.cz
+http://nur.cz
+http://nv.fotbal.cz 
+http://oamerice.com
+http://obcan.ecn.cz 
+http://obcanskyzakonik.justice.cz
+http://obcinst.cz 
+http://obec-krestanu.cz
+http://obeclegionarska.cz 
+http://obecpohori.cz/prezentace/kronika/
+http://obecpratelskarodine.cz
+http://obecprekladatelu.cz
+http://obecspisovatelu.cz
+http://obetiahrdinove.cz
+http://observatory.cz 
+http://obstastnik.divno.cz 
+http://oceans.greenpeace.org/cs/ 
+http://ochranaobyvatel.cz 
+http://octopus.juristic.cz 
+http://odboj.jicinsko.cz 
+http://odpady.arnika.org
+http://oenergetice.cz 
+http://office.lasakovi.com
+http://ojs.journals.cz/index.php/EJBE/
+http://ok-tourism.cz 
+http://ok.cz/iksp/
+http://oknavesmiru.cz
+http://okultismus.mysteria.cz 
+http://olam.cz
+http://old.cas.cz/rvs/ 
+http://old.chmi.cz 
+http://old.festival.cz
 http://old.golf.cz
+http://old.hrad.cz 
+http://old.mendelu.cz/~agro/af/agrochem/multitexty/ 
 http://old.sukl.cz
+http://old.svaznarodnihazene.cz 
+http://olomouckamhd.ic.cz 
+http://olympicwatch.org 
+http://olympijske-hry-sochi-2014.cz 
+http://online.agris.cz 
+http://online.zurnalistika.cz 
 http://operadream.blogspot.com
+http://operativa.cz 
+http://opona.lahvista.cz
+http://orgchem.upol.cz 
+http://orisek.net 
+http://orl.cz 
 http://osel.cz
+http://osobnosti.cz 
+http://osphgn.cmkos.cz 
 http://ostravskenoviny.cz
-http://paleoetnologie.wz.cz
-http://pallotto.blog.idnes.cz
+http://ostruzno.eu
+http://otecvlasti.eu
+http://otta.cechove.cz/ 
+http://oujesenice.cz 
+http://p://www.sedmstatecnych.cz 
+http://palicedute.org 
+http://palmserver.cz 
+http://pametihodnosti.cz 
+http://pampeliska.eu 
+http://panepremiere.cz 
+http://panovnici.cz 
+http://pantokrator.ic.cz 
+http://panzernet.net 
 http://pardubice.eu
 http://parlament-vlada.cz
+http://parostroj.net
+http://participace.cz 
+http://pastorace.cz 
+http://paulinky.cz
+http://pavelblazek.com/vatnajokullsolo2006/ 
+http://pavelbobek.cz 
+http://pavelzednicek.cz 
+http://pavlovacajovna.cz 
+http://pbstromy.unas.cz 
+http://pcpe.libinst.cz/nppe/ 
 http://pcrady.cnews.cz
+http://pcsvet.cz 
+http://pctuning.tyden.cz 
+http://pedagogika.ff.cuni.cz
+http://periodika.osu.cz/cejnm/
+http://periodika.osu.cz/eris/
+http://periodika.osu.cz/osetrovatelstviaporodniasistence/
+http://pernerscontacts.upce.cz
 http://pes.eunet.cz
-http://pf03.wz.cz
+http://pgrlf.cz 
+http://pgweb.cz 
+http://philologica.net
+http://physics.mff.cuni.cz/kfpp/skripta/elektronika/ 
 http://pidservis.vhd.cz
+http://pikarec.cz 
 http://pivni.info
+http://pivnirecenze.cz
+http://pivovarska-skola.cz
 http://pivovary.info
+http://plachteni.cz
+http://planetarium.vsb.cz/astroscripts/ 
+http://planetky.astro.cz
+http://planetopia.cz
+http://pmscr.cz 
+http://podhuri-sumavy.cz
+http://podnikava-petka.cz 
+http://pohadky.org
+http://pohadky123.estranky.cz 
+http://pohadkyprodeti.cz
+http://pohadkyprodeti.diafilm.cz
+http://pohanstvi.net
+http://pohlednicekamenicenadlipou.wz.cz 
+http://pohledy-ml.wz.cz 
 http://policejnidenik.cz
+http://policista.cz 
+http://politictivezni.cz
+http://polonistika.cz 
+http://popin.natur.cuni.cz 
+http://popmuseum.cz 
+http://poradna-prava.cz 
+http://porodnice.cz 
+http://portal.gov.cz
+http://portal.vstecb.cz/publishingportal/ 
+http://portalci.cz 
 http://poslouchej.net
+http://postbellum.cz 
+http://potala.cz 
+http://povetrnik.cz
+http://powwow.cz
 http://pozitivni-noviny.cz
-http://pracovnipravo.iure.org
+http://ppfp.cz
+http://ppfp.estranky.cz
+http://pragjesu.info
+http://praguecoldwar.cz 
+http://praguefashionweek.com 
+http://praguepost.com 
 http://praguewatch.cz
+http://praha.muzejninoc.cz
+http://pramenyzdravi.cz 
+http://pravdaoislamu.cz 
+http://pravdaovode.cz 
+http://pravek.wz.cz/ 
+http://pravnik.cz
+http://pravojinak.blogspot.com 
+http://pravojinak.blogspot.cz 
+http://prazskamuzejninoc.cz
+http://prazskestezky.cz
+http://prevence.cpvp.cz
+http://prevod.cz 
+http://prezentace-fyzika-chemie.wz.cz 
+http://prezidentka.cz
+http://prgcons.cz
 http://pribehynapadesatslov.cz
+http://pribram-city.cz 
+http://prirodakarlovarska.cz
+http://prirodniparky.wz.cz 
+http://pro-bio.stachy.cz 
+http://proatom.luksoft.cz 
+http://probasket.cz 
+http://procesy.cz 
+http://procesycz.blogspot.cz 
+http://procproto.cz 
+http://prodia.milackove.net 
+http://profeseonline.upol.cz
+http://profil.muni.cz
+http://profimysl.cz
+http://programujte.com 
 http://proinvestory.cz
+http://projects.its.czu.cz/ats/
+http://projek.cz/blogy/ondrej-liska.php/ 
+http://projekt.munimedia.cz
+http://projektalfa.ic.cz
+http://prokrajinu.cz
+http://prokrestany.sweb.cz 
+http://prostor-ad.cz 
+http://protiageismu.alternativaplus.cz
+http://protikomunisticke.misto.cz 
+http://protiproudu.cz 
+http://proverenafakulta.cz
+http://provzdelanost.cz
+http://pruvodcedetisvetem.cz
+http://pssi.cz
+http://psychoanalytickytydenik.sweb.cz
+http://psychoanalyza.com
+http://psychologie.cz 
+http://psychologie.ff.cuni.cz
+http://psychoweb.cz 
+http://ptac.cz 
 http://ptel.cz
+http://publication.fsv.cuni.cz
+http://pvc.arnika.org
+http://pvsps.cz
+http://pwf.cz 
+http://racinglife.cz
+http://radaproaudit.cz
+http://radioeng.cz
+http://radioeng.cz/papers/2012-1.htm
+http://radioeng.cz/papers/2012-2.htm
+http://radioeng.cz/papers/2012-3.htm
+http://radioeng.cz/papers/2012-4.htm
+http://radioeng.cz/papers/2013-1.htm
+http://radiotv.cz 
+http://raduza.cz 
 http://radyvnouzi.cz
+http://rally-mania.cz 
+http://rallye-rejviz.cz
 http://rallylife.cz
+http://rallyzone.autoroad.cz 
+http://recepty-rettigova.cz 
+http://reflex.cz 
+http://regionalist.cz 
+http://regiony.otevrena-veda.cz
+http://rehabilitovani-vojaci.cz
+http://reisen.tschechien-online.org 
+http://rentgen.cz
+http://rentgen.eu
+http://repre.mtbo.cz 
+http://responsibility.cz
+http://revuetrivium.cz
+http://rexter.cz
 http://rezbari.cz
-http://roofs.cz
+http://rim.me.cz 
+http://robotika.cz 
+http://rodina.cz 
+http://rodiny.cz
+http://rodopisna-revue-online.tode.cz 
+http://rodopisne-prirucky-on-line.wz.cz 
+http://rodovystatek.cz
+http://romanonderka.cz 
+http://romanske.blog.cz
+http://root.cz
+http://rosa-os.cz
+http://rosicko-oslavansko.cz
+http://rostemesknihou.cz 
+http://rozhlednyunas.cz 
+http://rozmberskyrok.cz 
 http://rsd.cz
+http://rtime.felk.cvut.cz/helicopter/
 http://ruce.cz
+http://rucniprace.cz 
+http://rucniprace.cz/obchod/ 
+http://ruze.wi.cz
+http://ruzovypanter.cz 
+http://rvda.cz
 http://rvp.cz
+http://rvs.avcr.cz 
+http://sanami.cz
+http://sancti.catholica.cz 
+http://savci.upol.cz
+http://savez-ceha.hr 
+http://sbirky.cmvu.cz
+http://sca-art.cz 
+http://scb.wdr.cz
 http://schpcm.cz
+http://scifibaze.wz.cz
+http://scriptici.wz.cz 
 http://sdb.cz
+http://sdruzeni-avalon.cz 
+http://seaplanet.eu 
+http://seaplanet.web2u.cz 
+http://sebrleroman.cz 
+http://sechtl-vosecek.ucw.cz
+http://sedmagenerace.cz 
+http://sekai.cz
+http://selmy.cz
+http://semania.mobilmania.cz 
+http://senatorskyklub.cssd.cz 
+http://senftenberg.cz
+http://sever.wu.cz
+http://sexualni.zneuzivani.cz
+http://sexuologickaspolecnost.cz
 http://shekel.cz
+http://si-journal.org
+http://sisyfos.zcu.cz
+http://site.the.cz 
+http://sites.google.com/site/bovepul/
+http://skaly.horosvaz.cz/ 
+http://skaut.cz 
+http://skip.nkp.cz
 http://sklenenykostel.net
+http://skoda.daves.cz
+http://skoda100.cz 
+http://skoda110r.cz 
+http://skolaonline.cz 
+http://skolatachov.cz
+http://skreta.cz 
+http://skripta.dictor.net/ 
 http://skromach.cz
+http://slea.cz
+http://slovane.cz 
+http://slovnikceskeliteratury.cz
+http://smartmania.cz 
+http://smartmania.mobilmania.cz 
+http://smichov.blog.cz 
+http://smircikrize.euweb.cz
+http://smirice.eu
+http://smop.cz
+http://socialni-zaclenovani.cz
 http://socialnidialog.cz
+http://socialniporadce.mpsv.cz
+http://socialniprace.cz
+http://socialnirevue.cz 
+http://socialnisluzby.eu
+http://socioterapie.cz 
+http://socp.ff.cuni.cz
+http://sokolnictvi.net 
+http://sommerova.cz
+http://soom.cz
+http://sova.rkka.cz
+http://space-walk.info 
+http://spd.cz 
 http://speedwaya-z.cz
+http://spnv.cz
+http://spolecnostps.wz.cz
 http://spotrebitel.cz
+http://spppp.eu 
+http://spravnym.smerem.cz
 http://spspraha.cz
+http://spz.logout.cz 
+http://srchcz.cz 
+http://srobf.cz
 http://stare.zbraslav.info
+http://starovekyegypt.net
+http://stary-web.zastarouprahu.cz
+http://static.brutalassault.cz 
+http://static.cejiss.org 
+http://statnisprava.cz 
+http://stavbaweb.dumabyt.cz/
+http://stavebni-technika.cz 
+http://stavebnitechnologie.cz 
+http://stavocentrum.cz 
+http://stc.cz 
+http://stcostrava.cz
+http://steigerwald.cz 
+http://stoplus.cz 
+http://stopnasili.cz
+http://stopnasilinadetech.cz
+http://storekhlinsko.cz
+http://stovi.info/pomnicky/
+http://strach.cz
+http://strahovskyklaster.cz 
+http://strakaci.cz
+http://strasin.com
+http://stratif.cz
+http://strazprirody.cz
+http://strednimorava-tourism.cz 
+http://stredovek.com
+http://strojcasu.cz 
+http://struznice-jezve.cz
 http://studentmag.topzine.cz
+http://studie.blog.cz 
+http://studie.soc.cas.cz
+http://studium.orgchem.upol.cz 
+http://stuz.cz
+http://subjektivnik.cz 
+http://subrt.blog.idnes.cz
+http://suchaloz.cz 
+http://suip.cz 
+http://sumava.net 
+http://sumavskecyklotrasy.euweb.cz
+http://superdance.cz 
+http://surrealismus.rajce.idnes.cz
+http://svata-hora.cz 
+http://svatypavel.paulinky.cz
+http://svaztp.cz 
+http://svedomi.cz 
+http://svet-bydleni.cz 
+http://svet-cloveka.com 
+http://svet-literatury.wz.cz
+http://svetdnes.cz 
+http://svethardware.cz 
+http://svetknihy.cz 
 http://svetmyslivosti.silvarium.cz
+http://svetovypochod.cz
+http://svkhk.cz
+http://svkhk.cz/Pro-knihovny/Zpravodaj-U-nas.aspx/
+http://svob.czweb.org
+http://svobodavolby.cz
 http://svornost.com
+http://svs.institutpraha.cz
+http://sweb.cz/adamekma/
+http://sweb.cz/keltoman/
+http://synagogy.euweb.cz
+http://systemonline.cz 
+http://tajemno.com 
+http://tance.cz 
+http://techbit.cz 
+http://techblog.cz 
+http://techmania.cz/edutorium/
+http://technickepamatky.cz
 http://techno.cz
+http://telma.unas.cz 
+http://telmae.cz 
+http://terraverita.cz/clanky
+http://tesnopis.cz
+http://testovanisoftwaru.cz
+http://theaction.cz 
+http://tibetmysli.cz 
+http://tiphardware.cz 
+http://tipyjakfotit.cz
+http://tisicileti.cz
 http://tisk.cirkev.cz
-http://tjekkiet.um.dk/
-http://tjekkiet.um.dk/cs/
-http://uhlir.al.sweb.cz
+http://tisnov.safarikovi.org
+http://tkani.cz 
+http://tocnik.com
+http://tomasbata.com
+http://tomasklus.cz 
+http://totem.cz 
+http://trabant.cz 
+http://treneri.olympic.cz
+http://tresen.vscht.cz/min/ 
+http://tspweb.cz 
+http://ttp://www.atjsk.cz 
+http://turisturaj.cz 
+http://tvujdum.cz 
+http://tyinternety.cz 
+http://typo.cz
+http://typografie.dero.name 
+http://typomil.com
+http://ucastverejnosti.arnika.org
+http://ucjtk.ff.cuni.cz
+http://uclk.ff.cuni.cz
+http://ucnk.ff.cuni.cz 
+http://udalosti.astronomy.cz 
+http://ufal.mff.cuni.cz 
+http://ufch.vscht.cz 
+http://ufd.cz
+http://uhersko.com
+http://uisk.ff.cuni.cz
+http://ujak.cz 
+http://ukazy.astro.cz
+http://ukmedia.cz 
 http://ukr.plzen.eu
-http://unterwegs-in-tschechien.cz
+http://ukrajinci.cz 
+http://umeleckabeseda.cz/ 
+http://unas.svkhk.cz
+http://underfilm.cz
+http://unveiled.blog.cz 
+http://uoch.vscht.cz 
+http://uprchlik.ecn.cz/cz/
+http://urls.ff.cuni.cz
+http://urls2.ff.cuni.cz
+http://userweb.pedf.cuni.cz/paideia/
+http://usti68-89.cz 
+http://utb.cz 
+http://utia.cas.cz 
+http://uvdl.cz 
+http://uzsi.cz 
+http://v-art.cz
+http://v-praha.info
+http://vakinfo.cz
+http://valka.idnes.cz 
+http://varhany.varhanici.info
 http://vasevec.cz
+http://vaspodpis.cz
+http://vcctrebic.info 
+http://vcely.euweb.cz
+http://vcm-sbirky.cz 
+http://vd-ob.cz
+http://vedazije.cz
 http://velehory.cz
+http://venkovskenoviny.cpkp.cz
+http://vesniceroku.cz 
+http://vetweb.cz 
+http://vfu-www.vfu.cz/acta-vet/
+http://viklicky.com
+http://vilemwalter.cz 
+http://vira.cz 
 http://virtually.cz
+http://visible.cz 
+http://vismo.obce.cz/hlavnice/ 
+http://vit-machalek.bloger.cz
+http://vitalion.cz 
+http://vitarian.cz 
+http://vitmachalek.blog.idnes.cz
+http://vize.cz 
+http://vladimirmerta.cz 
+http://vlast.cz
+http://vlastenci.cz
 http://vlastikfurst.blog.idnes.cz
+http://vlastnicesta.cz 
+http://vodik.czweb.org
+http://vodnihospodarstvi.cz 
 http://vodninadrze.pmo.cz
+http://vojenstvi.cz
+http://vojsko.net 
 http://volby.kdu.cz
 http://volleycountry.com
+http://vons.cz
 http://vozickar.com
+http://vscht.cz/kat/ 
+http://vscht.cz/mat/ 
+http://vscht.cz/pol/ 
+http://vscht.cz/ufmt/ 
+http://vscr.cz 
+http://vse.cz/aop/
+http://vse.cz/polek/
+http://vseprozdravi.cz
+http://vsetin-info.cz 
+http://vsfs.cz/acta/
+http://vubhb.cz
+http://vubp.cz
+http://vvp.avu.cz
+http://vybojky-zarovky.wz.cz
 http://vyletnik.cz
-http://www.aaao.cz
+http://vysluhy.cz
+http://vyvojar.cz
+http://vzdelaninenizbozi.cz 
+http://web.natur.cuni.cz/ugmnz/mineral/ 
+http://web.pedf.cuni.cz/paideia/
+http://web.quick.cz/fsvbart/ 
+http://web.quick.cz/matej.schnabl/Jizerky 
+http://web.uhk.cz/cvp/ 
+http://web2.mendelu.cz/af_239_nanotech/
+http://web2.mendelu.cz/af_239_nanotech/J_Met_Nano/
+http://webcoffee.eu 
+http://webfyzika.fsv.cvut.cz
+http://webmap.dppcr.cz 
+http://webresources.vsb.cz/grab/astroscripts.vsb.cz/ 
+http://weby.trutnov.cz 
+http://webylon.info
+http://westerndesert.geolab.cz/
+http://westerndesertflora.geolab.cz
+http://wirtschaft.tschechien-online.org/ 
+http://wogastisburc.com
+http://wonka.wz.cz 
+http://ww.mineraly.org 
+http://ww2collection4.webnode.cz
+http://www-hep2.fzu.cz/adventure/ 
+http://www.14-15.cz
+http://www.1czpjc.cz 
+http://www.3d-tisk.cz
+http://www.89.usd.cas.cz
+http://www.I-Motorsport.cz 
+http://www.a-kontra.cz 
+http://www.ac-olomouc.cz
+http://www.academicpublishingplatforms.com 
+http://www.acld.mysteria.cz 
+http://www.acpo.cz
+http://www.actualgyn.com
 http://www.adam.cz
+http://www.adam2006.estranky.cz 
+http://www.adamek.cz
+http://www.aeaonline.cz 
+http://www.aerobics.cz 
+http://www.agriculturaits.czu.cz
+http://www.agris.cz 
+http://www.agrojournal.cz 
+http://www.agroweb.cz 
+http://www.ahmp.cz 
+http://www.airways.cz 
+http://www.aivd.cz
 http://www.akatcr.cz
+http://www.akp-ostrava.cz 
+http://www.akva.cz 
+http://www.akvarko.cz 
+http://www.akvs.cz
+http://www.alergie.cz 
+http://www.alk-basketbal.cz 
+http://www.alkoholik.cz 
+http://www.alkoholium.cz
+http://www.am.vsb.cz
+http://www.amate.cz
+http://www.ambpraga.esteri.it 
+http://www.amcr.cz
 http://www.americkecentrum.cz
-http://www.antonindvorak2004.cz
+http://www.amsp.cz/ 
+http://www.annakk.cz
+http://www.annefrankguide.net 
+http://www.anrcr.cz
+http://www.anthropark.wz.cz
+http://www.antiq.cz 
+http://www.apklh.cz 
+http://www.apla-jm.cz 
+http://www.appliste.cz
+http://www.apul.cz 
+http://www.arch.cz 
+http://www.archaia.cz
 http://www.archatheatre.cz
+http://www.archaviry.cz 
+http://www.archinet.cz 
+http://www.aristoteles.cz 
 http://www.armadninoviny.cz
+http://www.arny-petracek.cz 
+http://www.artlist.cz
+http://www.artmuseum.cz 
+http://www.arup.cas.cz 
+http://www.asffh.info
+http://www.asociacerestauratoru.cz 
+http://www.asociacevos.cz 
+http://www.aspnet.cz 
+http://www.astralni-cestovani.info 
 http://www.astro.cz
+http://www.astronom.cz/deavi/
+http://www.astronom.cz/procyon/
+http://www.astropardubice.cz 
+http://www.asz.cz
+http://www.atecr.cz 
+http://www.atelierjosefasudka.cz
+http://www.atletickytrenink.cz 
+http://www.atur.cz 
+http://www.auccj.cz 
+http://www.auto-news.cz 
+http://www.automatizace.cz 
+http://www.azerbajdzan.czechian.net 
+http://www.azzp.cz 
+http://www.b-a-n.cz 
+http://www.bagry.cz 
+http://www.banat.cz
+http://www.banky.cz 
+http://www.barancicova.cz
+http://www.barchan.jemnice.cz
+http://www.bedna.cz 
 http://www.behej.com
+http://www.belorusko.cz 
+http://www.beltine.cz 
+http://www.benesov-city.cz 
+http://www.bertramka.cz 
+http://www.beseda.org.au 
+http://www.beskydy-valassko.cz 
+http://www.bezkorupce.cz/ 
 http://www.bezpecnemesto.eu
 http://www.bezpecnostpotravin.cz
 http://www.bezvabeh.cz
+http://www.bezzabradli.cz 
+http://www.bibemus.org/musicarudolphina/ 
 http://www.bio-life.cz
+http://www.biokont.cz
+http://www.biolib.cz
+http://www.biologickaolympiada.cz
+http://www.biomonitoring.cz 
+http://www.biotox.cz
 http://www.bip.cz
+http://www.bis.cz 
+http://www.blansko.cz 
 http://www.blisty.cz
+http://www.bojovniciprotitotalite.cz/ 
+http://www.bookworld.cz 
+http://www.boretice.cz 
 http://www.bourky.com
 http://www.bourky.cz
+http://www.boxdtj.cz 
+http://www.brazilie.in 
+http://www.brdy.info 
+http://www.brikcius.com
+http://www.britishcouncil.cz 
+http://www.britishcouncil.org/cz/ 
 http://www.brouzdej.cz
+http://www.buchtyaloutky.cz
+http://www.buchtyaloutky.cz/content.php?article=10&set=cs
+http://www.bucovice-zamek.cz
+http://www.buddhismus.cz 
+http://www.budejovickybudvar.cz 
+http://www.budnews.cz 
+http://www.butbn.cas.cz
+http://www.buty.cz 
+http://www.bydleni.cz 
+http://www.bylinky.info 
+http://www.bystre.cz 
+http://www.cai.cz
+http://www.caleda.cz
+http://www.capekbrothers.com 
+http://www.capellaregia.com 
+http://www.carpmax.cz 
+http://www.caslin.cz
 http://www.casopisstavebnictvi.cz
+http://www.cavlmz.cz
 http://www.cbf.cz
+http://www.cbsbeton.eu 
+http://www.cbuni.cz 
+http://www.ccsm.cz 
+http://www.cdmp.cz
 http://www.cdr.cz
+http://www.cdvuz.cz 
+http://www.cebreview.com
+http://www.cejop.cz 
+http://www.celovsky.cz 
+http://www.cema-music.com
+http://www.centrumdialog.cz
+http://www.centrumviry.cz 
+http://www.cepsr.com
+http://www.cernasanitka.cz
+http://www.ces.upol.cz 
+http://www.cesijuznogbanata.net 
+http://www.ceska-poezie.cz 
+http://www.ceskahospodynka.cz 
+http://www.ceskainovace.cz 
+http://www.ceskam.cz
+http://www.ceskamedia.cz 
 http://www.ceskapozice.cz
 http://www.ceskaskola.cz
+http://www.ceskatelevize.cz/specialy/goldenprague/ 
+http://www.ceskatelevize.cz/specialy/zlatapraha/ 
+http://www.ceske-tradice.cz
+http://www.ceskearchivy.cz 
+http://www.ceskehrady.cz 
+http://www.ceskenoviny.cz 
+http://www.ceskevylety.cz 
+http://www.ceskoprotichudobe.cz 
+http://www.ceskosaske-svycarsko.cz 
+http://www.ceskydum2012.cz 
+http://www.ceskylev.cz 
+http://www.cesles.cz
+http://www.cesnet.cz/doc/datagram/
+http://www.cesnet.cz/doc/techzpravy/
+http://www.ceson.org 
+http://www.cestakamorfe.cz 
+http://www.cestananovyzeland.cz
+http://www.cestomaniak.cz 
 http://www.cestydoprirody.cz
+http://www.cezetmania.info
+http://www.cggs.cz 
+http://www.cheb.cz 
+http://www.chemca.euweb.cz 
+http://www.chemi.muni.cz/~analytika 
+http://www.chemicke-listy.cz 
+http://www.chilliorg.cz
+http://www.chmi.cz 
 http://www.christnet.cz
+http://www.chsd.cz 
+http://www.cia.cz
+http://www.cibulka.net/petr/ 
+http://www.cinemart.cz 
 http://www.cirkev.cz
+http://www.cirkevhk.cz 
+http://www.cirkevteplice.cz 
+http://www.cirkevzivehoboha.cz 
+http://www.cirqueon.cz 
+http://www.citarny.cz 
+http://www.citrusy.cz 
+http://www.cityzone.cz 
+http://www.cizp.cz
+http://www.ckc.cz
+http://www.ckolh.cz
+http://www.ckportal.cz 
+http://www.ckvr.cz 
+http://www.clay.cz/cz/index.htm 
+http://www.cls.cz 
+http://www.cmi.cz 
+http://www.cmpcb.cz
+http://www.cmsa.cz 
+http://www.cmsozzn.cz 
+http://www.cmu.cz
+http://www.cmvu.cz
+http://www.cmzrb.cz 
+http://www.cninp.cz 
 http://www.coasters.cz
+http://www.cogling.info 
 http://www.coi.cz
 http://www.coi.cz/en/
+http://www.cokl.cz 
+http://www.comicsdb.c.cz 
+http://www.cpnrp.cz 
+http://www.cpufilm.cz 
+http://www.cqs.cz 
+http://www.crdm.cz
+http://www.crea-edu.cz 
+http://www.creativecommons.cz
+http://www.crohn.cz/colitiscrohn/index.asp 
 http://www.cs-magazin.com
+http://www.csch.cz
+http://www.csfotografie.cz 
+http://www.cshry.cz 
+http://www.cshv.cz 
 http://www.csicr.cz
+http://www.cski.cz 
+http://www.csmg.cz 
+http://www.cspap.cz
+http://www.cspas.cz 
+http://www.cspv.cz 
+http://www.cssi-cr.cz
+http://www.cssm.info/
+http://www.csup.uzemi.eu 
+http://www.csvs.cz 
+http://www.csvts.cz/cenes/ 
+http://www.csvts.cz/cmstok/ 
+http://www.csvts.cz/cns/
+http://www.csvts.cz/cps/ 
+http://www.csvts.cz/css/ 
+http://www.csvts.cz/czs/ 
+http://www.csvts.cz/spolecnosti/css/ 
+http://www.csvts.cz/svcr/ 
+http://www.cszt.cz 
+http://www.ctenar.net 
+http://www.ctenipomaha.cz
 http://www.ctu.cz
 http://www.cukr-listy.cz
+http://www.curling.cz
+http://www.cvs-praha.cz
+http://www.cwsf.cz 
+http://www.cwta.cz 
+http://www.cyberpsychology.eu
+http://www.cyk.cz
+http://www.cz.math.cas.cz
+http://www.czaes.org 
+http://www.czba.cz 
+http://www.czbelspol.cz 
+http://www.czech-arab.org
 http://www.czech.cz
+http://www.czech100.com 
+http://www.czechcemetery.com
+http://www.czechcentres.cz
+http://www.czechdigitallibrary.cz
+http://www.czechfencing.com 
+http://www.czechjournaloftourism.cz 
+http://www.czechkid.cz
+http://www.czechmade.cz 
+http://www.czechphycology.cz
 http://www.czechposition.com
+http://www.czechspecials.cz 
+http://www.czechtenis.cz 
+http://www.czechtourism.com 
+http://www.czetra.cz 
+http://www.czinema.cz 
+http://www.czradary.cz
+http://www.czrso.cz
+http://www.d.cz 
+http://www.dabing.info 
+http://www.dalnice.com 
+http://www.dandysdidgeridoo.cz 
+http://www.danielherman.cz
+http://www.darwiniana.cz
+http://www.darwiniana.cz/chramst
+http://www.dataspectrum.cz/excelmag/excelmagmain.htm
+http://www.dbsvet.cz 
+http://www.dekanstvihk.cz
+http://www.delostrelectvocsarmady1918-1939.estranky.cz
+http://www.deml.cz 
+http://www.demografie.info 
+http://www.denarchitektury.cz 
+http://www.denmalychobci.cz
+http://www.denprotirakovine.cz 
+http://www.designmagazin.cz 
+http://www.detskaprava.cz
+http://www.detskestranky.cz 
+http://www.dh.cz 
+http://www.diab.cz 
+http://www.diabasis.cz 
+http://www.digimanie.cz 
+http://www.digizone.cz
 http://www.diit.cz
+http://www.diskusniforum.org
+http://www.divadlo.klatovynet.cz 
 http://www.divadlonavinohradech.com
 http://www.dnv-praha.cz
+http://www.dobrarodina.cz
+http://www.dobryandel.cz 
+http://www.dobryweb.cz 
+http://www.dogensangha.cz
+http://www.dogenzen.net
+http://www.doktorka.cz 
+http://www.doktoronline.cz 
+http://www.domeceksnu.cz
 http://www.doo.cz
+http://www.dopravniinzenyrstvi.cz 
+http://www.downsyndrom.cz 
+http://www.dppcr.cz 
 http://www.drogy-info.cz
+http://www.ds-soft.info/mimino/ 
+http://www.duly.cz
 http://www.duseahvezdy.cz
+http://www.dusecz.com
+http://www.dvs.cz 
+http://www.dzs.cz/cz/program-podpory-ceskeho-kulturniho-dedictvi-v-zahranici/krajiny-cestiny-dokumenty/
+http://www.dzs.cz/cz/program-podpory-ceskeho-kulturniho-dedictvi-v-zahranici/obecne-informace-o-krajinach-cestiny/
+http://www.e-cesko.cz 
+http://www.e-chembook.eu
+http://www.e-pocasi.cz 
+http://www.e-politika.cz 
+http://www.edu.cz 
 http://www.eduin.cz
+http://www.efaj.eu 
+http://www.egyptologie.cz 
 http://www.ekamarad.cz
-http://www.emedocs.cz
+http://www.eklasa.cz 
+http://www.ekofestival.cz 
+http://www.ekomonitor.eu
+http://www.ekomonitor.eu/publications/innovative-remediation-technologies/
+http://www.ekoporadna.cz
+http://www.elektrika.cz 
+http://www.elsa.cvut.cz 
+http://www.emuzeum.cz
+http://www.energetik.cz 
+http://www.energy.chytrak.cz 
 http://www.enterprise-europe-network.cz
+http://www.enviwiki.cz
 http://www.eperuc.cz
 http://www.eperuc.cz.web1.web4ce.cz
+http://www.eportyr.cz 
 http://www.eprofil.cz
+http://www.eps.cz/via
+http://www.equalcr.cz
+http://www.eriesjournal.com
+http://www.esoterika.cz
+http://www.estav.cz
+http://www.estetikaspol.cz
+http://www.etf.cuni.cz/cbs 
+http://www.ethnic-friendly.eu 
+http://www.etnomuzikologie.cz 
+http://www.eufapa.upol.cz/index.php/european-journal-of-apa/home.html
+http://www.eurodesk.cz
+http://www.europeum.org
+http://www.exarchat.cz
+http://www.fantasyplanet.cz/lotr/
+http://www.fantomfilm.cz
+http://www.farnostvelehrad.cz
+http://www.fce.vutbr.cz/ekr/pbe/ 
+http://www.fch.vutbr.cz 
+http://www.febiofest.cz
+http://www.fel.cvut.cz
+http://www.feminafilm.cz 
+http://www.ferofenic.cz 
+http://www.ferovanemocnice.cz
+http://www.festivaldivadlo.cz 
+http://www.festivalzlatapraha.cz 
+http://www.fhs.cuni.cz/media/post-media-theory/ 
+http://www.filatelie.cz 
+http://www.filharmonie-zlin.cz 
 http://www.filmovamista.cz
+http://www.filokartie.com
+http://www.filokartie.cz
+http://www.filosofie.cz 
+http://www.financnici.cz 
+http://www.financninoviny.cz 
 http://www.financnisprava.cz
+http://www.finarbitr.cz
 http://www.firebrno.cz
+http://www.fit.vutbr.cz/~michal/kr/ 
+http://www.fitnessbusiness.cz
+http://www.fitnessbusiness.eu
+http://www.floorballnews.cz 
+http://www.florbal.cz 
+http://www.flu.cas.cz
+http://www.flu.cas.cz/Com/stcl/
+http://www.focusclub.cz 
+http://www.focusclub.cz/fotobazar/ 
+http://www.folklornet.com 
+http://www.fondkinematografie.cz 
+http://www.forum2000.cz
 http://www.forumzdravi.cz
+http://www.fotbalovyraj.ic.cz 
 http://www.foto-book.cz
-http://www.galerieceskepojistovny.cz
+http://www.foto.cz 
+http://www.fotodokument.cz
+http://www.fotostranky.org
+http://www.fottea.cz
+http://www.fp.tul.cz/kch/sedlbauer/
+http://www.fpp-sokolov.cz
+http://www.francouzstina-pardubice.cz 
+http://www.frantisekbublan.cz
+http://www.frantiskanstvi.cz
+http://www.freeride.cz 
+http://www.freeskiing.cz 
+http://www.frvs.cz 
+http://www.fsfinalword.com 
+http://www.fsfinalword.com/archive.php?displayAll=1 
+http://www.ft.tul.cz 
+http://www.gacr.cz
+http://www.galerieholec.cz
+http://www.galerieonline.cz 
+http://www.galerieroudnice.cz
+http://www.galerievernon.com
+http://www.gallery.cz
+http://www.garten.cz 
+http://www.gastroplus.cz 
+http://www.gekcr.cz 
+http://www.gekko.ic.cz
+http://www.gekkos.cz
+http://www.genea.cz 
+http://www.gentleman.cz
+http://www.geobusiness.cz 
+http://www.geocities.com/stavebni_slohy/ 
+http://www.geofond.cz
 http://www.geologickaspolecnost.cz
 http://www.geology.cz
 http://www.geology.cz/bulletin/
+http://www.geoportalpraha.cz
+http://www.gestalt-dialog.cz
+http://www.gestor.cz
 http://www.gisportal.cz
 http://www.gobbet.cz
+http://www.goethe.de/ins/cz/prj/fdf/ 
+http://www.grafika.cz 
+http://www.grafolog.cz
+http://www.grantjournal.com
+http://www.grapheion.cz
+http://www.greenpeace-media.cz/zitnebotezit 
+http://www.gsgm.cz 
+http://www.gsm4u.cz 
+http://www.gweb.cz 
+http://www.hadivadlo.cz
+http://www.halik.cz 
+http://www.hamelika.cz 
+http://www.handbikecr.cz 
+http://www.hasici-vysocina.cz 
+http://www.hcveseli.com 
 http://www.hedvabnastezka.cz
+http://www.hejnova.cz 
+http://www.helcom.cz
+http://www.help24.cz 
+http://www.hematology.cz 
+http://www.hematology2012.cz 
+http://www.hemp.cz 
+http://www.hermanice.com
+http://www.herniasociace.cz 
+http://www.hiporehabilitace-cr.com
+http://www.historie.kvalitne.cz 
+http://www.hiu.cas.cz 
 http://www.hkcr.cz
+http://www.hlavenec.cz
+http://www.hlavkovanadace.cz
+http://www.hledampraci.cz/pracovni-pravo/
+http://www.hlidacifena.cz/service.asp 
+http://www.hlina.info
+http://www.hmyz.info 
+http://www.hokej-litvinov.cz 
+http://www.hokej.cz 
+http://www.holicekamfoto.estranky.cz 
+http://www.horevklub.org 
 http://www.horosvaz.cz/
+http://www.horydoly.cz 
+http://www.hospital-kuks.cz
+http://www.hostivice.cz 
+http://www.hrad-cheb.cz 
+http://www.hrad-kunetickahora.cz
+http://www.hrad-litice.cz
+http://www.hradbitov.cz
+http://www.hradekunechanic.cz
+http://www.hrady-zriceniny.cz
+http://www.hrady.cz 
+http://www.hrdinou.cz 
+http://www.hucot.cz
+http://www.hudebniskupiny.cz 
+http://www.huldra.cz 
+http://www.hus-fest.eu 
+http://www.husinec.cz 
+http://www.husitskamesta.net 
+http://www.hvezdarnacb.cz
+http://www.hyperstudent.cz 
+http://www.hzs-kvk.cz 
+http://www.hzscb.cz/index.php?id_h=0&id_m=3 
 http://www.hzscr.cz
 http://www.hzslk.cz
-http://www.hzsol.cz
+http://www.i-ekis.cz 
+http://www.ian.cz 
+http://www.iberospol.com 
+http://www.ibot.cas.cz
+http://www.ibp.cz
+http://www.icestovani.cz 
+http://www.icpf.cas.cz
+http://www.ics.cas.cz 
+http://www.ictmanazer.cz 
+http://www.idragons.cz 
+http://www.ifotovideo.cz 
+http://www.ih.cas.cz 
+http://www.iises.net
+http://www.iises.net/about-ijoes.html
+http://www.ikhos.org 
+http://www.ilaw.cas.cz/medlawjournal/
+http://www.ilist.cz 
+http://www.imc.cas.cz
+http://www.info-foto.com 
+http://www.infocesko.cz 
+http://www.infogram.cz
+http://www.infoposel.cz 
 http://www.infoprostor.cz
+http://www.inforum.cz
+http://www.ingema.net 
+http://www.inkluzivniskola.cz
+http://www.inlinehokej.cz 
+http://www.inovacentrum.cvut.cz 
 http://www.inovaceprospolecnost.cz
-http://www.intheshadowfilm.com
+http://www.integracnicentra.cz
+http://www.interdvoraksoc.cz 
+http://www.interier.cz 
+http://www.internethotline.cz 
+http://www.internetprovsechny.cz 
+http://www.ioberon.cz 
+http://www.ipacz.cz 
 http://www.iperuc.cz
+http://www.ipodebrady.cz 
+http://www.ipvz.cz 
+http://www.iqrs.cz 
+http://www.ireport.cz 
+http://www.irsko-aktualne.cz 
+http://www.islamcz.cz 
+http://www.islamweb.cz 
+http://www.isusice.eu 
+http://www.itam.cas.cz
+http://www.itpravo.cz 
+http://www.ivb.cz/folia
+http://www.ivig.cz
+http://www.ivtt.net
+http://www.izevo.cz
+http://www.izolace.cz 
+http://www.jahodapetr.com
+http://www.jahodapetr.cz
+http://www.jakpsatweb.cz 
+http://www.jancapek.net 
+http://www.janhus600.cz 
 http://www.japhila.cz/hof/
+http://www.japonsko.tnet.cz 
+http://www.jaroslav-soucek.snadno.eu
+http://www.jawa-50.cz
+http://www.jeseniky.ecn.cz 
+http://www.jewish-route.eu 
 http://www.jezdci.cz
+http://www.jgeosci.org
+http://www.jh-inst.cas.cz/heyrovsky/
+http://www.jicinsko.cz 
+http://www.jime-bio.cz 
+http://www.jiretin.cz 
+http://www.jiri-cerny.wbs.cz
+http://www.jirikajinek.cz
 http://www.jitrenkapolicka.cz
+http://www.jizni-morava.cz 
+http://www.jiznicechy.cz 
+http://www.jmkodm.cz 
+http://www.jmsieber.cz/muzeum/
+http://www.jmskoly.cz 
+http://www.journaloflandscapeecology.cz
+http://www.jreichl.com
+http://www.jsi.cz
+http://www.jsiss.net/ 
+http://www.jtpunion.org
+http://www.justit.cz
+http://www.kaes.cz
+http://www.kafka.org 
+http://www.kalimera.cz 
+http://www.kapucinky.kapucini.cz
+http://www.karelmalich.cz 
+http://www.karlin.mff.cuni.cz/katedry/kdm/
+http://www.katolicka-dekadence.cz 
+http://www.kauza3.cz 
+http://www.kehilaprag.cz
+http://www.keltoi.cz
+http://www.keltove.cz
+http://www.kemel.cz 
+http://www.kenguru.cz
+http://www.kgk.cz
+http://www.khsjih.cz 
+http://www.khsolc.cz 
+http://www.khsplzen.cz 
+http://www.khsusti.cz 
+http://www.khszlin.cz 
+http://www.kinobox.cz/ceskylev/ 
+http://www.kinomol.cz 
+http://www.kisjk.cz 
+http://www.kispk.cz 
+http://www.kiv.zcu.cz/cz/vyzkum/publikace/technicke-zpravy 
+http://www.kiv.zcu.cz/vyzkum/publikace/technicke-zpravy/ 
+http://www.klaster-sazava.cz
+http://www.klaster-zlatakoruna.eu
+http://www.klastertepla.cz 
+http://www.kleio.cz
+http://www.klet.cz
+http://www.klet.org
+http://www.klic-css.cz
 http://www.klicnik.eu
+http://www.klicovehnuti.cz 
+http://www.klinickalogopedie.cz 
 http://www.klinikazdravi.cz
+http://www.klubnejmensich.cz 
+http://www.klubprazskychspisovatelu.cz 
+http://www.klucov.cz
+http://www.kmf.cz 
+http://www.kmp.plzen-city.cz
+http://www.knezskyseminar.cz 
+http://www.knihovna.dolnibousov.cz
+http://www.knihovna.kvary.cz
+http://www.knihovna.plzen.eu
+http://www.knihovnakv.cz
+http://www.knihovnanovavcelnice.estranky.cz 
 http://www.knihozrout.cz
+http://www.knihzdar.cz
+http://www.kolej.mff.cuni.cz/~lmotm275/skripta/ 
+http://www.kolportaz.cz
 http://www.komiks.cz
+http://www.komora-bozp-po.cz 
+http://www.komora-ucetnich.cz
 http://www.komora.cz
 http://www.kompas.estranky.cz
+http://www.konjunktura.cz 
+http://www.konsorcium-nno.cz 
 http://www.konstrukce.cz
+http://www.konzervatorbrno.eu
+http://www.kornatice.cz
+http://www.korpus.cz 
+http://www.korunovacni-klenoty.cz 
+http://www.kostelyunas.net
+http://www.kouvu.cz 
+http://www.kouzlostarychpohlednic.wz.cz
+http://www.kozena.cz
+http://www.kpkp.cz 
+http://www.kpv-cr.cz 
 http://www.kr-jihomoravsky.cz
+http://www.kr-karlovarsky.cz 
+http://www.kr-kralovehradecky.cz 
+http://www.kr-olomoucky.cz 
 http://www.kr-ustecky.cz
 http://www.kr-vysocina.cz
+http://www.kr-zlinsky.cz 
 http://www.kraj-jihocesky.cz
 http://www.kraj-lbc.cz
+http://www.kralovehradeckyregion.cz 
+http://www.kralovska-mesta.cz 
+http://www.kralovske-mesto-caslav.cz 
+http://www.kralovske-mesto-ceske-budejovice.cz 
+http://www.kralovske-mesto-cheb.cz 
+http://www.kralovske-mesto-chotebor.cz 
+http://www.kralovske-mesto-chrudim.cz 
+http://www.kralovske-mesto-domazlice.cz 
+http://www.kralovske-mesto-dvur-kralove.cz 
+http://www.kralovske-mesto-hradec-kralove.cz 
+http://www.kralovske-mesto-jihlava.cz 
+http://www.kralovske-mesto-kadan.cz 
+http://www.kralovske-mesto-karlovy-vary.cz 
+http://www.kralovske-mesto-kolin.cz 
+http://www.kralovske-mesto-kutna-hora.cz 
+http://www.kralovske-mesto-litomerice.cz 
+http://www.kralovske-mesto-loket.cz 
+http://www.kralovske-mesto-louny.cz 
+http://www.kralovske-mesto-melnik.cz 
+http://www.kralovske-mesto-mlada-boleslav.cz 
+http://www.kralovske-mesto-pisek.cz 
+http://www.kralovske-mesto-plzen.cz 
+http://www.kralovske-mesto-usti-nad-labem.cz 
+http://www.krasaliturgie.cz
 http://www.krausmagazin.cz
+http://www.kreativnicesko.cz 
+http://www.krecci.cz
+http://www.krestanskaakademie.cz 
+http://www.krestanskesbory.cz
+http://www.krivoklat.cz
+http://www.krizovnici.eu 
+http://www.kroket.org 
+http://www.kronikahluk.cz
+http://www.krusnehory.net 
+http://www.ktf.cuni.cz
+http://www.ktn.cz
+http://www.kultura21.cz 
+http://www.kulturanahrade.cz 
 http://www.kulturissimo.cz
+http://www.kurakovaplice.cz 
+http://www.kurzy.cz 
+http://www.kvantovapsychologie.cz
+http://www.kvetenacr.cz 
+http://www.kvkli.cz
+http://www.kvkli.cz/_data/afm-uploads/Svetlik/
+http://www.kvkli.cz/_data/afm-uploads/region/
+http://www.kvkli.cz/cz/region/svetlik-r18.html
+http://www.kvkli.cz/files/Svetlik/
+http://www.kvkli.cz/svetlik.html
+http://www.kwanumzen.cz
+http://www.kybernetika.cz 
+http://www.kyberpunk.org 
+http://www.kynolog.cz
+http://www.labskepiskovce.cz/public/npcs_lp/cz.html 
+http://www.labuznik.com 
+http://www.lacultura.cz 
+http://www.ladakrizek.com 
+http://www.ladakrizek.com/eshop/en/ 
+http://www.langer.cz 
+http://www.laterna.cz
+http://www.learned.cz/ 
+http://www.legalizace.cz 
+http://www.legionar.org
+http://www.lesniskolky.cz
 http://www.lesprace.cz
+http://www.lesycr.cz 
+http://www.letadla.info 
+http://www.letectvi.cz 
+http://www.letopisy.cz 
+http://www.letsdance.cz 
+http://www.lezec.cz 
+http://www.lfa.cz
 http://www.liberec.cz
 http://www.liberec.cz/ipru/
+http://www.libri.cz/databaze/dejiny/ 
+http://www.lideazeme.cz 
+http://www.lidske-zdroje.org 
+http://www.linux.cz/noviny/ 
+http://www.liptal.cz
+http://www.liptal.eu
+http://www.litomysl.cz/knihovna/
 http://www.litweb.cz
-http://www.lt.fd.cvut.cz/its/
+http://www.livinghistory.cz/ 
+http://www.lobkowicz-collections.org 
+http://www.logobox.cz
+http://www.lokofoto.cz 
+http://www.lomy-amerika.wz.cz 
+http://www.louc.cz 
+http://www.lpr.cz 
+http://www.ludmilavinohrady.cz 
+http://www.ludvikvaculik.cz
+http://www.magic-exlibris.webgarden.cz
+http://www.magiicke.estranky.cz 
+http://www.majorzeman.eu 
+http://www.mandrivalinux.cz
+http://www.manga.cz
+http://www.marastmusic.com 
+http://www.marianjurecka.cz 
+http://www.marienbad-postcards.com/ 
+http://www.marigold.cz
 http://www.markething.cz
+http://www.martinu.cz
+http://www.masarykovydebaty.cz
+http://www.mastale.cz
+http://www.matasova.net 
+http://www.matchbox.ic.cz 
+http://www.matematikaschuti.info 
+http://www.materska-nadeje.cz
+http://www.math.cas.cz
+http://www.maticevelehradska.cz
+http://www.matweb.cz
+http://www.mchband.cz
+http://www.mdvv-lidice.cz
+http://www.media4u.cz
+http://www.mediadesk.cz
 http://www.mediaguru.cz
+http://www.medmicro.info
+http://www.melnik.cz
+http://www.melnik.info 
+http://www.menudomu.cz 
+http://www.mesita.cz 
+http://www.mesto-jemnice.cz
 http://www.mesto-kromeriz.cz
-http://www.mestodabingu.cz
+http://www.mesto-orlova.cz 
+http://www.mesto-pisek.cz 
+http://www.mesto-podebrady.cz 
+http://www.mesto-rakovnik.cz
+http://www.mesto-vlasim.cz 
+http://www.mestokladno.cz 
+http://www.mestonachod.cz 
+http://www.mestopelhrimov.cz 
+http://www.mestoprobyznys.cz 
+http://www.meteosvatonovice.unas.cz
 http://www.mezinami.cz
-http://www.michalberg.cz
+http://www.mghs.cz
+http://www.michalpavlicek.com 
+http://www.migration.cz 
+http://www.mikrofotobanky.cz
+http://www.milan-stech.cz
+http://www.milanchovanec.cz 
+http://www.milanstech.cz
+http://www.minutka.cz 
+http://www.missio.cz
 http://www.mjakub.cz
-http://www.mlynar.cz
+http://www.mlab.cz
+http://www.mladezvakci.cz
 http://www.mmkv.cz
 http://www.mmr.cz
+http://www.mmscience.eu
 http://www.mmspektrum.com
+http://www.mnichovo-hradiste.cz
 http://www.mobinfo.cz
 http://www.mojebrisko.cz
-http://www.mozartpraha2006.cz
+http://www.mojebrno.jecool.net
+http://www.mojekniha.cz
+http://www.mollusca.cz 
+http://www.moraviamagna.cz
+http://www.moravskehrady.cz 
+http://www.moskyt.net
+http://www.motorelax.cz 
+http://www.mpsv.cz/cs/3644
+http://www.muhb.cz 
+http://www.mujesenice.cz 
+http://www.mukolin.cz/kmochudba/ 
+http://www.multiweb.cz/hawkmoon/ 
+http://www.mupe.cz 
+http://www.musicasacra.cz
+http://www.musicologica.cz
+http://www.muzeum-mb.cz
+http://www.muzeum-melnik.cz
+http://www.muzeum-most.cz
+http://www.muzeum-pribram.cz
+http://www.muzeum-roztoky.cz/
+http://www.muzeum-turnov.cz
+http://www.muzeum.zlin.cz
+http://www.muzeumbenatky.cz
+http://www.muzeumhodin.info
+http://www.muzeumtrutnov.cz/
 http://www.muzikus.cz
+http://www.mypracujeme.cz 
+http://www.mysteryshopping.cz 
+http://www.mzcr.cz 
+http://www.mzm.cz
+http://www.nadacepraha5.cz 
+http://www.nadacesirius.cz 
 http://www.nasebatole.cz
+http://www.nasedite.cz 
+http://www.nasliberec.cz 
+http://www.natur.cuni.cz/ugmnz/mineral/ 
+http://www.natura2000.cz
+http://www.nature.cz/natura2000-design3/
+http://www.nature.cz/publik_syst2/ 
+http://www.naturnet.org 
+http://www.naucmese.cz
+http://www.nca.cz
+http://www.nconzo.cz
 http://www.neaktuality.cz
-http://www.ngprague.cz/mistri/
+http://www.neff.cz 
+http://www.nemeckyovcak.cz 
+http://www.neopagan.cz 
+http://www.neuhaus.cz
+http://www.neuro3.cz 
+http://www.newmusicostrava.cz
+http://www.nextwave.cz 
+http://www.nezradime.cz
+http://www.nfa.cz 
+http://www.ngva.cz 
+http://www.nic.cz
+http://www.nidv.cz
+http://www.nirmala.cz 
+http://www.nkcr.cz
+http://www.nkp.cz/o_knihovnach/konsorcia/skip
+http://www.nkp.cz/slk_novinky
+http://www.nlk.cz
+http://www.nm.cz/old/jabkenice/muzeum.htm 
+http://www.nockostelu.cz 
+http://www.nohavica.cz
 http://www.noramb.cz
-http://www.odm2014.cz
+http://www.normande.cz 
+http://www.novapaka.muzeum.cz/ 
+http://www.novesdruzeni.wz.cz 
+http://www.novomestskaradnice.cz 
+http://www.novy-hradek.eu
+http://www.npcs.cz
+http://www.npmk.cz
+http://www.nsdo.ic.cz 
+http://www.nsoud.cz
+http://www.nsp.cz 
+http://www.nspu.cz 
+http://www.nuda.cz 
+http://www.nuov.cz
+http://www.nvf.cz
+http://www.ob-eparchie.cz 
+http://www.obec-kamenicky.cz 
+http://www.obechlavnice.cz 
+http://www.obecskalicka.cz 
+http://www.obloha.webzdarma.cz 
+http://www.occupationsguide.cz 
+http://www.odpadoveforum.cz 
+http://www.ogl.cz
+http://www.ogv.cz/
+http://www.ojaponsku.cz 
+http://www.ojrech.cz/filosofie/ 
+http://www.oldphoto.info
+http://www.olympic.cz
 http://www.online.muni.cz
+http://www.openairprogram.cz
 http://www.operadream.com
 http://www.operaplus.cz
+http://www.opernisbornd.cz 
+http://www.origami.cz
+http://www.orloj.eu
+http://www.orthodoxia.cz 
+http://www.osadasvarov.cz
+http://www.osicko.cz 
+http://www.osobnosti-moravy.eu
+http://www.ote-cr.cz/o-spolecnosti/vyrocni-zprava-ote 
+http://www.otevrena-veda.cz
+http://www.otevrenaspolecnost.cz
+http://www.ovocnarska-unie.cz/sispo/index.php
+http://www.pacienti.cz
+http://www.paidagogos.net
+http://www.palba.cz 
+http://www.pamatky-kk.estranky.cz
+http://www.pamatky.ceskalipa.org
+http://www.pamatnik-terezin.cz
+http://www.pamatniknarodnihopisemnictvi.cz
+http://www.pandemie.cz
+http://www.panelaci.cz 
+http://www.papuatrekking.com
+http://www.papuatrekking.cz
 http://www.pardubice.eu
+http://www.pardubickykraj.cz 
+http://www.park.cz 
 http://www.parlamentnilisty.cz
-http://www.partnerstvi-vysocina.cz
-http://www.ped.muni.cz/capv2011/
-http://www.ped.muni.cz/wmus/publikace/vyzkum_hudebni_preference_eu.pdf
-http://www.ped.muni.cz/wmus/publikace/vyzkum_hudebni_preference_isme.pdf
-http://www.ped.muni.cz/wmus/studium/sborniky/musica_viva_in_schola_xxiii.pdf
-http://www.ped.muni.cz/wmus/studium/sborniky/topical_issues_of_contemporary_m_e.pdf
+http://www.partnerstvi.cz/rp-uvod/ 
+http://www.paru.cas.cz
+http://www.patracka.cz 
+http://www.patzelt-foto.cz
+http://www.pcfpd.cz
+http://www.pdcap.cz
+http://www.pedofilie-info.cz
+http://www.pelargonie.cz 
+http://www.permakulturacs.cz
+http://www.permakulturacs.cz/#publicationsanchor
+http://www.phil.muni.cz/linguistica/
+http://www.phil.muni.cz/linguistica/byauthor.html
+http://www.phil.muni.cz/linguistica/bytopic.html
+http://www.phil.muni.cz/linguistica/callforpapers.html
+http://www.phil.muni.cz/linguistica/issues.html
+http://www.phil.muni.cz/linguistica/links.html
+http://www.phil.muni.cz/linguistica/participants.html
+http://www.phil.muni.cz/wkaa/
+http://www.phil.muni.cz/wucj 
+http://www.phil.muni.cz/wurj/
+http://www.phil.muni.cz/~macha/profil/index.php/profil/
+http://www.phsos.cz 
+http://www.pinces.cz 
 http://www.pis.cz
+http://www.pisek.eu 
+http://www.pismoznalectvi.com
+http://www.planetarium.cz 
+http://www.planovanirodiny.cz 
+http://www.plasticka-chirurgie.info 
 http://www.plzen.eu
+http://www.plzenskafilharmonie.cz
+http://www.pmjak.cz
 http://www.pmo.cz
+http://www.pneumologie.cz 
+http://www.pod.cz
+http://www.podkarpatskarus.cz 
+http://www.podzemi-cma.cz
+http://www.pohadka.cz
+http://www.pohanskafederace.cz
+http://www.pokolejich.cz/ 
+http://www.polabskemuzeum.cz
 http://www.policejninoviny.cz
 http://www.policka.org
+http://www.pomoztedetem.cz 
+http://www.porod.estranky.cz 
+http://www.porta-festival.cz
+http://www.pouzp.cz
+http://www.powerwiki.cz 
 http://www.pozary.cz
+http://www.pozitivnievoluce.cz 
+http://www.prace-zahranici-eures.cz 
+http://www.prachovskeskaly.com 
+http://www.prag.diplo.de 
+http://www.praguefoodfestival.cz
+http://www.pragueshorts.com 
 http://www.praguewelcome.cz
+http://www.praha.cz 
+http://www.prahazelena.cz 
 http://www.pravniprostor.cz
+http://www.pravnisebeobrana.cz 
+http://www.prazskakrizovatka.cz 
+http://www.prazskeforum.cz 
+http://www.prazskypinec.cz 
 http://www.predskolaci.cz
 http://www.prekon.cz
+http://www.pribehyumeni.cz 
+http://www.pritomnost.org
 http://www.proalt.cz
+http://www.projektced.cz
+http://www.projektpunk.cz
 http://www.propagacenainternetu.cz
 http://www.protisedi.cz
+http://www.pruvodcevinem.cz 
 http://www.pse.cz
+http://www.psu.cas.cz
+http://www.psychoanalyza.cz
+http://www.psychodiagnostika.cz
+http://www.psycholousek.cz 
+http://www.psychoterapeuti.cz
+http://www.puncovniurad.cz
+http://www.puppets.cz
+http://www.pvl.cz 
+http://www.qfan.cz 
+http://www.quido.cz
+http://www.quido.cz/84/vltav.htm 
+http://www.radavs.cz
+http://www.radioeng.cz/number.php?number=0&year=1992
+http://www.radioeng.cz/number.php?number=1&year=1992
+http://www.radioeng.cz/number.php?number=1&year=1993
+http://www.radioeng.cz/number.php?number=1&year=1994
+http://www.radioeng.cz/number.php?number=1&year=1995
+http://www.radioeng.cz/number.php?number=1&year=1996
+http://www.radioeng.cz/number.php?number=1&year=1997
+http://www.radioeng.cz/number.php?number=1&year=1998
+http://www.radioeng.cz/number.php?number=1&year=1999
+http://www.radioeng.cz/number.php?number=1&year=2009
+http://www.radioeng.cz/number.php?number=2&year=1992
+http://www.radioeng.cz/number.php?number=2&year=1993
+http://www.radioeng.cz/number.php?number=2&year=1994
+http://www.radioeng.cz/number.php?number=2&year=1995
+http://www.radioeng.cz/number.php?number=2&year=1996
+http://www.radioeng.cz/number.php?number=2&year=1997
+http://www.radioeng.cz/number.php?number=2&year=1998
+http://www.radioeng.cz/number.php?number=2&year=1999
+http://www.radioeng.cz/number.php?number=2&year=2009
+http://www.radioeng.cz/number.php?number=3&year=1993
+http://www.radioeng.cz/number.php?number=3&year=1994
+http://www.radioeng.cz/number.php?number=3&year=1995
+http://www.radioeng.cz/number.php?number=3&year=1996
+http://www.radioeng.cz/number.php?number=3&year=1997
+http://www.radioeng.cz/number.php?number=3&year=1998
+http://www.radioeng.cz/number.php?number=3&year=1999
+http://www.radioeng.cz/number.php?number=3&year=2008
+http://www.radioeng.cz/number.php?number=3&year=2009
+http://www.radioeng.cz/number.php?number=4&year=1993
+http://www.radioeng.cz/number.php?number=4&year=1994
+http://www.radioeng.cz/number.php?number=4&year=1995
+http://www.radioeng.cz/number.php?number=4&year=1996
+http://www.radioeng.cz/number.php?number=4&year=1997
+http://www.radioeng.cz/number.php?number=4&year=1998
+http://www.radioeng.cz/number.php?number=4&year=2008
+http://www.radioeng.cz/number.php?number=4&year=2009
+http://www.radioeng.cz/number.php?number=4&yearadioeng.cz/number.php?number=2&year=2008
+http://www.radioeng.cz/papers/2010-1.htm
+http://www.radioeng.cz/papers/2010-2.htm
+http://www.radioeng.cz/papers/2010-3.htm
+http://www.radioeng.cz/papers/2010-4.htm
+http://www.radioeng.cz/papers/2011-1.htm
+http://www.radioeng.cz/papers/2011-2.htm
+http://www.radioeng.cz/papers/2011-3.htm
+http://www.radioeng.cz/papers/2011-4.htm
 http://www.radiovaticana.cz
 http://www.razeni.cz
+http://www.refernet.cz
+http://www.reformapsychiatrie.cz 
+http://www.region-vysocina.cz 
+http://www.rencin.cz
+http://www.rep.fs.cvut.cz/konference/ 
+http://www.rep.fs.cvut.cz/konference/11.html 
+http://www.restauro.cz
+http://www.restaurovani.cz 
+http://www.revmatologicka-spolecnost.cz 
+http://www.richtera.cz/chemistry/
+http://www.richtera.cz/numismatics/
+http://www.rinceoiri.cz
+http://www.rml.cz
+http://www.roberthugo.com 
+http://www.rockhound.cz
 http://www.romankreuziger.com
+http://www.ropiky.net/ 
+http://www.rosacb.cz/zelenabrana/
+http://www.roska.eu 
+http://www.rostik.cz 
+http://www.rovnice.chytrak.cz 
+http://www.rozalio.cz
+http://www.rozhodciragby.cz 
+http://www.rozhovor.cz
 http://www.rozvojovka.cz
+http://www.rpp.cz
+http://www.rpr.cz
+http://www.rr-moravskoslezsko.cz 
+http://www.rugbyunion.cz 
+http://www.s-s-v.cz 
+http://www.sahajayoga.cz 
+http://www.sakralnipamatky.cz 
+http://www.sallyx.org
+http://www.sam83.cz
+http://www.sampionat.cz 
+http://www.santini.cz
+http://www.sarovcova-lhota.cz 
 http://www.sberatel.com
+http://www.sbor.cz
+http://www.scheufler.cz
+http://www.schkk.cz
+http://www.schnauzer.cz 
+http://www.schoolpsychology.cz 
+http://www.sci.muni.cz/ptacek/zoologie.htm 
+http://www.scienceshop.cz 
+http://www.scio.cz
+http://www.scriptum.cz
+http://www.scubadiving.cz 
+http://www.sdap.cz 
+http://www.sdocr.cz 
+http://www.selskebaroko.cz
+http://www.semafor.cz
+http://www.senio.cz 
 http://www.severskelisty.cz
+http://www.sgun.cz 
+http://www.shakespeare.cz
+http://www.shakuhachi.cz
+http://www.shhs-cr.eu
+http://www.shsa.cz 
+http://www.shscms.cz
+http://www.silesianweb.cz
+http://www.siliconhill.cz
 http://www.silnice-zeleznice.cz
 http://www.silvarium.cz
 http://www.silvarium.cz/lesprace
 http://www.silvarium.cz/svetmyslivosti
+http://www.sipkhk.cz 
+http://www.skautskyinstitut.cz 
+http://www.skhcr.cz 
+http://www.skiboby.cz 
+http://www.skipcr.cz
+http://www.skoda-auto.com/SiteCollectionDocuments/SAVS/Working_papers/ 
+http://www.skoda-auto.com/company/com/savs/science/papers/ 
+http://www.skoda110r.com
+http://www.skolahrou.cz 
+http://www.skolavafrice.cz
+http://www.skpboxing.cz 
+http://www.skutecnapomoc.cz
+http://www.skutr.org 
+http://www.skvimp.cz 
+http://www.slavekruta.com
+http://www.slavimesvobodu.cz 
+http://www.slavistickenoviny.cz 
+http://www.slovane.eu 
+http://www.slovansky-institut.cz 
+http://www.slovanskyvyborcr.cz 
+http://www.slovnik-nakladatelstvi.cz
+http://www.slovozivota.cz 
+http://www.slownjk.cz 
+http://www.smetanovskedny.cz
+http://www.smircikrize.cz
+http://www.sneznik.cz
+http://www.snizekweb.cz
+http://www.soalitomerice.cz
+http://www.sobinov.info
+http://www.socialni-podnikani.cz 
+http://www.socialninauka.cz
+http://www.socialwatch.cz
+http://www.societas.cz 
+http://www.socioklub.cz 
+http://www.sokcr.cz
+http://www.sopr.cz/politologicka_revue 
+http://www.sorp.cz 
+http://www.sos-vesnicky.cz
+http://www.soudci.cz 
 http://www.southbohemia.eu
+http://www.spanelsko.info
+http://www.spastic.cz 
 http://www.spcr.cz
+http://www.specialista.info 
+http://www.speleo.cz
+http://www.spinalcord.cz 
+http://www.spisovatele.cz 
+http://www.spjf.cz
+http://www.spolecnost89.cz 
+http://www.spoleklupuscr.cz 
+http://www.sportovninoviny.cz 
+http://www.spotrebitele.info 
 http://www.spqo.cz
+http://www.spvd.cz
+http://www.spvd.cz/hertl/ 
+http://www.spvd.cz/pnovanka/ 
+http://www.spzcr.cz
+http://www.stalose.cz 
+http://www.stamps.cz 
+http://www.stanislava-souckova.cz
+http://www.starahut.com
 http://www.stavebni-forum.cz
+http://www.stavebnictvi3000.cz 
+http://www.stavitele-katedral.cz 
+http://www.steril.cz/casopis/
+http://www.steril.cz/css/files/
+http://www.stezka.cz 
+http://www.sting.cz/veda-a-vyzkum/acta-sting/ 
+http://www.stinstromu.net
+http://www.stop-vetrnikum.webz.cz 
+http://www.strakonice.eu
+http://www.straznici.com
+http://www.strojvedouciplzen.cz
+http://www.studena.valka.cz/
+http://www.su.cvut.cz
+http://www.sualeph.cz 
 http://www.sukl.cz
-http://www.sumavainfo.cz/
-http://www.svobodnici.cz
+http://www.sumavanet.cz 
+http://www.sumperk.cz 
+http://www.superrodina.cz 
+http://www.supersvet.cz
+http://www.supraphon.cz/cs/umelci/
+http://www.suro.cz
+http://www.surrealismus.cz/vychodiska/
+http://www.suz.cz
+http://www.svatyjan.cz
+http://www.svatykopecek.cz 
+http://www.svaz-skolkaru.cz 
+http://www.svazskautu.cz/
+http://www.sverak.cz
+http://www.svetcest.cz 
+http://www.svetovka.cz/
+http://www.svetvina.cz 
+http://www.svkhk.cz/Pro-knihovny/Zpravodaj-U-nas/
+http://www.svkkl.cz
+http://www.svkos.cz
+http://www.svkpl.cz
+http://www.svkul.cz
+http://www.svn.cz
+http://www.svornik.cz/ 
+http://www.svprokop-sazava.cz 
+http://www.svscr.cz 
+http://www.svu2000.org
+http://www.svujihlava.cz
+http://www.svupraha.cz 
+http://www.systemic.cz/sex/
+http://www.szm.cz
+http://www.szmo.cz
 http://www.szpi.gov.cz
+http://www.taborcz.eu/prodej-budov/ds-1132/archiv=0&pl=55 
+http://www.taborcz.eu/prodej-infrastruktury/ds-1509/archiv=0&pl=55 
+http://www.taborcz.eu/prodej-nebytovych-prostor/ds-1133/archiv=0&pl=55 
+http://www.taborcz.eu/prodej-pozemku/ds-1134/archiv=0&p1=55 
+http://www.taborcz.eu/pronajem-a-pacht-pozemku/ds-1137/archiv=0&p1=55 
+http://www.taborcz.eu/pronajem-bytu/ds-1135/archiv=0&pl=55 
+http://www.taborcz.eu/pronajem-nebytovych-prostor/ds-1136/archiv=0&p1=55 
+http://www.taborcz.eu/vysledky-vyberovych-rizeni-byty/ds-1139/archiv=0&p1=55 
+http://www.taborcz.eu/zadni-stritez-uredni-deska/ds-1949/archiv=0&p1=55 
+http://www.taktone.cz 
+http://www.tamek.icok.cz
+http://www.tanecniaktuality.cz
+http://www.tanecpraha.cz 
+http://www.taxoft.cz/nemeton/
+http://www.tcbs.cz/weblog/ 
+http://www.technika.ccb.cz/ 
+http://www.technikaatrh.cz 
+http://www.teorieib.cz/pbi/
+http://www.teplice.cz 
+http://www.terezinstudies.cz
+http://www.thenattiness.com 
+http://www.tigis.cz/casopisy/pro-lekare/ceske-pracovni-lekarstvi.html 
+http://www.tigis.cz/casopisy/pro-lekare/ceskoslovenska-fyziologie/ 
+http://www.tigis.cz/casopisy/pro-lekare/diabetologie-metabolismus-endokrinologie-vyiva/ 
+http://www.tigis.cz/images/stories/CESKE_PRACOVNI_LEKARSTVI/ 
+http://www.tigis.cz/images/stories/DMEV/ 
+http://www.tigis.cz/images/stories/DMEV_pdf/ 
+http://www.tigis.cz/images/stories/Fyziologie/ 
+http://www.tigis.cz/prac/Index.htm 
+http://www.tigis.cz/ttp://www.sitotisk-serigrafie.cz 
+http://www.tol.cz 
+http://www.tomascerny.cz
+http://www.tonda-obal.cz 
 http://www.topzine.cz
 http://www.totalfilm.cz
+http://www.toulavci.com 
+http://www.trailo.cz 
 http://www.trainspotting.cz
+http://www.trance.cz 
+http://www.translide.cz
 http://www.trate.cz
+http://www.trebivlice.integu.cz 
 http://www.treking.cz
-http://www.ucebnice-dejepisu.ic.cz
+http://www.trendybydleni.cz 
+http://www.tresnak.cz 
+http://www.trestni-rizeni.com
+http://www.tretipol.cz
+http://www.trikralovasbirka.cz
+http://www.trutnov.cz 
+http://www.tschechien-online.org 
+http://www.ttnett.cz
+http://www.tuning.cz 
+http://www.turistika.cz 
+http://www.tv-porady.cz
+http://www.tvarevedy.com 
+http://www.uamk-cr.cz
+http://www.uappmost.cz
+http://www.uappsc.cz
+http://www.uberplyn.cz 
 http://www.ucimse.cz
+http://www.ucitelskenoviny.cz 
+http://www.udu.cas.cz
+http://www.uhk.cz/cs-cz/aktuality/novinky-na-uhk/publikace-periodika/zpravodaj/ 
+http://www.uhul.cz 
+http://www.uiv.cz
+http://www.ujak.cz 
+http://www.ujc.cas.cz
+http://www.ukzuz.cz 
+http://www.ulekare.cz
+http://www.unborn.cz 
+http://www.unhcr.cz
+http://www.unie-otcu.cz 
+http://www.uniform-buttons.com
+http://www.uniformni-knofliky.cz
+http://www.unitaria.cz
+http://www.uno-ok.cz
+http://www.uocr.cz
+http://www.upacr.cz
+http://www.upb.cas.cz 
 http://www.upce.cz
+http://www.upzcr.cz
+http://www.uskbasket.cz 
+http://www.uskfutures.cz 
+http://www.uskmladez.cz 
+http://www.usmevy.cz 
+http://www.ustavmezinarodnichvztahu.cz
+http://www.ustrcr.cz/cs/
+http://www.ustrcr.cz/cs/antologie-ideologickych-textu
+http://www.ustrcr.cz/cs/cesta-k-listopadu-1989
+http://www.ustrcr.cz/cs/doba-nesvobody-1938-1945
+http://www.ustrcr.cz/cs/dokumentace-popravenych-politicke-duvody-48-89
+http://www.ustrcr.cz/cs/dokumentace-usmrcenych-statni-hranice
+http://www.ustrcr.cz/cs/listopad-1989
+http://www.ustrcr.cz/cs/pamet-a-dejiny
+http://www.ustrcr.cz/cs/srpen-1968
+http://www.ustrcr.cz/cs/vzdelavani
+http://www.utia.cas.cz 
+http://www.uzps.cz 
+http://www.uzsvm.cz
+http://www.vachal.cz 
+http://www.vaclavchochola.cz
+http://www.vakspol.cz 
+http://www.valka.cz
+http://www.valnehromady.cz 
+http://www.vareni.cz 
+http://www.varhany.org
+http://www.vavrinec.cz
+http://www.vavrinechradilek.blogspot.cz 
+http://www.vcelicka.cz
+http://www.vcm.cz
+http://www.veceryukapucinu.cz 
 http://www.veda.muni.cz
+http://www.vedajezabava.upol.cz 
+http://www.vedavakci.cz 
+http://www.vejr.cz/regiz/
+http://www.vejr.cz/vesely/
+http://www.veletrhdetskeknihy.cz 
 http://www.venkovskenoviny.cz
-http://www.vestinufilm.cz
+http://www.venusanka.cz 
+http://www.veronica.cz
+http://www.vesely-kopec.eu
+http://www.vesmir.cz 
+http://www.vesmir.info 
+http://www.vesmirweb.net 
+http://www.vetweb.cz 
+http://www.vhu.cz 
+http://www.viaiuris.cz
+http://www.viap.cz
 http://www.victorie.cz
+http://www.viet.cz
+http://www.vikendotevrenychzahrad.cz 
+http://www.vilacerych.cz 
+http://www.vinarskyfond.cz
 http://www.vinazcech.cz
 http://www.vinazmoravy.cz
+http://www.viry.cz 
+http://www.vitalia.cz
+http://www.vizeprodopravuvpraze.cz 
+http://www.vizmburk.cz
 http://www.vkancelari.cz
+http://www.vkol.cz
 http://www.vkprostejov.cz
+http://www.vlaky-vlaky.estranky.cz
+http://www.vlastimilvondruska.cz 
 http://www.vodarenstvi.cz
+http://www.vodni-polo.cz 
+http://www.volby.cz
+http://www.volebnifakta.cz 
+http://www.volejbalcb.cz 
+http://www.volny.cz/berkut/Zapisky/
+http://www.volny.cz/pjenicek/radio/
+http://www.volny.cz/trnkas/trnkas/Rodorevue.htm 
+http://www.vscht.cz/fch/ 
+http://www.vscht.cz/fch/cz/pomucky/BREVALL.pdf 
+http://www.vscht.cz/fch/pokusy/ 
+http://www.vscht.cz/homepage/tvp/ 
+http://www.vscht.cz/homepage/tvp/index/ 
+http://www.vscht.cz/sls/ 
+http://www.vscht.cz/tvp/ 
+http://www.vsem.cz/?section=2&cat=2&subcat=3&page=22 
+http://www.vsfs.cz/periodika/
+http://www.vspsv.cz/societas/ 
+http://www.vuanch.cz 
+http://www.vugtk.cz 
+http://www.vukoz.cz
+http://www.vukrom.cz/obilnarske-listy
+http://www.vvpdedice.net
+http://www.vybojky-zarovky.cz
+http://www.vychova-vzdelavani.cz
 http://www.vyletnivlaky.cz
+http://www.vysehratky.cz 
+http://www.vysokoskolskysport.cz 
+http://www.vytvarneskoly.cz 
+http://www.vyzivavnemoci.cz
+http://www.vyzkum.cz
+http://www.vzdelavani2020.cz 
+http://www.vzory.cz
+http://www.vztahkprirode.cz
+http://www.wasteforum.cz
 http://www.wineofczechrepublic.cz
+http://www.world-music.cz 
+http://www.xray.cz/krystalografie/default.htm 
+http://www.ye.cz
+http://www.yerba-mate.cz
 http://www.youtube.com/user/mhdfotocz/
 http://www.zachranar.cz
-http://www.zachrante-karluv-most.cz
-http://www.zbynekbaladran.com
+http://www.zachranmeletnou.cz 
+http://www.zachranneprogramy.cz 
+http://www.zam.fme.vutbr.cz/~druck/ 
+http://www.zamek-breznice.cz
+http://www.zamek-cervenalhota.eu
+http://www.zamek-ceskykrumlov.eu
+http://www.zamek-dacice.eu
+http://www.zamek-jindrichuvhradec.eu
+http://www.zamek-konopiste.cz
+http://www.zamek-kratochvile.eu
+http://www.zamek-kunstat.cz
+http://www.zamek-litomysl.cz
+http://www.zamek-nachod.cz
+http://www.zamek-opocno.cz
+http://www.zamek-ratiborice.cz
+http://www.zamek-slatinany.cz
+http://www.zamek-uhercice.cz
+http://www.zamek-veltrusy.cz
+http://www.zamek-vranov.cz
+http://www.zameklysice.cz
+http://www.zamekmilotice.cz
+http://www.zamekrajec.cz
+http://www.zamky-hrady.cz
+http://www.zastarouprahu.cz
+http://www.zbecno.cz
+http://www.zdravcentra.cz 
 http://www.zdraverecepty.cz
+http://www.zdravi-az.cz
+http://www.zeleznice.vanovi.net 
+http://www.zeliv.eu 
+http://www.zemedelstvizije.cz
+http://www.zememeric.cz 
+http://www.zip-ops.cz
 http://www.zive.cz
-http://www2.mlynar.cz
-http://wwwold.nkp.cz/pages/sluz_oclcfs.htm
+http://www.zivel.cz
+http://www.zlate-mince.cz
+http://www.zlatyerb.obce.cz
+http://www.zluticko.estranky.cz
+http://www.znkr.cz
+http://www.znojmo-hradiste-archeo.wz.cz
+http://www.znojmuz.cz/digitalizace/index.php
+http://www.znojmuz.cz/digitalizace/obrazy/
+http://www.zoplzen.cz 
+http://www.zpravy.ca/ 
+http://www.zrnkapisku.eu
+http://www.zsdnp.cz 
+http://www.ztracene-deti.cz
+http://www.zuusti.cz 
+http://www.zvony.ic.cz
+http://www.zzskhk.cz 
+http://www.zzslk.cz 
+http://www.zzsol.cz 
+http://www.zzspak.cz 
+http://www.zzsuk.cz 
+http://www.zzsvysocina.cz 
+http://www.zzszlin.cz 
+http://www3.fs.cvut.cz/web/index.php?id=934
+http://www3.telus.net/public/aklestil/
+http://xantina.hyperlink.cz 
+http://xkultura.cz
+http://xpress.cz 
 http://zachranny-kruh.cz
+http://zacinej.cz
+http://zajatecke-tabory.estranky.cz
+http://zarox21.files.wordpress.com
+http://zarox21.wordpress.com
+http://zas.cz 
 http://zbraslav.info
-http://zeleznice.wz.cz
+http://zdjc.cz
+http://zebry.cz/cmelakasvet.cz/ 
 http://zelpage.cz
+http://zemedelskefoto.net 
+http://zenazapultem.webzdarma.cz 
+http://zenskaprava.cz
+http://zenskaprava.ecn.cz
 http://zeny.cz
+http://zh.cz/bible/
+http://zhola.com/BedrichHomola/
+http://zidovskehrbitovy.wz.cz
 http://zidovskelisty.blog.cz
-http://ziva.avcr.cz/
+http://zitnebotezit.cz 
+http://zivapamet.cz
+http://zivotnistyl.cz 
+http://zivotopisyonline.cz
+http://zlamanec.wz.cz 
 http://zlatakoruna.info
 http://zlin.cz
+http://zlomropy.blogspot.com 
+http://zlomropy.blogspot.cz 
+http://zlomvaz.cz
+http://zmizeli-sousede.cz
+http://zmz.cz 
+http://zona.bloudil.cz 
+http://zpravodaj.feminismus.cz
+http://zpravy-ckait.cz
+http://zpravy.idnes.cz/7divu.asp 
 http://zscr.cz
-https://info.unterwegs-in-tschechien.cz
-https://www.galerieubetlemskekaple.cz
+http://zsptd.cz 
+http://zuklin.cz
+http://zvony.varhanici.info
+https://ezak.mmr.cz 
+https://journals.muni.cz/cepsr/
+https://krizevcirkvi.wordpress.com 
+https://liberland.org 
+https://picasaweb.google.com/muzeumdoprovodneprogramy/
+https://plus.google.com/photos/111304498279345388891/
+https://sites.google.com/site/csrggroup/
+https://www.damu.cz
+https://www.hrad-landstejn.eu
+https://www.iim.cz 
+https://www.prichazicenzor.cz
+https://www.provazek.cz
 hus.cuni.cz
 hydro.natur.cuni.cz
 hydronet.karlin.mff.cuni.cz
+hznarodnihazene.cz 
 ic-cuni.cz
 idp-ext.cuni.cz
 ies.fsv.cuni.cz
@@ -700,6 +3276,7 @@ kam.cuni.cz
 kam.mff.cuni.cz
 kamenozrout.cuni.cz
 kamweb.ruk.cuni.cz
+kardinal.cz
 karel.troja.mff.cuni.cz
 karlin.mff.cuni.cz
 karolinka.fsv.cuni.cz
@@ -1202,1028 +3779,10 @@ www-biologie.lfhk.cuni.cz
 www-nc.troja.mff.cuni.cz
 www-ucjf.troja.mff.cuni.cz
 www.natur.cuni.cz/fakulta
+www.volny.cz/tetrix.tetrix/
 wwwcts.cuni.cz
 wwwold.natur.cuni.cz
 xrg.ksi.ms.mff.cuni.cz
 zabrana.ff.cuni.cz
 zes.fsv.cuni.cz
 zurnalistika.fsv.cuni.cz
-
-# Heritrix added seed redirect from http://geografie.natur.cuni.cz/.
-http://www.natur.cuni.cz/geografie
-# Heritrix added seed redirect from http://geography.natur.cuni.cz/.
-http://www.natur.cuni.cz/geografie
-# Heritrix added seed redirect from http://biol.lf1.cuni.cz/.
-http://biol.lf1.cuni.cz/menu.htm
-# Heritrix added seed redirect from http://dsrg.mff.cuni.cz/.
-http://d3s.mff.cuni.cz/
-# Heritrix added seed redirect from http://ecae.lf3.cuni.cz/.
-http://ecae.lf3.cuni.cz/cs/index.html
-# Heritrix added seed redirect from http://biomolecules.mff.cuni.cz/.
-http://fu.mff.cuni.cz/biomolecules/
-# Heritrix added seed redirect from http://carolina.mff.cuni.cz/.
-http://ipsc.cuni.cz/IPSC-148.html
-# Heritrix added seed redirect from http://bio.natur.cuni.cz/.
-http://www.frozenevolution.com/
-# Heritrix added seed redirect from http://apps.isiknowledge.com.onelog3.ruk.cuni.cz/.
-http://ezproxy.is.cuni.cz/
-# Heritrix added seed redirect from http://abclinuxu.cz/.
-http://www.abclinuxu.cz/
-# Heritrix added seed redirect from http://aktuality.firstnet.cz/.
-http://idaret.cz/
-# Heritrix added seed redirect from http://edis.cuni.cz/.
-http://www.cuni.cz/UK-3399.html
-# Heritrix added seed redirect from http://artemis.ms.mff.cuni.cz/.
-http://artemis.ms.mff.cuni.cz/main
-# Heritrix added seed redirect from http://cas.cuni.cz/.
-https://cas.cuni.cz/
-# Heritrix added seed redirect from http://aw.cuni.cz/.
-http://www.cuni.cz/UK-1.html
-# Heritrix added seed redirect from http://eduroam.prf.cuni.cz/.
-http://www.prf.cuni.cz/eduroam-1404045974.html
-# Heritrix added seed redirect from http://ffms01.ff.cuni.cz/.
-http://ffms01.ff.cuni.cz/FFUK/Catalog/pages/catalog.aspx?catalogId=b8f6d012-38a1-44fe-851b-5341a101cb45
-# Heritrix added seed redirect from http://ajp.cuni.cz/.
-http://ajp.cuni.cz/index.php/Home
-# Heritrix added seed redirect from http://apatykar.info/.
-http://www.apatykar.info/
-# Heritrix added seed redirect from http://alias.natur.cuni.cz/.
-https://alias.natur.cuni.cz/
-# Heritrix added seed redirect from http://fykos.mff.cuni.cz/.
-http://fykos.cz/
-# Heritrix added seed redirect from http://artmagazin.eu/.
-https://www.artmagazin.eu/
-# Heritrix added seed redirect from http://helpdesk.natur.cuni.cz/.
-https://helpdesk.natur.cuni.cz/
-# Heritrix added seed redirect from http://go.natur.cuni.cz/.
-http://ga.natur.cuni.cz/
-# Heritrix added seed redirect from http://class.pedf.cuni.cz/.
-http://class.pedf.cuni.cz/index.htm
-# Heritrix added seed redirect from http://cupress.cuni.cz/.
-http://cupress.cuni.cz/ink2_stat/
-# Heritrix added seed redirect from http://czp.cuni.cz/.
-http://czp.cuni.cz/czp/
-# Heritrix added seed redirect from http://knihovnice.cz/.
-http://www.knihovnice.cz/
-# Heritrix added seed redirect from http://digit.nkp.cz/.
-http://digit.nkp.cz/Default.htm
-# Heritrix added seed redirect from http://css.ff.cuni.cz/.
-http://css.ff.cuni.cz/cs/
-# Heritrix added seed redirect from http://edit.natur.cuni.cz/.
-https://www.natur.cuni.cz/
-# Heritrix added seed redirect from http://equichannel.cz/.
-http://www.equichannel.cz/
-# Heritrix added seed redirect from http://edconf2010.pedf.cuni.cz/.
-http://edconf2010.pedf.cuni.cz/main
-# Heritrix added seed redirect from http://e-shop.ff.cuni.cz/.
-https://e-shop.ff.cuni.cz/
-# Heritrix added seed redirect from http://dl1.cuni.cz/.
-https://dl1.cuni.cz/
-# Heritrix added seed redirect from http://clip.lf2.cuni.cz/.
-http://clip.lf2.cuni.cz/cs/
-# Heritrix added seed redirect from http://behej.com/.
-https://www.behej.com/
-# Heritrix added seed redirect from http://e-sport.cz/.
-http://www.e-sportfoto.cz/
-# Heritrix added seed redirect from http://e15.cz/.
-http://www.e15.cz/
-# Heritrix added seed redirect from http://eis.cuni.cz/.
-http://www.cuni.cz/UK-3399.html
-# Heritrix added seed redirect from http://czechofil.com/.
-https://czechofil.com/
-# Heritrix added seed redirect from http://cck-isc.ff.cuni.cz/.
-http://cck-isc.ff.cuni.cz/cs/index-1.html
-# Heritrix added seed redirect from http://forum.lf1.cuni.cz/.
-http://forum.lf1.cz/
-# Heritrix added seed redirect from http://fyzweb.cuni.cz/.
-http://fyzweb.cz/
-# Heritrix added seed redirect from http://ezproxy.is.cuni.cz/.
-http://ezproxy.is.cuni.cz/login
-# Heritrix added seed redirect from http://finexpert.cz/.
-http://www.finexpert.cz/
-# Heritrix added seed redirect from http://fykos.troja.mff.cuni.cz/.
-http://fykos.cz/
-# Heritrix added seed redirect from http://egyptologie.ff.cuni.cz/.
-http://cegu.ff.cuni.cz/
-# Heritrix added seed redirect from http://cozp.cuni.cz/.
-https://cozp.cuni.cz/COZP-2.html
-# Heritrix added seed redirect from http://idaret.cz/.
-http://idaret.cz/news/
-# Heritrix added seed redirect from http://hjs.ff.cuni.cz/.
-http://hjs.ff.cuni.cz/main/hjs.php?page=index_page
-# Heritrix added seed redirect from http://goethe.ff.cuni.cz/.
-http://german.ff.cuni.cz/pmwiki/pmwiki.php/Goethe/Goethe-Gesellschaft/
-# Heritrix added seed redirect from http://cesta.ujop.cuni.cz/.
-http://www1.cuni.cz/under_reconstruction.html
-# Heritrix added seed redirect from http://cppt.cuni.cz/.
-http://www.cuni.cz/UK-35.html
-# Heritrix added seed redirect from http://cirkev.wordpress.com/.
-https://cirkev.wordpress.com/
-# Heritrix added seed redirect from http://galerie.bourky.cz/.
-http://galerie.bourky.com/
-# Heritrix added seed redirect from http://aurora.troja.mff.cuni.cz/.
-http://physics.mff.cuni.cz/kfpp/
-# Heritrix added seed redirect from http://cfm.lf1.cuni.cz/.
-http://cfm.gynpor.cz/
-# Heritrix added seed redirect from http://fo.cuni.cz/.
-http://fyzikalniolympiada.cz/
-# Heritrix added seed redirect from http://dmsbambus.cz/.
-http://dmsbambus.burma-center.org/
-# Heritrix added seed redirect from http://cestina20.cz/.
-https://cestina20.cz/
-# Heritrix added seed redirect from http://dl2.cuni.cz/.
-https://dl2.cuni.cz/
-# Heritrix added seed redirect from http://babyweb.cz/.
-http://www.babyweb.cz/
-# Heritrix added seed redirect from http://burma-center.org/.
-http://www.burma-center.org/
-# Heritrix added seed redirect from http://letemsvetemapplem.eu/.
-https://letemsvetemapplem.eu/
-# Heritrix added seed redirect from http://cs.mff.cuni.cz/.
-http://cs.mff.cuni.cz/index.html.cz
-# Heritrix added seed redirect from http://rallylife.cz/.
-http://www.rallylife.cz/
-# Heritrix added seed redirect from http://skromach.cz/.
-http://www.skromach.cz/
-# Heritrix added seed redirect from http://finance.cz/.
-http://www.finance.cz/
-# Heritrix added seed redirect from http://info.muni.cz/.
-https://www.online.muni.cz/
-# Heritrix added seed redirect from http://fo.mff.cuni.cz/.
-http://fyzikalniolympiada.cz/
-# Heritrix added seed redirect from http://helpnet.cz/.
-http://www.helpnet.cz/
-# Heritrix added seed redirect from http://horyinfo.cz/.
-http://www.horyinfo.cz/
-# Heritrix added seed redirect from http://vasevec.cz/.
-http://vasevec.parlamentnilisty.cz/
-# Heritrix added seed redirect from http://pardubice.eu/.
-http://www.pardubice.eu/
-# Heritrix added seed redirect from http://iliteratura.cz/.
-http://www.iliteratura.cz/
-# Heritrix added seed redirect from http://literarninoviny.cz/.
-http://literarky.cz/
-# Heritrix added seed redirect from http://pes.eunet.cz/.
-http://neviditelnypes.lidovky.cz/
-# Heritrix added seed redirect from http://apolinar.lf1.cuni.cz/.
-http://www.vfn.cz/pracoviste/kliniky-a-oddeleni/gynekologicko-porodnicka-klinika/
-# Heritrix added seed redirect from http://parlament-vlada.cz/.
-http://www.parlament-vlada.eu/
-# Heritrix added seed redirect from http://jarodic.cz/.
-http://www.jarodic.cz/cz/
-# Heritrix added seed redirect from http://casopiskomar.wz.cz/.
-http://www.casopiskomar.webs.com/
-# Heritrix added seed redirect from http://el.lf1.cuni.cz/.
-https://el.lf1.cuni.cz/
-# Heritrix added seed redirect from http://mobilenet.cz/.
-https://mobilenet.cz/
-# Heritrix added seed redirect from http://hodnoceni.ff.cuni.cz/.
-https://cas.cuni.cz/cas/login?service=http%3A%2F%2Fhodnoceni.ff.cuni.cz%2F
-# Heritrix added seed redirect from http://www.archatheatre.cz/.
-http://www.divadloarcha.cz/
-# Heritrix added seed redirect from http://mojenozky.cz/.
-https://mojenozky.cz/
-# Heritrix added seed redirect from http://kudyznudy.cz/.
-http://www.kudyznudy.cz/
-# Heritrix added seed redirect from http://neviditelnypes.cz/.
-http://neviditelnypes.lidovky.cz/
-# Heritrix added seed redirect from http://chemievjidle.cz/.
-http://www.zdravapotravina.cz/
-# Heritrix added seed redirect from http://infoportaly.cz/.
-https://polar.cz/
-# Heritrix added seed redirect from http://www.ceskapozice.cz/.
-http://ceskapozice.lidovky.cz/
-# Heritrix added seed redirect from http://fanzine.topzine.cz/.
-https://fanzine.topzine.cz/
-# Heritrix added seed redirect from http://pozitivni-noviny.cz/.
-http://www.pozitivni-noviny.cz/
-# Heritrix added seed redirect from http://velehory.cz/.
-http://pohora.cz/
-# Heritrix added seed redirect from http://vyletnik.cz/.
-http://www.vyletnik.cz/
-# Heritrix added seed redirect from http://studentmag.topzine.cz/.
-https://studentmag.topzine.cz/
-# Heritrix added seed redirect from http://mediainfo.cz/.
-http://www.newtonmedia.cz/cs/mediainfo-cz/all/archiv
-# Heritrix added seed redirect from http://sdb.cz/.
-http://www.sdb.cz/
-# Heritrix added seed redirect from http://kducsl.cz/.
-http://www.kdu.cz/
-# Heritrix added seed redirect from http://netshopper.cz/.
-http://www.netshopper.cz/
-# Heritrix added seed redirect from http://eitinger.cz/.
-http://www.eitinger.cz/
-# Heritrix added seed redirect from http://knihovna.policka.org/.
-http://www.knihovna.policka.org/
-# Heritrix added seed redirect from http://fu.ff.cuni.cz/.
-http://fonetika.ff.cuni.cz/
-# Heritrix added seed redirect from http://www.cdr.cz/.
-http://cdr.cz/
-# Heritrix added seed redirect from http://www.mmr.cz/.
-http://www.mmr.cz/cs/Uvodni-strana
-# Heritrix added seed redirect from http://www.czech.cz/.
-http://www.czech.cz/en/Home-en
-# Heritrix added seed redirect from http://spspraha.cz/.
-http://plavebniurad.cz/
-# Heritrix added seed redirect from http://www.blisty.cz/.
-http://blisty.cz/
-# Heritrix added seed redirect from http://czech-ba.cz/.
-http://www.czech-ba.cz/
-# Heritrix added seed redirect from http://www.diit.cz/.
-http://diit.cz/
-# Heritrix added seed redirect from http://muzes.cz/.
-http://www.muzes.cz/
-# Heritrix added seed redirect from http://cnews.cz/.
-http://www.cnews.cz/
-# Heritrix added seed redirect from http://tisk.cirkev.cz/.
-http://www.cirkev.cz/
-# Heritrix added seed redirect from http://www.ekamarad.cz/.
-http://www.ekamarad.cz/magazin
-# Heritrix added seed redirect from http://extrahardware.cnews.cz/.
-http://www.cnews.cz/
-# Heritrix added seed redirect from http://cbs.etf.cuni.cz/.
-http://cbs.etf.cuni.cz/cz/homepage.html
-# Heritrix added seed redirect from http://komeniologie.flu.cas.cz/.
-http://komeniologie.flu.cas.cz/cz
-# Heritrix added seed redirect from http://www.cirkev.cz/.
-https://www.cirkev.cz/
-# Heritrix added seed redirect from http://www.operaplus.cz/.
-http://operaplus.cz/
-# Heritrix added seed redirect from http://www.vodarenstvi.cz/.
-http://www.ovodarenstvi.cz/
-# Heritrix added seed redirect from http://liberecky-kraj.cz/.
-http://www.liberecky-kraj.cz/
-# Heritrix added seed redirect from http://czech.prague.usembassy.gov/.
-https://cz.usembassy.gov/cs/
-# Heritrix added seed redirect from http://speedwaya-z.cz/.
-http://www.speedwaya-z.cz/
-# Heritrix added seed redirect from http://www.plzen.eu/.
-http://www.plzen.eu/obcan/
-# Heritrix added seed redirect from http://spotrebitel.cz/.
-http://www.spotrebitel.cz/
-# Heritrix added seed redirect from http://www.mozartpraha2006.cz/.
-http://www.mozartpraha2006.cz/cz/index.htm
-# Heritrix added seed redirect from http://kdu.cz/.
-http://www.kdu.cz/
-# Heritrix added seed redirect from http://mikrogranty.cz/.
-http://mikrogranty.cz/burma/
-# Heritrix added seed redirect from http://dec52.lf1.cuni.cz/.
-http://lf1.cuni.cz/
-# Heritrix added seed redirect from http://emulgatory.cz/.
-http://www.zdravapotravina.cz/
-# Heritrix added seed redirect from http://www.hkcr.cz/.
-http://www.komora.cz/
-# Heritrix added seed redirect from http://novy.ropid.cz/.
-http://ropid.cz/
-# Heritrix added seed redirect from http://fotobookaktuality.blogspot.com/.
-http://fotobookaktuality.blogspot.cz/
-# Heritrix added seed redirect from http://volby.kdu.cz/.
-http://srostliskrajem.cz/
-# Heritrix added seed redirect from http://www.praguewelcome.cz/.
-http://www.prague.eu/
-# Heritrix added seed redirect from http://faf.cuni.cz/.
-http://www.faf.cuni.cz/
-# Heritrix added seed redirect from http://digitool.cuni.cz/.
-https://digitool.cuni.cz/DIGITOOL-43.html
-# Heritrix added seed redirect from http://operadream.blogspot.com/.
-http://operadream.blogspot.cz/
-# Heritrix added seed redirect from http://www.hzsol.cz/.
-http://olk.hzscr.cz/
-# Heritrix added seed redirect from http://fantasyplanet.cz/.
-http://www.fantasyplanet.cz/
-# Heritrix added seed redirect from http://www.geology.cz/.
-http://www.geology.cz/extranet
-# Heritrix added seed redirect from http://mladejovsky.blogspot.com/.
-http://mladejovsky.blogspot.cz/
-# Heritrix added seed redirect from http://jib-info.cuni.cz/.
-http://info.jib.cz/
-# Heritrix added seed redirect from http://zlatakoruna.info/.
-http://www.zlatakoruna.info/
-# Heritrix added seed redirect from http://mediar.cz/.
-http://www.mediar.cz/
-# Heritrix added seed redirect from http://www.stavebni-forum.cz/.
-http://www.stavebni-forum.cz/cs/
-# Heritrix added seed redirect from http://edit.lf3.cuni.cz/.
-http://edit.lf3.cuni.cz/system/login
-# Heritrix added seed redirect from http://is.fhs.cuni.cz/.
-https://is.cuni.cz/studium/
-# Heritrix added seed redirect from http://eduroam.cuni.cz/.
-http://uvt.cuni.cz/UVT-75.html
-# Heritrix added seed redirect from http://kcj.pedf.cuni.cz/.
-http://pages.pedf.cuni.cz/kcj/
-# Heritrix added seed redirect from http://www.youtube.com/user/mhdfotocz/.
-https://www.youtube.com/user/mhdfotocz/
-# Heritrix added seed redirect from http://denlatiny.ff.cuni.cz/.
-http://www.ff.cuni.cz/fakulta/o-fakulte/pravidelne-akce/den-latiny
-# Heritrix added seed redirect from http://www.enterprise-europe-network.cz/.
-http://www.enterprise-europe-network.cz/cs
-# Heritrix added seed redirect from http://fblaboratory.blogspot.com/.
-http://fblaboratory.blogspot.cz/
-# Heritrix added seed redirect from http://zelpage.cz/.
-http://www.zelpage.cz/
-# Heritrix added seed redirect from http://www.pis.cz/.
-http://www.praguecitytourism.cz/
-# Heritrix added seed redirect from http://kti.ms.mff.cuni.cz/.
-http://ktiml.mff.cuni.cz/ktiml/index.php
-# Heritrix added seed redirect from http://is.mff.cuni.cz/.
-https://is.mff.cuni.cz/
-# Heritrix added seed redirect from http://kam.mff.cuni.cz/.
-http://kam.mff.cuni.cz/index.html.en
-# Heritrix added seed redirect from http://kjbs.ff.cuni.cz/.
-http://kjbs.ff.cuni.cz/cs/
-# Heritrix added seed redirect from http://nazeleno.cz/.
-http://www.nazeleno.cz/
-# Heritrix added seed redirect from http://www.behej.com/.
-https://www.behej.com/
-# Heritrix added seed redirect from http://www.bezpecnemesto.eu/.
-http://www.bezpecnaplzen.eu/
-# Heritrix added seed redirect from http://www.victorie.cz/.
-http://www.zeny.cz/
-# Heritrix added seed redirect from http://www.trainspotting.cz/.
-http://www.zelpage.cz/fotogalerie/
-# Heritrix added seed redirect from http://www.topzine.cz/.
-https://www.topzine.cz/
-# Heritrix added seed redirect from http://www.severskelisty.cz/.
-http://www.severskelisty.cz/tydenik/tyd1701.php
-# Heritrix added seed redirect from http://kddl.lf1.cuni.cz/.
-http://www.vfn.cz/pracoviste/kliniky-a-oddeleni/klinika-detskeho-a-dorostoveho-lekarstvi/
-# Heritrix added seed redirect from http://ff.cuni.cz/.
-http://www.ff.cuni.cz/
-# Heritrix added seed redirect from http://kdddweb.pedf.cuni.cz/.
-http://pages.pedf.cuni.cz/kddd/
-# Heritrix added seed redirect from http://www.ngprague.cz/mistri/.
-http://www.ngprague.cz/404/
-# Heritrix added seed redirect from http://www.wineofczechrepublic.cz/.
-https://www.wineofczechrepublic.cz/
-# Heritrix added seed redirect from http://www.online.muni.cz/.
-https://www.online.muni.cz/
-# Heritrix added seed redirect from http://www.liberec.cz/.
-http://www.liberec.cz/cz
-# Heritrix added seed redirect from http://zachranny-kruh.cz/.
-http://www.zachranny-kruh.cz/
-# Heritrix added seed redirect from http://cl.ff.cuni.cz/.
-http://uclk.ff.cuni.cz/
-# Heritrix added seed redirect from http://www.veda.muni.cz/.
-https://www.online.muni.cz/veda
-# Heritrix added seed redirect from http://ebed.etf.cuni.cz/.
-http://web.etf.cuni.cz/
-# Heritrix added seed redirect from http://www.mmkv.cz/.
-https://mmkv.cz/
-# Heritrix added seed redirect from http://kraj-lbc.cz/.
-http://www.kraj-lbc.cz/
-# Heritrix added seed redirect from http://ic-cuni.cz/.
-http://www.ic-cuni.cz/
-# Heritrix added seed redirect from http://ipnp00.troja.mff.cuni.cz/.
-http://www-ucjf.troja.mff.cuni.cz/new/
-# Heritrix added seed redirect from http://mpsv.cz/.
-http://www.mpsv.cz/cs/
-# Heritrix added seed redirect from http://www.muzikus.cz/.
-http://www.muzikus.cz/homepage/
-# Heritrix added seed redirect from http://ksi.ms.mff.cuni.cz/.
-http://www.ksi.mff.cuni.cz/
-# Heritrix added seed redirect from http://zeny.cz/.
-http://www.zeny.cz/
-# Heritrix added seed redirect from http://kped.pedf.cuni.cz/.
-http://pages.pedf.cuni.cz/kssp/
-# Heritrix added seed redirect from http://www.trate.cz/.
-http://www.zelpage.cz/trate/ceska-republika/
-# Heritrix added seed redirect from http://ktilinux.ms.mff.cuni.cz/.
-http://ktiml.mff.cuni.cz/ktiml/index.php
-# Heritrix added seed redirect from http://ksppg.pedf.cuni.cz/.
-http://pages.pedf.cuni.cz/ksppg/
-# Heritrix added seed redirect from http://ktiml.ms.mff.cuni.cz/.
-http://ktiml.mff.cuni.cz/ktiml/index.php
-# Heritrix added seed redirect from http://www.upce.cz/.
-http://www.upce.cz/index.html
-# Heritrix added seed redirect from http://lf1.cuni.cz/.
-http://www.lf1.cuni.cz/
-# Heritrix added seed redirect from http://ksi.mff.cuni.cz/.
-http://www.ksi.mff.cuni.cz/
-# Heritrix added seed redirect from http://is.ff.cuni.cz/.
-http://www.ff.cuni.cz/FF-1436.html
-# Heritrix added seed redirect from http://dg.cuni.cz/.
-https://uvt.cuni.cz/UVT-586.html
-# Heritrix added seed redirect from http://www.vinazcech.cz/.
-https://www.wineofczechrepublic.cz/
-# Heritrix added seed redirect from http://lipa.ms.mff.cuni.cz/.
-http://wiki.mizar.org/cgi-bin/twiki/view/Mizar
-# Heritrix added seed redirect from http://www.vinazmoravy.cz/.
-https://www.wineofczechrepublic.cz/
-# Heritrix added seed redirect from http://kbio.pedf.cuni.cz/.
-https://sites.google.com/site/pedfukkbev/
-# Heritrix added seed redirect from http://knihovna.psychologie.ff.cuni.cz/.
-http://knihovnaceletna.ff.cuni.cz/
-# Heritrix added seed redirect from http://ldap.cuni.cz/.
-https://ldap.cuni.cz/
-# Heritrix added seed redirect from http://katalog.ff.cuni.cz/.
-http://praha2.ff.cuni.cz/tinweb/tw
-# Heritrix added seed redirect from http://manualy.ff.cuni.cz/.
-http://manualy.ff.cuni.cz/index.php/Hlavn%C3%AD_strana
-# Heritrix added seed redirect from http://lists.karlov.mff.cuni.cz/.
-https://lists.karlov.mff.cuni.cz/
-# Heritrix added seed redirect from http://mo.mff.cuni.cz/.
-http://mo.mff.cuni.cz/p/
-# Heritrix added seed redirect from http://kamweb.ruk.cuni.cz/.
-https://kamweb.ruk.cuni.cz/
-# Heritrix added seed redirect from http://mongolistika.ff.cuni.cz/.
-http://ujca.ff.cuni.cz/
-# Heritrix added seed redirect from http://kmdm.pedf.cuni.cz/.
-http://kmdm.pedf.cuni.cz/Default.aspx?PorZobr=1&PolozkaID=-1&ClanekID=136
-# Heritrix added seed redirect from http://maclc.ruk.cuni.cz/.
-http://maclc.ruk.cuni.cz/wiki
-# Heritrix added seed redirect from http://metabol.lfp.cuni.cz/.
-http://metabol.lfp.cuni.cz/index.asp
-# Heritrix added seed redirect from http://mff.cuni.cz/.
-http://www.mff.cuni.cz/
-# Heritrix added seed redirect from http://is.cuni.cz/.
-http://www.cuni.cz/UK-4436.html
-# Heritrix added seed redirect from http://ktiml.mff.cuni.cz/.
-http://ktiml.mff.cuni.cz/ktiml/index.php
-# Heritrix added seed redirect from http://www.razeni.cz/.
-http://www.zelpage.cz/razeni/
-# Heritrix added seed redirect from http://kti.mff.cuni.cz/.
-http://ktiml.mff.cuni.cz/ktiml/index.php
-# Heritrix added seed redirect from http://kdho.lf2.cuni.cz/.
-http://www.fnmotol.cz/microsite-kdho
-# Heritrix added seed redirect from http://hydro.natur.cuni.cz/.
-http://hydro.natur.cuni.cz/index.php?lang=eng
-# Heritrix added seed redirect from http://ceskaskola.cz/.
-http://www.ceskaskola.cz/
-# Heritrix added seed redirect from http://zscr.cz/.
-http://www.zscr.cz/
-# Heritrix added seed redirect from http://magazin-test-1.ff.cuni.cz/.
-http://sites.ff.cuni.cz/
-# Heritrix added seed redirect from http://iu.ff.cuni.cz/.
-http://ujca.ff.cuni.cz/
-# Heritrix added seed redirect from http://login.onelog3.ruk.cuni.cz/.
-http://ezproxy.is.cuni.cz/
-# Heritrix added seed redirect from http://lge.lf1.cuni.cz/.
-http://ublg.lf1.cuni.cz/
-# Heritrix added seed redirect from http://lindat.mff.cuni.cz/.
-https://lindat.mff.cuni.cz/
-# Heritrix added seed redirect from http://www.vyletnivlaky.cz/.
-http://www.zelpage.cz/kalendar/
-# Heritrix added seed redirect from http://kbes.pedf.cuni.cz/.
-http://pages.pedf.cuni.cz/kbes/
-# Heritrix added seed redirect from http://www.mediaguru.cz/.
-https://www.mediaguru.cz/
-# Heritrix added seed redirect from http://shekel.cz/.
-http://www.shekel.cz/
-# Heritrix added seed redirect from http://lucy.troja.mff.cuni.cz/.
-http://sheeni.troja.mff.cuni.cz/LabTF/
-# Heritrix added seed redirect from http://ksicht.natur.cuni.cz/.
-http://ksicht.natur.cuni.cz/o-ksichtu
-# Heritrix added seed redirect from http://www.pse.cz/.
-https://www.pse.cz/
-# Heritrix added seed redirect from http://lfhk.cuni.cz/.
-https://www.lfhk.cuni.cz/
-# Heritrix added seed redirect from http://moodle.pedf.cuni.cz/.
-http://pedf.cuni.cz/PEDF-482.html
-# Heritrix added seed redirect from http://mail.ff.cuni.cz/.
-http://www.ff.cuni.cz/webmail
-# Heritrix added seed redirect from http://onelog3.ruk.cuni.cz/.
-http://ezproxy.is.cuni.cz/
-# Heritrix added seed redirect from http://www.kompas.estranky.cz/.
-http://skompasem.cz/
-# Heritrix added seed redirect from http://ipc.cuni.cz/.
-http://ipsc.cuni.cz/IPSC-1.html
-# Heritrix added seed redirect from http://login.ezproxy.is.cuni.cz/.
-http://ezproxy.is.cuni.cz/login
-# Heritrix added seed redirect from http://mail.prf.cuni.cz/.
-https://mail.prf.cuni.cz/SOGo
-# Heritrix added seed redirect from http://mttalks.ufal.ms.mff.cuni.cz/.
-http://mttalks.ufal.ms.mff.cuni.cz/index.php?title=Main_Page
-# Heritrix added seed redirect from http://ojs.ktf.cuni.cz/.
-http://ojs.ktf.cuni.cz/index.php/theologica
-# Heritrix added seed redirect from http://outlook.ff.cuni.cz/.
-https://outlook.ff.cuni.cz/owa
-# Heritrix added seed redirect from http://otokar.troja.mff.cuni.cz/.
-http://utf.mff.cuni.cz/
-# Heritrix added seed redirect from http://nenya.ms.mff.cuni.cz/.
-http://d3s.mff.cuni.cz/
-# Heritrix added seed redirect from http://www.dnv-praha.cz/.
-http://www.divadlonavinohradech.com/
-# Heritrix added seed redirect from http://lib.natur.cuni.cz/.
-http://lib-eth.natur.cuni.cz/BIBLIO/
-# Heritrix added seed redirect from http://kmop.mff.cuni.cz/.
-http://kfa.mff.cuni.cz/
-# Heritrix added seed redirect from http://www.brouzdej.cz/.
-http://www.brouzdej.cz/blog
-# Heritrix added seed redirect from http://prf.cuni.cz/.
-http://www.prf.cuni.cz/
-# Heritrix added seed redirect from http://mail.kolej.mff.cuni.cz/.
-http://www.kolej.mff.cuni.cz/
-# Heritrix added seed redirect from http://petrol.natur.cuni.cz/.
-https://www.natur.cuni.cz/geologie/petrologie/
-# Heritrix added seed redirect from http://www.proalt.cz/.
-http://proalt.cz/
-# Heritrix added seed redirect from http://ostravskenoviny.cz/.
-https://ostravskenoviny.cz/
-# Heritrix added seed redirect from http://natur.cuni.cz/.
-https://www.natur.cuni.cz/
-# Heritrix added seed redirect from http://lfp.cuni.cz/.
-http://www.lfp.cuni.cz/
-# Heritrix added seed redirect from http://nc25.troja.mff.cuni.cz/.
-http://www-ucjf.troja.mff.cuni.cz/new/
-# Heritrix added seed redirect from http://kult.ff.cuni.cz/.
-http://www.kulturologie.cz/
-# Heritrix added seed redirect from http://boleradice.cz/.
-http://www.boleradice.cz/
-# Heritrix added seed redirect from http://nbox.troja.mff.cuni.cz/.
-http://nbox.troja.mff.cuni.cz/index.html.cs
-# Heritrix added seed redirect from http://libpro.cts.cuni.cz/.
-http://www.libpro.cz/
-# Heritrix added seed redirect from http://pelikan.lf2.cuni.cz/.
-http://pelikan.lf2.cuni.cz/2005-2006/14-index.htm
-# Heritrix added seed redirect from http://pec.cuni.cz/.
-http://pez.cuni.cz/prehled/zdroj.php?id=397&lang=cs
-# Heritrix added seed redirect from http://misscuni.cz/.
-http://www.misskarlovka.cz/
-# Heritrix added seed redirect from http://lib-eth.natur.cuni.cz/.
-http://lib-eth.natur.cuni.cz/BIBLIO/
-# Heritrix added seed redirect from http://orto.lf1.cuni.cz/.
-http://www.fnmotol.cz/ortopedicka-klinika-uk-1-lf
-# Heritrix added seed redirect from http://kses.ff.cuni.cz/.
-http://kses.ff.cuni.cz/cs/
-# Heritrix added seed redirect from http://portal.natur.cuni.cz/.
-https://www.natur.cuni.cz/
-# Heritrix added seed redirect from http://pragestt.ff.cuni.cz/.
-http://german.ff.cuni.cz/pmwiki/pmwiki.php/Main/Pragestt
-# Heritrix added seed redirect from http://old.prf.cuni.cz/.
-http://www.prf.cuni.cz/
-# Heritrix added seed redirect from http://kjp.ff.cuni.cz/.
-http://www.ff.cuni.cz/FF-8252.html
-# Heritrix added seed redirect from http://musicology.ff.cuni.cz/.
-http://uhv.ff.cuni.cz/
-# Heritrix added seed redirect from http://prfdec.natur.cuni.cz/.
-http://www.natur.cuni.cz/
-# Heritrix added seed redirect from http://moodle.prf.cuni.cz/.
-https://moodle.prf.cuni.cz/
-# Heritrix added seed redirect from http://ktf.cuni.cz/.
-http://www.ktf.cuni.cz/
-# Heritrix added seed redirect from http://nrs.fsv.cuni.cz/.
-http://knrs.fsv.cuni.cz/KNRS-1.html
-# Heritrix added seed redirect from http://su.mff.cuni.cz/.
-https://su.mff.cuni.cz/
-# Heritrix added seed redirect from http://informacezbrna.cz/.
-http://www.informacezbrna.cz/
-# Heritrix added seed redirect from http://popin.natur.cuni.cz/.
-http://popin.natur.cuni.cz/html2/index.php
-# Heritrix added seed redirect from http://psik.karlov.mff.cuni.cz/.
-http://psik.mff.cuni.cz/
-# Heritrix added seed redirect from http://posta.natur.cuni.cz/.
-https://mail.google.com/a/natur.cuni.cz
-# Heritrix added seed redirect from http://senat.cuni.cz/.
-http://www.cuni.cz/UK-5760.html
-# Heritrix added seed redirect from http://prijimacky.ff.cuni.cz/.
-http://www.ff.cuni.cz/uchazec
-# Heritrix added seed redirect from http://studenticuni.cz/.
-http://www.cesu.cz/
-# Heritrix added seed redirect from http://transcript.fsv.cuni.cz/.
-https://transcript.fsv.cuni.cz/
-# Heritrix added seed redirect from http://sheeni.troja.mff.cuni.cz/.
-http://sheeni.troja.mff.cuni.cz/welcome/index.html
-# Heritrix added seed redirect from http://student.sias.ff.cuni.cz/.
-http://sias.ff.cuni.cz/SIAS-1.html
-# Heritrix added seed redirect from http://izdoprava.cz/.
-http://www.izdoprava.cz/
-# Heritrix added seed redirect from http://usvs.ff.cuni.cz/.
-http://www.ff.cuni.cz/fakulta/katedry-a-ustavy/
-# Heritrix added seed redirect from http://skas.mff.cuni.cz/.
-http://www.mff.cuni.cz/fakulta/as/skas/
-# Heritrix added seed redirect from http://search.mff.cuni.cz/.
-http://www.mff.cuni.cz/search
-# Heritrix added seed redirect from http://uvrv.pedf.cuni.cz/.
-http://pages.pedf.cuni.cz/uvrv/
-# Heritrix added seed redirect from http://svp.pedf.cuni.cz/.
-http://www.strediskovzdelavacipolitiky.info/
-# Heritrix added seed redirect from http://svi.ff.cuni.cz/.
-http://www.ff.cuni.cz/FF-23.html
-# Heritrix added seed redirect from http://oldweb.ff.cuni.cz/.
-http://www.ff.cuni.cz/
-# Heritrix added seed redirect from http://shibboleth.lf1.cuni.cz/.
-https://shibboleth.lf1.cuni.cz/
-# Heritrix added seed redirect from http://sociologickevecery.fsv.cuni.cz/.
-http://sociologickevecery.fsv.cuni.cz/vecer.php?sid=146
-# Heritrix added seed redirect from http://psychologie.ff.cuni.cz/.
-http://kps.ff.cuni.cz/
-# Heritrix added seed redirect from http://sociologickeuterky.fsv.cuni.cz/.
-http://sociologickevecery.fsv.cuni.cz/
-# Heritrix added seed redirect from http://migration.cuni.cz/.
-http://www.migration.cz/
-# Heritrix added seed redirect from http://www-nc.troja.mff.cuni.cz/.
-http://www-ucjf.troja.mff.cuni.cz/new/
-# Heritrix added seed redirect from http://twinsen2.natur.cuni.cz/.
-https://twinsen2.natur.cuni.cz/
-# Heritrix added seed redirect from http://stuter.fsv.cuni.cz/.
-http://stuter.fsv.cuni.cz/index.php/stuter
-# Heritrix added seed redirect from http://twinsen.natur.cuni.cz/.
-https://twinsen2.natur.cuni.cz/
-# Heritrix added seed redirect from http://search.cuni.cz/.
-http://www.cuni.cz/UK-4564.html
-# Heritrix added seed redirect from http://ufal-point.mff.cuni.cz/.
-https://ufal-point.mff.cuni.cz/
-# Heritrix added seed redirect from http://udu.ff.cuni.cz/.
-http://udu2.ff.cuni.cz/
-# Heritrix added seed redirect from http://uchazec.ff.cuni.cz/.
-http://www.ff.cuni.cz/uchazec
-# Heritrix added seed redirect from http://skuk.cuni.cz/.
-http://www.cuni.cz/UK-309.html
-# Heritrix added seed redirect from http://sites.ff.cuni.cz/.
-http://sites.ff.cuni.cz/cs/
-# Heritrix added seed redirect from http://tynska.cuni.cz/.
-http://www.collegiummarianum.cz/
-# Heritrix added seed redirect from http://senat.ff.cuni.cz/.
-http://www.ff.cuni.cz/FF-5004.html
-# Heritrix added seed redirect from http://sis.lf1.cuni.cz/.
-https://is.cuni.cz/studium/index.php
-# Heritrix added seed redirect from http://tarantula.ruk.cuni.cz/.
-http://www.cuni.cz/UK-1.html
-# Heritrix added seed redirect from http://opensquare.ff.cuni.cz/.
-http://opensquare.ff.cuni.cz/cs/
-# Heritrix added seed redirect from http://userweb.pedf.cuni.cz/.
-https://sit.pedf.cuni.cz/stranka-nenalezena/
-# Heritrix added seed redirect from http://sit.pedf.cuni.cz/.
-https://sit.pedf.cuni.cz/
-# Heritrix added seed redirect from http://pedagogika.pedf.cuni.cz/.
-http://pages.pedf.cuni.cz/pedagogika/
-# Heritrix added seed redirect from http://lf2.cuni.cz/.
-http://www.lf2.cuni.cz/
-# Heritrix added seed redirect from http://spr.prf.cuni.cz/.
-https://spr.prf.cuni.cz/
-# Heritrix added seed redirect from http://verso.is.cuni.cz/.
-https://verso.is.cuni.cz/
-# Heritrix added seed redirect from http://vfn.lf1.cuni.cz/.
-http://www.vfn.cz/
-# Heritrix added seed redirect from http://wiki.ufal.ms.mff.cuni.cz/.
-https://wiki.ufal.ms.mff.cuni.cz/
-# Heritrix added seed redirect from http://wp.pedf.cuni.cz/.
-http://pages.pedf.cuni.cz/
-# Heritrix added seed redirect from http://web.natur.cuni.cz/.
-http://www.natur.cuni.cz/
-# Heritrix added seed redirect from http://vydra.troja.mff.cuni.cz/.
-https://vydra.troja.mff.cuni.cz/
-# Heritrix added seed redirect from http://web.ebscohost.com.ezproxy.is.cuni.cz/.
-https://login.ezproxy.is.cuni.cz/login?url=http://web.ebscohost.com/
-# Heritrix added seed redirect from http://nikam.ms.mff.cuni.cz/.
-http://kam.mff.cuni.cz/
-# Heritrix added seed redirect from http://web.pedf.cuni.cz/.
-http://www.pedf.cuni.cz/
-# Heritrix added seed redirect from http://ukb.lf1.cuni.cz/.
-http://ulbld.lf1.cuni.cz/
-# Heritrix added seed redirect from http://ovvp.mff.cuni.cz/.
-https://ovvp.mff.cuni.cz/wiki/
-# Heritrix added seed redirect from http://knihovna.ff.cuni.cz/.
-http://www.ff.cuni.cz/knihovna
-# Heritrix added seed redirect from http://sbp.fsv.cuni.cz/.
-http://sbp.fsv.cuni.cz/SBP-271.html
-# Heritrix added seed redirect from http://knihovnaceletna.ff.cuni.cz/.
-http://www.ff.cuni.cz/knihovna/seznam-knihoven-a-svi/seznam-dilcich-knihoven/knihovna-celetna/
-# Heritrix added seed redirect from http://www.natur.cuni.cz/fakulta.
-https://www.natur.cuni.cz/fakulta
-# Heritrix added seed redirect from http://wwwold.natur.cuni.cz/.
-https://www.natur.cuni.cz/
-# Heritrix added seed redirect from http://xrg.ksi.ms.mff.cuni.cz/.
-http://xrg.cz/
-# Heritrix added seed redirect from http://www-ucjf.troja.mff.cuni.cz/.
-http://www-ucjf.troja.mff.cuni.cz/new/
-# Heritrix added seed redirect from http://trnka.ff.cuni.cz/.
-https://trnka.ff.cuni.cz/
-# Heritrix added seed redirect from http://vesmir.cts.cuni.cz/.
-http://www.vesmir.cz/
-# Heritrix added seed redirect from http://webs.lf1.cuni.cz/.
-http://www.lf1.cuni.cz/
-# Heritrix added seed redirect from http://svisrv.natur.cuni.cz/.
-http://lib-eth.natur.cuni.cz/BIBLIO/
-# Heritrix added seed redirect from http://whois.cuni.cz/.
-http://is.cuni.cz/webapps/whois/search/
-# Heritrix added seed redirect from http://wifi.natur.cuni.cz/.
-https://www.natur.cuni.cz/faculty/cit/navody/wifi/
-# Heritrix added seed redirect from http://zes.fsv.cuni.cz/.
-http://kes.fsv.cuni.cz/KZS-1.html
-# Heritrix added seed redirect from http://tinlib.cuni.cz/.
-http://tseries.cuni.cz/TSERIES-1.html
-# Heritrix added seed redirect from http://ubytovani.cuni.cz/.
-http://kam.cuni.cz/
-# Heritrix added seed redirect from http://ubs.ff.cuni.cz/.
-http://ubs.ff.cuni.cz/cs/
-# Heritrix added seed redirect from http://vpn.ff.cuni.cz/.
-https://vpn.ff.cuni.cz/
-# Heritrix added seed redirect from http://socp.ff.cuni.cz/.
-http://ksocp.ff.cuni.cz/
-# Heritrix added seed redirect from http://romanistika.ff.cuni.cz/.
-http://urs.ff.cuni.cz/
-# Heritrix added seed redirect from http://czp.cuni.cz/czp/.
-http://czp.cuni.cz/czp/index.php/cz/
-# Heritrix added seed redirect from http://uvt-akce.cuni.cz/.
-http://moodleoffice.cuni.cz/
-# Heritrix added seed redirect from http://caus.cz/.
-http://caus.cz/cs_CZ
-# Heritrix added seed redirect from http://ubva.ff.cuni.cz/.
-http://ubva.ff.cuni.cz/cs/
-# Heritrix added seed redirect from http://chinaski.cz/.
-http://www.chinaski.cz/
-# Heritrix added seed redirect from http://udlv.ff.cuni.cz/.
-http://udlv.ff.cuni.cz/cs/vstupni-stranka/
-# Heritrix added seed redirect from http://mikrogranty.cz/burma/.
-http://www.mikrogranty.cz/
-# Heritrix added seed redirect from http://uisk.ff.cuni.cz/.
-http://uisk.ff.cuni.cz/cs/
-# Heritrix added seed redirect from http://www.ekamarad.cz/magazin.
-http://www.ekamarad.cz/magazin/
-# Heritrix added seed redirect from http://artemis.ms.mff.cuni.cz/main.
-http://artemis.ms.mff.cuni.cz/main/
-# Heritrix added seed redirect from http://www.stavebni-forum.cz/cs/.
-http://new.stavebni-forum.cz/
-# Heritrix added seed redirect from http://uves.ff.cuni.cz/.
-http://uves.ff.cuni.cz/cs/
-# Heritrix added seed redirect from http://urls.ff.cuni.cz/.
-http://urls.ff.cuni.cz/cs/
-# Heritrix added seed redirect from http://lf1.cuni.cz/.
-http://www.lf1.cuni.cz/
-# Heritrix added seed redirect from http://virtually.cz/.
-http://virtually.cz/journal
-# Heritrix added seed redirect from http://svornost.com/.
-http://www.svornost.com/
-# Heritrix added seed redirect from http://edit.lf3.cuni.cz/system/login.
-https://cas.cuni.cz/cas/login?service=http%3A%2F%2Fedit.lf3.cuni.cz%2Fopencms%2Fopencms%2Fsystem%2Fworkplace%2Fviews%2Fworkplace.jsp
-# Heritrix added seed redirect from http://fyzweb.mff.cuni.cz/.
-http://fyzweb.cz/
-# Heritrix added seed redirect from http://golf.cz/.
-http://www.golf.cz/
-# Heritrix added seed redirect from http://www.e-sportfoto.cz/.
-https://www.e-sportfoto.cz/
-# Heritrix added seed redirect from http://hornicky-klub.info/.
-http://www.hornicky-klub.info/
-# Heritrix added seed redirect from http://ublg.lf2.cuni.cz/.
-http://www.fnmotol.cz/ublg/
-# Heritrix added seed redirect from http://www.finexpert.cz/.
-http://finexpert.e15.cz/
-# Heritrix added seed redirect from http://ktiml.mff.cuni.cz/ktiml/index.php.
-http://ktiml.mff.cuni.cz/ktiml/index.php?lang=english
-# Heritrix added seed redirect from http://sociologie.ff.cuni.cz/.
-http://ksoc.ff.cuni.cz/
-# Heritrix added seed redirect from http://www.czech-ba.cz/.
-https://www.czech-ba.cz/
-# Heritrix added seed redirect from http://nbox.troja.mff.cuni.cz/index.html.cs.
-http://nbox.troja.mff.cuni.cz/index.html.cs
-# Heritrix added seed redirect from http://dmsbambus.burma-center.org/.
-http://www.burma-center.org/dmsbambus/
-# Heritrix added seed redirect from http://www.brouzdej.cz/blog.
-http://www.brouzdej.cz/blog/
-# Heritrix added seed redirect from http://www.divadloarcha.cz/.
-http://www.divadloarcha.cz/cz/
-# Heritrix added seed redirect from http://www.pozitivni-noviny.cz/.
-http://www.pozitivni-noviny.cz/cz
-# Heritrix added seed redirect from http://ropid.cz/.
-https://ropid.cz/
-# Heritrix added seed redirect from http://www.kdu.cz/.
-http://www.kdu.cz/domu
-# Heritrix added seed redirect from http://www.spotrebitel.cz/.
-http://ifastnet.com/portal/
-# Heritrix added seed redirect from http://operadream.blogspot.cz/.
-http://www.operadream.com/
-# Heritrix added seed redirect from http://www.zachranar.cz/.
-http://zachranar.cz/
-# Heritrix added seed redirect from http://www.kolej.mff.cuni.cz/.
-http://www.kolej.mff.cuni.cz/index.php.cs
-# Heritrix added seed redirect from http://extrawindows.cnews.cz/.
-http://www.cnews.cz/software
-# Heritrix added seed redirect from http://pcrady.cnews.cz/.
-http://www.cnews.cz/
-# Heritrix added seed redirect from http://extranotebook.cnews.cz/.
-http://www.cnews.cz/notebooky
-# Heritrix added seed redirect from http://moodleoffice.cuni.cz/.
-http://moodleoffice.cuni.cz/login
-# Heritrix added seed redirect from http://www.vesmir.cz/.
-http://vesmir.cz/
-# Heritrix added seed redirect from http://knihovnaceletna.ff.cuni.cz/.
-http://www.ff.cuni.cz/knihovna/seznam-knihoven-a-svi/seznam-dilcich-knihoven/knihovna-celetna/
-# Heritrix added seed redirect from http://ezproxy.is.cuni.cz/.
-http://ezproxy.is.cuni.cz/login
-# Heritrix added seed redirect from http://idaret.cz/.
-http://idaret.cz/news/
-# Heritrix added seed redirect from http://www.geology.cz/extranet.
-http://www.geology.cz/servlet/page/extranet
-# Heritrix added seed redirect from https://el.lf1.cuni.cz/.
-https://el.lf1.cuni.cz/admin?domain=el.lf1.cuni.cz
-# Heritrix added seed redirect from https://mobilenet.cz/.
-https://mobilenet.cz/clanky
-# Heritrix added seed redirect from https://alias.natur.cuni.cz/.
-https://alias.natur.cuni.cz/aliasy/
-# Heritrix added seed redirect from http://www.zbynekbaladran.com/.
-http://www.zbynekbaladran.com/new
-# Heritrix added seed redirect from http://www.cirkev.cz/.
-https://www.cirkev.cz/
-# Heritrix added seed redirect from https://letemsvetemapplem.eu/.
-https://www.letemsvetemapplem.eu/
-# Heritrix added seed redirect from http://caus.cz/cs_CZ.
-http://caus.cz/cs_CZ/
-# Heritrix added seed redirect from http://www.ekamarad.cz/magazin/.
-http://www.ekamarad.cz/ezin/
-# Heritrix added seed redirect from http://artemis.ms.mff.cuni.cz/main/.
-http://artemis.ms.mff.cuni.cz/main/tiki-index.php
-# Heritrix added seed redirect from http://biol.lf1.cuni.cz/menu.htm.
-http://ublg.lf1.cuni.cz/
-# Heritrix added seed redirect from http://www.liberec.cz/cz.
-http://www.liberec.cz/cz/
-# Heritrix added seed redirect from https://ldap.cuni.cz/.
-https://ldap1.cuni.cz/
-# Heritrix added seed redirect from http://www.silvarium.cz/lesprace.
-http://www.silvarium.cz/chybova-hlaska/error-404
-# Heritrix added seed redirect from http://vcsewiki.czp.cuni.cz/.
-http://vcsewiki.czp.cuni.cz/wiki/Main_Page
-# Heritrix added seed redirect from http://ktiml.mff.cuni.cz/ktiml/index.php.
-http://ktiml.mff.cuni.cz/ktiml/index.php?lang=english
-# Heritrix added seed redirect from https://kamweb.ruk.cuni.cz/.
-https://kamweb.ruk.cuni.cz/webkredit/
-# Heritrix added seed redirect from http://nbox.troja.mff.cuni.cz/index.html.cs.
-http://nbox.troja.mff.cuni.cz/index.html.cs
-# Heritrix added seed redirect from http://maclc.ruk.cuni.cz/wiki.
-https://maclc.ruk.cuni.cz/wiki
-# Heritrix added seed redirect from http://infotyden.cuni.cz/.
-http://www.ipsc.cuni.cz/IPSC-165.html
-# Heritrix added seed redirect from http://www.kdu.cz/.
-http://www.kdu.cz/domu
-# Heritrix added seed redirect from http://cfm.gynpor.cz/.
-https://cfm.gynpor.cz/
-# Heritrix added seed redirect from http://www.prague.eu/.
-http://www.prague.eu/cs
-# Heritrix added seed redirect from http://fyzweb.cz/.
-http://fyzweb.cz/novinky/index.php
-# Heritrix added seed redirect from http://www.fnmotol.cz/microsite-kdho.
-http://www.fnmotol.cz/microsite-kdho/
-# Heritrix added seed redirect from http://virtually.cz/journal.
-http://virtually.cz/journal/
-# Heritrix added seed redirect from http://www.praguecitytourism.cz/.
-http://www.praguecitytourism.cz/cs
-# Heritrix added seed redirect from http://www.casopiskomar.webs.com/.
-http://casopiskomar.webs.com/
-# Heritrix added seed redirect from http://cegu.ff.cuni.cz/.
-http://cegu.ff.cuni.cz/cs/
-# Heritrix added seed redirect from http://www.silvarium.cz/svetmyslivosti.
-http://www.silvarium.cz/chybova-hlaska/error-404
-# Heritrix added seed redirect from http://ktiml.mff.cuni.cz/ktiml/index.php.
-http://ktiml.mff.cuni.cz/ktiml/index.php?lang=english
-# Heritrix added seed redirect from http://uclk.ff.cuni.cz/.
-http://uclk.ff.cuni.cz/cs/
-# Heritrix added seed redirect from http://www.pozitivni-noviny.cz/cz.
-http://www.pozitivni-noviny.cz/cz/
-# Heritrix added seed redirect from http://nbox.troja.mff.cuni.cz/index.html.cs.
-http://nbox.troja.mff.cuni.cz/index.html.cs
-# Heritrix added seed redirect from http://kps.ff.cuni.cz/.
-http://kps.ff.cuni.cz/cs/
-# Heritrix added seed redirect from http://www.misskarlovka.cz/.
-http://www.missstudentka.cz/
-# Heritrix added seed redirect from http://olk.hzscr.cz/.
-http://www.hzscr.cz/hzs-olomouckeho-kraje.aspx
-# Heritrix added seed redirect from http://mosur.czp.cuni.cz/.
-http://mosur.czp.cuni.cz/cz/
-# Heritrix added seed redirect from http://ksocp.ff.cuni.cz/.
-http://ksocp.ff.cuni.cz/cs/
-# Heritrix added seed redirect from http://www.mikrogranty.cz/.
-http://www.mikrogranty.cz/burma/
-# Heritrix added seed redirect from http://pohora.cz/.
-http://www.pohora.cz/
-# Heritrix added seed redirect from http://uhv.ff.cuni.cz/.
-http://uhv.ff.cuni.cz/cs/
-# Heritrix added seed redirect from http://ifastnet.com/portal/.
-https://ifastnet.com/portal/
-# Heritrix added seed redirect from http://tseries.cuni.cz/TSERIES-1.html.
-https://tseries.cuni.cz/TSERIES-1.html
-# Heritrix added seed redirect from http://sites.ff.cuni.cz/.
-http://sites.ff.cuni.cz/cs/
-# Heritrix added seed redirect from http://ezproxy.is.cuni.cz/.
-http://ezproxy.is.cuni.cz/login
-# Heritrix added seed redirect from http://www.fnmotol.cz/ortopedicka-klinika-uk-1-lf.
-http://www.fnmotol.cz/kliniky-a-oddeleni/cast-pro-dospele/ortopedicka-klinika-uk-1-lf-a-fn-motol/
-# Heritrix added seed redirect from http://ktiml.mff.cuni.cz/ktiml/index.php.
-http://ktiml.mff.cuni.cz/ktiml/index.php?lang=english
-# Heritrix added seed redirect from http://german.ff.cuni.cz/pmwiki/pmwiki.php/Goethe/Goethe-Gesellschaft/.
-http://german.ff.cuni.cz/pmwiki/pmwiki.php/Goethe/Goethe-Gesellschaft
-# Heritrix added seed redirect from https://lindat.mff.cuni.cz/.
-https://lindat.mff.cuni.cz/en
-# Heritrix added seed redirect from https://mail.prf.cuni.cz/SOGo.
-https://mail.prf.cuni.cz/SOGo/
-# Heritrix added seed redirect from http://www.zbynekbaladran.com/new.
-http://www.zbynekbaladran.com/new/
-# Heritrix added seed redirect from http://sheeni.troja.mff.cuni.cz/welcome/index.html.
-http://sheeni.troja.mff.cuni.cz/welcome/index.html.en
-# Heritrix added seed redirect from http://www.muzes.cz/.
-http://www.muzes.cz/uvodni-stranka/
-# Heritrix added seed redirect from https://mail.google.com/a/natur.cuni.cz.
-https://www.google.com/a/natur.cuni.cz/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&ltmpl=default&ltmplcache=2&emr=1&osid=1
-# Heritrix added seed redirect from https://alias.natur.cuni.cz/aliasy/.
-http://alias.natur.cuni.cz/aliasy/login?next=/aliasy/
-# Heritrix added seed redirect from https://el.lf1.cuni.cz/admin?domain=el.lf1.cuni.cz.
-https://el.lf1.cuni.cz/system/login?domain=el.lf1.cuni.cz&next=%2Fadmin%3Fdomain%3Del.lf1.cuni.cz&set-lang=nl&OWASP_CSRFTOKEN=9537dc5e8e91238dd3a91ff7bdbfe4ab13860a6b6a00103753fa3dd4cd8da7b9
-# Heritrix added seed redirect from https://ufal-point.mff.cuni.cz/.
-https://lindat.mff.cuni.cz/
-# Heritrix added seed redirect from http://ezproxy.is.cuni.cz/.
-http://ezproxy.is.cuni.cz/login
-# Heritrix added seed redirect from https://su.mff.cuni.cz/.
-https://su.mff.cuni.cz/login
-# Heritrix added seed redirect from http://fyzweb.cz/.
-http://fyzweb.cz/novinky/index.php
-# Heritrix added seed redirect from http://ktiml.mff.cuni.cz/ktiml/index.php.
-http://ktiml.mff.cuni.cz/ktiml/index.php?lang=english
-# Heritrix added seed redirect from http://www.mff.cuni.cz/search.
-http://www.mff.cuni.cz/search/
-# Heritrix added seed redirect from http://german.ff.cuni.cz/pmwiki/pmwiki.php/Main/Pragestt.
-http://german.ff.cuni.cz/pmwiki/pmwiki.php/Main/Pragestt/
-# Heritrix added seed redirect from http://www.cnews.cz/software.
-http://www.cnews.cz/software/
-# Heritrix added seed redirect from http://sociologickevecery.fsv.cuni.cz/.
-http://sociologickevecery.fsv.cuni.cz/vecer.php?sid=146
-# Heritrix added seed redirect from http://envigogika.cuni.cz/.
-http://envigogika.cuni.cz/index.php/Envigogika
-# Heritrix added seed redirect from http://email.jinonice.cuni.cz/.
-https://email.jinonice.cuni.cz/owa/
-# Heritrix added seed redirect from http://ldap1.cuni.cz/.
-https://ldap.cuni.cz/
-# Heritrix added seed redirect from http://feminismus.cz/.
-http://www.feminismus.cz/
-# Heritrix added seed redirect from http://karaimskahagada.estranky.cz/.
-http://www.karaimskahagada.estranky.cz/
-# Heritrix added seed redirect from http://mfcr.cz/.
-http://www.mfcr.cz/
-# Heritrix added seed redirect from http://www.cuni.cz/UK-3399.html.
-http://knihovna.cuni.cz/evropske-dokumentacni-a-informacni-stredisko-edis/
-# Heritrix added seed redirect from http://www.cnews.cz/notebooky.
-http://www.cnews.cz/notebooky-apple-vs-zbytek-sveta-vzajemne-alternativy/
-# Heritrix added seed redirect from http://www.missstudentka.cz/.
-http://missstudentka.cz/
-# Heritrix added seed redirect from http://kam.mff.cuni.cz/.
-http://kam.mff.cuni.cz/index.html.en
-# Heritrix added seed redirect from http://www.zelpage.cz/trate/ceska-republika/.
-http://www.zelpage.cz/trate/ceska-republika
-# Heritrix added seed redirect from http://www.cuni.cz/UK-3399.html.
-http://knihovna.cuni.cz/evropske-dokumentacni-a-informacni-stredisko-edis/
-# Heritrix added seed redirect from https://ldap.cuni.cz/.
-https://ldap1.cuni.cz/
-# Heritrix added seed redirect from https://outlook.ff.cuni.cz/owa.
-https://outlook.ff.cuni.cz/owa/
-# Heritrix added seed redirect from http://alias.natur.cuni.cz/aliasy/login?next=/aliasy/.
-https://alias.natur.cuni.cz/aliasy/login?next=/aliasy/
-# Heritrix added seed redirect from https://lindat.mff.cuni.cz/.
-https://lindat.mff.cuni.cz/en
-# Heritrix added seed redirect from https://outlook.ff.cuni.cz/owa/.
-https://outlook.ff.cuni.cz/owa/auth/logon.aspx?url=https://outlook.ff.cuni.cz/owa/&reason=0
-# Heritrix added seed redirect from https://email.jinonice.cuni.cz/owa/.
-https://email.jinonice.cuni.cz/owa/auth/logon.aspx?url=https://email.jinonice.cuni.cz/owa/&reason=0
-# Heritrix added seed redirect from http://www.geology.cz/servlet/page/extranet.
-http://www.geology.cz/portal/page/portal/TOPLEVELSITE/errorpage2?zdroj=geology_apache
-# Heritrix added seed redirect from http://www.ff.cuni.cz/fakulta/o-fakulte/pravidelne-akce/den-latiny.
-http://www.ff.cuni.cz/fakulta/o-fakulte/pravidelne-akce/den-latiny/
-# Heritrix added seed redirect from http://www.geology.cz/portal/page/portal/TOPLEVELSITE/errorpage2?zdroj=geology_apache.
-http://www.geology.cz/servlet/page/TOPLEVELSITE/errorpage2
-# Heritrix added seed redirect from http://www.ff.cuni.cz/FF-1436.html.
-http://www.ff.cuni.cz/?page_id=655
-# Heritrix added seed redirect from http://www.ff.cuni.cz/webmail.
-http://www.ff.cuni.cz/webmail-2/
-# Heritrix added seed redirect from http://pages.pedf.cuni.cz/pedagogika/.
-http://pages.pedf.cuni.cz/pedagogika/?lang=cs
-# Heritrix added seed redirect from http://www.ff.cuni.cz/FF-8252.html.
-http://www.ff.cuni.cz/?page_id=4396
-# Heritrix added seed redirect from http://www.ff.cuni.cz/uchazec.
-http://www.ff.cuni.cz/uchazec/
-# Heritrix added seed redirect from http://www.ff.cuni.cz/FF-23.html.
-http://www.ff.cuni.cz/
-# Heritrix added seed redirect from http://www.ff.cuni.cz/uchazec.
-http://www.ff.cuni.cz/uchazec/
-# Heritrix added seed redirect from http://www.ff.cuni.cz/FF-5004.html.
-http://www.ff.cuni.cz/?page_id=1229
-# Heritrix added seed redirect from http://www.ff.cuni.cz/knihovna.
-http://www.ff.cuni.cz/knihovna/
-# Heritrix added seed redirect from http://www.ff.cuni.cz/knihovna/seznam-knihoven-a-svi/seznam-dilcich-knihoven/knihovna-celetna/.
-http://www.ff.cuni.cz/knihovna/oborove-a-prirucni-knihovny/knihovna-celetna/
-# Heritrix added seed redirect from https://www.google.com/a/natur.cuni.cz/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&ltmpl=default&ltmplcache=2&emr=1&osid=1.
-https://www.google.com/accounts/AccountChooser?hd=natur.cuni.cz&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&osid=1&service=mail&ss=1&ltmpl=default
-# Heritrix added seed redirect from http://german.ff.cuni.cz/pmwiki/pmwiki.php/Main/Pragestt/.
-http://german.ff.cuni.cz/pragestt
-# Heritrix added seed redirect from http://german.ff.cuni.cz/pragestt.
-http://german.ff.cuni.cz/pragestt/
-# Heritrix added seed redirect from http://www.ff.cuni.cz/knihovna/seznam-knihoven-a-svi/seznam-dilcich-knihoven/knihovna-celetna/.
-http://www.ff.cuni.cz/knihovna/oborove-a-prirucni-knihovny/knihovna-celetna/
-# Heritrix added seed redirect from http://www.ff.cuni.cz/?page_id=655.
-http://www.ff.cuni.cz/studium/studijni-informacni-system-sis/
-# Heritrix added seed redirect from http://www.ff.cuni.cz/?page_id=4396.
-http://www.ff.cuni.cz/knihovna/oborove-a-prirucni-knihovny/knihovna-jana-palacha-2/
-# Heritrix added seed redirect from https://www.google.com/accounts/AccountChooser?hd=natur.cuni.cz&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&osid=1&service=mail&ss=1&ltmpl=default.
-https://accounts.google.com/AccountChooser?hd=natur.cuni.cz&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&osid=1&service=mail&ss=1&ltmpl=default
-# Heritrix added seed redirect from http://www.ff.cuni.cz/?page_id=1229.
-http://www.ff.cuni.cz/fakulta/organy-fakulty/akademicky-senat/
-# Heritrix added seed redirect from http://knihovna.cuni.cz/evropske-dokumentacni-a-informacni-stredisko-edis/.
-https://knihovna.cuni.cz/evropske-dokumentacni-a-informacni-stredisko-edis/
-# Heritrix added seed redirect from http://knihovna.cuni.cz/evropske-dokumentacni-a-informacni-stredisko-edis/.
-https://knihovna.cuni.cz/evropske-dokumentacni-a-informacni-stredisko-edis/
-# Heritrix added seed redirect from http://www.natur.cuni.cz/geografie.
-https://www.natur.cuni.cz/geografie
-# Heritrix added seed redirect from http://www.natur.cuni.cz/geografie.
-https://www.natur.cuni.cz/geografie
-# Heritrix added seed redirect from http://is.cuni.cz/webapps/whois/search/.
-http://is.cuni.cz/webapps/whois2/
-# Heritrix added seed redirect from http://www.natur.cuni.cz/.
-https://www.natur.cuni.cz/
-# Heritrix added seed redirect from http://www.natur.cuni.cz/.
-https://www.natur.cuni.cz/
