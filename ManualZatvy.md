@@ -14,14 +14,14 @@
  <pre>screen -r </pre>
 <br>
 <h3>2. Utvorenie seeds-YYYY-MM-varianty-varianty.txt</h3>
-Vleze sa do dovnútra k seeds, rozložené po rokoch. Vytvoriť vo formáte a názve <b> seeds-2017-02-a pripona sklizne</b>, V - je výberova, V1M .txt
+Vleze sa do dovnútra k seeds, rozložené po rokoch. Vytvoriť vo formáte a názve <b> seeds-2017-02-a pripona sklizne</b>, V - je výberova, V1M .txt. Pre kazdu jednu variantu semienka zvlast, zlucia sa v ktoku c. 3.
 Spolu so seederom sa vygenerujú príslušné semienka a zavedú sa do príslušných súborov.
 <pre>
-ŠPECIALITKA: Plus semienka pre <b>cuni</b> a <b>no contracts</b>>> http://intranet.webarchiv.cz/seeds/no_contracts.php, su s príponou <b>NoContracts (je to V-NC)</b>
-Cuni su vo vonkajšom adresári a vedľa - crawler beans. Pevne zadefinovaný odkaz na nich v beans.cxml</pre>
+ŠPECIALITKA: Plus semienka pre <ul><li> <b>no contracts</b>>http://intranet.webarchiv.cz/seeds/no_contracts.php, su s príponou <b>NoContracts (je to V-NC)</b> </li>
+<li><b>cuni</b> </li> Cuni sa negeneruju, sú vo vonkajšom adresári a vedľa - crawler beans. Pevne zadefinovaný odkaz na nich v beans.cxml</pre>
 <br>
 <h3>3. Zlúčenie seedov</h3>
-Deje sa cez zložku <b>jobs</b> v koreni všetkých heritrixov a via jobs do crawler config.
+Deje sa cez zložku <b>"jobs"</b> reálne v koreni tj ../YYYY a via jobs do crawler config.
 <br>
 Semienka si treba vysortiť na unique a vizuálne ešte raz skontrolovať. Ak by bolo niečo divné,
 poslať hneď podnet kurátorom, že čo ako to majú u seba.
