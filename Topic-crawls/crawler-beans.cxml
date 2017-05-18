@@ -38,10 +38,10 @@
 # http://java.sun.com/javase/6/docs/api/java/util/Properties.html#load%28java.io.Reader%29
 
 # Values changing with each crawl
-metadata.jobName=Test MUNIArtMag 2017
-metadata.description=Test crawl for curators
-warcWriter.prefix=TestCrawl_2017-05-16
-warcWriter.storePaths=/mnt/archives/14/2017/curators/testCrawls/MUNIArtMag
+metadata.jobName=Topics 2017-05-Vladni_krize_2017
+metadata.description=Zber pri prilezitosti vladni krize medzi premierem Sobotkou a predsedou ANO Babisem, v podozreni kvuli financnim a zurnalistickym skandalum. keywords_ politická krize, předsedové vlády, ministři financí, prezidenti, vládní koalice, demise, Sobotka, Bohuslav, 1971-, Babiš, Andrej, 1954-, Zeman, Miloš, 1944-
+warcWriter.prefix=Topics-2017-05-Vladni_krize_2017
+warcWriter.storePaths=/mnt/archives/14/2017/topics/Topics-2017-05-Vladni_krize_2017
 frontier.queueTotalBudget=15000
 # INSPECT: There is change that balanceReplenishAmount doesnt work as expected IE: Crawl 5k URIs, and wait for other seeds to crawl until 5k URIs - check FRONTIER
 frontier.balanceReplenishAmount=5000
