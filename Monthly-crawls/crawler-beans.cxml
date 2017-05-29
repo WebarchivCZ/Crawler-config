@@ -39,10 +39,10 @@
 
 # Values changing with each crawl
 
-metadata.jobName=Serials 2017-04-1M_2M_6M_NoContract_CUNI_ArchiveIt
-metadata.description=Pravidelná sklizeň semínek s měsíční frekvencí, pravidelná sklizeň semínek s dvojměsíční frekvencí, doplnění sklizně semínek s půlroční frekvencí z 03, sklizeň semínek bez smlouvy, sklizeň webů Karlovy univerzity, archivace semínek s nízkou frekvencí přidaných za minulý měsíc.
-warcWriter.prefix=Serials-2017-04-1M_6M_NoContract_CUNI_ArchiveIt
-warcWriter.storePaths=/mnt/archives/archive14/2017/serials/Serials-2017-04-1M_2M_6M_NoContract_CUNI_ArchiveIt
+metadata.jobName=Serials 2017-05-1M_12M_CUNI_ArchiveIt_Oneshot
+metadata.description=Pravidelná sklizeň semínek s měsíční frekvencí, pravidelná sklizeň semínek s dvanástiměsíční frekvencí, sklizeň webů Karlovy univerzity, archivace semínek s nízkou frekvencí přidaných za minulý měsíc a oneshot.
+warcWriter.prefix=Serials-2017-05-1M_12M_CUNI_ArchiveIt_Oneshot
+warcWriter.storePaths=/mnt/archives/archive14/2017/serials/Serials-2017-05-1M_12M_CUNI_ArchiveIt_NoContract
 frontier.queueTotalBudget=15000
 
 # INSPECT: There is change that balanceReplenishAmount doesnt work as expected IE: Crawl 5k URIs, and wait for other seeds to crawl until 5k URIs - check FRONTIER
