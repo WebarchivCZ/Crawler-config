@@ -7,4 +7,3 @@
 +http://(com,youtube,www,)/crossdomain.xml
 +http://(com,youtube-nocookie,c,
 +http://(com,ytimg,
-+http://(cz.vsb.ekf,

@@ -150,7 +150,7 @@ http://example.example/example
  <bean id="acceptSurts" class="org.archive.modules.deciderules.surt.SurtPrefixedDecideRule">
   <!-- <property name="decision" value="ACCEPT"/> -->
   <!-- <property name="seedsAsSurtPrefixes" value="true" /> -->
-  <!-- <property name="alsoCheckVia" value="false" /> -->
+  <property name="alsoCheckVia" value="true" />
   <!-- <property name="surtsSourceFile" value="" /> -->
   <property name="surtsDumpFile" value="${launchId}/surts.dump" />
   <property name="surtsSource">
