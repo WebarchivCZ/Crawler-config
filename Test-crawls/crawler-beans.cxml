@@ -39,11 +39,13 @@
 
 # Values changing with each crawl
 
-metadata.jobName=Test 2017-05 00 ekf.vsb.cz
-metadata.description=PDF files are not harvested, looking for solution
-warcWriter.prefix=Test-2017-05-00-ekf.vsb.cz
+metadata.jobName=Test 2017-05 01 ekf.vsb.cz
+metadata.description=PDF files are not harvested, looking for solution. Enabling logging to file for DecideRuleSequence.
+warcWriter.prefix=Test-2017-05-01-ekf.vsb.cz
 warcWriter.storePaths=/mnt/archives/archive14/2017/tests/Test-2017-05-00-ekf.vsb.cz
 bdb.dir=/opt/heritrix/jobs/states/Test-2017-05-00-ekf.vsb.cz
+# default path is: ../Shared-config/surts.txt
+acceptSurts.surtsSource.path=surts.txt
 frontier.queueTotalBudget=-1
 
 # INSPECT: There is change that balanceReplenishAmount doesnt work as expected IE: Crawl 5k URIs, and wait for other seeds to crawl until 5k URIs - check FRONTIER
@@ -148,12 +150,12 @@ http://example.example/example
  <bean id="acceptSurts" class="org.archive.modules.deciderules.surt.SurtPrefixedDecideRule">
   <!-- <property name="decision" value="ACCEPT"/> -->
   <!-- <property name="seedsAsSurtPrefixes" value="true" /> -->
-  <!-- <property name="alsoCheckVia" value="false" /> -->
+  <property name="alsoCheckVia" value="true" />
   <!-- <property name="surtsSourceFile" value="" /> -->
   <property name="surtsDumpFile" value="${launchId}/surts.dump" />
   <property name="surtsSource">
-   <bean class="org.archive.spring.ConfigFile">
-    <property name="path" value="../Shared-config/surts.txt" />
+   <bean id="surts" class="org.archive.spring.ConfigFile">
+    <property name="path" value="[see override above]" />
    </bean>
   </property>
  </bean>
@@ -161,7 +163,7 @@ http://example.example/example
  <!-- SCOPE: rules for which discovered URIs to crawl; order is very 
       important because last decision returned other than 'NONE' wins. -->
  <bean id="scope" class="org.archive.modules.deciderules.DecideRuleSequence">
-  <!-- <property name="logToFile" value="false" /> -->
+  <property name="logToFile" value="true" />
   <property name="rules">
    <list>
     <!-- Begin by REJECTing all... -->
