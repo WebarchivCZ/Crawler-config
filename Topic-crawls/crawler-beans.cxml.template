@@ -38,14 +38,14 @@
 # http://java.sun.com/javase/6/docs/api/java/util/Properties.html#load%28java.io.Reader%29
 
 # Values changing with each crawl
-metadata.jobName=Krajské volby 2016
-metadata.description=Tématická sklizeň ke Krajským a senátním volbám 2016
-warcWriter.prefix=KrajskeVolby2016-01
-warcWriter.storePaths=/mnt/archives/archive14/2016/topics/KrajskeVolby2016
+metadata.jobName=Topics 2017-05-Vladni_krize_2017_II_run
+metadata.description=Zber pri prilezitosti vladni krize medzi premierem Sobotkou a predsedou ANO Babisem, v podozreni kvuli financnim a zurnalistickym skandalum. keywords_ politická krize, předsedové vlády, ministři financí, prezidenti, vládní koalice, demise, Sobotka, Bohuslav, 1971-, Babiš, Andrej, 1954-, Zeman, Miloš, 1944-
+warcWriter.prefix=Topics-2017-05-Vladni_krize_2017_II_run
+warcWriter.storePaths=/mnt/archives/archive14/2017/topics/Topics-2017-05-Vladni_krize_2017
 frontier.queueTotalBudget=-1
 # bdb dir for Heritrix states and History of URL-Agnostic Duplication Reduction - https://webarchive.jira.com/wiki/display/Heritrix/Duplication+Reduction+Processors
 # Change for each topic
-bdb.dir=/opt/heritrix/jobs/bdb-state-KrajskeVolby2016
+bdb.dir=/opt/heritrix/jobs/states/Topics-2017-05-Vladni_krize_2017
 
 # INSPECT: There is change that balanceReplenishAmount doesnt work as expected IE: Crawl 5k URIs, and wait for other seeds to crawl until 5k URIs - check FRONTIER
 frontier.balanceReplenishAmount=5000
@@ -66,7 +66,7 @@ hashCrawlMapper.diversionDir=/mnt/archives/archive12/pre-fetch-diversions
 
 # Stable values
 metadata.operatorContactUrl=http://webarchiv.cz/kontakty/
-metadata.operator=Rudolf Kreibich
+metadata.operator=Zdenko Vozar
 metadata.operatorFrom=webarchiv@nkp.cz
 metadata.organization=National Library of the Czech Republic - Webarchiv.cz
 metadata.audience=Webarchiv.cz Users
