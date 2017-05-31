@@ -38,11 +38,15 @@
 # http://java.sun.com/javase/6/docs/api/java/util/Properties.html#load%28java.io.Reader%29
 
 # Values changing with each crawl
-metadata.jobName=Topics 2017-05-Vladni_krize_2017
+metadata.jobName=Topics 2017-05-Vladni_krize_2017_II_run
 metadata.description=Zber pri prilezitosti vladni krize medzi premierem Sobotkou a predsedou ANO Babisem, v podozreni kvuli financnim a zurnalistickym skandalum. keywords_ politická krize, předsedové vlády, ministři financí, prezidenti, vládní koalice, demise, Sobotka, Bohuslav, 1971-, Babiš, Andrej, 1954-, Zeman, Miloš, 1944-
-warcWriter.prefix=Topics-2017-05-Vladni_krize_2017
-warcWriter.storePaths=/mnt/archives/14/2017/topics/Topics-2017-05-Vladni_krize_2017
-frontier.queueTotalBudget=15000
+warcWriter.prefix=Topics-2017-05-Vladni_krize_2017_II_run
+warcWriter.storePaths=/mnt/archives/archive14/2017/topics/Topics-2017-05-Vladni_krize_2017_II_run
+frontier.queueTotalBudget=-1
+# bdb dir for Heritrix states and History of URL-Agnostic Duplication Reduction - https://webarchive.jira.com/wiki/display/Heritrix/Duplication+Reduction+Processors
+# Change for each topic
+bdb.dir=/opt/heritrix/jobs/bdb-tate-Topics-2017-05-Vladni_krize_2017_II_run
+
 # INSPECT: There is change that balanceReplenishAmount doesnt work as expected IE: Crawl 5k URIs, and wait for other seeds to crawl until 5k URIs - check FRONTIER
 frontier.balanceReplenishAmount=5000
 # YOUTUBE: Do you wanna save youtube videos?
@@ -60,19 +64,12 @@ hashCrawlMapper.diversionDir=/mnt/archives/archive12/pre-fetch-diversions
 # FACEBOOK / TWITTER crawling
 # INSPECT: I am not sure how to properly override sheets, so if you wanna turn off FB/TWITTER extraction, set extractorFacebookScroll.enabled and extractorTwitterScrollOne.enabled and extractorTwitterScrollFurther.enabled to false.
 
-# DUPLICATION REDUCTION URL-Agnostic
-# URL: https://webarchive.jira.com/wiki/display/Heritrix/Duplication+Reduction+Processors
-#
-# State directory for duplication reduction, we keep state files for calendar year. Change to bdb for other crawls.
-historyBdb.dir=/opt/heritrix/jobs/2017-wa_class-00
-
 # Stable values
-crawlController.scratchDir=/opt/heritrix/jobs/scratch
 metadata.operatorContactUrl=http://webarchiv.cz/kontakty/
-metadata.operator=Zdenko Vozar
-metadata.operatorFrom=zdenko.vozar@nkp.cz
+metadata.operator=Rudolf Kreibich
+metadata.operatorFrom=webarchiv@nkp.cz
 metadata.organization=National Library of the Czech Republic - Webarchiv.cz
-metadata.audience=Webarchiv.cz users
+metadata.audience=Webarchiv.cz Users
 metadata.userAgentTemplate=Mozilla/5.0 (compatible; heritrix/@VERSION@ +@OPERATOR_CONTACT_URL@)
 metadata.robotsPolicyName=ignore
 
@@ -198,6 +195,7 @@ http://example.example/example
      <!-- INSPECT: Can i make Regex list external? -->
 	  <property name="regexList">
            <list>
+<!-- Disabling global exclusion
                 <value>.*/.*wordpress3\.0\.1$</value>
                 <value>.*//www\.tai2\.cz.$</value>
                 <value>.*/AddComment\.asp.*</value>
@@ -255,6 +253,7 @@ http://example.example/example
                 <value>www.spnv.cz/file.php?nid=9560&amp;oid=1998061.*</value>
                 <value>www.spnv.cz/file.php?nid=9560&amp;oid=1998070.*</value>
                 <value>www.svaz.chf.cz/shop.aspx?catid=225.*</value>
+-->
            </list>
           </property>
     </bean>
@@ -547,11 +546,11 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
  <bean id="dispositionProcessors" class="org.archive.modules.DispositionChain">
   <property name="processors">
    <list>
-<!-- DUPLICATION REDUCTION -->
+    <!-- URL-Agnostic Duplication Reduction -->
     <bean class="org.archive.modules.recrawl.ContentDigestHistoryLoader" />
     <!-- write to aggregate archival files... -->
     <ref bean="warcWriter"/>
-<!-- DUPLICATION REDUCTION -->
+    <!-- URL-Agnostic Duplication Reduction -->
     <bean class="org.archive.modules.recrawl.ContentDigestHistoryStorer" />
     <!-- ...send each outlink candidate URI to CandidateChain, 
          and enqueue those ACCEPTed to the frontier... -->
@@ -571,7 +570,7 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
   <!-- <property name="runWhileEmpty" value="false" /> -->
   <!-- <property name="recorderInBufferBytes" value="524288" /> -->
   <!-- <property name="recorderOutBufferBytes" value="16384" /> -->
-  <property name="scratchDir" value="[see override above]" />
+  <!-- <property name="scratchDir" value="scratch" /> -->
  </bean>
  
  <!-- FRONTIER: Record of all URIs discovered and queued-for-collection -->
@@ -1146,16 +1145,17 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
  
  <!-- DISK SPACE MONITOR: 
       Pauses the crawl if disk space at monitored paths falls below minimum threshold -->
-
+ <!-- 
  <bean id="diskSpaceMonitor" class="org.archive.crawler.monitor.DiskSpaceMonitor">
-   <property name="pauseThresholdMiB" value="5000" />
+   <property name="pauseThresholdMiB" value="500" />
    <property name="monitorConfigPaths" value="true" />
    <property name="monitorPaths">
      <list>
-       <value>/opt/heritrix/jobs</value>
+       <value>PATH</value>
      </list>
    </property>
  </bean>
+ -->
  
  <!-- 
    REQUIRED STANDARD BEANS
@@ -1209,7 +1209,7 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
  <!-- BDBMODULE: shared BDB-JE disk persistence manager -->
  <bean id="bdb" 
   class="org.archive.bdb.BdbModule">
-  <property name="dir" value="/opt/heritrix/jobs/state-class-00" />
+  <property name="dir" value="[see override above]" />
   <!-- if neither cachePercent or cacheSize are specified (the default), bdb
        uses its own default of 60% -->
   <!-- <property name="cachePercent" value="0" /> -->
@@ -1218,25 +1218,12 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
   <!-- <property name="expectedConcurrency" value="25" /> -->
  </bean>
 
-<!-- DUPLICATION REDUCTION -->
-<!-- BDBMODULE: shared BDB-JE disk persistence manager -->
- <bean id="historyBdb"
-  class="org.archive.bdb.BdbModule" autowire-candidate="false">
-   <property name="dir" value="[see override above]"/>
-  <!-- if neither cachePercent or cacheSize are specified (the default), bdb
-       uses its own default of 60% -->
-  <!-- <property name="cachePercent" value="0" /> -->
-  <!-- <property name="cacheSize" value="0" /> -->
-  <!-- <property name="useSharedCache" value="true" /> -->
-  <!-- <property name="expectedConcurrency" value="25" /> -->
- </bean>
- 
-<!-- DUPLICATION REDUCTION -->
+ <!-- URL-Agnostic Duplication Reduction, it should use bdb state for history -->
  <bean id="contentDigestHistory" class="org.archive.modules.recrawl.BdbContentDigestHistory">
   <property name="bdbModule">
-   <ref bean="historyBdb" />
   </property>
  </bean>
+ <!-- EOB URL-Agnostic Duplication Reduction -->
 
  
  <!-- BDBCOOKIESTORAGE: disk-based cookie storage for FetchHTTP -->
