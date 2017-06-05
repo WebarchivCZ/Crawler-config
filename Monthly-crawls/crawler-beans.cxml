@@ -39,10 +39,11 @@
 
 # Values changing with each crawl
 
-metadata.jobName=Serials 2017-05-1M_12M_CUNI_ArchiveIt_Oneshot
+metadata.jobName=Serials 2017-05-1M_12M_CUNI_ArchiveIt_Oneshot - Third try, first was with wrong filename, second collapsed, third one run from other server
+metadata.operator=Rudolf Kreibich
 metadata.description=Pravidelná sklizeň semínek s měsíční frekvencí, pravidelná sklizeň semínek s dvanástiměsíční frekvencí, sklizeň webů Karlovy univerzity, archivace semínek s nízkou frekvencí přidaných za minulý měsíc a oneshot.
 warcWriter.prefix=Serials-2017-05-1M_12M_CUNI_ArchiveIt_Oneshot
-warcWriter.storePaths=/mnt/archives/archive14/2017/serials/Serials-2017-05-1M_12M_CUNI_ArchiveIt_NoContract
+warcWriter.storePaths=/mnt/archives/14/2017/serials/Serials-2017-05-1M_12M_CUNI_ArchiveIt_NoContract
 frontier.queueTotalBudget=15000
 
 # INSPECT: There is change that balanceReplenishAmount doesnt work as expected IE: Crawl 5k URIs, and wait for other seeds to crawl until 5k URIs - check FRONTIER
@@ -66,14 +67,13 @@ hashCrawlMapper.diversionDir=/mnt/archives/archive12/pre-fetch-diversions
 # URL: https://webarchive.jira.com/wiki/display/Heritrix/Duplication+Reduction+Processors
 #
 # State directory for duplication reduction, we keep state files for calendar year. Change to bdb for other crawls.
-historyBdb.dir=/opt/heritrix/jobs/2017-history-state
+historyBdb.dir=/opt/heritrix/jobs/history/2017-history-state
 
 # Stable values
 crawlController.scratchDir=/opt/heritrix/jobs/scratch
 metadata.operatorContactUrl=http://webarchiv.cz/kontakty/
-metadata.operator=Zdenko Vozár
 metadata.operatorFrom=webarchiv@nkp.cz
-metadata.organization=National Library of the Czech Republic - WebArchiv.cz
+metadata.organization=National Library of the Czech Republic - Webarchiv.cz
 metadata.audience=Webarchiv.cz Users
 metadata.userAgentTemplate=Mozilla/5.0 (compatible; heritrix/@VERSION@ +@OPERATOR_CONTACT_URL@)
 metadata.robotsPolicyName=ignore
