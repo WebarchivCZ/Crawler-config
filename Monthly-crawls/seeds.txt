@@ -1,5 +1,7 @@
 # Websites of Charles University | weby Karlovy Univerzity | Seeds count: 808 | Generated in August 2016 : https://github.com/WebArchivCZ/Crawler-config/blob/06b0f3f9eac02253b5e777cf01ac9838424db508/Topic-crawls/seeds.txt
+#Seedlist generated: 29.05.2017 15:40
 #Seedlist generated: 29.05.2017 15:41
+#Seedlist generated: 29.05.2017 15:52
 #Seeds count: 339
 #Seeds count: 7
 #Seeds count: 873
@@ -8,7 +10,6 @@
 1f3.cuni.cz
 1lf.cuni.cz
 3lf.cuni.cz
-Seedlist generated: 29.05.2017 15:52
 acpo.fsv.cuni.cz
 adela.karlin.mff.cuni.cz
 ae100prg.mff.cuni.cz
@@ -167,7 +168,6 @@ eds.cuni.cz
 eduroam.cuni.cz
 eduroam.lf3.cuni.cz
 eduroam.prf.cuni.cz
-eedlist generated: 29.05.2017 15:40
 egypt.cuni.cz
 egypt.ff.cuni.cz
 egyptologie.ff.cuni.cz
