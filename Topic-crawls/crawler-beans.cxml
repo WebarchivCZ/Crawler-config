@@ -1219,8 +1219,17 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
  </bean>
 
  <!-- URL-Agnostic Duplication Reduction, it should use bdb state for history -->
+
+<!--pridano ZV-->
+<!-- optional, will use the main bdb module if omitted, just like old dedup -->
+<bean id="historyBdb" class="org.archive.bdb.BdbModule" autowire-candidate="false">
+ <property name="dir" value="history" />
+</bean>
+
  <bean id="contentDigestHistory" class="org.archive.modules.recrawl.BdbContentDigestHistory">
   <property name="bdbModule">
+ <!--pridano ZV -->
+   <ref bean="historyBdb" />
   </property>
  </bean>
  <!-- EOB URL-Agnostic Duplication Reduction -->
