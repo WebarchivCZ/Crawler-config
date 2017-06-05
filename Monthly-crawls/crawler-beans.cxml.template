@@ -46,6 +46,12 @@ warcWriter.prefix=Serials-2017-05-1M_12M_CUNI_ArchiveIt_Oneshot
 warcWriter.storePaths=/mnt/archives/14/2017/serials/Serials-2017-05-1M_12M_CUNI_ArchiveIt_NoContract
 frontier.queueTotalBudget=15000
 
+# State directory for duplication reduction, we keep state files for calendar year. Change to bdb for other crawls.
+historyBdb.dir=/opt/heritrix/jobs/history/2017-history-state
+
+# State directory for earch crawl, it is not necessary to change it.
+bdb.dir=/opt/heritrix/jobs/states/serials
+
 # INSPECT: There is change that balanceReplenishAmount doesnt work as expected IE: Crawl 5k URIs, and wait for other seeds to crawl until 5k URIs - check FRONTIER
 frontier.balanceReplenishAmount=5000
 # YOUTUBE: Do you wanna save youtube videos?
@@ -62,12 +68,6 @@ hashCrawlMapper.diversionDir=/mnt/archives/archive12/pre-fetch-diversions
 
 # FACEBOOK / TWITTER crawling
 # INSPECT: I am not sure how to properly override sheets, so if you wanna turn off FB/TWITTER extraction, set extractorFacebookScroll.enabled and extractorTwitterScrollOne.enabled and extractorTwitterScrollFurther.enabled to false.
-
-# DUPLICATION REDUCTION URL-Agnostic
-# URL: https://webarchive.jira.com/wiki/display/Heritrix/Duplication+Reduction+Processors
-#
-# State directory for duplication reduction, we keep state files for calendar year. Change to bdb for other crawls.
-historyBdb.dir=/opt/heritrix/jobs/history/2017-history-state
 
 # Stable values
 crawlController.scratchDir=/opt/heritrix/jobs/scratch
@@ -1211,7 +1211,7 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
  <!-- BDBMODULE: shared BDB-JE disk persistence manager -->
  <bean id="bdb" 
   class="org.archive.bdb.BdbModule">
-  <property name="dir" value="/opt/heritrix/jobs/state" />
+  <property name="dir" value="[see override above]" />
   <!-- if neither cachePercent or cacheSize are specified (the default), bdb
        uses its own default of 60% -->
   <!-- <property name="cachePercent" value="0" /> -->
