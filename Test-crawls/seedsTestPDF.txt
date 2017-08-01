@@ -15,14 +15,3 @@ http://www.pravodoskol.cz
 https://journals.muni.cz/cepsr/
 #issue 8, idem, ale https
 http://journals.muni.cz/pedor/
-
-# Heritrix added seed redirect from http://www.sons.cz/.
-https://www.sons.cz/
-# Heritrix added seed redirect from http://journals.muni.cz/.
-https://journals.muni.cz/
-# Heritrix added seed redirect from http://envigogika.cuni.cz/.
-https://envigogika.cuni.cz/
-# Heritrix added seed redirect from http://artmagazin.eu/.
-https://www.artmagazin.eu/
-# Heritrix added seed redirect from https://envigogika.cuni.cz/.
-https://envigogika.cuni.cz/index.php/Envigogika
