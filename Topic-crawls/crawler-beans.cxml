@@ -38,14 +38,14 @@
 # http://java.sun.com/javase/6/docs/api/java/util/Properties.html#load%28java.io.Reader%29
 
 # Values changing with each crawl
-metadata.jobName=Topics 2017-05-Vladni_krize_2017_II_run
-metadata.description=Zber pri prilezitosti vladni krize medzi premierem Sobotkou a predsedou ANO Babisem, v podozreni kvuli financnim a zurnalistickym skandalum. keywords_ politická krize, předsedové vlády, ministři financí, prezidenti, vládní koalice, demise, Sobotka, Bohuslav, 1971-, Babiš, Andrej, 1954-, Zeman, Miloš, 1944-
-warcWriter.prefix=Topics-2017-05-Vladni_krize_2017_II_run
-warcWriter.storePaths=/mnt/archives/archive14/2017/topics/Topics-2017-05-Vladni_krize_2017
+metadata.jobName=Topics 2017-10-02-Volby_do_PS_2017_I_run
+metadata.description=Do sbírky zdrojů vztahujících se k volbám do poslanecké sněmovny 2017 jsme zahrnuli nejen weby a sociální sítě politických stran a jejich lídrů, ale i mediální ohlasy, vládní zdroje a průzkumy veřejného mínění.
+warcWriter.prefix=Topics-2017-10-02-Volby_do_PS_2017_I_run
+warcWriter.storePaths=/mnt/archives/archive14/2017/topics/Topics-2017-10-02-Volby_do_PS_2017_I_run
 frontier.queueTotalBudget=-1
 # bdb dir for Heritrix states and History of URL-Agnostic Duplication Reduction - https://webarchive.jira.com/wiki/display/Heritrix/Duplication+Reduction+Processors
 # Change for each topic
-bdb.dir=/opt/heritrix/jobs/states/Topics-2017-05-Vladni_krize_2017
+bdb.dir=/opt/heritrix/jobs/states/Topics-2017-10-02-Volby_do_PS_2017
 
 # INSPECT: There is change that balanceReplenishAmount doesnt work as expected IE: Crawl 5k URIs, and wait for other seeds to crawl until 5k URIs - check FRONTIER
 frontier.balanceReplenishAmount=5000
@@ -57,7 +57,7 @@ hashCrawlMapper.enabled=false
 # Local name of Crawler is number starting with 0.
 hashCrawlMapper.localName=0
 # Number of crawlers among which to split up the URIs.
-hashCrawlMapper.crawlerCount=3
+hashCrawlMapper.crawlerCount=1
 # Diversions directory should be shared between crawlers per job.
 hashCrawlMapper.diversionDir=/mnt/archives/archive12/pre-fetch-diversions
 
