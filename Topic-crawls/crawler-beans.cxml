@@ -38,10 +38,10 @@
 # http://java.sun.com/javase/6/docs/api/java/util/Properties.html#load%28java.io.Reader%29
 
 # Values changing with each crawl
-metadata.jobName=Topics 2017-10-02-Volby_do_PS_2017_I_run
-metadata.description=Do sbírky zdrojů vztahujících se k volbám do poslanecké sněmovny 2017 jsme zahrnuli nejen weby a sociální sítě politických stran a jejich lídrů, ale i mediální ohlasy, vládní zdroje a průzkumy veřejného mínění.
-warcWriter.prefix=Topics-2017-10-02-Volby_do_PS_2017_I_run
-warcWriter.storePaths=/mnt/archives/archive14/2017/topics/Topics-2017-10-02-Volby_do_PS_2017_I_run
+metadata.jobName=Topics 2017-10-20-Volby_do_PS_2017_II_run
+metadata.description=Do sbírky zdrojů vztahujících se k volbám do poslanecké sněmovny 2017 jsme zahrnuli nejen weby a sociální sítě politických stran a jejich lídrů, ale i mediální ohlasy, vládní zdroje a průzkumy veřejného mínění. Semínka I a II.
+warcWriter.prefix=Topics-2017-10-20-Volby_do_PS_2017_II_run
+warcWriter.storePaths=/mnt/archives/archive14/2017/topics/Topics-2017-10-20-Volby_do_PS_2017_II_run
 frontier.queueTotalBudget=-1
 # bdb dir for Heritrix states and History of URL-Agnostic Duplication Reduction - https://webarchive.jira.com/wiki/display/Heritrix/Duplication+Reduction+Processors
 # Change for each topic

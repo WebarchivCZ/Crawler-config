@@ -1,6 +1,51 @@
-#Volby do poslanecké sněmovny 2017 (20. a 21. 10. 2017)	
-#Anotace: Do sbírky zdrojů vztahujících se k volbám do poslanecké sněmovny 2017 jsme zahrnuli nejen weby a sociální sítě politických stran a jejich lídrů, ale i mediální ohlasy, vládní zdroje a průzkumy veřejného mínění.	
-#Klíčová slova: volby, volby do poslanecké sněmovny, parlamentní volby, politici, politika, politické strany, politická hnutí, volební kampaň, politická kampaň	
+#Volby do poslanecké sněmovny 2017 (20. a 21. 10. 2017) 
+#Anotace: Do sbírky zdrojů vztahujících se k volbám do poslanecké sněmovny 2017 jsme zahrnuli nejen weby a sociální sítě politických stran a jejich lídrů, ale i mediální ohlasy, vládní zdroje a průzkumy veřejného mínění.    
+#Klíčová slova: volby, volby do poslanecké sněmovny, parlamentní volby, politici, politika, politické strany, politická hnutí, volební kampaň, politická kampaň 
+demagog.cz
+politifact.com
+factcheck.com
+manipulatori.cz
+mujdemagog.cz
+http://finmag.penize.cz/ekonomika/327085-volebni-special-2017-jan-farsky-a-stan
+http://finmag.penize.cz/ekonomika/326751-volebni-special-2017-svobodni-a-petr-mach
+http://finmag.penize.cz/ekonomika/326796-volebni-special-2017-spo-a-superlidr-frantisek-ringo-cech
+http://finmag.penize.cz/ekonomika/326821-volebni-special-2017-jiri-dolejs-a-kscm
+http://finmag.penize.cz/ekonomika/326892-volebni-special-2017-tomio-okamura-a-svoboda-a-prima-demokracie-tomio-okamura
+http://finmag.penize.cz/ekonomika/326900-volebni-special-2017-petr-robejsek-a-realiste
+http://finmag.penize.cz/ekonomika/326970-volebni-special-2017-ivan-bartos-a-pirati
+http://finmag.penize.cz/ekonomika/327006-volebni-special-2017-matej-stropnicky-a-zeleni
+http://finmag.penize.cz/ekonomika/327022-volebni-special-2017-petr-fiala-a-ods
+http://showme.median.cz/volby-2017/
+transparentnivolby.cz
+https://www.irozhlas.cz/volby/volebni-program-strana-ano-ods-kdu-csl-pirati-top-09-kscm-spd-cssd-starostove_1710101045_jab
+https://technet.idnes.cz/cesti-politici-socialni-site-facebook-twitter-belobradek-babis-feri-ovcacek-bartos-gk2-/sw_internet.aspx?c=A171013_135237_sw_internet_pka
+fervolby.cz
+http://mediahub.cz/vysledky-vyhledavani?q=volby
+http://eurozpravy.cz/hledej/volby%20do%20poslanck%C3%A9%20sn%C4%9Bmovny%20domov
+https://udhpsh.cz/dotazy-odpovedi-poslanecka-snemovna/
+http://www.transparentnivolby.cz/snemovna2017/
+http://www.m-journal.cz/cs/aktuality/velke-hodnoceni-volebnich-klipu-politickych-stran----volby-do-poslanecke-snemovny-2017__s288x13249.html
+http://tvuj-hlas.cz/
+http://sedmagenerace.cz/text/detail/nesnesitelna-lehkost-slibu
+https://kampan-babis.cz/
+http://forum24.cz/obcan-poslal-babisovi-zpet-jeho-smlouvu-a-pripsal-mu-k-ni-par-ostrych-slov/
+http://www.krouzkujemeosobnosti.cz/
+http://www.tvojepoprve.cz
+http://a2larm.cz/?s=koho+volit
+http://www.rekonstrukcestatu.cz
+https://www.respekt.cz/tydenik/2017/42/uz-zase-urcujeme-cestu
+https://volby.idnes.cz/
+https://www.info.cz/volby-2017-vysledky-pruzkum
+http://volby.kurzy.cz/
+http://zpravy.e15.cz/volby-2017
+https://zpravy.aktualne.cz/domaci/volby-do-poslanecke-snemovny-2017/r~93c24e22a81111e7811f002590604f2e/
+http://www.blesk.cz/volby-2017-vysledky
+https://www.kverulant.org/kauza/kverulantuv-blacklist
+http://www.jedtevolit.cz/
+http://www.nfpk.cz/aktuality/5237
+https://domaci.ihned.cz/tagy/vysledky-voleb-13443
+http://www.nfpk.cz/_userfiles/soubory/tiskovky/TZ_2017_10_17_analyza.pdf
+https://nebojimsevolit.cz/
 http://a2larm.cz/2016/10/neco-se-deje-aneb-volby-v-cesku/
 http://a2larm.cz/2017/07/matka-vsech-voleb/
 http://andrejbabis.blog.idnes.cz/
