@@ -39,11 +39,11 @@
 
 # Values changing with each crawl	
 
-metadata.jobName=Serials 2017-07-1M_2M_CUNI_T2017VolPS
+metadata.jobName=Serials 2017-12-1M_2M_CUNI_OneShot
 metadata.operator=Zdenko Vozár
-metadata.description=Pravidelná sklizeň semínek s měsíční frekvencí, sklizeň s 2 měsíční frekvencí, sklizeň webů Karlovy univerzity.
-warcWriter.prefix=Serials-2017-11-1M_2M_CUNI_T2017VolPS
-warcWriter.storePaths=/mnt/archives/14/2017/serials/Serials-2017-11-1M_2M_CUNI_T2017VolPS
+metadata.description=Pravidelná sklizeň semínek s měsíční frekvencí, sklizeň s 2 měsíční frekvencí, sklizeň webů Karlovy univerzity a jednorázových magazínu.
+warcWriter.prefix=Serials-2017-12-1M_2M_CUNI_OneShot
+warcWriter.storePaths=/mnt/archives/14/2017/serials/Serials-2017-12-1M_2M_CUNI_OneShot
 frontier.queueTotalBudget=15000
 
 # State directory for duplication reduction, we keep state files for calendar year. Change to bdb for other crawls.
