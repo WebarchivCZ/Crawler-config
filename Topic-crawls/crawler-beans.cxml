@@ -40,11 +40,11 @@
 
 # Values changing with each crawl
 
-metadata.jobName=Topics 2018-01-T2018VolPrezI
+metadata.jobName=Topics 2018-01-T2018VolPrezII
 metadata.operator=Zdenko Vozár
-metadata.description=Výberová sklizeň webov pri príležitosti voľby českého prezidenta a I. kolo. 12-13 leden 2018. Predsklizeň pustená z dôvodov širších operácií na diskových poliach NK v predvečer voľby.
-warcWriter.prefix=Topics-2018-01-T2018VolPrezI-Meritus_
-warcWriter.storePaths=/mnt/archives/18/topics/Topics-2018-01-T2018VolPrezI
+metadata.description=Výberová sklizeň webov pri príležitosti voľby českého prezidenta a II. kolo. v den volieb. 12-13 leden 2018. Predsklizeň pustená z dôvodov širších operácií na diskových poliach NK v predvečer voľby.
+warcWriter.prefix=Topics-2018-01-T2018VolPrezII-crawler01_
+warcWriter.storePaths=/mnt/archives/14/2018/topics/Topics-2018-01-T2018VolPrezII
 frontier.queueTotalBudget=-1
 
 # State directory for duplication reduction, we keep state files for calendar year. Change to bdb for other crawls.
@@ -61,15 +61,15 @@ extractorYoutubeWatchPage.enabled=true
 
 #toto je dolezite
 # DISTRIBUTED CRAWLING - if true, check if proper localName is set per Crawler and do not forget to mention how many crawlers will join the party. -->
-hashCrawlMapper.enabled=true
+hashCrawlMapper.enabled=false
 # Local name of Crawler is number starting with 0.
 hashCrawlMapper.localName=0
 #0,1,2,3, .. x-1
 # Number of crawlers among which to split up the URIs.
-hashCrawlMapper.crawlerCount=3
+hashCrawlMapper.crawlerCount=0
 #je ich jedenast celkom ale jeden nepojde
 # Diversions directory should be shared between crawlers per job.
-hashCrawlMapper.diversionDir=/mnt/archives/18/topics/prefetch-diversions/
+hashCrawlMapper.diversionDir=/mnt/archives/14/2018/topics/prefetch-diversions/
 
 # YOUTUBE: Do you wanna save youtube videos?
 extractorYoutubeWatchPage.enabled=true
