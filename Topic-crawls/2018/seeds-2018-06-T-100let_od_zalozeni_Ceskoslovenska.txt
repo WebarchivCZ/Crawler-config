@@ -1,0 +1,118 @@
+http://100letvznikurepubliky.cz/
+http://www.prague.eu/cs/ceskoslovensko
+https://www.hrad.cz/cs/kultura-na-hrade/program/zalozeno-1918-aneb-vystavy-na-prazskem-hrade-k-100.-vyroci-vzniku-csr-10919
+http://lipyrepubliky.cz/
+https://ceskamincovna.cz/100letcsr/
+http://www.slavime100let.cz/
+http://www.republika2018.cz
+https://spolecnestoleti.cz/cs
+http://www.inspiromat.cz
+https://sites.google.com/view/hranicari/svoboda-v-odvaze/knihy-1918-2017
+https://www.ceskatelevize.cz/specialy/totostoleti#/
+https://www.kct.cz/cms/100-let-republiky-130-let-kct
+http://www.vyrocirepubliky.cz/
+https://www.cd.cz/100-let-spolu/default.htm
+https://www.turisticke-znamky.cz/100-vyroci-cr.html
+https://lvistopa.cz/
+http://www.ceskozemepribehu.cz/
+https://magazin.aktualne.cz/100-let-od-zalozeni-ceskoslovenska-1918-2018/l~ed9e7328f07111e78337ac1f6b220ee8/?redirected=1522918989
+https://www.blesk.cz/tag/v%C3%BDro%C4%8D%C3%AD%20republiky/1
+https://www.parlamentnilisty.cz/zpravy/tiskovezpravy/Celorepublikova-oslava-100-vyroci-vzniku-Ceske-republiky-resp-Ceskoslovenska-508641
+https://www.denik.cz/z_domova/praha-da-na-oslavy-100-vyroci-vzniku-ceskoslovenska-35-milionu-20180107.html
+https://www.lidovky.cz/praha-na-oslavy-100-vyroci-csr-vycleni-35-milionu-korun-planuje-natocit-i-historicky-serial-g7g-/zpravy-domov.aspx?c=A180107_093423_ln_domov_ele
+http://www.ceskenoviny.cz/zpravy/sto-let-republiky-oslavi-kraje-i-mesta-akci-budou-desitky/1570017
+https://www.novinky.cz/zahranicni/evropa/415136-cesko-a-slovensko-oslavi-100-vyroci-vzniku-csr-spolecne.html
+https://zpravy.idnes.cz/100-vyroci-oslavy-sto-let-vznik-csr-republika-vystava-masaryk-brno-ostrava-dejiny-ceskoslovensko-st-ilv-/domaci.aspx?c=A171012_155240_domaci_hell
+https://www.novinky.cz/domaci/459354-vyroci-vzniku-ceskoslovenska-pripomenou-filmy-i-klenoty.html
+http://www.blesk.cz/clanek/zpravy-politika/425616/chysta-se-obri-oslava-100-narozenin-statu-trumfne-naklady-karla-iv.html
+http://www.mistnikultura.cz/fenomen-ceskych-knihoven-v-osmickovem-roce-kralovehradecky-kraj
+http://www.ceskatelevize.cz/ct24/kultura/2460718-v-brne-vystavi-slovanskou-epopej-bude-soucasti-festivalu-k-vyroci-100-let-republiky
+https://cs.wikipedia.org/wiki/Den_vzniku_samostatn%C3%A9ho_%C4%8Deskoslovensk%C3%A9ho_st%C3%A1tu
+https://cs.wikipedia.org/wiki/Vznik_%C4%8Ceskoslovenskattps://hlidacipes.org/robert-brestan-drahos-oznamil-kandidaturu-kdo-porazi-zemana/?hilite=%27prezidentsk%C3%A9%27%2C%27volby%27%2C%272018%27	
+
+# Heritrix added seed redirect from http://www.prague.eu/cs/ceskoslovensko.
+https://www.prague.eu/cs/ceskoslovensko
+# Heritrix added seed redirect from http://www.republika2018.cz/.
+https://www.gotobrno.cz/festival/festival-republika/
+# Heritrix added seed redirect from http://www.inspiromat.cz/.
+http://sites.google.com/view/hranicari
+# Heritrix added seed redirect from https://magazin.aktualne.cz/100-let-od-zalozeni-ceskoslovenska-1918-2018/l~ed9e7328f07111e78337ac1f6b220ee8/?redirected=1522918989.
+https://id-economia.cz/?redirecturl=https%3a%2f%2fmagazin.aktualne.cz%2f100-let-od-zalozeni-ceskoslovenska-1918-2018%2fl~ed9e7328f07111e78337ac1f6b220ee8%2f%3fredirected%3d1534778265
+# Heritrix added seed redirect from http://lipyrepubliky.cz/.
+https://lipyrepubliky.cz/
+# Heritrix added seed redirect from http://www.ceskatelevize.cz/ct24/kultura/2460718-v-brne-vystavi-slovanskou-epopej-bude-soucasti-festivalu-k-vyroci-100-let-republiky.
+https://ct24.ceskatelevize.cz/kultura/2460718-v-brne-vystavi-slovanskou-epopej-bude-soucasti-festivalu-k-vyroci-100-let-republiky
+# Heritrix added seed redirect from http://sites.google.com/view/hranicari.
+https://sites.google.com/view/hranicari
+# Heritrix added seed redirect from https://id-economia.cz/?redirecturl=https%3a%2f%2fmagazin.aktualne.cz%2f100-let-od-zalozeni-ceskoslovenska-1918-2018%2fl~ed9e7328f07111e78337ac1f6b220ee8%2f%3fredirected%3d1534778265.
+https://uid.aktualne.cz/?tracking-uid=SJZwMkP_LQ&redirecturl=https%3A%2F%2Fmagazin.aktualne.cz%2F100-let-od-zalozeni-ceskoslovenska-1918-2018%2Fl~ed9e7328f07111e78337ac1f6b220ee8%2F%3Fredirected%3D1534778265
+# Heritrix added seed redirect from http://www.ceskenoviny.cz/zpravy/sto-let-republiky-oslavi-kraje-i-mesta-akci-budou-desitky/1570017.
+https://www.ceskenoviny.cz/zpravy/sto-let-republiky-oslavi-kraje-i-mesta-akci-budou-desitky/1570017
+# Heritrix added seed redirect from http://www.prague.eu/cs/ceskoslovensko.
+https://www.prague.eu/cs/ceskoslovensko
+# Heritrix added seed redirect from http://www.inspiromat.cz/.
+http://sites.google.com/view/hranicari
+# Heritrix added seed redirect from http://www.republika2018.cz/.
+https://www.gotobrno.cz/festival/festival-republika/
+# Heritrix added seed redirect from https://id-economia.cz/?redirecturl=https%3a%2f%2fmagazin.aktualne.cz%2f100-let-od-zalozeni-ceskoslovenska-1918-2018%2fl~ed9e7328f07111e78337ac1f6b220ee8%2f%3fredirected%3d1534778265.
+https://uid.aktualne.cz/?tracking-uid=H1WooqTMPX&redirecturl=https%3A%2F%2Fmagazin.aktualne.cz%2F100-let-od-zalozeni-ceskoslovenska-1918-2018%2Fl~ed9e7328f07111e78337ac1f6b220ee8%2F%3Fredirected%3D1534778265
+# Heritrix added seed redirect from https://uid.aktualne.cz/?tracking-uid=SJZwMkP_LQ&redirecturl=https%3A%2F%2Fmagazin.aktualne.cz%2F100-let-od-zalozeni-ceskoslovenska-1918-2018%2Fl~ed9e7328f07111e78337ac1f6b220ee8%2F%3Fredirected%3D1534778265.
+https://magazin.aktualne.cz/100-let-od-zalozeni-ceskoslovenska-1918-2018/l~ed9e7328f07111e78337ac1f6b220ee8/?redirected=1534778265
+# Heritrix added seed redirect from https://uid.aktualne.cz/?tracking-uid=H1WooqTMPX&redirecturl=https%3A%2F%2Fmagazin.aktualne.cz%2F100-let-od-zalozeni-ceskoslovenska-1918-2018%2Fl~ed9e7328f07111e78337ac1f6b220ee8%2F%3Fredirected%3D1534778265.
+https://magazin.aktualne.cz/100-let-od-zalozeni-ceskoslovenska-1918-2018/l~ed9e7328f07111e78337ac1f6b220ee8/?redirected=1534778265
+# Heritrix added seed redirect from http://www.ceskenoviny.cz/zpravy/sto-let-republiky-oslavi-kraje-i-mesta-akci-budou-desitky/1570017.
+https://www.ceskenoviny.cz/zpravy/sto-let-republiky-oslavi-kraje-i-mesta-akci-budou-desitky/1570017
+# Heritrix added seed redirect from http://www.prague.eu/cs/ceskoslovensko.
+https://www.prague.eu/cs/ceskoslovensko
+# Heritrix added seed redirect from http://www.inspiromat.cz/.
+http://sites.google.com/view/hranicari
+# Heritrix added seed redirect from http://www.republika2018.cz/.
+https://www.gotobrno.cz/festival/festival-republika/
+# Heritrix added seed redirect from https://uid.aktualne.cz/?tracking-uid=SJZwMkP_LQ&redirecturl=https%3A%2F%2Fmagazin.aktualne.cz%2F100-let-od-zalozeni-ceskoslovenska-1918-2018%2Fl~ed9e7328f07111e78337ac1f6b220ee8%2F%3Fredirected%3D1534778265.
+https://magazin.aktualne.cz/100-let-od-zalozeni-ceskoslovenska-1918-2018/l~ed9e7328f07111e78337ac1f6b220ee8/?redirected=1534778265
+# Heritrix added seed redirect from https://id-economia.cz/?redirecturl=https%3a%2f%2fmagazin.aktualne.cz%2f100-let-od-zalozeni-ceskoslovenska-1918-2018%2fl~ed9e7328f07111e78337ac1f6b220ee8%2f%3fredirected%3d1534778265.
+https://uid.aktualne.cz/?tracking-uid=Bk7uQrRGDm&redirecturl=https%3A%2F%2Fmagazin.aktualne.cz%2F100-let-od-zalozeni-ceskoslovenska-1918-2018%2Fl~ed9e7328f07111e78337ac1f6b220ee8%2F%3Fredirected%3D1534778265
+# Heritrix added seed redirect from https://uid.aktualne.cz/?tracking-uid=H1WooqTMPX&redirecturl=https%3A%2F%2Fmagazin.aktualne.cz%2F100-let-od-zalozeni-ceskoslovenska-1918-2018%2Fl~ed9e7328f07111e78337ac1f6b220ee8%2F%3Fredirected%3D1534778265.
+https://magazin.aktualne.cz/100-let-od-zalozeni-ceskoslovenska-1918-2018/l~ed9e7328f07111e78337ac1f6b220ee8/?redirected=1534778265
+# Heritrix added seed redirect from http://www.ceskatelevize.cz/ct24/kultura/2460718-v-brne-vystavi-slovanskou-epopej-bude-soucasti-festivalu-k-vyroci-100-let-republiky.
+https://ct24.ceskatelevize.cz/kultura/2460718-v-brne-vystavi-slovanskou-epopej-bude-soucasti-festivalu-k-vyroci-100-let-republiky
+# Heritrix added seed redirect from http://sites.google.com/view/hranicari.
+https://sites.google.com/view/hranicari
+# Heritrix added seed redirect from http://lipyrepubliky.cz/.
+https://lipyrepubliky.cz/
+# Heritrix added seed redirect from https://uid.aktualne.cz/?tracking-uid=Bk7uQrRGDm&redirecturl=https%3A%2F%2Fmagazin.aktualne.cz%2F100-let-od-zalozeni-ceskoslovenska-1918-2018%2Fl~ed9e7328f07111e78337ac1f6b220ee8%2F%3Fredirected%3D1534778265.
+https://magazin.aktualne.cz/100-let-od-zalozeni-ceskoslovenska-1918-2018/l~ed9e7328f07111e78337ac1f6b220ee8/?redirected=1534778265
+# Heritrix added seed redirect from http://sites.google.com/view/hranicari.
+https://sites.google.com/view/hranicari
+# Heritrix added seed redirect from http://www.ceskenoviny.cz/zpravy/sto-let-republiky-oslavi-kraje-i-mesta-akci-budou-desitky/1570017.
+https://www.ceskenoviny.cz/zpravy/sto-let-republiky-oslavi-kraje-i-mesta-akci-budou-desitky/1570017
+# Heritrix added seed redirect from http://www.prague.eu/cs/ceskoslovensko.
+https://www.prague.eu/cs/ceskoslovensko
+# Heritrix added seed redirect from https://magazin.aktualne.cz/100-let-od-zalozeni-ceskoslovenska-1918-2018/l~ed9e7328f07111e78337ac1f6b220ee8/?redirected=1522918989.
+https://id-economia.cz/?redirecturl=https%3a%2f%2fmagazin.aktualne.cz%2f100-let-od-zalozeni-ceskoslovenska-1918-2018%2fl~ed9e7328f07111e78337ac1f6b220ee8%2f%3fredirected%3d1535465259
+# Heritrix added seed redirect from http://www.inspiromat.cz/.
+http://sites.google.com/view/hranicari
+# Heritrix added seed redirect from http://www.republika2018.cz/.
+https://www.gotobrno.cz/festival/festival-republika/
+# Heritrix added seed redirect from https://id-economia.cz/?redirecturl=https%3a%2f%2fmagazin.aktualne.cz%2f100-let-od-zalozeni-ceskoslovenska-1918-2018%2fl~ed9e7328f07111e78337ac1f6b220ee8%2f%3fredirected%3d1534778265.
+https://uid.aktualne.cz/?tracking-uid=BJ7NNv0fvX&redirecturl=https%3A%2F%2Fmagazin.aktualne.cz%2F100-let-od-zalozeni-ceskoslovenska-1918-2018%2Fl~ed9e7328f07111e78337ac1f6b220ee8%2F%3Fredirected%3D1534778265
+# Heritrix added seed redirect from https://uid.aktualne.cz/?tracking-uid=SJZwMkP_LQ&redirecturl=https%3A%2F%2Fmagazin.aktualne.cz%2F100-let-od-zalozeni-ceskoslovenska-1918-2018%2Fl~ed9e7328f07111e78337ac1f6b220ee8%2F%3Fredirected%3D1534778265.
+https://magazin.aktualne.cz/100-let-od-zalozeni-ceskoslovenska-1918-2018/l~ed9e7328f07111e78337ac1f6b220ee8/?redirected=1534778265
+# Heritrix added seed redirect from https://id-economia.cz/?redirecturl=https%3a%2f%2fmagazin.aktualne.cz%2f100-let-od-zalozeni-ceskoslovenska-1918-2018%2fl~ed9e7328f07111e78337ac1f6b220ee8%2f%3fredirected%3d1535465259.
+https://uid.aktualne.cz/?tracking-uid=BJ7NNv0fvX&redirecturl=https%3A%2F%2Fmagazin.aktualne.cz%2F100-let-od-zalozeni-ceskoslovenska-1918-2018%2Fl~ed9e7328f07111e78337ac1f6b220ee8%2F%3Fredirected%3D1535465259
+# Heritrix added seed redirect from https://uid.aktualne.cz/?tracking-uid=H1WooqTMPX&redirecturl=https%3A%2F%2Fmagazin.aktualne.cz%2F100-let-od-zalozeni-ceskoslovenska-1918-2018%2Fl~ed9e7328f07111e78337ac1f6b220ee8%2F%3Fredirected%3D1534778265.
+https://magazin.aktualne.cz/100-let-od-zalozeni-ceskoslovenska-1918-2018/l~ed9e7328f07111e78337ac1f6b220ee8/?redirected=1534778265
+# Heritrix added seed redirect from http://www.ceskatelevize.cz/ct24/kultura/2460718-v-brne-vystavi-slovanskou-epopej-bude-soucasti-festivalu-k-vyroci-100-let-republiky.
+https://ct24.ceskatelevize.cz/kultura/2460718-v-brne-vystavi-slovanskou-epopej-bude-soucasti-festivalu-k-vyroci-100-let-republiky
+# Heritrix added seed redirect from https://uid.aktualne.cz/?tracking-uid=Bk7uQrRGDm&redirecturl=https%3A%2F%2Fmagazin.aktualne.cz%2F100-let-od-zalozeni-ceskoslovenska-1918-2018%2Fl~ed9e7328f07111e78337ac1f6b220ee8%2F%3Fredirected%3D1534778265.
+https://magazin.aktualne.cz/100-let-od-zalozeni-ceskoslovenska-1918-2018/l~ed9e7328f07111e78337ac1f6b220ee8/?redirected=1534778265
+# Heritrix added seed redirect from http://sites.google.com/view/hranicari.
+https://sites.google.com/view/hranicari
+# Heritrix added seed redirect from http://lipyrepubliky.cz/.
+https://lipyrepubliky.cz/
+# Heritrix added seed redirect from https://uid.aktualne.cz/?tracking-uid=BJ7NNv0fvX&redirecturl=https%3A%2F%2Fmagazin.aktualne.cz%2F100-let-od-zalozeni-ceskoslovenska-1918-2018%2Fl~ed9e7328f07111e78337ac1f6b220ee8%2F%3Fredirected%3D1534778265.
+https://magazin.aktualne.cz/100-let-od-zalozeni-ceskoslovenska-1918-2018/l~ed9e7328f07111e78337ac1f6b220ee8/?redirected=1534778265
+# Heritrix added seed redirect from http://sites.google.com/view/hranicari.
+https://sites.google.com/view/hranicari
+# Heritrix added seed redirect from https://uid.aktualne.cz/?tracking-uid=BJ7NNv0fvX&redirecturl=https%3A%2F%2Fmagazin.aktualne.cz%2F100-let-od-zalozeni-ceskoslovenska-1918-2018%2Fl~ed9e7328f07111e78337ac1f6b220ee8%2F%3Fredirected%3D1535465259.
+https://magazin.aktualne.cz/100-let-od-zalozeni-ceskoslovenska-1918-2018/l~ed9e7328f07111e78337ac1f6b220ee8/?redirected=1535465259
