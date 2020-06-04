@@ -1,0 +1,34 @@
+#Topics 2019-05-Klimaticka_zmena - 30 seeds 
+https://byznys.ihned.cz/tagy/klimaticka-zmena-341965
+https://www.mzp.cz/cz/zmena_klimatu
+http://www.cvgz.cas.cz/
+https://www.irozhlas.cz/zpravy-tag/zmena-klimatu
+https://www.klimatickazmena.cz/cs/
+http://portal.chmi.cz/historicka-data/pocasi/zmena-klimatu/zakladni-informace
+https://www.zmenaklimatu.cz
+https://www.consilium.europa.eu/cs/policies/climate-change/
+https://cde.ecn.cz/
+https://www.denik.cz/tema/klimaticke-zmeny.html
+https://www.ekoenergy.org/cs/extras/background-information/climate-change/
+https://zpravy.aktualne.cz/klimaticke-zmeny/l~i:keyword:2026/
+http://www.czechglobe.cz/cs/
+https://www.veronica.cz/chranime-klima-a-ucime-ostatni-jak-na-to
+https://www.greenpeace.org/czech/zmenaklimatu/
+http://www.e-pocasi.cz/globalni-oteplovani/
+https://ct24.ceskatelevize.cz/tema/393536-zmeny-klimatu
+http://denikreferendum.cz/tema/zmeny-klimatu
+https://magazin.gnosis.cz/category/klimaticke-zmeny/
+https://a2larm.cz/tema/klimaticka-zmena/
+http://www.enviweb.cz/global
+https://www.blisty.cz/topics/171
+https://www.osn.cz/sef-osn-apeluje-na-svet-zmena-klimatu-je-problemem-kazdeho-z-nas/
+https://cz.boell.org/cs/2014/07/07/klimaticke-zmeny-fakta-bez-mytu
+http://neovlivni.cz/tag/klimaticke-zmeny/
+https://www.vuv.cz/files/pdf/edicni_cinnost/publikace/hanel_odhad-dopadu_klimaticke_zmeny.pdf
+http://amper.ped.muni.cz/gw/
+https://cs.wikipedia.org/wiki/Klimatick%C3%A1_zm%C4%9Bna
+https://www.ecofuture.cz/clanek/kvetiny-na-stole-voni-nebo-pachnou-emisemi
+http://www.iprpraha.cz/adaptacnistrategie
+
+# Heritrix added seed redirect from https://www.zmenaklimatu.cz/.
+https://www.zmenaklimatu.cz/cz/
