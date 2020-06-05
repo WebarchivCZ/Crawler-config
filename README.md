@@ -25,14 +25,18 @@ Také zde sledujeme seznamy semínek, která jsme použili pro konkrétní skliz
 ## Soubory
 
 Konvence pojmenování souborů je odvozena z pravidel pro pojmenování záznamů.  
-Každý adresář je pouze kombinací povolených metadatových definic, konkrétně
+Každý název souboru je pouze kombinací povolených metadatových definic, konkrétně
 
 ### Sada semínek pro sklizně
 
 ***[[fileType.prefix](#filetype)]-[[dateType.month](#datetype)]-[[harvestType.tag](#harvesttype)]-[[harvestFreq](#harvestfreq)].[[fileType.fileformat](#filetype)]***
 
 ```
+
+[seeds]-[2019-06]-[S]-[[1M]_[2M]_[OneShot]_[ArchiveIt]].[txt]
+
 seeds-2019-06-S-1M_2M_OneShot_ArchiveIt.txt
+
 ```
 
 ### Konfigurační soubor crawleru
@@ -47,8 +51,8 @@ crawler-beans-S-2020.cxml
 
 ## Adresáře
 
-Konvence pojmenování adresářů je odvozena z pravidel pro pojmenování záznamů.  
-Každý adresář je pouze kombinací zavedených metadatových definic, konkrétně
+Konvence pojmenování adresářů je odvozena od pravidel pro pojmenování záznamů.  
+Každý název adresáře je pouze kombinací zavedených metadatových definic, konkrétně
 [harvestType](#harvesttype) a [directoryType.suffix](#directorytype) ,  
 spolu s datumovým typem [dateType](#datetype).
 
