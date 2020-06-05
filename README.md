@@ -1,7 +1,7 @@
 # Configuration history of Webarchiv.cz crawls
 
-We use this repository to track changes in Heritrix configuration.  
-We also track seeds we used for earch crawl.
+We use this repository to track changes in heritrix configuration.
+We also track seeds we used for harvest.
 
 - [Configuration history of Webarchiv.cz crawls](#configuration-history-of-webarchivcz-crawls)
   - [Files](#files)
@@ -23,6 +23,8 @@ We also track seeds we used for earch crawl.
 -------
 
 Usual files, directories and commits looks like this:
+
+This is what files, directories, and revisions look like:
 
 ## Files
 
