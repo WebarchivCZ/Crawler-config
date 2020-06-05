@@ -1,9 +1,10 @@
-# Configuration history of Webarchiv.cz crawls
+# Webarchiv.[[cz](README.md)] | Configuration history of crawls  
 
 We use this repository to track changes in heritrix configuration.
 We also track seeds we used for harvest.
 
-- [Configuration history of Webarchiv.cz crawls](#configuration-history-of-webarchivcz-crawls)
+- [Webarchiv.[en] | Configuration history of crawls](#webarchiven--configuration-history-of-crawls)
+- [[cz]](#cz)
   - [Files](#files)
     - [File with list of seeds](#file-with-list-of-seeds)
     - [File with configuration of crawler](#file-with-configuration-of-crawler)
@@ -67,14 +68,14 @@ Shared-config/
 ### fileType
 
 | prefix        | mimetype   | fileformat | description                     |
-|---------------|------------|------------|---------------------------------|
+| ------------- | ---------- | ---------- | ------------------------------- |
 | seeds         | text/plain | txt        | file with list of seeds         |
 | crawler-beans | text/xml   | cxml       | file with crawler configuration |
 
 ### directoryType
 
 | directoryType | suffix   | description                                                                 |
-|---------------|----------|-----------------------------------------------------------------------------|
+| ------------- | -------- | --------------------------------------------------------------------------- |
 | config        | -conf    | directory with shared configuration for all harvests as blacklist, etc.     |
 | crawls        | -crawls  | directory with configuration of crawler and seeds for specifics of harvests |
 | reports       | -reports | directory with logs and reports about harvest                               |
@@ -84,7 +85,7 @@ Shared-config/
 Definition of recording date and time items.
 
 | dateType | format            |
-|----------|-------------------|
+| -------- | ----------------- |
 | year     | yyyy              |
 | month    | yyyy-MM           |
 | day      | yyyy-MM-DD        |
@@ -100,7 +101,7 @@ This is the curatorial definition of the harvest from which the list of seeds fo
 See the metadata specification for more information about [harvestType #v04](https://github.com/WebarchivCZ/grainery/wiki/Harvest#v04-harvesttype)
 
 | harvestType | tag | description                                                                                        |
-|-------------|-----|----------------------------------------------------------------------------------------------------|
+| ----------- | --- | -------------------------------------------------------------------------------------------------- |
 | Serials     | S   | Selective repeating harvest (combination of selected seeds with different annual frequency)        |
 | Topics      | T   | Thematic selective harvest. These harvest usually repeats few times.                               |
 | Totals      |     | Comprehensive harvest of national domain .cz. We do not store domain crawl configuration here.[^1] |
@@ -114,7 +115,7 @@ This is curated selection of seeds with defined frequency of repeating crawls:
 See the metadata specification for more information about [harvestFreq #v04](https://github.com/WebarchivCZ/grainery/wiki/Harvest#v04-harvestsuffixharvestfreq)
 
 | harvestFreq | description                                                                                           |
-|-------------|-------------------------------------------------------------------------------------------------------|
+| ----------- | ----------------------------------------------------------------------------------------------------- |
 | 1M          | means selection of seeds to be crawled every month                                                    |
 | 2M          | means selection of seeds to be crawled every other month                                              |
 | 6M          | means selection of seeds to be crawled twice a year                                                   |
@@ -130,7 +131,7 @@ See the metadata specification for more information about [harvestFreq #v04](htt
 ## Software and software libraries
 
 | Software | Version | Language | Official source of code                        | Utilization      |
-|----------|---------|----------|------------------------------------------------|------------------|
+| -------- | ------- | -------- | ---------------------------------------------- | ---------------- |
 | Heritix  | 3.4.0   | Java     | <https://github.com/internetarchive/heritrix3> | crawler          |
 | Seeder   |         | Python   | <https://github.com/WebarchivCZ/Seeder.git>    | web curator tool |
 
