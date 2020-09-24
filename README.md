@@ -25,7 +25,7 @@ Také zde verzujeme seznamy semínek, která jsme použili pro konkrétní skliz
 
 ## Soubory
 
-Konvence pojmenování souborů vychazí z metadatové specifikace v projektu grainnery vztahujících se ke sklizním.  
+Konvence pojmenování souborů vychazí z metadatové specifikace v projektu grainnery vztahující se ke sklizním.  
 Každý název souboru je tvořen pouze kombinací takto definovaných metadatových typů.
 
 ### Sada semínek pro sklizně
@@ -35,6 +35,7 @@ Aktuální varianta
 ***[[fileType.prefix](#filetype)]-[[dateType.month](#datetype)]-[[harvestType.tag](#harvesttype)]-[[harvestFreq](#harvestfreq)].[[fileType.fileformat](#filetype)]***
 
 ```
+[fileType.prefix]-[dateType.month]-[harvestType.tag]-[harvestFreq].[fileType.fileformat]
 
 [seeds]-[2019-06]-[S]-[[1M]_[2M]_[OneShot]_[ArchiveIt]].[txt]
 
@@ -56,7 +57,7 @@ crawler-beans-S-2020.cxml
 
 ## Adresáře
 
-Konvence pojmenování adresáře vychazí z metadatové specifikace v projektu grainnery vztahujících se ke sklizním.  
+Konvence pojmenování adresáře vychází z metadatové specifikace v projektu grainnery vztahující se ke sklizním.  
 Každý název adresáře je tvořen pouze kombinací takto definovaných metadatových typů.
 
 [harvestType](#harvesttype) a [directoryType.suffix](#directorytype) ,  
@@ -132,6 +133,7 @@ Další informace o metadatovém typu [harvestFreq #v04](https://github.com/Weba
 |-------------|------------------------------------------------------------------------------|
 | 1M          | výběr semenínek, která se mají sklízet každý měsíc                           |
 | 2M          | výběr semenínek, která se mají sklízet každý druhý měsíc                     |
+| 3M          | výběr semenínek, která se mají sklízet každé čtvrtletí                     |
 | 6M          | výběr semenínek, která se mají sklízet každý půlrok                          |
 | 12M         | výběr semenínek, která se mají sklízet jednou do roka                        |
 | Archive_IT  | výběr nových semenínek, která se mají sklízet jednorázově                    |
@@ -157,9 +159,10 @@ Další informace o metadatovém typu [harvestFreq #v04](https://github.com/Weba
 - [ ] Aktualizace a revize konfiguračních souborů crawleru pro všechny typy sklizní
 - [ ] Oveření možností pro vytvoření adresáře pro logy a reporty ze sklizní
 - [ ] Vytvořit muster formulař pro nahlášení "nevhodného chování" našeho crawleru
+- [ ] Revize manualu ke skliznim
   
 ## Licence
 
 -------
-[^1]: Bylo by to v rozporu s naší dohodu o manipulaci s domenovým datasetem poskytovkáných sdružením [CZ.NIC](https://nic.cz/)  
-      Proto nemůžeme zveřejnit seznam semínek pro celoplošné sklizně a samozřejmě ani výstupy logu.
+[^1]: Bylo by to v rozporu s naší dohodu o manipulaci s doménovým datasetem poskytováným sdružením [CZ.NIC](https://nic.cz/)  
+      Proto nemůžeme zveřejnit seznam semínek pro celoplošné sklizně a samozřejmě ani výstupy z logů.

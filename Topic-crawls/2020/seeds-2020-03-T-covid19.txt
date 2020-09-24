@@ -174,21 +174,3 @@ https://ct24.ceskatelevize.cz/veda/3063022-na-cvut-vyvijeji-prototyp-respiratoru
 https://www.cirkev.cz/cs/aktuality/200317sdeleni-predsedy-rady-cbk-pro-duchovni-sluzbu-ve-zdravotnictvi-pri-nutne-navsteve-nemocneho
 http://www.mzcr.cz/dokumenty/koronavirus-2019-ncov-informace-pro-lekare_18433_4122_1.html
 https://www.respekt.cz/koronavirus
-# Heritrix added seed redirect from http://koronavirus.frankbold.org/?fbclid=IwAR02WMtO2112stmKMTB4hg-SrfKAFutUZ6tkxkUHIXKf3Mkqt7IA7bOkyds.
-https://koronavirus.frankbold.org/?fbclid=IwAR02WMtO2112stmKMTB4hg-SrfKAFutUZ6tkxkUHIXKf3Mkqt7IA7bOkyds
-# Heritrix added seed redirect from http://sijemerousky.cz/.
-https://sijemerousky.cz/
-# Heritrix added seed redirect from https://www.facebook.com/groups/2947447028610884/permalink/2955770231111897/.
-https://www.facebook.com/groups/2947447028610884/permalink/2955770231111897/?_fb_noscript=1
-# Heritrix added seed redirect from http://www.mzcr.cz/dokumenty/koronavirus-2019-ncov-aktualni-data_18455_4122_1.html.
-http://www.mzcr.cz/Info.aspx?aspxerrorpath=/DokumentDetail.aspx
-# Heritrix added seed redirect from https://www.idnes.cz/zpravy/zahranicni/koronavirus.K466979.
-https://www.idnes.cz/koronavirus/clanky
-# Heritrix added seed redirect from http://www.mzcr.cz/dokumenty/informace-pro-obcany-v-souvislosti-s-aktualnim-vyskytem-cinskeho-koronaviru-2019_18415_1.html.
-http://www.mzcr.cz/Info.aspx?aspxerrorpath=/DokumentDetail.aspx
-# Heritrix added seed redirect from http://www.vlada.cz/cz/media-centrum/aktualne/vyhlaseni-nouzoveho-stavu-180234/.
-https://www.vlada.cz/cz/media-centrum/aktualne/vyhlaseni-nouzoveho-stavu-180234/
-# Heritrix added seed redirect from https://zoom.iprima.cz/koronavirus-2019.
-https://zoom.iprima.cz/koronavirus
-# Heritrix added seed redirect from https://www.facebook.com/Prahaeu/.
-https://www.facebook.com/Prahaeu/?_fb_noscript=1
