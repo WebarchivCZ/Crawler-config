@@ -1,0 +1,134 @@
+#Test
+http://architekturazlin.cz
+http://casopis.headliner.cz
+http://ceskylid.avcr.cz/
+http://dspace.specpeda.cz/
+http://etnologie.phil.muni.cz
+http://historieotazkyproblemy.ff.cuni.cz
+http://medunameduna.blogspot.com
+http://ojppe.eu/index.php/OJPPE
+http://performance.ffa.vutbr.cz/ARCHIV/CDROM
+http://pritomnost.cz
+http://rcerovsky.sweb.cz
+http://swortys.blogspot.com
+http://uhv.upce.cz
+http://vcelarstvi.blogspot.cz
+http://vojtechkase.cz
+http://www.centrumkocianka.cz
+http://www.dostalkova.com/
+http://www.ethnoentomology.cz
+http://www.filmovyprehled.cz
+http://www.frantisekmatejka.cz
+http://www.hudebnistranky.cz
+http://www.inregion.cz/
+http://www.jizersketicho.cz/
+http://www.kroatistikabrno.cz
+http://www.mcnedvezi.cz
+http://www.petrdub.cz/
+http://www.pjpk.cz
+http://www.praha-dubec.cz
+http://www.praha-kolodeje.cz/
+http://www.prahapetrovice.cz
+http://www.tacz.org/
+http://www.tomaskajanek.com
+http://www.vsechsvatych.cz
+http://www.zahradadesetileti.cz
+https://brentner.katalog-skladeb.cz
+https://dalib.cz
+https://energozrouti.cz
+https://ff.osu.cz/ksl/studia-slavica
+https://fpe.zcu.cz/khi/Periodika/memo.html
+https://historie.phil.muni.cz
+https://multiplace.org/
+https://ospdl.webflow.io
+https://pladias.cz/
+https://politicon.eu
+https://volynaci.cz
+https://wiki.l10n.cz
+https://www.archaius.eu
+https://www.arnica.zcu.cz/cz/
+https://www.fd.cvut.cz/personal/becvamar/konference/hlavnindex.htmU
+https://www.fd.cvut.cz/personal/becvamar/konference/index.html
+https://www.hvezdarnatabor.cz
+https://www.jw.org
+https://www.knihomam.cz
+https://www.pismoznalectvi.org
+https://www.praha-kunratice.cz
+https://www.prazskamincovna.cz
+https://www.presny-cas-online.cz/
+https://www.vratme-vaznost-csbs.cz
+https://www.zelenestrechy.info
+https://zo.pirati.cz/tojestwojna/
+
+# Heritrix added seed redirect from http://casopis.headliner.cz/.
+https://casopis.headliner.cz/
+# Heritrix added seed redirect from http://www.dostalkova.com/.
+http://www.dostalkova.com/works
+# Heritrix added seed redirect from http://ojppe.eu/index.php/OJPPE.
+http://eduport.pf.ujep.cz/index.php/OJPPE
+# Heritrix added seed redirect from http://www.frantisekmatejka.cz/.
+https://www.frantisekmatejka.cz/
+# Heritrix added seed redirect from http://ceskylid.avcr.cz/.
+https://ceskylid.avcr.cz/
+# Heritrix added seed redirect from http://uhv.upce.cz/.
+http://uhv.upce.cz/cs/
+# Heritrix added seed redirect from http://www.zahradadesetileti.cz/.
+http://vs354.server4u.cz/
+# Heritrix added seed redirect from http://www.praha-dubec.cz/.
+https://www.praha-dubec.cz/
+# Heritrix added seed redirect from http://etnologie.phil.muni.cz/.
+https://etnologie.phil.muni.cz/
+# Heritrix added seed redirect from http://www.prahapetrovice.cz/.
+https://www.prahapetrovice.cz/
+# Heritrix added seed redirect from http://www.filmovyprehled.cz/.
+https://www.filmovyprehled.cz/
+# Heritrix added seed redirect from http://historieotazkyproblemy.ff.cuni.cz/.
+https://historieotazkyproblemy.ff.cuni.cz/
+# Heritrix added seed redirect from https://multiplace.org/.
+https://multiplace.org/2017
+# Heritrix added seed redirect from http://performance.ffa.vutbr.cz/ARCHIV/CDROM.
+http://performance.ffa.vutbr.cz/ARCHIV/CDROM/
+# Heritrix added seed redirect from https://volynaci.cz/.
+https://www.volynaci.cz/
+# Heritrix added seed redirect from http://www.mcnedvezi.cz/.
+https://www.mcnedvezi.cz/
+# Heritrix added seed redirect from https://ff.osu.cz/ksl/studia-slavica.
+https://ff.osu.cz/ksl/studia-slavica/
+# Heritrix added seed redirect from http://www.ethnoentomology.cz/.
+https://www.ethnoentomology.cz/
+# Heritrix added seed redirect from https://fpe.zcu.cz/khi/Periodika/memo.html.
+https://old.fpe.zcu.cz/khi
+# Heritrix added seed redirect from https://www.fd.cvut.cz/personal/becvamar/konference/hlavnindex.htmU.
+http://www.fd.cvut.cz/_error-stranky/error404.html
+# Heritrix added seed redirect from https://brentner.katalog-skladeb.cz/.
+https://brentner.katalog-skladeb.cz/en/catalogue
+# Heritrix added seed redirect from https://brentner.katalog-skladeb.cz/.
+https://brentner.katalog-skladeb.cz/en/catalogue
+# Heritrix added seed redirect from https://wiki.l10n.cz/.
+https://wiki.l10n.cz/Hlavn%C3%AD_strana
+# Heritrix added seed redirect from http://pritomnost.cz/.
+https://pritomnost.cz/
+# Heritrix added seed redirect from http://vcelarstvi.blogspot.cz/.
+http://vcelarstvi.blogspot.com/
+# Heritrix added seed redirect from https://multiplace.org/2017.
+https://multiplace.org/2017/
+# Heritrix added seed redirect from http://eduport.pf.ujep.cz/index.php/OJPPE.
+https://eduport.pf.ujep.cz/index.php/OJPPE
+# Heritrix added seed redirect from https://casopis.headliner.cz/.
+https://www.headliner.cz/
+# Heritrix added seed redirect from http://vs354.server4u.cz/.
+http://vs354.server4u.cz/
+# Heritrix added seed redirect from https://www.filmovyprehled.cz/.
+https://www.filmovyprehled.cz/cs
+# Heritrix added seed redirect from https://www.filmovyprehled.cz/.
+https://www.filmovyprehled.cz/cs
+# Heritrix added seed redirect from https://pritomnost.cz/.
+https://www.pritomnost.cz/
+# Heritrix added seed redirect from http://www.fd.cvut.cz/_error-stranky/error404.html.
+https://www.fd.cvut.cz/_error-stranky/error404.html
+# Heritrix added seed redirect from http://vs354.server4u.cz/.
+http://vs354.server4u.cz/
+# Heritrix added seed redirect from http://vs354.server4u.cz/.
+http://vs354.server4u.cz/
+# Heritrix added seed redirect from https://www.jw.org/.
+https://www.jw.org/en/
