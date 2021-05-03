@@ -1,0 +1,3592 @@
+# 10 webů pro věčnost
+# Antikvariáty
+# CUNI
+# Magistrát hl. města Prahy
+# Národní archiv - veřejnoprávní původci
+1f1.cuni.cz
+1f2.cuni.cz
+1f3.cuni.cz
+1lf.cuni.cz
+3lf.cuni.cz
+adela.karlin.mff.cuni.cz
+ae100prg.mff.cuni.cz
+aesthetica.ff.cuni.cz
+aktuality.fsv.cuni.cz
+aleph.cuni.cz
+alfa.pedf.cuni.cz
+alias.natur.cuni.cz
+alla.ms.mff.cuni.cz
+alma.karlov.mff.cuni.cz
+almamater.cuni.cz
+altavista.cuni.cz
+anes235-1.ff.cuni.cz
+apolinar.lf1.cuni.cz
+apps.isiknowledge.com.onelog3.ruk.cuni.cz
+artax.karlin.mff.cuni.cz
+artemis.ms.mff.cuni.cz
+asp.cuni.cz
+astro.troja.mff.cuni.cz
+atrey.karlin.mff.cuni.cz
+au23.troja.mff.cuni.cz
+au4.troja.mff.cuni.cz
+aurora.troja.mff.cuni.cz
+aurora2.troja.mff.cuni.cz
+av.cuni.cz
+aw.cuni.cz
+benhur.prf.cuni.cz
+beta.pedf.cuni.cz
+bexo.lf1.cuni.cz
+bfdhk.lfhk.cuni.cz
+bfu.lf2.cuni.cz
+bi.cuni.cz
+bio.natur.cuni.cz
+biocizi.fsv.cuni.cz
+biof.lf1.cuni.cz
+biofyzika.lfp.cuni.cz
+biomech.ftvs.cuni.cz
+biomolecules.mff.cuni.cz
+bioprojekty.lf1.cuni.cz
+blackbird.ms.mff.cuni.cz
+blatna.cuni.cz
+bojar.ruk.cuni.cz
+booker.ruk.cuni.cz
+boris.natur.cuni.cz
+bosworth.ff.cuni.cz
+botany.natur.cuni.cz
+brutus.troja.mff.cuni.cz
+camelot.lf2.cuni.cz
+camelot.lfhk.cuni.cz
+camelot2.lf2.cuni.cz
+camelot3.lf2.cuni.cz
+carolina.cuni.cz
+carolina.mff.cuni.cz
+cas.cuni.cz
+cbs.etf.cuni.cz
+cemes.fsv.cuni.cz
+cerge.cuni.cz
+certik.ruk.cuni.cz
+ceses.ruk.cuni.cz
+cesta.ujop.cuni.cz
+cfm.lf1.cuni.cz
+cgg.ms.mff.cuni.cz
+cgs11.cuni.cz
+chaos.pedf.cuni.cz
+che1.lf1.cuni.cz
+cheetah.karlov.mff.cuni.cz
+chemie.pedf.cuni.cz
+chemie2.pedf.cuni.cz
+chip.ms.mff.cuni.cz
+chir1.lf1.cuni.cz
+cipes.lf2.cuni.cz
+citmed.cuni.cz
+ckis.cuni.cz
+ckl.mff.cuni.cz
+ckl.ms.mff.cuni.cz
+clip.lf2.cuni.cz
+clr.prf.cuni.cz
+cls.prf.cuni.cz
+cmd.karlov.mff.cuni.cz
+codex2.ms.mff.cuni.cz
+cogscience.cuni.cz
+com-os2.ms.mff.cuni.cz
+compstat2004.cuni.cz
+conf.natur.cuni.cz
+contest.mff.cuni.cz
+cozpserver1n2.jinonice.cuni.cz
+cppt.cuni.cz
+cshv.ff.cuni.cz
+css.ff.cuni.cz
+cte.cuni.cz
+czpnew.cz
+dante.lfp.cuni.cz
+dasta.lf2.cuni.cz
+dbct.cuni.cz
+dec51.lf2.cuni.cz
+dec52.lf1.cuni.cz
+dec59.ruk.cuni.cz
+dejlit.ff.cuni.cz
+dek-portal.lf1.cuni.cz
+delphiwww.troja.mff.cuni.cz
+denlatiny.ff.cuni.cz
+dg.cuni.cz
+diakritika.cuni.cz
+digitool.cuni.cz
+digitool.is.cuni.cz
+dimatia.mff.cuni.cz
+diskuze.prf.cuni.cz
+dl.cuni.cz
+dl1.cuni.cz
+dl2.cuni.cz
+dlk.cuni.cz
+doktorand.fsv.cuni.cz
+dsrg.mff.cuni.cz
+dzungle.ms.mff.cuni.cz
+e-shop.ff.cuni.cz
+ebed.etf.cuni.cz
+ecae.lf3.cuni.cz
+edconf2010.pedf.cuni.cz
+edis.cuni.cz
+edit.lf3.cuni.cz
+edit.natur.cuni.cz
+eds.cuni.cz
+eduroam.cuni.cz
+eduroam.lf3.cuni.cz
+eduroam.prf.cuni.cz
+eis.cuni.cz
+ejrn.cuni.cz
+ekonom.cuni.cz
+eks.fhs.cuni.cz
+el.lf1.cuni.cz
+elsa.prf.cuni.cz
+email.jinonice.cuni.cz
+ems2003.cuni.cz
+emwac.faf.cuni.cz
+erasmusclub.natur.cuni.cz
+erl.cuni.cz
+eurobot.mff.cuni.cz
+europeum.fsv.cuni.cz
+evaluace.pokus.praha3.ff.cuni.cz
+everest.natur.cuni.cz
+ezproxy.is.cuni.cz
+fairway.ms.mff.cuni.cz
+falabella.lf2.cuni.cz
+fareast.ff.cuni.cz
+farm.lf1.cuni.cz
+fcw.lf2.cuni.cz
+ffmisc.praha3.ff.cuni.cz
+ffms01.ff.cuni.cz
+fhs.jinonice.cuni.cz
+filmfest.mff.cuni.cz
+filosofie.fhs.cuni.cz
+finstina.ff.cuni.cz
+fles.fsv.cuni.cz
+floodserv.natur.cuni.cz
+fo.mff.cuni.cz
+fonia.lf1.cuni.cz
+forum.lf1.cuni.cz
+frvsb.ms.mff.cuni.cz
+fsveng.fsv.cuni.cz
+ftvs.cuni.cz
+fxsalda.ff.cuni.cz
+fykos.mff.cuni.cz
+fyziologie.lf2.cuni.cz
+fyzisrvr.lf1.cuni.cz
+fyzweb.mff.cuni.cz
+g3.lf1.cuni.cz
+ga.natur.cuni.cz
+gate.lfp.cuni.cz
+gender.fhs.cuni.cz
+geography.natur.cuni.cz
+geoqol.natur.cuni.cz
+go.natur.cuni.cz
+goethe.ff.cuni.cz
+golias.ruk.cuni.cz
+gremiumkr.cuni.cz
+guverner.ruk.cuni.cz
+helpdesk.natur.cuni.cz
+hiso.fhs.cuni.cz
+hodnoceni.ff.cuni.cz
+hodnocenikurzu.fsv.cuni.cz
+home.cerge.cuni.cz
+horo.natur.cuni.cz
+hp02.troja.mff.cuni.cz
+http://aanetdruzstvo.wbs.cz/Prodej-knih-antikvariat.html
+http://acpo.fsv.cuni.cz
+http://aesthetics.ff.cuni.cz
+http://airbnb.praha.eu
+http://ajp.cuni.cz
+http://almanachwagon.cz
+http://andragogika.ff.cuni.cz
+http://ankst.cz
+http://antidoping.cz
+http://antik-stafl.cz/
+http://antik-vacek.cz/
+http://antikvalt.cz/
+http://antikvariat-bohemia.cz/
+http://antikvariat-brno.cz/
+http://antikvariat-cesko.cz/
+http://antikvariat-fryc.cz/
+http://antikvariat-malyctenar.cz/
+http://antikvariat-pce.cz/
+http://antikvariat-prelouc.cz/
+http://antikvariat-reklama.cz/
+http://antikvariat-smichov.cz/
+http://antikvariat-vinohradska.cz/
+http://antikvariat-zeyer.cz/
+http://antikvariat.najihu.cz/
+http://antikvariat.obchodsvitavy.cz/
+http://antikvariat.skoda-abzeichen.eu/
+http://antikvariat.wales.cz/
+http://antikvariat11.cz/
+http://antikvariatelement.cz/
+http://antikvariatjuna.cz/
+http://antikvariatmorava.cz/
+http://antikvariatostrov.cz/
+http://antikvariatpaseka.cz/
+http://antikvariats.cz/
+http://antikvariatukalicha.cz/
+http://antikvariatustromu.cz/
+http://aplikace.mvcr.cz/archiv2008/archivnictvi/periodika/obsah_1_2_2007.pdf
+http://aplikace.mvcr.cz/archiv2008/archivnictvi/periodika/obsah_rocniku_2005.pdf
+http://aplikace.mvcr.cz/archiv2008/archivnictvi/periodika/obsah_rocniku_2006.pdf
+http://aplikace.mvcr.cz/archiv2008/archivnictvi/periodika/rejstrik1996_2005.pdf
+http://aplikace.mvcr.cz/archiv2008/index.html
+http://archiv.coi.cz
+http://arcis.ff.cuni.cz
+http://astro.mff.cuni.cz/mira/sh/sh.php
+http://auco.cuni.cz
+http://bezpecnapraha.praha.eu
+http://bezpecnostniprupravadeti.praha.eu
+http://bichez.pedf.cuni.cz
+http://bichez.pedf.cuni.cz/archiv/
+http://biol.lf1.cuni.cz/ucebnice/
+http://carolina.fsv.cuni.cz
+http://casajc.ff.cuni.cz
+http://casopispromodernifilologii.ff.cuni.cz
+http://caves.cz
+http://cck-isc.ff.cuni.cz
+http://cds.mfcr.cz/cps/rde/xchg/cds/xsl/20543.html
+http://cenia.cz
+http://cer.fsv.cuni.cz
+http://cerna.blog.respekt.ihned.cz
+http://ceses.cuni.cz
+http://cestakevzdelani.praha.eu
+http://cestovniruch.praha.eu
+http://cityvizor.praha.eu
+http://civetta.gacr.cas.cz/wordpress
+http://cksvv.vuv.cz
+http://cl.ff.cuni.cz
+http://class.pedf.cuni.cz/NewSUMA/
+http://clovek.ff.cuni.cz
+http://cmf.ff.cuni.cz
+http://cozp.cuni.cz
+http://crr.cz
+http://cs.mfcr.cz
+http://cuzk.cz
+http://cuzzs.cz
+http://czechtrade.cz
+http://czso.cz
+http://daidalos.ff.cuni.cz
+http://dantikvariat.cz/
+http://denvedy.ff.cuni.cz
+http://detskeskupiny.praha.eu
+http://dicr.cz
+http://dobraadresa.cz
+http://dotazy.praha.eu
+http://dv.ff.cuni.cz
+http://dva-antikvari.cz/
+http://eagri.cz/public/web/ukzuz/
+http://eba.praha.eu
+http://egypt.ff.cuni.cz/EgTez/
+http://egyptologie.ff.cuni.cz
+http://elektromobilni.praha.eu
+http://emsa.ff.cuni.cz
+http://enlil.ff.cuni.cz
+http://envigogika.cuni.cz
+http://envis.praha-mesto.cz
+http://envis4.praha.eu
+http://estetika.ff.cuni.cz
+http://etnologie.ff.cuni.cz
+http://eurocities2019.eu
+http://fdv.mpsv.cz
+http://film.ff.cuni.cz
+http://fo.cuni.cz
+http://fpv.cz
+http://fu.ff.cuni.cz
+http://fulbright.cz
+http://fuxoft.cz/
+http://fykos.cz
+http://fykos.troja.mff.cuni.cz
+http://fyzikalniolympiada.cz
+http://fyzweb.cuni.cz/piskac/
+http://galerie-tic.cz/
+http://genbank.vurv.cz
+http://gender.ff.cuni.cz
+http://geografie.natur.cuni.cz
+http://german.ff.cuni.cz
+http://granty.praha.eu
+http://hampl.cuni.cz
+http://heis.vuv.cz
+http://hjs.ff.cuni.cz
+http://hus.cuni.cz
+http://idos.cz
+http://ies.fsv.cuni.cz/
+http://iforum.cuni.cz
+http://ips.fsv.cuni.cz/
+http://ipsc.cuni.cz
+http://iti.mff.cuni.cz
+http://jeskynecr.cz
+http://journal.fsv.cuni.cz
+http://justice.cz
+http://kacur.cz/
+http://kam.cuni.cz
+http://kdf.mff.cuni.cz
+http://kfrserver.natur.cuni.cz/globe/
+http://kjbs.ff.cuni.cz
+http://knihovna.ff.cuni.cz
+http://knihovna.jabok.cuni.cz
+http://knihovous.cz/
+http://kohoutikriz.org
+http://kses.ff.cuni.cz
+http://ksicht.natur.cuni.cz
+http://ksp.mff.cuni.cz
+http://ksrzis.cz
+http://kti.mff.cuni.cz/~bartak/clp/
+http://ktiml.mff.cuni.cz/~bartak/constraints/
+http://kultura.praha.eu
+http://lingvistikapraha.ff.cuni.cz
+http://litacka.praha.eu
+http://litteraria-pragensia.ff.cuni.cz
+http://logika.ff.cuni.cz
+http://louc.cz/
+http://mam.mff.cuni.cz
+http://marmolata.gacr.cas.cz
+http://medunameduna.blogspot.com/
+http://mefanet.lfhk.cuni.cz
+http://metropolitniplan.praha.eu/jnp
+http://mfcr.cz
+http://mks.mff.cuni.cz
+http://mluveny.panacek.com/
+http://mo.mff.cuni.cz/p/
+http://mongolistika.ff.cuni.cz
+http://mpsv.cz
+http://musicology.ff.cuni.cz
+http://muzeumpolicie.cz
+http://mzp.cz
+http://nacr.cz
+http://netem.cz/
+http://nku.cz
+http://novamedia.ff.cuni.cz
+http://npu.cz
+http://nuov.cz
+http://nzm.cz
+http://ok.cz/iksp/
+http://old.chmi.cz
+http://old.sukl.cz
+http://pages.pedf.cuni.cz/didakticke-studie/charakteristika-casopisu/
+http://pamatky.praha.eu
+http://pedagogika.ff.cuni.cz
+http://pes.ff.cuni.cz
+http://pikomat.mff.cuni.cz
+http://plbohnice.cz
+http://pmr.cuni.cz
+http://pmscr.cz
+http://popin.natur.cuni.cz
+http://portal.chmi.cz
+http://portal.justice.cz/Justice2/soud/soud.aspx?j=215&o=205&k=2175&d=351631
+http://portal.justice.cz/ms/ms.aspx?o=23&j=33
+http://portal.justice.cz/nsz/hlavni.aspx?j=39&o=29&k=455/
+http://portal.justice.cz/soud/soud.aspx?o=202&j=212&k=2015
+http://portal.justice.cz/soud/soud.aspx?o=203&j=213&k=2027
+http://portal.justice.cz/soud/soud.aspx?o=205&j=215&k=2046
+http://portal.justice.cz/soud/soud.aspx?o=207&j=217&k=2064
+http://portal.justice.cz/soud/soud.aspx?o=7&j=17&k=220
+http://portal.mpsv.cz
+http://portalzp.praha.eu
+http://prahart.cz
+http://prahart.praha.eu
+http://prigl.cz/
+http://psu.ff.cuni.cz
+http://psych.lf1.cuni.cz/fluorescence/Default.htm
+http://psychologie.ff.cuni.cz
+http://publication.fsv.cuni.cz
+http://radaproaudit.cz
+http://rsd.cz
+http://rvda.cz
+http://sdileneubytovani.praha.eu
+http://sedmagenerace.cz
+http://sfzp.cz
+http://shop.kniharium.eu/
+http://shop.stesticko.cz/
+http://sias.ff.cuni.cz
+http://skoly.praha-mesto.cz
+http://skoly.praha.eu
+http://sl.ff.cuni.cz
+http://sociologie.ff.cuni.cz
+http://socp.ff.cuni.cz
+http://spcp.prf.cuni.cz
+http://spspraha.cz
+http://starsiknihy.cz/index.php
+http://stovezata.praha.eu
+http://strada.ff.cuni.cz
+http://studioflusser.com/
+http://surao.cz
+http://swww.usoud.cz
+http://tacr.cz
+http://taxi.praha.eu
+http://uajd.ff.cuni.cz
+http://ualk.ff.cuni.cz
+http://ubs.ff.cuni.cz
+http://ubva.ff.cuni.cz
+http://ucd.ff.cuni.cz
+http://uchazec.ff.cuni.cz
+http://ucjtk.ff.cuni.cz
+http://uclk.ff.cuni.cz
+http://ucnk.ff.cuni.cz
+http://udlv.ff.cuni.cz
+http://udu.ff.cuni.cz
+http://ufal.mff.cuni.cz
+http://ufar.ff.cuni.cz
+http://uhsd.ff.cuni.cz
+http://uisk.ff.cuni.cz
+http://ujca.ff.cuni.cz
+http://ujop.cuni.cz
+http://ulug.ff.cuni.cz
+http://umpod.cz
+http://underground.cz/
+http://unmz.cz
+http://upol.ff.cuni.cz
+http://uprav.ff.cuni.cz
+http://upv.cz
+http://urls.ff.cuni.cz
+http://urls2.ff.cuni.cz
+http://urs.ff.cuni.cz
+http://userweb.pedf.cuni.cz/kpsp/etnografie/
+http://userweb.pedf.cuni.cz/paideia/
+http://userweb.pedf.cuni.cz/specialnipedagogika/
+http://utf.mff.cuni.cz
+http://utkl.ff.cuni.cz
+http://utrl.ff.cuni.cz
+http://uzpln.cz
+http://vsc.cz
+http://vubp.cz
+http://vuzt.cz
+http://web.etf.cuni.cz
+http://web.ff.cuni.cz/nm/
+http://web.pedf.cuni.cz/paideia/
+http://www-ucjf.troja.mff.cuni.cz/cfs/
+http://www.a2larm.cz/
+http://www.abantikvariat.cz/
+http://www.abnormalizace.cz/
+http://www.acorus.cz/
+http://www.acpo.cz
+http://www.adplus.cz/
+http://www.agentura-cas.cz/
+http://www.akcelerace-praha.cz
+http://www.albatani.cz/
+http://www.almanachwagon.cz/
+http://www.antik-chimera.cz/cz
+http://www.antik-klariani.cz/
+http://www.antik-u-nas.cz/
+http://www.antik-variat.cz/
+http://www.antikbuddha.com/czech/
+http://www.antiknadrazismichov.cz/
+http://www.antiknarynku.cz/
+http://www.antiknihy.cz/
+http://www.antikopava.cz/
+http://www.antikoplt.com/
+http://www.antikvariat-alfred.cz/
+http://www.antikvariat-benes.cz/
+http://www.antikvariat-bohumin.cz/
+http://www.antikvariat-bosorka.cz/
+http://www.antikvariat-brdy.cz/
+http://www.antikvariat-cafe.cz/
+http://www.antikvariat-cb.cz/
+http://www.antikvariat-cejka.com/
+http://www.antikvariat-divis.cz/cze/home
+http://www.antikvariat-domecek.cz/
+http://www.antikvariat-fenix.cz/
+http://www.antikvariat-hrach.cz/
+http://www.antikvariat-ichtys.cz/
+http://www.antikvariat-janos.cz/
+http://www.antikvariat-karlovyvary.cz/
+http://www.antikvariat-kniha.cz/
+http://www.antikvariat-kodytek.cz/
+http://www.antikvariat-kutnahora.cz/
+http://www.antikvariat-levneknihy.cz/
+http://www.antikvariat-liberec.cz/
+http://www.antikvariat-nika.cz/
+http://www.antikvariat-ol.cz/
+http://www.antikvariat-olomouc.cz/
+http://www.antikvariat-sakar.cz/
+http://www.antikvariat-slany.cz/
+http://www.antikvariat-susice.cz/
+http://www.antikvariat-trutnov.com/
+http://www.antikvariat-u-kubese.cz/
+http://www.antikvariat-u-prahy.cz/
+http://www.antikvariat-ukasny.cz/
+http://www.antikvariat-vltavin.cz/
+http://www.antikvariat-xl.cz/
+http://www.antikvariat.eu/
+http://www.antikvariat390.cz/
+http://www.antikvariat59.cz/
+http://www.antikvariatcz.com/
+http://www.antikvariatdiamant.cz/
+http://www.antikvariatds.cz/
+http://www.antikvariatik.cz/
+http://www.antikvariatjusticna.sk/
+http://www.antikvariatkarlin.cz/
+http://www.antikvariatlovosice.cz/
+http://www.antikvariatlp.cz/
+http://www.antikvariatmotyl.cz/
+http://www.antikvariatnachod.cz/
+http://www.antikvariatnerudova.cz/
+http://www.antikvariatolomouc.cz/
+http://www.antikvariatpocta.cz/
+http://www.antikvariatukostela.cz/
+http://www.antikvariaty.cz/
+http://www.antiqari.at/
+http://www.arcs.cuni.cz
+http://www.arkham.cz/
+http://www.artmap.cz/
+http://www.azvcr.cz
+http://www.bsmv.cz
+http://www.bzoom.org
+http://www.cazv.cz/ek/
+http://www.cbusbs.cz
+http://www.cdv.cz
+http://www.celnisprava.cz
+http://www.cermat.cz
+http://www.ceskafilharmonie.cz
+http://www.cestina20.cz/
+http://www.chmi.cz
+http://www.choir.cz
+http://www.christnet.cz
+http://www.christnet.eu/
+http://www.ciernenabielom.sk/
+http://www.cizp.cz
+http://www.cmi.cz/index.php?lang=1&wdc=1572
+http://www.coi.cz
+http://www.coi.cz/en/
+http://www.compet.cz
+http://www.concourt.cz
+http://www.cpinsp.cz
+http://www.cr-sei.cz
+http://www.csicr.cz
+http://www.cspsd.cz
+http://www.cssz.cz
+http://www.csvs.cz
+http://www.ctk.cz
+http://www.ctu.cz
+http://www.cuketka.cz
+http://www.cuzk.cz/zu_praha
+http://www.czechinvest.org
+http://www.czechtourism.cz
+http://www.czp.cuni.cz
+http://www.denczv.cuni.cz
+http://www.denikreferendum.cz/
+http://www.divadelni-ustav.cz
+http://www.divus.cc
+http://www.dobraadresa.cz/
+http://www.dostalkova.com/
+http://www.ducr.cz
+http://www.dzs.cz/cz/program-podpory-ceskeho-kulturniho-dedictvi-v-zahranici/krajiny-cestiny-dokumenty/
+http://www.dzs.cz/cz/program-podpory-ceskeho-kulturniho-dedictvi-v-zahranici/obecne-informace-o-krajinach-cestiny/
+http://www.e-antikvariat.cz/
+http://www.e-trafika.cz/
+http://www.eantikvariat.cz/
+http://www.earchiv.cz/
+http://www.endo.cz
+http://www.eru.cz
+http://www.eshop.mlha.gr/
+http://www.facebook.com/zapisnikalkoholicky/
+http://www.ff.cuni.cz/knihovna/
+http://www.fhs.cuni.cz/media/post-media-theory/
+http://www.fi.muni.cz/im6/
+http://www.filharmonickysbor.cz
+http://www.filipmatejicek.info
+http://www.financnisprava.cz
+http://www.financnisprava.cz/cs/financni-sprava/generalni-financni-reditelstvi
+http://www.financnisprava.cz/cs/financni-sprava/organy-financni-spravy/odvolaci-financni-reditelstvi
+http://www.finarbitr.cz
+http://www.fnkv.cz
+http://www.fnmotol.cz
+http://www.fra.cz/archiv
+http://www.gacr.cz
+http://www.galaxieknih.cz/
+http://www.galerie-ilonka.cz/
+http://www.gentleman.cz/
+http://www.geocities.com/hypermedia_joyce
+http://www.geology.cz
+http://www.gramodesky.shop/
+http://www.heavyweight.cz
+http://www.heavyweight.cz/
+http://www.homolka.cz
+http://www.htf.cuni.cz
+http://www.iliteratura.cz/
+http://www.industrialnitopografie.cz/
+http://www.institutpraha.cz/
+http://www.iti.cz
+http://www.jabok.cz
+http://www.jedensvet.cz
+http://www.jizersketicho.cz/
+http://www.jlbjlt.net
+http://www.kafeacigarko.cz/
+http://www.kairosonyx.cz/
+http://www.kkrdboys.cz/brblanina
+http://www.knihovna.upm.cz
+http://www.knihy-antikvariat.cz/
+http://www.knihy-arcanum.cz/
+http://www.knizky.com/
+http://www.kniznikoutek.cz/
+http://www.kofila.com
+http://www.kokickovi.cz/
+http://www.komant.cz/
+http://www.kompost.cz
+http://www.korpus.cz
+http://www.krmitko-pro-dusi.cz/
+http://www.ksi.mff.cuni.cz
+http://www.ktf.cuni.cz
+http://www.ktn.cz
+http://www.laboratory.cz
+http://www.laboratory.cz/
+http://www.leonclifton.cz/
+http://www.levneknihkupectvi.cz/
+http://www.levnyantikvariat.cz/czech/
+http://www.lidice-memorial.cz
+http://www.linux.cz/noviny/
+http://www.maslo.cz
+http://www.mdcr.cz
+http://www.metropolevsech.eu
+http://www.mkcr.cz
+http://www.mkcr.cz/categories.php?id=322
+http://www.mkcr.cz/scripts/detail.php?id=243
+http://www.mmr.cz
+http://www.mpo.cz
+http://www.msmt.cz
+http://www.multiplace.org
+http://www.mvcr.cz
+http://www.mzcr.cz
+http://www.mze.cz
+http://www.narodni-divadlo.cz
+http://www.natur.cuni.cz/geografie/
+http://www.nature.cz
+http://www.nconzo.cz
+http://www.nidv.cz
+http://www.nipos-mk.cz
+http://www.nlk.cz
+http://www.npmk.cz
+http://www.nsoud.cz
+http://www.nssoud.cz
+http://www.nudz.cz/
+http://www.numismatika.name/
+http://www.nuov.cz
+http://www.nyx.cz/
+http://www.ochranaprirody.cz
+http://www.ochrance.cz
+http://www.oneworld.cz
+http://www.opravujeme.to
+http://www.pacholek.com/
+http://www.paf.cz/
+http://www.penizeproprahu.cz
+http://www.petrdub.cz/
+http://www.plbohnice.cz
+http://www.podzemni-antikvariat.cz/
+http://www.poladprahu.cz
+http://www.polipet.cz/
+http://www.prague-house.eu/
+http://www.praguecomputerscience.cz/
+http://www.praha-priroda.cz
+http://www.prazskenaplavky.cz
+http://www.prazskyvoucher.cz
+http://www.prectene-knihy.cz/
+http://www.privum.cz
+http://www.pruvodce.com/nzm/
+http://www.psivino.cz/
+http://www.puncovniurad.cz
+http://www.revma.cz
+http://www.rishmp.cz
+http://www.rrtv.cz
+http://www.ruzicka-antikvariat.cz/
+http://www.rvccr.cz
+http://www.s-antikvariat.cz/
+http://www.scholapragensis.cz
+http://www.scifik.cz/
+http://www.seminar-praha.cz
+http://www.serius.cz/antikvariat
+http://www.sfdi.cz
+http://www.sfrb.cz
+http://www.shioriantikvariat.cz/
+http://www.sosknihy.cz/
+http://www.spalena53.cz/
+http://www.sshr.cz
+http://www.starenoty.cz/
+http://www.starepohledy.cz/
+http://www.stk.cz
+http://www.stuter.fsv.cuni.cz
+http://www.sujb.cz
+http://www.sujchbo.cz
+http://www.sukl.cz
+http://www.suro.cz
+http://www.suz.cz
+http://www.svscr.cz
+http://www.szdc.cz
+http://www.szdc.cz/o-nas/organizacni-jednotky-szdc/ss-zapad.html
+http://www.szdc.cz/o-nas/organizacni-jednotky-szdc/szg-olomouc.html
+http://www.szdc.cz/o-nas/organizacni-jednotky-szdc/szg-praha.html
+http://www.szif.cz
+http://www.szpi.gov.cz
+http://www.szrcr.cz/
+http://www.szu.cz
+http://www.techlib.cz
+http://www.testcom.cz
+http://www.tichyantikvariat.cz/
+http://www.tisickrate.cz/
+http://www.tmv.cz
+http://www.trhinovaci.cz
+http://www.tudc.cz/
+http://www.ucl.cz
+http://www.uhul.cz
+http://www.uiv.cz
+http://www.ukzuz.cz
+http://www.uoou.cz
+http://www.upm.cz
+http://www.upmd.cz
+http://www.usoud.cz
+http://www.uzei.cz
+http://www.uzis.cz
+http://www.uzpi.cz
+http://www.uzsvm.cz
+http://www.valentinska.cz/
+http://www.vedvore.cz/
+http://www.vetrelciavolavky.cz/
+http://www.vfn.cz
+http://www.vlada.cz
+http://www.volnycaspraha.cz
+http://www.vsc.cz
+http://www.vscr.cz
+http://www.vukoz.cz
+http://www.vulhm.cz
+http://www.vumop.cz
+http://www.vupp.cz
+http://www.vupsv.cz
+http://www.vurv.cz
+http://www.vuv.cz
+http://www.vuzt.cz
+http://www.vuzv.cz
+http://www.wallstreet.sk/
+http://www.zastromujprahu.cz
+http://www.zmente.to
+http://www.zsmv.cz
+http://www.ztichlaklika.cz/
+http://www.zzmv.cz
+http://zahranicnivztahy.praha.eu
+http://zastupitelstvo.praha.eu
+https://adero.cz/
+https://antik-bilevrany.cz/
+https://antik-jirasek.cz/
+https://antikvariat-b612.cz/
+https://antikvariat.darkont.cz/
+https://antikvariatbleskov.cz/
+https://antikvariatsen.cz/
+https://antikvariatucebnice.cz/
+https://antikvaryat.cz/
+https://apokryf.cz/antikvariat
+https://aukro.cz/knihy
+https://bio.praha.eu
+https://cerna.blog.respekt.cz/
+https://cityvizor.praha.eu
+https://cuzk.cz/zu_praha
+https://eshop.antikvariatkapa.cz/
+https://etm.praha.eu
+https://expat.praha.eu
+https://fondkinematografie.cz
+https://fonetika.ff.cuni.cz
+https://historicalsociology.cuni.cz/HS-1.html
+https://humain.space/
+https://janhorcik.tumblr.com/
+https://kam.mff.cuni.cz/~babilon/zpmapa
+https://knihobot.cz/
+https://knihy.bazos.cz/
+https://knihyzpudy.cz/
+https://lindat.mff.cuni.cz/repository/xmlui/
+https://marken.cz/
+https://mawis.eu/utilityreport/vstupni-body/praha/
+https://melcer.cz/
+https://mluvniceanglictiny.cz/
+https://morbido.cz/
+https://muj-antikvariat.cz/
+https://nakoleprahou.cz
+https://nejmensi-antikvariat.cz/
+https://neovlivni.cz/
+https://obchod.hledajici.cz/
+https://ojs.cuni.cz/paideia/
+https://olga-cerna2.webnode.cz/
+https://pixy.cz/pixylophone/
+https://plavebniurad.cz
+https://plnoknih.cz/
+https://podnikani.praha.eu
+https://portal.justice.cz
+https://portal.justice.cz/Justice2/Uvod/uvod.aspx
+https://prahasportovni.eu
+https://prahavolnocasova.cz
+https://prirucka.ujc.cas.cz/
+https://realitniportalpraha.cz
+https://reportermagazin.cz/
+https://revueprostor.cz/
+https://screensaver.metazoa.org/
+https://sedmagenerace.cz/
+https://sinopsis.cz/
+https://smartprague.eu
+https://swarmmag.com/
+https://udhpsh.cz/
+https://unrr.cz
+https://unrr.cz/urad-narodni-rozpoctove-rady/
+https://www.abclinuxu.cz/
+https://www.advaita-vedanta.cz/
+https://www.agentura-api.org
+https://www.antikavion.cz/
+https://www.antikvariat-mayer.cz/
+https://www.antikvariat-nezval.cz/
+https://www.antikvariat-pardubice.cz/
+https://www.antikvariat-zlin.cz/
+https://www.antikvariatchrudim.cz/
+https://www.antikvariatik.sk/
+https://www.antikvariatkladno.cz/
+https://www.antikvariatkrenek.com/
+https://www.antikvariatminerva.cz/
+https://www.antikvariatpodebrady.cz/
+https://www.antmo.cz/
+https://www.apetitonline.cz/recepty/8577-svezi-bramborovy-salat.html
+https://www.artbook.cz/
+https://www.aukro.cz/
+https://www.blackpoint.cz/
+https://www.bohnice.cz
+https://www.briefcasetype.com/
+https://www.cervenyknir.cz/
+https://www.ceskafilharmonie.cz
+https://www.cistoustopou.cz
+https://www.cuni.cz
+https://www.cupress.cuni.cz/ink2_stat/index.jsp?include=AUC_detail&id=1221&predkl=1130
+https://www.cuzk.cz/
+https://www.eko-obchod.cz/cs/m-33-antikvariat
+https://www.financnisprava.cz/cs/financni-sprava/generalni-financni-reditelstvi
+https://www.garancnisystem.cz
+https://www.gibs.cz
+https://www.govcert.cz/
+https://www.heroine.cz/
+https://www.jacz.cz
+https://www.jakpsatweb.cz/
+https://www.justice.cz/web/vrchni-soud-v-praze/
+https://www.klaus.cz/
+https://www.kohoutikriz.org/
+https://www.matejsmetana.net/
+https://www.mercatino-olomouc.cz/
+https://www.minikvariat.cz/
+https://www.mkcr.cz/statni-fond-kultury-cr-42.html
+https://www.modralupa.cz/
+https://www.modrovous.cz/
+https://www.mppraha.cz
+https://www.muzeuminternetu.cz/
+https://www.muzeumpolicie.cz
+https://www.myokard.com/
+https://www.olympcsmv.cz
+https://www.pctesin.cz
+https://www.pmscr.cz
+https://www.polipet.cz/antikvariat-bazar-lp/
+https://www.root.cz/
+https://www.rsd.cz
+https://www.spolekskutek.cz/
+https://www.spucr.cz
+https://www.statnisprava.cz/rstsp/adresar.nsf/i/11458
+https://www.sujb.cz
+https://www.szif.cz/cs
+https://www.therodina.com/
+https://www.ticr.eu
+https://www.trhknih.cz/
+https://www.trigon-knihy.cz/
+https://www.uhkt.cz
+https://www.uicr.cz/
+https://www.uohs.cz/cs/uvodni-stranka.html
+https://www.ztracenysvet.com/
+https://zarizeni.praha.eu
+https://zmenaplanu.cz
+hydro.natur.cuni.cz
+hydronet.karlin.mff.cuni.cz
+ic-cuni.cz
+idp-ext.cuni.cz
+iforumeng.cuni.cz
+ikaros.ff.cuni.cz
+iksz.fsv.cuni.cz
+ims.fsv.cuni.cz
+inf3.lf1.cuni.cz
+info.ff.cuni.cz
+info.natur.cuni.cz
+info.prf.cuni.cz
+informacniden.cuni.cz
+infotyden.cuni.cz
+int-prop.lf2.cuni.cz
+int4.lf1.cuni.cz
+intl-club.fsv.cuni.cz
+intranet.fsv.cuni.cz
+intranet.lfhk.cuni.cz
+intranet.prf.cuni.cz
+ipc.cuni.cz
+ipc1.cuni.cz
+ipnp00.troja.mff.cuni.cz
+ipnp18.troja.mff.cuni.cz
+ips2.fsv.cuni.cz
+is-cuni.cz
+is.cuni.cz
+is.fhs.cuni.cz
+is.mff.cuni.cz
+iss.fsv.cuni.cz
+iu.ff.cuni.cz
+iuuk.mff.cuni.cz
+izv.cuni.cz
+jaguar.is.cuni.cz
+jf18.troja.mff.cuni.cz
+jib-info.cuni.cz
+jib.cuni.cz
+jinonice.cuni.cz
+jogoviny.cz
+kajka.lf2.cuni.cz
+kamenozrout.cuni.cz
+kamweb.ruk.cuni.cz
+karel.troja.mff.cuni.cz
+karolinka.fsv.cuni.cz
+karty.cuni.cz
+kas.fsv.cuni.cz
+katalog.ff.cuni.cz
+kbes.pedf.cuni.cz
+kbio.pedf.cuni.cz
+kchf-45.karlov.mff.cuni.cz
+kcj.pedf.cuni.cz
+kdddweb.pedf.cuni.cz
+kddl.lf1.cuni.cz
+kdf-33.karlov.mff.cuni.cz
+kdf-ls.karlov.mff.cuni.cz
+kdf.karlov.mff.cuni.cz
+kdho.lf2.cuni.cz
+kdt-12.karlov.mff.cuni.cz
+kdt-14.karlov.mff.cuni.cz
+kdt-20.karlov.mff.cuni.cz
+kevf05.troja.mff.cuni.cz
+kevf72.troja.mff.cuni.cz
+kfes-16.karlov.mff.cuni.cz
+kfes-80.karlov.mff.cuni.cz
+kfpy.troja.mff.cuni.cz
+kis.is.cuni.cz
+kiwi.ms.mff.cuni.cz
+kjp.ff.cuni.cz
+kjp.fsv.cuni.cz
+kmdm.pedf.cuni.cz
+kmf.troja.mff.cuni.cz
+kmop.mff.cuni.cz
+kmv.fsv.cuni.cz
+knihovna.fsv.cuni.cz
+knihovna.jinonice.cuni.cz
+knihovna.prf.cuni.cz
+knihovna.psychologie.ff.cuni.cz
+kocour.ms.mff.cuni.cz
+koleje.cuni.cz
+komparatistika.ff.cuni.cz
+koncepce.cuni.cz
+korea.ff.cuni.cz
+kped.pedf.cuni.cz
+kppg.pedf.cuni.cz
+kpvhas.ff.cuni.cz
+kraken.ruk.cuni.cz
+kram4.ruk.cuni.cz
+krystal.karlov.mff.cuni.cz
+ksi.ms.mff.cuni.cz
+ksppg.pedf.cuni.cz
+ksvi.mff.cuni.cz
+kti.ms.mff.cuni.cz
+ktilinux.ms.mff.cuni.cz
+ktiml.ms.mff.cuni.cz
+ktl.lf2.cuni.cz
+ktv-new.ff.cuni.cz
+ktv.mff.cuni.cz
+kult.ff.cuni.cz
+kulturologie.ff.cuni.cz
+kwetal.ms.mff.cuni.cz
+labts.troja.mff.cuni.cz
+lac.karlov.mff.cuni.cz
+lac.troja.mff.cuni.cz
+lancelot.lfhk.cuni.cz
+ldap.cuni.cz
+ldap1.cuni.cz
+lectures.ms.mff.cuni.cz
+lexicon.ff.cuni.cz
+lf3.cuni.cz
+lfl.cuni.cz
+lfmotol.cuni.cz
+lge.lf1.cuni.cz
+lib-eth.natur.cuni.cz
+lib.natur.cuni.cz
+library.cerge.cuni.cz
+ling.ff.cuni.cz
+lipa.ms.mff.cuni.cz
+lisa4.cuni.cz
+listopad.koleje.cuni.cz
+lists.karlov.mff.cuni.cz
+litenky.ff.cuni.cz
+litteraria.ff.cuni.cz
+lmfs.mff.cuni.cz
+login.ezproxy.is.cuni.cz
+login.onelog3.ruk.cuni.cz
+lsss.ff.cuni.cz
+lu.nbox.troja.mff.cuni.cz
+lusofonia.cuni.cz
+maclc.ruk.cuni.cz
+magazin-test-1.ff.cuni.cz
+mail.ff.cuni.cz
+mail.kolej.mff.cuni.cz
+mail.natur.cuni.cz
+mail.prf.cuni.cz
+manualy.ff.cuni.cz
+markosqnatur.cuni.cz
+maso.mff.cuni.cz
+material.karlov.mff.cuni.cz
+mathematica.fsv.cuni.cz
+matrix.fsv.cuni.cz
+mbox.fsv.cuni.cz
+mbox.troja.mff.cuni.cz
+mcouf.natur.cuni.cz
+media.lf1.cuni.cz
+medialnivychova.fsv.cuni.cz
+mediaspol.cuni.cz
+medicinajakoveda.lf3.cuni.cz
+medinfor.lf2.cuni.cz
+mefanet-motol.cuni.cz
+menza.jinonice.cuni.cz
+menza.kolej.mff.cuni.cz
+menza.prf.cuni.cz
+meta.cuni.cz
+metabol.lfp.cuni.cz
+metalib.cuni.cz
+metalib.is.cuni.cz
+mfp.mff.cuni.cz
+migration.cuni.cz
+misscuni.cz
+moodle.ff.cuni.cz
+moodle.fhs.cuni.cz
+moodle.fsv.cuni.cz
+moodle.lfhk.cuni.cz
+moodle.pedf.cuni.cz
+moodle.prf.cuni.cz
+mosur.cz
+motolak.lf2.cuni.cz
+ms.mff.cuni.cz
+msekce.karlin.mff.cuni.cz
+mttalks.ufal.ms.mff.cuni.cz
+mx.mff.cuni.cz
+nadace.prf.cuni.cz
+nadacelyra.cuni.cz
+nbox.troja.mff.cuni.cz
+nc11.troja.mff.cuni.cz
+nc25.troja.mff.cuni.cz
+nc28.troja.mff.cuni.cz
+nederlandistika.ff.cuni.cz
+nenya.ms.mff.cuni.cz
+nervy.pedf.cuni.cz
+netra.ktf.cuni.cz
+neuro.lf1.cuni.cz
+neurovedy.lf2.cuni.cz
+nikam.ms.mff.cuni.cz
+nordic.ff.cuni.cz
+nostra.ms.mff.cuni.cz
+novy-certik.ruk.cuni.cz
+nrs.fsv.cuni.cz
+nrvsschool.fsv.cuni.cz
+nwit.pedf.cuni.cz
+obd.pcp.lf3.cuni.cz
+oberon.troja.mff.cuni.cz
+octopus.ruk.cuni.cz
+odbory.fsv.cuni.cz
+office.cuni.cz
+oic.ftvs.cuni.cz
+ojs.ktf.cuni.cz
+old.arcs.cuni.cz
+old.ff.cuni.cz
+old.lf3.cuni.cz
+old.prf.cuni.cz
+old.ucjtk.ff.cuni.cz
+old.ufar.ff.cuni.cz
+olduchazec.ff.cuni.cz
+oldweb.ff.cuni.cz
+olib.cerge.cuni.cz
+onelog3.ruk.cuni.cz
+opensquare.ff.cuni.cz
+orca.ruk.cuni.cz
+orgchem.natur.cuni.cz
+orion.prf.cuni.cz
+orto.lf1.cuni.cz
+ortopedie.lf2.cuni.cz
+oslavy.cuni.cz
+otokar.troja.mff.cuni.cz
+outlook.ff.cuni.cz
+ovvp.mff.cuni.cz
+paideia.pedf.cuni.cz
+partycuni.cz
+patf-biokyb.lf1.cuni.cz
+patfyz-jk.lfhk.cuni.cz
+patfyz.lf1.cuni.cz
+patofyziologie.lf1.cuni.cz
+pavlac.fsv.cuni.cz
+pcjs.ff.cuni.cz
+pcp.lf3.cuni.cz
+pec.cuni.cz
+pedagogika.pedf.cuni.cz
+pedcas-ftp.pedf.cuni.cz
+pedfcuni.cz
+pelican.is.cuni.cz
+penguin.fsv.cuni.cz
+pes.fsv.cuni.cz
+petricek.ms.mff.cuni.cz
+petrol.natur.cuni.cz
+pez.cuni.cz
+pgp.cuni.cz
+pgp.ms.mff.cuni.cz
+physio.lf3.cuni.cz
+pikomat.ms.mff.cuni.cz
+pocitadlo.karlov.mff.cuni.cz
+pokus.lf3.cuni.cz
+popelka.ms.mff.cuni.cz
+port.kolej.mff.cuni.cz
+port.troja.mff.cuni.cz
+portal.lf3.cuni.cz
+portal.natur.cuni.cz
+posta.natur.cuni.cz
+pragestt.ff.cuni.cz
+praha1.ff.cuni.cz
+praha5.ff.cuni.cz
+praxe.pedf.cuni.cz
+prb.aleph.cuni.cz
+prfdec.natur.cuni.cz
+prijimacky.ff.cuni.cz
+projekt-pm.fsv.cuni.cz
+prorektor.cuni.cz
+prs.ff.cuni.cz
+prukazy.is.cuni.cz
+pruzkum.ff.cuni.cz
+psdh.lf2.cuni.cz
+psi.ms.mff.cuni.cz
+psik.karlov.mff.cuni.cz
+psik.mff.cuni.cz
+psychiatrie.lf1.cuni.cz
+pteryx.natur.cuni.cz
+public.silent.ff.cuni.cz
+puchejr.natur.cuni.cz
+pvh.ff.cuni.cz
+qmail.ruk.cuni.cz
+quantum.karlov.mff.cuni.cz
+quest.ms.mff.cuni.cz
+quinn.ms.mff.cuni.cz
+radio.lf1.cuni.cz
+rehabilitace.lf1.cuni.cz
+rektorskyden.cuni.cz
+rektorskyden.ff.cuni.cz
+ribosome.natur.cuni.cz
+romanistika.ff.cuni.cz
+romistika.ff.cuni.cz
+rozpravy.fsv.cuni.cz
+rozvrh.lf3.cuni.cz
+rozvrhy.ff.cuni.cz
+ruk.cuni.cz
+s1.lf2.cuni.cz
+samba.fsv.cuni.cz
+sapuk.cuni.cz
+sartoricon.fsv.cuni.cz
+sbp.fsv.cuni.cz
+scholares.ff.cuni.cz
+science.lf1.cuni.cz
+sd.ruk.cuni.cz
+search.cuni.cz
+search.mff.cuni.cz
+sec.ms.mff.cuni.cz
+seis.karlov.mff.cuni.cz
+seis30.karlov.mff.cuni.cz
+seminaire.ff.cuni.cz
+seminar.cuni.cz
+senat.cuni.cz
+senat.ff.cuni.cz
+senat.pedf.cuni.cz
+serverz3.natur.cuni.cz
+servus.jabok.cuni.cz
+seznamovak.pedf.cuni.cz
+sfx.cuni.cz
+sfx.is.cuni.cz
+sga.cuni.cz
+shadow.ms.mff.cuni.cz
+sheeni.troja.mff.cuni.cz
+shibboleth.lf1.cuni.cz
+sirrah.troja.mff.cuni.cz
+sis.lf1.cuni.cz
+sit.pedf.cuni.cz
+sites.ff.cuni.cz
+skas.mff.cuni.cz
+skuk.cuni.cz
+slivka.ff.cuni.cz
+slovoasmysl.ff.cuni.cz
+smf.mff.cuni.cz
+sml.strada.ff.cuni.cz
+soc-prace.ff.cuni.cz
+social.fsv.cuni.cz
+sociologickeuterky.fsv.cuni.cz
+sociologickevecery.fsv.cuni.cz
+soudni.lf1.cuni.cz
+spolky.prf.cuni.cz
+spr.prf.cuni.cz
+ss1000.ms.mff.cuni.cz
+st.cuni.cz
+st.mff.cuni.cz
+staff.cuni.cz
+stomatologie.lf1.cuni.cz
+stopka-lab.lf1.cuni.cz
+strediska.fsv.cuni.cz
+student.sias.ff.cuni.cz
+studenticuni.cz
+studium.pedf.cuni.cz
+su-cuni.cz
+su.mff.cuni.cz
+sun.cts.cuni.cz
+sun3.ms.mff.cuni.cz
+sunkl.asu.cas.cuni.cz
+sunsite.mff.cuni.cz
+sunsite.ms.mff.cuni.cz
+suntemples.ff.cuni.cz
+supercomp.cuni.cz
+svi.ff.cuni.cz
+svisrv.natur.cuni.cz
+svoc.prf.cuni.cz
+svp.pedf.cuni.cz
+sw3d.mff.cuni.cz
+sweb.jinonice.cuni.cz
+t3cz.cuni.cz
+tarantula.ruk.cuni.cz
+telmae.karlov.mff.cuni.cz
+texty.jinonice.cuni.cz
+tinlib.cuni.cz
+tinweb.lf3.cuni.cz
+tinweb.lfhk.cuni.cz
+transcript.fsv.cuni.cz
+trimed.lf3.cuni.cz
+trimed2.lf3.cuni.cz
+tucnak.fsv.cuni.cz
+twinsen.natur.cuni.cz
+twinsen2.natur.cuni.cz
+twinsun.natur.cuni.cz
+tydendiverzity.ff.cuni.cz
+tynska.cuni.cz
+ubeo.lf1.cuni.cz
+ublg.lf1.cuni.cz
+ublg.lf2.cuni.cz
+ubytovani.cuni.cz
+ucebny.natur.cuni.cz
+udauk.cuni.cz
+udl.lf1.cuni.cz
+udmp.lf1.cuni.cz
+uds.cuni.cz
+udu2.ff.cuni.cz
+udv239-3.ruk.cuni.cz
+ufal-point.mff.cuni.cz
+ufal.ms.mff.cuni.cz
+ufallab.ms.mff.cuni.cz
+ufallab2.ms.mff.cuni.cz
+ufaridb.ff.cuni.cz
+uim.lf1.cuni.cz
+uisk.jinonice.cuni.cz
+ujkn.ff.cuni.cz
+ukar.ff.cuni.cz
+ukb.lf1.cuni.cz
+ukn-kurzy.cuni.cz
+ulbi.lf3.cuni.cz
+ulita.ms.mff.cuni.cz
+ulita6.ms.mff.cuni.cz
+unm.lf1.cuni.cz
+uprps.pedf.cuni.cz
+urtax.ms.mff.cuni.cz
+users.prf.cuni.cz
+usvs.ff.cuni.cz
+utl.lf1.cuni.cz
+utpo.lf1.cuni.cz
+utv.lf1.cuni.cz
+uves.ff.cuni.cz
+uvi.lf1.cuni.cz
+uvrv.pedf.cuni.cz
+uvt-akce.cuni.cz
+uvt.cuni.cz
+uvt1.cuni.cz
+uvt407-1.ruk.cuni.cz
+uzphlas.natur.cuni.cz
+vaclav.troja.mff.cuni.cz
+varda.troja.mff.cuni.cz
+vcsewiki.cz
+veda.fsv.cuni.cz
+verso.is.cuni.cz
+vesmir.cts.cuni.cz
+vetrnik.koleje.cuni.cz
+vfn.lf1.cuni.cz
+video.mff.cuni.cz
+videozurnal.fsv.cuni.cz
+vivien.natur.cuni.cz
+vize-cr.fsv.cuni.cz
+vpn.ff.cuni.cz
+vrs.cuni.cz
+vrs98.cuni.cz
+vsehrd.prf.cuni.cz
+vvk.cuni.cz
+vydra.karlov.mff.cuni.cz
+vydra.troja.mff.cuni.cz
+vyfuk.mff.cuni.cz
+web.ebscohost.com.ezproxy.is.cuni.cz
+web.fsv.cuni.cz
+web.prf.cuni.cz
+webff.ff.cuni.cz
+webkajl.pedf.cuni.cz
+webs.lf1.cuni.cz
+whois.cuni.cz
+whois.ff.cuni.cz
+whois.ruk.cuni.cz
+wifi.natur.cuni.cz
+wiki.ufal.ms.mff.cuni.cz
+wintax.ms.mff.cuni.cz
+wp.pedf.cuni.cz
+wsvi.lf3.cuni.cz
+www-biologie.lfhk.cuni.cz
+www-nc.troja.mff.cuni.cz
+wwwcts.cuni.cz
+wwwold.natur.cuni.cz
+xrg.ksi.ms.mff.cuni.cz
+zabrana.ff.cuni.cz
+zes.fsv.cuni.cz
+zurnalistika.fsv.cuni.cz
+
+# Heritrix added seed redirect from http://aplikace.mvcr.cz/archiv2008/archivnictvi/periodika/obsah_1_2_2007.pdf.
+https://aplikace.mvcr.cz/archiv2008/archivnictvi/periodika/obsah_1_2_2007.pdf
+# Heritrix added seed redirect from http://geography.natur.cuni.cz/.
+http://www.natur.cuni.cz/geografie
+# Heritrix added seed redirect from http://ajp.cuni.cz/.
+http://ajp.cuni.cz/index.php/Home
+# Heritrix added seed redirect from http://ezproxy.is.cuni.cz/.
+http://ezproxy.is.cuni.cz/login
+# Heritrix added seed redirect from http://ankst.cz/.
+https://www.ankst.cz/008
+# Heritrix added seed redirect from http://bioprojekty.lf1.cuni.cz/.
+https://bioprojekty.lf1.cuni.cz/
+# Heritrix added seed redirect from http://eduroam.cuni.cz/.
+https://eduroam.cuni.cz/
+# Heritrix added seed redirect from http://cenia.cz/.
+https://www.cenia.cz/
+# Heritrix added seed redirect from http://edit.lf3.cuni.cz/.
+http://edit.lf3.cuni.cz/system/login
+# Heritrix added seed redirect from http://fyziologie.lf2.cuni.cz/.
+https://fyziologie.lf2.cuni.cz/
+# Heritrix added seed redirect from http://e-shop.ff.cuni.cz/.
+https://e-shop.ff.cuni.cz/
+# Heritrix added seed redirect from http://ebed.etf.cuni.cz/.
+https://ebed.etf.cuni.cz/
+# Heritrix added seed redirect from http://astro.mff.cuni.cz/mira/sh/sh.php.
+https://astro.troja.mff.cuni.cz/mira/sh/sh.php
+# Heritrix added seed redirect from http://bi.cuni.cz/.
+https://ezdroje.cuni.cz/
+# Heritrix added seed redirect from http://fykos.mff.cuni.cz/.
+https://fykos.cz/
+# Heritrix added seed redirect from http://dsrg.mff.cuni.cz/.
+https://d3s.mff.cuni.cz/
+# Heritrix added seed redirect from http://eks.fhs.cuni.cz/.
+https://eks.fhs.cuni.cz/
+# Heritrix added seed redirect from http://edit.natur.cuni.cz/.
+https://www.natur.cuni.cz/
+# Heritrix added seed redirect from http://ekonom.cuni.cz/.
+https://ekonom.cuni.cz/
+# Heritrix added seed redirect from http://biomolecules.mff.cuni.cz/.
+http://fu.mff.cuni.cz/biomolecules/
+# Heritrix added seed redirect from http://dg.cuni.cz/.
+https://dg.cuni.cz/
+# Heritrix added seed redirect from http://aurora.troja.mff.cuni.cz/.
+http://physics.mff.cuni.cz/kfpp/
+# Heritrix added seed redirect from http://eduroam.prf.cuni.cz/.
+http://www.prf.cuni.cz/eduroam-1404045974.html
+# Heritrix added seed redirect from http://go.natur.cuni.cz/.
+http://ga.natur.cuni.cz/
+# Heritrix added seed redirect from http://ceses.cuni.cz/.
+https://ceses.cuni.cz/
+# Heritrix added seed redirect from http://goethe.ff.cuni.cz/.
+http://german.ff.cuni.cz/pmwiki/pmwiki.php/Goethe/Goethe-Gesellschaft/
+# Heritrix added seed redirect from http://biol.lf1.cuni.cz/ucebnice/.
+https://biol.lf1.cuni.cz/ucebnice/
+# Heritrix added seed redirect from http://gremiumkr.cuni.cz/.
+https://gremiumkr.cuni.cz/
+# Heritrix added seed redirect from http://caves.cz/.
+https://www.caves.cz/
+# Heritrix added seed redirect from http://hiso.fhs.cuni.cz/.
+https://hiso.fhs.cuni.cz/
+# Heritrix added seed redirect from http://antikvariats.cz/.
+https://antikvariats.cz/
+# Heritrix added seed redirect from http://botany.natur.cuni.cz/.
+https://botany.natur.cuni.cz/
+# Heritrix added seed redirect from http://astro.troja.mff.cuni.cz/.
+https://astro.troja.mff.cuni.cz/
+# Heritrix added seed redirect from http://g3.lf1.cuni.cz/.
+https://g3.lf1.cuni.cz/
+# Heritrix added seed redirect from http://hodnoceni.ff.cuni.cz/.
+https://hodnoceni.ff.cuni.cz/
+# Heritrix added seed redirect from http://antidoping.cz/.
+https://antidoping.cz/
+# Heritrix added seed redirect from http://filosofie.fhs.cuni.cz/.
+https://filosofie.fhs.cuni.cz/
+# Heritrix added seed redirect from http://finstina.ff.cuni.cz/.
+https://finstina.ff.cuni.cz/
+# Heritrix added seed redirect from http://antikvariat-smichov.cz/.
+http://www.antikvariat-smichov.cz/
+# Heritrix added seed redirect from http://gender.fhs.cuni.cz/.
+https://gender.fhs.cuni.cz/
+# Heritrix added seed redirect from http://eis.cuni.cz/.
+https://eis.cuni.cz/
+# Heritrix added seed redirect from http://europeum.fsv.cuni.cz/.
+https://europeum.fsv.cuni.cz/
+# Heritrix added seed redirect from http://cozp.cuni.cz/.
+https://cozp.cuni.cz/
+# Heritrix added seed redirect from http://cs.mfcr.cz/.
+https://cs.mfcr.cz/
+# Heritrix added seed redirect from http://www.antik-chimera.cz/cz.
+https://www.antik-chimera.cz/cz
+# Heritrix added seed redirect from http://dec52.lf1.cuni.cz/.
+https://lf1.cuni.cz/
+# Heritrix added seed redirect from http://antikvariat-bohemia.cz/.
+https://antikvariat-bohemia.cz/
+# Heritrix added seed redirect from http://cityvizor.praha.eu/.
+https://cityvizor.praha.eu/
+# Heritrix added seed redirect from http://artemis.ms.mff.cuni.cz/.
+https://artemis.ms.mff.cuni.cz/
+# Heritrix added seed redirect from http://fu.ff.cuni.cz/.
+https://fu.ff.cuni.cz/
+# Heritrix added seed redirect from http://ftvs.cuni.cz/.
+https://ftvs.cuni.cz/
+# Heritrix added seed redirect from http://cas.cuni.cz/.
+https://cas.cuni.cz/
+# Heritrix added seed redirect from http://au4.troja.mff.cuni.cz/.
+https://sirrah.troja.mff.cuni.cz/
+# Heritrix added seed redirect from http://envigogika.cuni.cz/.
+https://envigogika.cuni.cz/
+# Heritrix added seed redirect from http://digitool.cuni.cz/.
+https://digitool.cuni.cz/
+# Heritrix added seed redirect from http://ufal.mff.cuni.cz/.
+https://ufal.mff.cuni.cz/
+# Heritrix added seed redirect from http://aesthetics.ff.cuni.cz/.
+http://estetikajournal.org/
+# Heritrix added seed redirect from http://cl.ff.cuni.cz/.
+https://cl.ff.cuni.cz/
+# Heritrix added seed redirect from http://kohoutikriz.org/.
+https://www.kohoutikriz.org/
+# Heritrix added seed redirect from http://antikvalt.cz/.
+https://antikvalt.cz/
+# Heritrix added seed redirect from http://antikvariatostrov.cz/.
+https://antikvariatostrov.cz/
+# Heritrix added seed redirect from http://galerie-tic.cz/.
+https://galerie-tic.cz/
+# Heritrix added seed redirect from http://antikvariat-fryc.cz/.
+https://antikvariat-fryc.cz/
+# Heritrix added seed redirect from http://cck-isc.ff.cuni.cz/.
+https://cck-isc.ff.cuni.cz/
+# Heritrix added seed redirect from http://cksvv.vuv.cz/.
+https://cksvv.vuv.cz/
+# Heritrix added seed redirect from http://dlk.cuni.cz/.
+https://dlk.cuni.cz/
+# Heritrix added seed redirect from http://plbohnice.cz/.
+http://www.plbohnice.cz/
+# Heritrix added seed redirect from http://cuzzs.cz/.
+https://www.cuzzs.cz/
+# Heritrix added seed redirect from http://nzm.cz/.
+https://nzm.cz/
+# Heritrix added seed redirect from http://forum.lf1.cuni.cz/.
+http://forum.lf1.cz/
+# Heritrix added seed redirect from http://ips.fsv.cuni.cz/.
+https://ips.fsv.cuni.cz/
+# Heritrix added seed redirect from http://www.polipet.cz/.
+https://www.polipet.cz/
+# Heritrix added seed redirect from http://kacur.cz/.
+http://kacur.cz/index.asp?menu=675
+# Heritrix added seed redirect from http://knihovna.ff.cuni.cz/.
+http://www.ff.cuni.cz/knihovna
+# Heritrix added seed redirect from http://idos.cz/.
+https://idos.idnes.cz/
+# Heritrix added seed redirect from http://antikvariatustromu.cz/.
+https://antikvariatustromu.cz/
+# Heritrix added seed redirect from http://fo.mff.cuni.cz/.
+http://fyzikalniolympiada.cz/
+# Heritrix added seed redirect from http://www.rrtv.cz/.
+http://www.rrtv.cz/cz/
+# Heritrix added seed redirect from http://justice.cz/.
+https://justice.cz/
+# Heritrix added seed redirect from http://bezpecnostniprupravadeti.praha.eu/.
+https://bezpecnostniprupravadeti.praha.eu/
+# Heritrix added seed redirect from http://mfcr.cz/.
+https://www.mfcr.cz/
+# Heritrix added seed redirect from http://www.sukl.cz/.
+https://www.sukl.cz/
+# Heritrix added seed redirect from http://fonia.lf1.cuni.cz/.
+https://fonia.lf1.cuni.cz/
+# Heritrix added seed redirect from http://iti.mff.cuni.cz/.
+https://iti.mff.cuni.cz/
+# Heritrix added seed redirect from http://farm.lf1.cuni.cz/.
+https://farm.lf1.cuni.cz/
+# Heritrix added seed redirect from http://cestakevzdelani.praha.eu/.
+https://cestakevzdelani.praha.eu/
+# Heritrix added seed redirect from http://antikvariat-zeyer.cz/.
+https://antikvariat-zeyer.cz/
+# Heritrix added seed redirect from http://www.antikvariat.eu/.
+https://www.antikvariat.eu/
+# Heritrix added seed redirect from http://aw.cuni.cz/.
+https://aw.cuni.cz/
+# Heritrix added seed redirect from http://www.fhs.cuni.cz/media/post-media-theory/.
+http://tarantula.ruk.cuni.cz/EKS-1.html
+# Heritrix added seed redirect from http://envis.praha-mesto.cz/.
+http://envis.praha-mesto.cz/(bo2a1gfyoho3tf45oyelxpbx)/default.aspx
+# Heritrix added seed redirect from http://dotazy.praha.eu/.
+https://dotazy.praha.eu/
+# Heritrix added seed redirect from http://cppt.cuni.cz/.
+https://cppt.cuni.cz/
+# Heritrix added seed redirect from http://dl2.cuni.cz/.
+https://dl2.cuni.cz/
+# Heritrix added seed redirect from http://cestovniruch.praha.eu/.
+https://cestovniruch.praha.eu/
+# Heritrix added seed redirect from http://cbs.etf.cuni.cz/.
+http://cbs.etf.cuni.cz/cz/homepage.html
+# Heritrix added seed redirect from http://eba.praha.eu/.
+https://eba.praha.eu/
+# Heritrix added seed redirect from http://fykos.cz/.
+https://fykos.cz/
+# Heritrix added seed redirect from http://npu.cz/.
+https://www.npu.cz/
+# Heritrix added seed redirect from http://www.galerie-ilonka.cz/.
+https://www.galerie-ilonka.cz/
+# Heritrix added seed redirect from http://cfm.lf1.cuni.cz/.
+http://cfm.gynpor.cz/
+# Heritrix added seed redirect from http://fyzweb.mff.cuni.cz/.
+https://fyzweb.mff.cuni.cz/
+# Heritrix added seed redirect from http://www.csicr.cz/.
+https://www.csicr.cz/
+# Heritrix added seed redirect from http://mpsv.cz/.
+https://www.mpsv.cz/
+# Heritrix added seed redirect from http://unmz.cz/.
+https://unmz.cz/
+# Heritrix added seed redirect from http://antikvariat-pce.cz/.
+https://antikvariat-pce.cz/
+# Heritrix added seed redirect from http://detskeskupiny.praha.eu/.
+https://detskeskupiny.praha.eu/
+# Heritrix added seed redirect from http://www.szpi.gov.cz/.
+https://www.szpi.gov.cz/
+# Heritrix added seed redirect from http://www.maslo.cz/.
+https://www.maslo.cz/
+# Heritrix added seed redirect from http://eagri.cz/public/web/ukzuz/.
+http://eagri.cz/public/web/ukzuz/portal/
+# Heritrix added seed redirect from http://fpv.cz/.
+https://www.garancnisystem.cz/
+# Heritrix added seed redirect from http://cesta.ujop.cuni.cz/.
+https://tcs.cuni.cz/
+# Heritrix added seed redirect from http://pikomat.mff.cuni.cz/.
+https://pikomat.mff.cuni.cz/
+# Heritrix added seed redirect from http://spspraha.cz/.
+http://plavebniurad.cz/
+# Heritrix added seed redirect from http://antikvariatukalicha.cz/.
+https://antikvariatukalicha.cz/
+# Heritrix added seed redirect from http://www.artmap.cz/.
+https://www.artmap.cz/
+# Heritrix added seed redirect from http://www.agentura-cas.cz/.
+https://www.agentura-cas.cz/
+# Heritrix added seed redirect from http://helpdesk.natur.cuni.cz/.
+https://helpdesk.natur.cuni.cz/
+# Heritrix added seed redirect from http://fykos.troja.mff.cuni.cz/.
+https://fykos.cz/
+# Heritrix added seed redirect from http://cuzk.cz/.
+https://cuzk.cz/
+# Heritrix added seed redirect from http://www.antikvariat-kodytek.cz/.
+https://www.antikvariat-kodytek.cz/
+# Heritrix added seed redirect from http://bosworth.ff.cuni.cz/.
+http://bosworthtoller.com/
+# Heritrix added seed redirect from http://eurocities2019.eu/.
+http://eurocities2019.eu/jnp/
+# Heritrix added seed redirect from http://antikvariatelement.cz/.
+https://antikvariatelement.cz/
+# Heritrix added seed redirect from http://apolinar.lf1.cuni.cz/.
+http://www.vfn.cz/pracoviste/kliniky-a-oddeleni/gynekologicko-porodnicka-klinika/
+# Heritrix added seed redirect from http://www.szdc.cz/.
+https://www.spravazeleznic.cz/
+# Heritrix added seed redirect from http://www.homolka.cz/.
+https://www.homolka.cz/
+# Heritrix added seed redirect from http://fulbright.cz/.
+http://www.fulbright.cz/
+# Heritrix added seed redirect from http://www.knihovna.upm.cz/.
+https://www.knihovna.upm.cz/
+# Heritrix added seed redirect from http://antikvariat-cesko.cz/.
+https://antikvariat-cesko.cz/
+# Heritrix added seed redirect from http://www.compet.cz/.
+https://www.compet.cz/
+# Heritrix added seed redirect from http://dl1.cuni.cz/.
+https://dl1.cuni.cz/
+# Heritrix added seed redirect from http://www.antik-u-nas.cz/.
+https://www.antik-u-nas.cz/
+# Heritrix added seed redirect from http://www.cdv.cz/.
+https://www.cdv.cz/
+# Heritrix added seed redirect from http://geografie.natur.cuni.cz/.
+http://www.natur.cuni.cz/geografie
+# Heritrix added seed redirect from http://el.lf1.cuni.cz/.
+https://el.lf1.cuni.cz/
+# Heritrix added seed redirect from http://muzeumpolicie.cz/.
+https://www.muzeumpolicie.cz/
+# Heritrix added seed redirect from http://www.knihy-antikvariat.cz/.
+https://wy.sk/
+# Heritrix added seed redirect from http://pamatky.praha.eu/.
+https://pamatky.praha.eu/
+# Heritrix added seed redirect from http://www.antikvariat-kniha.cz/.
+https://www.antikvariat-kniha.cz/
+# Heritrix added seed redirect from http://www.antikvariat-ukasny.cz/.
+https://www.antikvariat-ukasny.cz/
+# Heritrix added seed redirect from http://www.antikvariat-benes.cz/.
+https://www.antikvariat-benes.cz/
+# Heritrix added seed redirect from http://alias.natur.cuni.cz/.
+https://alias.natur.cuni.cz/
+# Heritrix added seed redirect from http://css.ff.cuni.cz/.
+https://css.ff.cuni.cz/
+# Heritrix added seed redirect from http://dicr.cz/.
+http://www.dicr.cz/
+# Heritrix added seed redirect from http://pmscr.cz/.
+https://www.pmscr.cz/
+# Heritrix added seed redirect from http://www.knihy-arcanum.cz/.
+https://www.knihy-arcanum.cz/
+# Heritrix added seed redirect from http://mks.mff.cuni.cz/.
+http://prase.cz/
+# Heritrix added seed redirect from http://antikvariat-brno.cz/.
+https://antikvariat-brno.cz/
+# Heritrix added seed redirect from http://denlatiny.ff.cuni.cz/.
+http://www.ff.cuni.cz/fakulta/o-fakulte/pravidelne-akce/den-latiny
+# Heritrix added seed redirect from http://metropolitniplan.praha.eu/jnp.
+https://metropolitniplan.praha.eu/jnp
+# Heritrix added seed redirect from http://kultura.praha.eu/.
+https://kultura.praha.eu/
+# Heritrix added seed redirect from http://antikvariatmorava.cz/.
+https://antikvariatmorava.cz/
+# Heritrix added seed redirect from http://www.antikvariatnerudova.cz/.
+https://www.antikvariatnerudova.cz/
+# Heritrix added seed redirect from http://citmed.cuni.cz/.
+http://www.citmed.cz/
+# Heritrix added seed redirect from http://granty.praha.eu/.
+https://granty.praha.eu/
+# Heritrix added seed redirect from http://tacr.cz/.
+https://www.tacr.cz/
+# Heritrix added seed redirect from http://www.antikvariat-kutnahora.cz/.
+https://www.antikvariat-kutnahora.cz/
+# Heritrix added seed redirect from http://czso.cz/.
+https://czso.cz/
+# Heritrix added seed redirect from http://sfzp.cz/.
+https://www.sfzp.cz/
+# Heritrix added seed redirect from http://www.jedensvet.cz/.
+https://www.jedensvet.cz/2021/
+# Heritrix added seed redirect from http://antik-vacek.cz/.
+https://antik-vacek.cz/
+# Heritrix added seed redirect from http://userweb.pedf.cuni.cz/kpsp/etnografie/.
+http://kps.pedf.cuni.cz/etnografie/
+# Heritrix added seed redirect from http://dantikvariat.cz/.
+https://dantikvariat.cz/
+# Heritrix added seed redirect from http://www.christnet.eu/.
+https://www.christnet.eu/
+# Heritrix added seed redirect from http://kdf.mff.cuni.cz/.
+https://kdf.mff.cuni.cz/
+# Heritrix added seed redirect from http://www.antikvariat-karlovyvary.cz/.
+https://www.antikvariat-karlovyvary.cz/
+# Heritrix added seed redirect from http://www.eshop.mlha.gr/.
+https://www.eshop.mlha.gr/
+# Heritrix added seed redirect from http://www.vulhm.cz/.
+https://www.vulhm.cz/
+# Heritrix added seed redirect from http://www.cazv.cz/ek/.
+https://www.cazv.cz/ek/
+# Heritrix added seed redirect from http://antikvariat-prelouc.cz/.
+https://antikvariat-prelouc.cz/
+# Heritrix added seed redirect from http://heis.vuv.cz/.
+https://heis.vuv.cz/
+# Heritrix added seed redirect from http://geoqol.natur.cuni.cz/.
+http://socialniepidemiologie.natur.cuni.cz/geoqol.html
+# Heritrix added seed redirect from http://www.nsoud.cz/.
+https://www.nsoud.cz/
+# Heritrix added seed redirect from http://antik-stafl.cz/.
+https://antik-stafl.cz/
+# Heritrix added seed redirect from http://knihovna.jabok.cuni.cz/.
+https://knihovna.jabok.cuni.cz/
+# Heritrix added seed redirect from http://antikvariat11.cz/.
+https://antikvariat11.cz/
+# Heritrix added seed redirect from http://www.spalena53.cz/.
+https://www.spalena53.cz/
+# Heritrix added seed redirect from http://aleph.cuni.cz/.
+https://aleph.cuni.cz/
+# Heritrix added seed redirect from http://cerna.blog.respekt.ihned.cz/.
+https://cerna.blog.respekt.cz/
+# Heritrix added seed redirect from http://antikvariat-malyctenar.cz/.
+https://antikvariat-malyctenar.cz/
+# Heritrix added seed redirect from http://antikvariat-vinohradska.cz/.
+https://antikvariat-vinohradska.cz/
+# Heritrix added seed redirect from http://fo.cuni.cz/.
+http://fyzikalniolympiada.cz/
+# Heritrix added seed redirect from http://upv.cz/.
+https://upv.gov.cz/
+# Heritrix added seed redirect from http://bezpecnapraha.praha.eu/.
+https://bezpecnapraha.praha.eu/
+# Heritrix added seed redirect from http://www.choir.cz/.
+https://filharmonickysbor.cz/
+# Heritrix added seed redirect from http://mam.mff.cuni.cz/.
+https://mam.mff.cuni.cz/
+# Heritrix added seed redirect from http://film.ff.cuni.cz/.
+https://film.ff.cuni.cz/
+# Heritrix added seed redirect from http://www.institutpraha.cz/.
+https://www.institutpraha.cz/
+# Heritrix added seed redirect from http://dl.cuni.cz/.
+https://dl.cuni.cz/
+# Heritrix added seed redirect from http://antikvariat.skoda-abzeichen.eu/.
+https://antikvariat.skoda-abzeichen.eu/
+# Heritrix added seed redirect from http://conf.natur.cuni.cz/.
+https://conf.natur.cuni.cz/
+# Heritrix added seed redirect from http://www.cr-sei.cz/.
+https://www.cr-sei.cz/
+# Heritrix added seed redirect from http://musicology.ff.cuni.cz/.
+https://musicology.ff.cuni.cz/
+# Heritrix added seed redirect from http://www.wallstreet.sk/.
+https://www.wallstreet.sk/
+# Heritrix added seed redirect from http://andragogika.ff.cuni.cz/.
+https://andragogika.ff.cuni.cz/
+# Heritrix added seed redirect from http://www.vukoz.cz/.
+https://www.vukoz.cz/
+# Heritrix added seed redirect from http://www.sujb.cz/.
+https://www.sujb.cz/
+# Heritrix added seed redirect from http://aanetdruzstvo.wbs.cz/Prodej-knih-antikvariat.html.
+http://www.aanetdruzstvo.cz/Prodej-knih-antikvariat.html
+# Heritrix added seed redirect from http://www.puncovniurad.cz/.
+http://www.puncovniurad.cz/cz/
+# Heritrix added seed redirect from http://www.antikvariat-liberec.cz/.
+https://www.antikvariat-liberec.cz/
+# Heritrix added seed redirect from http://www.uiv.cz/.
+https://sberdat.uiv.cz/rozcestnik
+# Heritrix added seed redirect from http://www.antikvariat-trutnov.com/.
+https://antikvariat-trutnov.com/
+# Heritrix added seed redirect from http://www.scholapragensis.cz/.
+https://www.scholapragensis.cz/
+# Heritrix added seed redirect from http://ipsc.cuni.cz/.
+https://ipsc.cuni.cz/
+# Heritrix added seed redirect from http://www.fnmotol.cz/.
+https://www.fnmotol.cz/
+# Heritrix added seed redirect from http://www.uzpi.cz/.
+https://www.uzpi.cz/
+# Heritrix added seed redirect from http://airbnb.praha.eu/.
+https://airbnb.praha.eu/
+# Heritrix added seed redirect from http://www.antikvariatukostela.cz/.
+https://www.antikvariatukostela.cz/
+# Heritrix added seed redirect from http://iforum.cuni.cz/.
+https://iforum.cuni.cz/
+# Heritrix added seed redirect from http://www.ukzuz.cz/.
+http://eagri.cz/public/web/ukzuz/portal
+# Heritrix added seed redirect from http://portal.chmi.cz/.
+https://www.chmi.cz/
+# Heritrix added seed redirect from http://upol.ff.cuni.cz/.
+https://upol.ff.cuni.cz/
+# Heritrix added seed redirect from https://udhpsh.cz/.
+https://www.udhpsh.cz/
+# Heritrix added seed redirect from http://mzp.cz/.
+https://mzp.cz/
+# Heritrix added seed redirect from http://www.korpus.cz/.
+https://www.korpus.cz/
+# Heritrix added seed redirect from http://www.denikreferendum.cz/.
+https://denikreferendum.cz/
+# Heritrix added seed redirect from http://www.antikvariat-levneknihy.cz/.
+https://www.antikvariat-levneknihy.cz/
+# Heritrix added seed redirect from http://www.antikvariatjusticna.sk/.
+https://www.antikvariatjusticna.sk/
+# Heritrix added seed redirect from http://www.antikvariat-olomouc.cz/.
+https://www.antikvariat-olomouc.cz/
+# Heritrix added seed redirect from http://nku.cz/.
+https://nku.cz/
+# Heritrix added seed redirect from http://www.lidice-memorial.cz/.
+https://www.lidice-memorial.cz/
+# Heritrix added seed redirect from http://www.nipos-mk.cz/.
+https://www.nipos-mk.cz/
+# Heritrix added seed redirect from http://www.ksi.mff.cuni.cz/.
+https://www.ksi.mff.cuni.cz/
+# Heritrix added seed redirect from http://dimatia.mff.cuni.cz/.
+https://dimatia.mff.cuni.cz/
+# Heritrix added seed redirect from http://jeskynecr.cz/.
+https://www.caves.cz/
+# Heritrix added seed redirect from http://www.npmk.cz/.
+https://www.npmk.cz/
+# Heritrix added seed redirect from http://www.zsmv.cz/.
+https://www.zsmv.cz/
+# Heritrix added seed redirect from http://www.penizeproprahu.cz/.
+https://www.penizeproprahu.cz//
+# Heritrix added seed redirect from http://www.leonclifton.cz/.
+https://www.leonclifton.cz/
+# Heritrix added seed redirect from http://www.antikvariatmotyl.cz/.
+https://www.antikvariatmotyl.cz/
+# Heritrix added seed redirect from http://www.mmr.cz/.
+http://www.mmr.cz/cs/uvod
+# Heritrix added seed redirect from http://edconf2010.pedf.cuni.cz/.
+http://edconf2010.pedf.cuni.cz/main
+# Heritrix added seed redirect from http://pages.pedf.cuni.cz/didakticke-studie/charakteristika-casopisu/.
+https://pages.pedf.cuni.cz/didakticke-studie/charakteristika-casopisu/
+# Heritrix added seed redirect from http://www.antikvariat-ol.cz/.
+https://www.antikvariat-ol.cz/
+# Heritrix added seed redirect from http://psych.lf1.cuni.cz/fluorescence/Default.htm.
+https://psych.lf1.cuni.cz/fluorescence/Default.htm
+# Heritrix added seed redirect from http://www.plbohnice.cz/.
+http://www.bohnice.cz/
+# Heritrix added seed redirect from http://www.praguecomputerscience.cz/.
+https://www.praguecomputerscience.cz/
+# Heritrix added seed redirect from http://www.testcom.cz/.
+https://www.cmi.cz/
+# Heritrix added seed redirect from http://web.pedf.cuni.cz/paideia/.
+https://web.pedf.cuni.cz/paideia/
+# Heritrix added seed redirect from http://www.arcs.cuni.cz/.
+http://www.seminar-praha.cz/
+# Heritrix added seed redirect from http://www.jabok.cz/.
+https://www.jabok.cz/
+# Heritrix added seed redirect from http://popin.natur.cuni.cz/.
+http://popin.natur.cuni.cz/html2/index.php
+# Heritrix added seed redirect from http://www.antikvariat-divis.cz/cze/home.
+https://www.antikvariat-divis.cz/cze/home
+# Heritrix added seed redirect from http://www.fra.cz/archiv.
+https://www.fra.cz/archiv
+# Heritrix added seed redirect from http://www.ochranaprirody.cz/.
+https://www.ochranaprirody.cz/
+# Heritrix added seed redirect from http://www.stk.cz/.
+https://www.techlib.cz/
+# Heritrix added seed redirect from http://www.antikvariatpocta.cz/.
+https://www.antikvariatpocta.cz/
+# Heritrix added seed redirect from http://www.starepohledy.cz/.
+https://www.starepohledy.cz/
+# Heritrix added seed redirect from http://www.psivino.cz/.
+https://www.psivino.cz/
+# Heritrix added seed redirect from http://www.coi.cz/.
+https://www.coi.cz/
+# Heritrix added seed redirect from http://www.cuzk.cz/zu_praha.
+https://www.cuzk.cz/zu_praha
+# Heritrix added seed redirect from http://egyptologie.ff.cuni.cz/.
+https://egyptologie.ff.cuni.cz/
+# Heritrix added seed redirect from http://www.tudc.cz/.
+https://www.tudc.cz/
+# Heritrix added seed redirect from http://prahart.cz/.
+https://prahart.cz/
+# Heritrix added seed redirect from http://www.gacr.cz/.
+https://gacr.cz/
+# Heritrix added seed redirect from http://antikvariat-reklama.cz/.
+https://antikvariat-reklama.cz/
+# Heritrix added seed redirect from http://www.finarbitr.cz/.
+https://finarbitr.cz/cs/
+# Heritrix added seed redirect from http://mongolistika.ff.cuni.cz/.
+http://ujca.ff.cuni.cz/
+# Heritrix added seed redirect from http://www.antikvariat-u-prahy.cz/.
+https://www.antikvariat-u-prahy.cz/
+# Heritrix added seed redirect from http://www.cermat.cz/.
+https://www.cermat.cz/
+# Heritrix added seed redirect from http://www.eru.cz/.
+http://www.eru.cz/cs/
+# Heritrix added seed redirect from http://starsiknihy.cz/index.php.
+https://starsiknihy.cz/domains/starsiknihy.cz/index.php
+# Heritrix added seed redirect from http://www.csvs.cz/.
+https://www.csvs.cz/
+# Heritrix added seed redirect from http://www.antikvariatolomouc.cz/.
+https://www.antikvariatolomouc.cz/
+# Heritrix added seed redirect from http://www.antikvariat-bosorka.cz/.
+https://www.antikvariat-bosorka.cz/
+# Heritrix added seed redirect from http://www.mvcr.cz/.
+https://www.mvcr.cz/
+# Heritrix added seed redirect from http://hus.cuni.cz/.
+https://hus.cuni.cz/
+# Heritrix added seed redirect from http://chir1.lf1.cuni.cz/.
+https://chir1.lf1.cuni.cz/
+# Heritrix added seed redirect from http://www.komant.cz/.
+https://www.komant.cz/
+# Heritrix added seed redirect from http://www.antikvariat-bohumin.cz/.
+https://www.antikvariat-bohumin.cz/
+# Heritrix added seed redirect from http://uchazec.ff.cuni.cz/.
+http://www.ff.cuni.cz/uchazec
+# Heritrix added seed redirect from http://www.chmi.cz/.
+https://www.chmi.cz/
+# Heritrix added seed redirect from http://www.czechinvest.org/.
+http://www.czechinvest.org/en
+# Heritrix added seed redirect from http://skoly.praha.eu/.
+https://skoly.praha.eu/
+# Heritrix added seed redirect from http://www.sshr.cz/.
+https://www.sshr.cz/
+# Heritrix added seed redirect from http://crr.cz/.
+https://www.crr.cz/
+# Heritrix added seed redirect from https://realitniportalpraha.cz/.
+https://realitniportalpraha.cz/cs/
+# Heritrix added seed redirect from http://mo.mff.cuni.cz/p/.
+https://mo.mff.cuni.cz/p/
+# Heritrix added seed redirect from http://www.tichyantikvariat.cz/.
+https://www.tichyantikvariat.cz/
+# Heritrix added seed redirect from http://www.vlada.cz/.
+https://www.vlada.cz/
+# Heritrix added seed redirect from http://www.mpo.cz/.
+https://www.mpo.cz/
+# Heritrix added seed redirect from http://www.podzemni-antikvariat.cz/.
+https://www.podzemni-antikvariat.cz/
+# Heritrix added seed redirect from http://ulug.ff.cuni.cz/.
+http://ulug.ff.cuni.cz/ling.php
+# Heritrix added seed redirect from http://prahart.praha.eu/.
+https://prahart.praha.eu/
+# Heritrix added seed redirect from http://acpo.fsv.cuni.cz/.
+https://acpo.fsv.cuni.cz/
+# Heritrix added seed redirect from http://sdileneubytovani.praha.eu/.
+https://sdileneubytovani.praha.eu/
+# Heritrix added seed redirect from http://www.serius.cz/antikvariat.
+https://www.serius.cz/antikvariat-c2608/
+# Heritrix added seed redirect from http://www.antikvariatlp.cz/.
+https://www.antikvariatlp.cz/
+# Heritrix added seed redirect from http://umpod.cz/.
+http://www.umpod.cz/
+# Heritrix added seed redirect from http://www.cizp.cz/.
+https://www.cizp.cz/
+# Heritrix added seed redirect from http://hjs.ff.cuni.cz/.
+http://hjs.ff.cuni.cz/main/hjs.php?page=index_page
+# Heritrix added seed redirect from http://www.szrcr.cz/.
+https://www.szrcr.cz/
+# Heritrix added seed redirect from http://www.ktf.cuni.cz/.
+https://www.ktf.cuni.cz/
+# Heritrix added seed redirect from http://www.antikvariat-janos.cz/.
+https://www.antikvariat-janos.cz/
+# Heritrix added seed redirect from http://www.cpinsp.cz/.
+http://eagri.cz/public/web/cpi/portal
+# Heritrix added seed redirect from http://estetika.ff.cuni.cz/.
+https://estetika.ff.cuni.cz/
+# Heritrix added seed redirect from http://www.prazskenaplavky.cz/.
+https://www.prazskenaplavky.cz/
+# Heritrix added seed redirect from http://ksicht.natur.cuni.cz/.
+https://ksicht.natur.cuni.cz/
+# Heritrix added seed redirect from http://www.antikvariatlovosice.cz/.
+https://www.antikvariatlovosice.cz/
+# Heritrix added seed redirect from http://www.uoou.cz/.
+https://www.uoou.cz/
+# Heritrix added seed redirect from http://web.etf.cuni.cz/.
+https://web.etf.cuni.cz/
+# Heritrix added seed redirect from http://kam.cuni.cz/.
+https://kam.cuni.cz/
+# Heritrix added seed redirect from http://www.geology.cz/.
+http://www.geology.cz/extranet
+# Heritrix added seed redirect from http://www.oneworld.cz/.
+https://www.oneworld.cz/2021/
+# Heritrix added seed redirect from http://www.upm.cz/.
+https://www.upm.cz/
+# Heritrix added seed redirect from http://lf3.cuni.cz/.
+https://www.lf3.cuni.cz/
+# Heritrix added seed redirect from http://litacka.praha.eu/.
+https://litacka.praha.eu/
+# Heritrix added seed redirect from http://www.vuv.cz/.
+https://www.vuv.cz/
+# Heritrix added seed redirect from http://www.galaxieknih.cz/.
+http://www.galaxieknih.cz/cs/
+# Heritrix added seed redirect from http://www.sfdi.cz/.
+https://www.sfdi.cz/
+# Heritrix added seed redirect from http://www.antik-variat.cz/.
+https://www.antik-variat.cz/
+# Heritrix added seed redirect from http://www.suro.cz/.
+https://www.suro.cz/
+# Heritrix added seed redirect from http://ktv.mff.cuni.cz/.
+https://ktv.mff.cuni.cz/
+# Heritrix added seed redirect from http://www.starenoty.cz/.
+https://www.starenoty.cz/
+# Heritrix added seed redirect from http://www.christnet.cz/.
+http://www.sursum.cz/
+# Heritrix added seed redirect from http://www.scifik.cz/.
+https://www.scifik.cz/
+# Heritrix added seed redirect from https://www.rsd.cz/.
+https://www.rsd.cz/wps/portal/
+# Heritrix added seed redirect from http://www.dostalkova.com/.
+http://www.dostalkova.com/works
+# Heritrix added seed redirect from http://www.fi.muni.cz/im6/.
+https://www.fi.muni.cz/im6/
+# Heritrix added seed redirect from http://emsa.ff.cuni.cz/.
+http://mluvniceanglictiny.cz/
+# Heritrix added seed redirect from http://www.cestina20.cz/.
+http://cestina20.cz//
+# Heritrix added seed redirect from http://www.cmi.cz/index.php?lang=1&wdc=1572.
+https://www.cmi.cz/index.php?lang=1&wdc=1572
+# Heritrix added seed redirect from http://vuzt.cz/.
+http://www.vuzt.cz/
+# Heritrix added seed redirect from http://www.arkham.cz/.
+https://www.arkham.cz/
+# Heritrix added seed redirect from http://www.ucl.cz/.
+https://www.caa.cz/
+# Heritrix added seed redirect from http://www.uzei.cz/.
+https://www.uzei.cz/
+# Heritrix added seed redirect from http://www.pacholek.com/.
+https://www.pacholek.com/
+# Heritrix added seed redirect from http://www.antikvariaty.cz/.
+https://www.antikvariaty.cz/
+# Heritrix added seed redirect from https://www.uicr.cz/.
+https://www.uicr.cz/cs/
+# Heritrix added seed redirect from http://taxi.praha.eu/.
+https://taxi.praha.eu/
+# Heritrix added seed redirect from http://edis.cuni.cz/.
+https://edis.cuni.cz/
+# Heritrix added seed redirect from http://fles.fsv.cuni.cz/.
+https://fles.fsv.cuni.cz/
+# Heritrix added seed redirect from http://fsveng.fsv.cuni.cz/.
+http://fsv.cuni.cz/en/
+# Heritrix added seed redirect from http://cemes.fsv.cuni.cz/.
+http://iksz.fsv.cuni.cz/veda-vyzkum/cemes
+# Heritrix added seed redirect from http://casopispromodernifilologii.ff.cuni.cz/.
+https://casopispromodernifilologii.ff.cuni.cz/
+# Heritrix added seed redirect from http://www.s-antikvariat.cz/.
+https://www.s-antikvariat.cz/
+# Heritrix added seed redirect from http://czechtrade.cz/.
+https://czechtrade.cz/
+# Heritrix added seed redirect from http://www.vumop.cz/.
+https://www.vumop.cz/
+# Heritrix added seed redirect from http://www.antikvariatds.cz/.
+http://www.antikvariatds.cz/novinky
+# Heritrix added seed redirect from http://www.msmt.cz/.
+https://www.msmt.cz/
+# Heritrix added seed redirect from http://www.stuter.fsv.cuni.cz/.
+https://www.stuter.fsv.cuni.cz/
+# Heritrix added seed redirect from http://kamweb.ruk.cuni.cz/.
+https://kamweb.ruk.cuni.cz/
+# Heritrix added seed redirect from http://www.nlk.cz/.
+https://www.nlk.cz/
+# Heritrix added seed redirect from http://www.cuketka.cz/.
+https://www.cuketka.cz/
+# Heritrix added seed redirect from http://carolina.mff.cuni.cz/.
+https://ipsc.cuni.cz/IPSC-148.html
+# Heritrix added seed redirect from http://www.revma.cz/.
+https://www.revma.cz/
+# Heritrix added seed redirect from http://gender.ff.cuni.cz/.
+https://gender.ff.cuni.cz/
+# Heritrix added seed redirect from http://kfes-16.karlov.mff.cuni.cz/.
+http://kfes-16.karlov.mff.cuni.cz/~standa
+# Heritrix added seed redirect from http://kses.ff.cuni.cz/.
+https://kses.ff.cuni.cz/
+# Heritrix added seed redirect from http://mail.prf.cuni.cz/.
+https://mail.prf.cuni.cz/SOGo/
+# Heritrix added seed redirect from http://www.uzis.cz/.
+https://www.uzis.cz/
+# Heritrix added seed redirect from http://www.sosknihy.cz/.
+https://www.sosknihy.cz/
+# Heritrix added seed redirect from http://www.antikvariatdiamant.cz/.
+https://www.antikvariatdiamant.cz/
+# Heritrix added seed redirect from http://www.antikvariat-nika.cz/.
+https://www.antikvariat-nika.cz/
+# Heritrix added seed redirect from http://portal.justice.cz/Justice2/soud/soud.aspx?j=215&o=205&k=2175&d=351631.
+https://verejnazaloba.cz/
+# Heritrix added seed redirect from http://dv.ff.cuni.cz/.
+https://kdv.ff.cuni.cz/
+# Heritrix added seed redirect from http://www.uzsvm.cz/.
+https://www.uzsvm.cz/
+# Heritrix added seed redirect from http://www.tisickrate.cz/.
+https://www.tisickrate.cz/
+# Heritrix added seed redirect from http://www.denczv.cuni.cz/.
+https://www.denczv.cuni.cz/
+# Heritrix added seed redirect from http://ipc.cuni.cz/.
+https://ipc.cuni.cz/
+# Heritrix added seed redirect from http://www.fnkv.cz/.
+https://www.fnkv.cz/
+# Heritrix added seed redirect from http://www.antikvariatik.cz/.
+https://www.antikvariatik.cz/
+# Heritrix added seed redirect from http://intranet.fsv.cuni.cz/.
+http://fsv.cuni.cz/pro-zamestnance/
+# Heritrix added seed redirect from http://vubp.cz/.
+https://vubp.cz/
+# Heritrix added seed redirect from http://www.ff.cuni.cz/knihovna/.
+https://www.ff.cuni.cz/knihovna/
+# Heritrix added seed redirect from http://www.divus.cc/.
+http://www.divus.cc/praha/
+# Heritrix added seed redirect from http://www.ctk.cz/.
+https://www.ctk.cz/
+# Heritrix added seed redirect from http://www.nudz.cz/.
+https://www.nudz.cz/
+# Heritrix added seed redirect from http://www.antikvariatkarlin.cz/.
+https://www.antikvariatkarlin.cz/
+# Heritrix added seed redirect from http://clip.lf2.cuni.cz/.
+https://clip.lf2.cuni.cz/
+# Heritrix added seed redirect from http://www.albatani.cz/.
+http://www.albatani.cz/root/batani.htm
+# Heritrix added seed redirect from http://www.eantikvariat.cz/.
+https://www.eantikvariat.cz/
+# Heritrix added seed redirect from http://www.ruzicka-antikvariat.cz/.
+https://www.ruzicka-antikvariat.cz/
+# Heritrix added seed redirect from http://nacr.cz/.
+https://www.nacr.cz/
+# Heritrix added seed redirect from http://ktilinux.ms.mff.cuni.cz/.
+http://www.ktiml.mff.cuni.cz/
+# Heritrix added seed redirect from http://pes.ff.cuni.cz/.
+https://pes.ff.cuni.cz/
+# Heritrix added seed redirect from http://www.shioriantikvariat.cz/.
+https://www.shioriantikvariat.cz/
+# Heritrix added seed redirect from http://www.vfn.cz/.
+https://www.vfn.cz/
+# Heritrix added seed redirect from http://knihovna.prf.cuni.cz/.
+https://knihovna.prf.cuni.cz/
+# Heritrix added seed redirect from http://ksi.ms.mff.cuni.cz/.
+https://www.ksi.mff.cuni.cz/
+# Heritrix added seed redirect from http://www.kairosonyx.cz/.
+https://www.kairosonyx.cz/
+# Heritrix added seed redirect from http://www.nature.cz/.
+https://www.nature.cz/
+# Heritrix added seed redirect from http://german.ff.cuni.cz/.
+https://german.ff.cuni.cz/
+# Heritrix added seed redirect from http://knihovna.psychologie.ff.cuni.cz/.
+http://knihovnaceletna.ff.cuni.cz/
+# Heritrix added seed redirect from http://surao.cz/.
+https://surao.cz/
+# Heritrix added seed redirect from http://www.zastromujprahu.cz/.
+https://www.zastromujprahu.cz/
+# Heritrix added seed redirect from http://www.ctu.cz/.
+https://www.ctu.cz/
+# Heritrix added seed redirect from http://www.antikvariat-alfred.cz/.
+https://www.antikvariat-alfred.cz/
+# Heritrix added seed redirect from http://www.antiknihy.cz/.
+https://www.antiknihy.cz/
+# Heritrix added seed redirect from http://www.cssz.cz/.
+https://www.cssz.cz/
+# Heritrix added seed redirect from http://iksz.fsv.cuni.cz/.
+https://iksz.fsv.cuni.cz/
+# Heritrix added seed redirect from http://www.antiqari.at/.
+https://www.antiqari.at/
+# Heritrix added seed redirect from http://moodle.prf.cuni.cz/.
+https://moodle.prf.cuni.cz/
+# Heritrix added seed redirect from http://lexicon.ff.cuni.cz/.
+http://www.germanic-lexicon-project.org/
+# Heritrix added seed redirect from http://www.acpo.cz/.
+http://acpo.fsv.cuni.cz/
+# Heritrix added seed redirect from http://www.mzcr.cz/.
+https://www.mzcr.cz/
+# Heritrix added seed redirect from http://www.sfrb.cz/.
+https://www.sfrb.cz/
+# Heritrix added seed redirect from http://www.prazskyvoucher.cz/.
+http://prazskyvoucher.cz/www/
+# Heritrix added seed redirect from http://kbio.pedf.cuni.cz/.
+https://sites.google.com/site/pedfukkbev/
+# Heritrix added seed redirect from http://ldap.cuni.cz/.
+https://ldapuser.cuni.cz/
+# Heritrix added seed redirect from http://ksvi.mff.cuni.cz/.
+https://ksvi.mff.cuni.cz/
+# Heritrix added seed redirect from http://iforumeng.cuni.cz/.
+https://iforumeng.cuni.cz/
+# Heritrix added seed redirect from http://www.vupp.cz/.
+https://www.vupp.cz/
+# Heritrix added seed redirect from https://bio.praha.eu/.
+https://bioodpad.praha.eu/
+# Heritrix added seed redirect from http://www.prectene-knihy.cz/.
+https://www.prectene-knihy.cz/
+# Heritrix added seed redirect from http://is.cuni.cz/.
+https://www.cuni.cz/UK-4436.html
+# Heritrix added seed redirect from http://www.e-trafika.cz/.
+https://www.e-trafika.cz/
+# Heritrix added seed redirect from http://www.upmd.cz/.
+https://www.upmd.cz/
+# Heritrix added seed redirect from http://stovezata.praha.eu/.
+http://stovezata.praha.eu/index.html
+# Heritrix added seed redirect from http://www.natur.cuni.cz/geografie/.
+https://www.natur.cuni.cz/geografie/
+# Heritrix added seed redirect from http://www.usoud.cz/.
+https://www.usoud.cz/
+# Heritrix added seed redirect from http://www.endo.cz/.
+https://www.endo.cz/
+# Heritrix added seed redirect from http://www.techlib.cz/.
+https://www.techlib.cz/
+# Heritrix added seed redirect from http://www.szif.cz/.
+https://www.szif.cz/
+# Heritrix added seed redirect from http://lsss.ff.cuni.cz/.
+https://lsss.ff.cuni.cz/
+# Heritrix added seed redirect from http://www.ceskafilharmonie.cz/.
+https://www.ceskafilharmonie.cz/
+# Heritrix added seed redirect from https://www.cuni.cz/.
+https://cuni.cz/UK-1.html
+# Heritrix added seed redirect from http://kti.ms.mff.cuni.cz/.
+http://www.ktiml.mff.cuni.cz/
+# Heritrix added seed redirect from http://www.cbusbs.cz/.
+http://www.cbusbs.cz/cs/
+# Heritrix added seed redirect from http://kis.is.cuni.cz/.
+https://kis.is.cuni.cz/
+# Heritrix added seed redirect from https://www.cupress.cuni.cz/ink2_stat/index.jsp?include=AUC_detail&id=1221&predkl=1130.
+https://karolinum.cz/ink2_stat/index.jsp?include=AUC_detail&id=1221&predkl=1130
+# Heritrix added seed redirect from http://www.dzs.cz/cz/program-podpory-ceskeho-kulturniho-dedictvi-v-zahranici/krajiny-cestiny-dokumenty/.
+https://www.dzs.cz/cz/program-podpory-ceskeho-kulturniho-dedictvi-v-zahranici/krajiny-cestiny-dokumenty/
+# Heritrix added seed redirect from http://www.zzmv.cz/.
+https://www.zzmv.cz/
+# Heritrix added seed redirect from http://lectures.ms.mff.cuni.cz/.
+https://lectures.ms.mff.cuni.cz/
+# Heritrix added seed redirect from http://medicinajakoveda.lf3.cuni.cz/.
+https://donatio-intensivistam.cz/
+# Heritrix added seed redirect from http://www.mdcr.cz/.
+https://www.mdcr.cz/
+# Heritrix added seed redirect from http://uzpln.cz/.
+https://uzpln.cz/
+# Heritrix added seed redirect from http://www.jlbjlt.net/.
+https://jlbjlt.net/
+# Heritrix added seed redirect from http://www.cspsd.cz/.
+https://www.cspsd.cz/
+# Heritrix added seed redirect from http://ims.fsv.cuni.cz/.
+https://ims.fsv.cuni.cz/
+# Heritrix added seed redirect from http://www.antikvariat-vltavin.cz/.
+https://www.antikvariat-vltavin.cz/
+# Heritrix added seed redirect from http://lib-eth.natur.cuni.cz/.
+https://www.natur.cuni.cz/fakulta/oddeleni-pro-vedu/EIZ
+# Heritrix added seed redirect from http://seminar.cuni.cz/.
+http://www.seminar-praha.cz/
+# Heritrix added seed redirect from http://ovvp.mff.cuni.cz/.
+https://opmk.mff.cuni.cz/wiki/
+# Heritrix added seed redirect from http://pedagogika.ff.cuni.cz/.
+https://pedagogika.ff.cuni.cz/
+# Heritrix added seed redirect from http://portal.natur.cuni.cz/.
+http://www.natur.cuni.cz/
+# Heritrix added seed redirect from http://prijimacky.ff.cuni.cz/.
+http://www.ff.cuni.cz/uchazec
+# Heritrix added seed redirect from http://is.fhs.cuni.cz/.
+https://is.cuni.cz/studium/
+# Heritrix added seed redirect from http://www.ducr.cz/.
+https://www.ducr.cz/
+# Heritrix added seed redirect from http://pmr.cuni.cz/.
+https://pmr.cuni.cz/
+# Heritrix added seed redirect from http://medialnivychova.fsv.cuni.cz/.
+https://medialnivychova.fsv.cuni.cz/
+# Heritrix added seed redirect from http://www.kafeacigarko.cz/.
+https://www.rexter.cz/rubriky/kultura/marie-dolezalova-kafe-a-cigarko-recenze-knihy-a-blogu_498.html
+# Heritrix added seed redirect from http://kped.pedf.cuni.cz/.
+http://pages.pedf.cuni.cz/kssp/
+# Heritrix added seed redirect from http://nenya.ms.mff.cuni.cz/.
+https://nenya.ms.mff.cuni.cz/
+# Heritrix added seed redirect from http://knihovna.fsv.cuni.cz/.
+https://knihovna.fsv.cuni.cz/
+# Heritrix added seed redirect from http://www.htf.cuni.cz/.
+https://www.htf.cuni.cz/
+# Heritrix added seed redirect from http://rektorskyden.cuni.cz/.
+https://rektorskyden.cuni.cz/
+# Heritrix added seed redirect from http://rehabilitace.lf1.cuni.cz/.
+https://rehabilitace.lf1.cuni.cz/
+# Heritrix added seed redirect from http://www.financnisprava.cz/.
+https://www.financnisprava.cz/
+# Heritrix added seed redirect from http://misscuni.cz/.
+http://www.misskarlovka.cz/
+# Heritrix added seed redirect from http://www.czechtourism.cz/.
+https://www.czechtourism.cz/
+# Heritrix added seed redirect from https://www.ztracenysvet.com/.
+https://www.ztracenysvet.com/novinky
+# Heritrix added seed redirect from http://www.svscr.cz/.
+https://www.www.svscr.cz/
+# Heritrix added seed redirect from http://www.vscr.cz/.
+https://www.vscr.cz/
+# Heritrix added seed redirect from http://jogoviny.cz/.
+https://jogoviny.cz/
+# Heritrix added seed redirect from http://www.metropolevsech.eu/.
+https://www.metropolevsech.eu/
+# Heritrix added seed redirect from http://petrol.natur.cuni.cz/.
+https://petrol.natur.cuni.cz/
+# Heritrix added seed redirect from http://hydro.natur.cuni.cz/.
+http://hydro.natur.cuni.cz/index.php?lang=eng
+# Heritrix added seed redirect from http://posta.natur.cuni.cz/.
+https://mail.google.com/a/natur.cuni.cz
+# Heritrix added seed redirect from http://iss.fsv.cuni.cz/.
+https://iss.fsv.cuni.cz/
+# Heritrix added seed redirect from http://litenky.ff.cuni.cz/.
+http://litenky.ff.cuni.cz/index.php/
+# Heritrix added seed redirect from http://lib.natur.cuni.cz/.
+https://www.natur.cuni.cz/fakulta/oddeleni-pro-vedu/EIZ
+# Heritrix added seed redirect from http://psik.karlov.mff.cuni.cz/.
+https://psik.mff.cuni.cz/
+# Heritrix added seed redirect from http://search.cuni.cz/.
+https://search.cuni.cz/
+# Heritrix added seed redirect from http://koleje.cuni.cz/.
+https://koleje.cuni.cz/
+# Heritrix added seed redirect from http://science.lf1.cuni.cz/.
+https://science.lf1.cuni.cz/
+# Heritrix added seed redirect from http://www.concourt.cz/.
+https://www.concourt.cz/
+# Heritrix added seed redirect from http://otokar.troja.mff.cuni.cz/.
+http://utf.mff.cuni.cz/
+# Heritrix added seed redirect from http://pikomat.ms.mff.cuni.cz/.
+https://pikomat.mff.cuni.cz/
+# Heritrix added seed redirect from http://www.mze.cz/.
+http://eagri.cz/public/web/mze/
+# Heritrix added seed redirect from http://lge.lf1.cuni.cz/.
+http://ublg.lf1.cuni.cz/
+# Heritrix added seed redirect from http://www.ciernenabielom.sk/.
+https://www.ciernenabielom.sk/
+# Heritrix added seed redirect from http://pragestt.ff.cuni.cz/.
+https://pragestt.ff.cuni.cz/
+# Heritrix added seed redirect from http://ksppg.pedf.cuni.cz/.
+http://pages.pedf.cuni.cz/ksppg/
+# Heritrix added seed redirect from http://patofyziologie.lf1.cuni.cz/.
+https://patofyziologie.lf1.cuni.cz/
+# Heritrix added seed redirect from http://kdddweb.pedf.cuni.cz/.
+http://pages.pedf.cuni.cz/kddd/
+# Heritrix added seed redirect from http://kbes.pedf.cuni.cz/.
+http://pages.pedf.cuni.cz/kbes/
+# Heritrix added seed redirect from http://www.krmitko-pro-dusi.cz/.
+https://www.krmitko-pro-dusi.cz/
+# Heritrix added seed redirect from http://studenticuni.cz/.
+http://www.cesu.cz/
+# Heritrix added seed redirect from http://pedagogika.pedf.cuni.cz/.
+http://pages.pedf.cuni.cz/pedagogika/
+# Heritrix added seed redirect from http://www.abantikvariat.cz/.
+https://www.abantikvariat.cz/
+# Heritrix added seed redirect from https://www.govcert.cz/.
+https://www.nukib.cz/cs/kyberneticka-bezpecnost/
+# Heritrix added seed redirect from http://www.multiplace.org/.
+https://www.multiplace.org/
+# Heritrix added seed redirect from http://lists.karlov.mff.cuni.cz/.
+https://lists.karlov.mff.cuni.cz/
+# Heritrix added seed redirect from http://pez.cuni.cz/.
+https://ezdroje.cuni.cz/
+# Heritrix added seed redirect from http://ktiml.ms.mff.cuni.cz/.
+http://www.ktiml.mff.cuni.cz/
+# Heritrix added seed redirect from http://www.antikvariat-brdy.cz/.
+https://www.antikvariat-brdy.cz/
+# Heritrix added seed redirect from http://www.narodni-divadlo.cz/.
+https://www.narodni-divadlo.cz/
+# Heritrix added seed redirect from http://www.narodni-divadlo.cz/.
+https://www.narodni-divadlo.cz/
+# Heritrix added seed redirect from http://www.ktn.cz/.
+https://www.ktn.cz//
+# Heritrix added seed redirect from http://web.ff.cuni.cz/nm/.
+http://www.ff.cuni.cz/dok/fferror.php
+# Heritrix added seed redirect from http://studium.pedf.cuni.cz/.
+http://studium.pedf.cuni.cz/karolinka/2017/plany.html
+# Heritrix added seed redirect from http://pec.cuni.cz/.
+https://sfx.is.cuni.cz/sfxlcl3/journalsearch/ukall?lang=cze
+# Heritrix added seed redirect from http://www.antikvariat-slany.cz/.
+https://www.antikvariat-slany.cz/
+# Heritrix added seed redirect from http://www.vsc.cz/.
+https://www.vsc.cz/
+# Heritrix added seed redirect from http://manualy.ff.cuni.cz/.
+http://manualy.ff.cuni.cz/index.php/Hlavn%C3%AD_strana
+# Heritrix added seed redirect from http://iuuk.mff.cuni.cz/.
+https://iuuk.mff.cuni.cz/
+# Heritrix added seed redirect from http://is.mff.cuni.cz/.
+https://is.mff.cuni.cz/
+# Heritrix added seed redirect from http://www.vupsv.cz/.
+https://www.vupsv.cz/
+# Heritrix added seed redirect from http://int4.lf1.cuni.cz/.
+https://int4.lf1.cuni.cz/
+# Heritrix added seed redirect from http://msekce.karlin.mff.cuni.cz/.
+https://www.mff.cuni.cz/cs/matematicka-sekce/o-sekci
+# Heritrix added seed redirect from https://zarizeni.praha.eu/.
+https://zarizeni.praha.eu/Main/Mapa
+# Heritrix added seed redirect from http://informacniden.cuni.cz/.
+https://informacniden.cuni.cz/
+# Heritrix added seed redirect from http://nikam.ms.mff.cuni.cz/.
+https://kam.mff.cuni.cz/
+# Heritrix added seed redirect from http://kppg.pedf.cuni.cz/.
+http://kppp.pedf.cuni.cz/
+# Heritrix added seed redirect from https://www.antikvariat-pardubice.cz/.
+https://antikvariat-pardubice.cz/
+# Heritrix added seed redirect from http://www.ochrance.cz/.
+https://www.ochrance.cz/
+# Heritrix added seed redirect from http://www.sujchbo.cz/.
+https://www.sujchbo.cz/
+# Heritrix added seed redirect from http://www.celnisprava.cz/.
+https://www.celnisprava.cz/
+# Heritrix added seed redirect from http://ukb.lf1.cuni.cz/.
+https://ulbld.lf1.cuni.cz/
+# Heritrix added seed redirect from http://ic-cuni.cz/.
+https://ic-cuni.cz/
+# Heritrix added seed redirect from http://sociologickevecery.fsv.cuni.cz/.
+http://sociologickevecery.fsv.cuni.cz/vecer.php?sid=189
+# Heritrix added seed redirect from http://material.karlov.mff.cuni.cz/.
+https://material.karlov.mff.cuni.cz/
+# Heritrix added seed redirect from http://kddl.lf1.cuni.cz/.
+https://kpdpm.lf1.cuni.cz/
+# Heritrix added seed redirect from http://wiki.ufal.ms.mff.cuni.cz/.
+https://wiki.ufal.ms.mff.cuni.cz/
+# Heritrix added seed redirect from http://usvs.ff.cuni.cz/.
+http://www.ff.cuni.cz/fakulta/katedry-a-ustavy/
+# Heritrix added seed redirect from http://soudni.lf1.cuni.cz/.
+https://soudni.lf1.cuni.cz/
+# Heritrix added seed redirect from http://uvt.cuni.cz/.
+https://uvt.cuni.cz/
+# Heritrix added seed redirect from http://psdh.lf2.cuni.cz/.
+https://hematology.cz/sekce/pediatricka_sekce/informace.php
+# Heritrix added seed redirect from http://uim.lf1.cuni.cz/.
+https://uim.lf1.cuni.cz/
+# Heritrix added seed redirect from http://sis.lf1.cuni.cz/.
+https://is.cuni.cz/studium/index.php
+# Heritrix added seed redirect from http://psik.mff.cuni.cz/.
+https://psik.mff.cuni.cz/
+# Heritrix added seed redirect from http://udauk.cuni.cz/.
+https://udauk.cuni.cz/
+# Heritrix added seed redirect from http://users.prf.cuni.cz/.
+https://www.prf.cuni.cz/
+# Heritrix added seed redirect from http://web.prf.cuni.cz/.
+https://web.prf.cuni.cz/
+# Heritrix added seed redirect from http://orto.lf1.cuni.cz/.
+http://www.fnmotol.cz/ortopedicka-klinika-uk-1-lf
+# Heritrix added seed redirect from http://www.nyx.cz/.
+https://nyx.cz/
+# Heritrix added seed redirect from http://udmp.lf1.cuni.cz/.
+https://udmp.lf1.cuni.cz/
+# Heritrix added seed redirect from http://wwwold.natur.cuni.cz/.
+https://www.natur.cuni.cz/
+# Heritrix added seed redirect from http://ulita.ms.mff.cuni.cz/.
+https://ulita.ms.mff.cuni.cz/
+# Heritrix added seed redirect from http://karolinka.fsv.cuni.cz/.
+https://karolinka.fsv.cuni.cz/
+# Heritrix added seed redirect from http://vfn.lf1.cuni.cz/.
+http://www.vfn.cz/
+# Heritrix added seed redirect from http://www.abnormalizace.cz/.
+http://www.abnormalizace.cz/index.php
+# Heritrix added seed redirect from http://sml.strada.ff.cuni.cz/.
+https://sml.strada.ff.cuni.cz/
+# Heritrix added seed redirect from http://senat.ff.cuni.cz/.
+https://senat.ff.cuni.cz/
+# Heritrix added seed redirect from http://senat.cuni.cz/.
+https://senat.cuni.cz/
+# Heritrix added seed redirect from http://search.mff.cuni.cz/.
+http://www.mff.cuni.cz/search
+# Heritrix added seed redirect from http://ubeo.lf1.cuni.cz/.
+https://ubeo.lf1.cuni.cz/
+# Heritrix added seed redirect from http://web.ebscohost.com.ezproxy.is.cuni.cz/.
+https://login.ezproxy.is.cuni.cz/login?qurl=http://web.ebscohost.com%2f
+# Heritrix added seed redirect from http://www.industrialnitopografie.cz/.
+http://www.industrialnitopografie.cz/index2.php
+# Heritrix added seed redirect from http://migration.cuni.cz/.
+https://migration.cuni.cz/
+# Heritrix added seed redirect from http://webff.ff.cuni.cz/.
+https://www.ff.cuni.cz/
+# Heritrix added seed redirect from http://www.facebook.com/zapisnikalkoholicky/.
+https://www.facebook.com/zapisnikalkoholicky/
+# Heritrix added seed redirect from http://utpo.lf1.cuni.cz/.
+https://utpo.lf1.cuni.cz/
+# Heritrix added seed redirect from http://uvi.lf1.cuni.cz/.
+https://uvi.lf1.cuni.cz/
+# Heritrix added seed redirect from http://svp.pedf.cuni.cz/.
+http://www.strediskovzdelavacipolitiky.info/
+# Heritrix added seed redirect from http://verso.is.cuni.cz/.
+https://verso.is.cuni.cz/
+# Heritrix added seed redirect from http://vesmir.cts.cuni.cz/.
+http://www.vesmir.cz/
+# Heritrix added seed redirect from http://radio.lf1.cuni.cz/.
+https://radio.lf1.cuni.cz/
+# Heritrix added seed redirect from http://whois.cuni.cz/.
+https://is.cuni.cz/webapps/whois/search/
+# Heritrix added seed redirect from http://tarantula.ruk.cuni.cz/.
+https://tarantula.ruk.cuni.cz/
+# Heritrix added seed redirect from http://svoc.prf.cuni.cz/.
+https://www.prf.cuni.cz/svoc-1404048554.html
+# Heritrix added seed redirect from http://zes.fsv.cuni.cz/.
+https://zes.fsv.cuni.cz/
+# Heritrix added seed redirect from http://moodle.pedf.cuni.cz/.
+http://pedf.cuni.cz/PEDF-482.html
+# Heritrix added seed redirect from http://www.kokickovi.cz/.
+https://www.kokickovi.cz/
+# Heritrix added seed redirect from http://uprps.pedf.cuni.cz/.
+https://uprps.pedf.cuni.cz/
+# Heritrix added seed redirect from http://ortopedie.lf2.cuni.cz/.
+http://www.fnmotol.cz/kliniky-a-oddeleni/spolecna-pracoviste/ortopedicka-klinika-uk-2lf-a-fn-motol-detska-a-dos/
+# Heritrix added seed redirect from http://twinsen.natur.cuni.cz/.
+https://twinsen.natur.cuni.cz/
+# Heritrix added seed redirect from http://sfx.cuni.cz/.
+https://sfx.cuni.cz/
+# Heritrix added seed redirect from http://twinsen2.natur.cuni.cz/.
+https://twinsen2.natur.cuni.cz/
+# Heritrix added seed redirect from http://skas.mff.cuni.cz/.
+https://www.mff.cuni.cz/fakulta/as/skas/
+# Heritrix added seed redirect from http://www.nssoud.cz/.
+http://www.nssoud.cz/Uvod/art/1
+# Heritrix added seed redirect from http://udl.lf1.cuni.cz/.
+https://udl.lf1.cuni.cz/
+# Heritrix added seed redirect from http://ublg.lf2.cuni.cz/.
+http://www.fnmotol.cz/ublg/
+# Heritrix added seed redirect from http://udu2.ff.cuni.cz/.
+https://udu2.ff.cuni.cz/
+# Heritrix added seed redirect from http://www.antikvariat390.cz/.
+https://www.antikvariat390.cz/
+# Heritrix added seed redirect from http://www.filharmonickysbor.cz/.
+https://www.filharmonickysbor.cz/
+# Heritrix added seed redirect from http://sociologickeuterky.fsv.cuni.cz/.
+http://sociologickevecery.fsv.cuni.cz/
+# Heritrix added seed redirect from http://transcript.fsv.cuni.cz/.
+https://transcript.fsv.cuni.cz/
+# Heritrix added seed redirect from http://sbp.fsv.cuni.cz/.
+https://www.cfsp.cz/
+# Heritrix added seed redirect from http://romanistika.ff.cuni.cz/.
+https://romanistika.ff.cuni.cz/
+# Heritrix added seed redirect from http://aplikace.mvcr.cz/archiv2008/archivnictvi/periodika/obsah_rocniku_2005.pdf.
+https://aplikace.mvcr.cz/archiv2008/archivnictvi/periodika/obsah_rocniku_2005.pdf
+# Heritrix added seed redirect from http://mail.ff.cuni.cz/.
+https://www.ff.cuni.cz/webmail-2/
+# Heritrix added seed redirect from http://login.ezproxy.is.cuni.cz/.
+http://ezproxy.is.cuni.cz/login
+# Heritrix added seed redirect from http://psychiatrie.lf1.cuni.cz/.
+https://psychiatrie.lf1.cuni.cz/
+# Heritrix added seed redirect from http://ruk.cuni.cz/.
+https://ruk.cuni.cz/
+# Heritrix added seed redirect from http://stomatologie.lf1.cuni.cz/.
+https://stomatologie.lf1.cuni.cz/
+# Heritrix added seed redirect from http://kcj.pedf.cuni.cz/.
+https://kcj.pedf.cuni.cz/
+# Heritrix added seed redirect from http://kjp.ff.cuni.cz/.
+https://kjp.ff.cuni.cz/
+# Heritrix added seed redirect from http://lisa4.cuni.cz/.
+https://lisa4.cuni.cz/
+# Heritrix added seed redirect from http://kjp.fsv.cuni.cz/.
+https://kjp.fsv.cuni.cz/
+# Heritrix added seed redirect from http://www.poladprahu.cz/.
+https://www.poladprahu.cz/
+# Heritrix added seed redirect from http://iu.ff.cuni.cz/.
+http://ujca.ff.cuni.cz/
+# Heritrix added seed redirect from http://skuk.cuni.cz/.
+https://skuk.cuni.cz/
+# Heritrix added seed redirect from http://sit.pedf.cuni.cz/.
+https://sit.pedf.cuni.cz/
+# Heritrix added seed redirect from http://vsc.cz/.
+https://vsc.cz/
+# Heritrix added seed redirect from http://sfx.is.cuni.cz/.
+https://sfx.is.cuni.cz/
+# Heritrix added seed redirect from http://orca.ruk.cuni.cz/.
+https://sfx.is.cuni.cz/
+# Heritrix added seed redirect from http://kas.fsv.cuni.cz/.
+https://kas.fsv.cuni.cz/
+# Heritrix added seed redirect from http://www.mkcr.cz/.
+https://www.mkcr.cz/
+# Heritrix added seed redirect from http://www.laboratory.cz/.
+http://www.laboratory.cz/projects/1742-monstrum-oziva
+# Heritrix added seed redirect from http://www.nconzo.cz/.
+https://www.nconzo.cz/
+# Heritrix added seed redirect from http://www.paf.cz/.
+https://www.paf.cz/
+# Heritrix added seed redirect from http://mttalks.ufal.ms.mff.cuni.cz/.
+http://mttalks.ufal.ms.mff.cuni.cz/index.php?title=Main_Page
+# Heritrix added seed redirect from http://www.gramodesky.shop/.
+https://www.gramodesky.shop/
+# Heritrix added seed redirect from http://motolak.lf2.cuni.cz/.
+http://www.motolak.org/
+# Heritrix added seed redirect from http://rvda.cz/.
+https://www.rvda.cz/
+# Heritrix added seed redirect from http://www.szdc.cz/o-nas/organizacni-jednotky-szdc/ss-zapad.html.
+https://www.spravazeleznic.cz/o-nas/organizacni-jednotky-szdc/ss-zapad.html
+# Heritrix added seed redirect from http://edit.lf3.cuni.cz/system/login.
+https://cas.cuni.cz/cas/login?service=http%3A%2F%2Fedit.lf3.cuni.cz%2Fopencms%2Fopencms%2Fsystem%2Fworkplace%2Fviews%2Fworkplace.jsp
+# Heritrix added seed redirect from http://magazin-test-1.ff.cuni.cz/.
+https://magazin-test-1.ff.cuni.cz/
+# Heritrix added seed redirect from http://ling.ff.cuni.cz/.
+https://ling.ff.cuni.cz/
+# Heritrix added seed redirect from http://ukar.ff.cuni.cz/.
+https://ukar.ff.cuni.cz/
+# Heritrix added seed redirect from http://tydendiverzity.ff.cuni.cz/.
+https://tydendiverzity.ff.cuni.cz/
+# Heritrix added seed redirect from http://uves.ff.cuni.cz/.
+https://uves.ff.cuni.cz/
+# Heritrix added seed redirect from http://romistika.ff.cuni.cz/.
+https://kses.ff.cuni.cz/cs/katedra/struktura/romistika/
+# Heritrix added seed redirect from http://ujkn.ff.cuni.cz/.
+https://ujkn.ff.cuni.cz/
+# Heritrix added seed redirect from http://sites.ff.cuni.cz/.
+https://sites.ff.cuni.cz/
+# Heritrix added seed redirect from http://pcjs.ff.cuni.cz/.
+https://pcjs.ff.cuni.cz/
+# Heritrix added seed redirect from http://nordic.ff.cuni.cz/.
+https://nordic.ff.cuni.cz/
+# Heritrix added seed redirect from http://unm.lf1.cuni.cz/.
+https://unm.lf1.cuni.cz/
+# Heritrix added seed redirect from http://ubytovani.cuni.cz/.
+https://ubytovani.cuni.cz/
+# Heritrix added seed redirect from http://moodle.ff.cuni.cz/.
+https://moodle.ff.cuni.cz/
+# Heritrix added seed redirect from http://uvrv.pedf.cuni.cz/.
+http://pages.pedf.cuni.cz/uvrv/
+# Heritrix added seed redirect from http://prfdec.natur.cuni.cz/.
+http://www.natur.cuni.cz/
+# Heritrix added seed redirect from http://su.mff.cuni.cz/.
+https://su.mff.cuni.cz/
+# Heritrix added seed redirect from http://rozpravy.fsv.cuni.cz/.
+https://rozpravy.fsv.cuni.cz/
+# Heritrix added seed redirect from http://wp.pedf.cuni.cz/.
+http://pages.pedf.cuni.cz/
+# Heritrix added seed redirect from http://ublg.lf1.cuni.cz/.
+https://ublg.lf1.cuni.cz/
+# Heritrix added seed redirect from http://vyfuk.mff.cuni.cz/.
+https://vyfuk.mff.cuni.cz/doku.php
+# Heritrix added seed redirect from http://tynska.cuni.cz/.
+http://www.collegiummarianum.cz/
+# Heritrix added seed redirect from http://ufal-point.mff.cuni.cz/.
+https://ufal-point.mff.cuni.cz/
+# Heritrix added seed redirect from http://tinlib.cuni.cz/.
+https://tinlib.cuni.cz/
+# Heritrix added seed redirect from http://sirrah.troja.mff.cuni.cz/.
+https://sirrah.troja.mff.cuni.cz/
+# Heritrix added seed redirect from http://oldweb.ff.cuni.cz/.
+https://oldweb.ff.cuni.cz/
+# Heritrix added seed redirect from http://utl.lf1.cuni.cz/.
+https://utl.lf1.cuni.cz/
+# Heritrix added seed redirect from http://trimed.lf3.cuni.cz/.
+https://www.trimed.cz/
+# Heritrix added seed redirect from http://wifi.natur.cuni.cz/.
+https://www.natur.cuni.cz/faculty/cit/navody/wifi/
+# Heritrix added seed redirect from http://strediska.fsv.cuni.cz/.
+https://strediska.fsv.cuni.cz/
+# Heritrix added seed redirect from http://vpn.ff.cuni.cz/.
+https://vpn.ff.cuni.cz/
+# Heritrix added seed redirect from http://praxe.pedf.cuni.cz/.
+https://pages.pedf.cuni.cz/praxe/
+# Heritrix added seed redirect from http://xrg.ksi.ms.mff.cuni.cz/.
+https://www.ksi.mff.cuni.cz/
+# Heritrix added seed redirect from http://svi.ff.cuni.cz/.
+http://www.ff.cuni.cz/FF-23.html
+# Heritrix added seed redirect from http://rozvrh.lf3.cuni.cz/.
+https://rozvrh.lf3.cuni.cz/
+# Heritrix added seed redirect from http://svisrv.natur.cuni.cz/.
+https://www.natur.cuni.cz/fakulta/oddeleni-pro-vedu/EIZ
+# Heritrix added seed redirect from http://nrs.fsv.cuni.cz/.
+https://nrs.fsv.cuni.cz/
+# Heritrix added seed redirect from http://utv.lf1.cuni.cz/.
+https://utv.lf1.cuni.cz/
+# Heritrix added seed redirect from http://ubs.ff.cuni.cz/.
+https://ubs.ff.cuni.cz/
+# Heritrix added seed redirect from http://paideia.pedf.cuni.cz/.
+https://ojs.cuni.cz/paideia/
+# Heritrix added seed redirect from http://stopka-lab.lf1.cuni.cz/.
+https://stopka-lab.lf1.cuni.cz/
+# Heritrix added seed redirect from http://kdho.lf2.cuni.cz/.
+https://kdho.lf2.cuni.cz/
+# Heritrix added seed redirect from http://ufal.ms.mff.cuni.cz/.
+https://ufal.ms.mff.cuni.cz/
+# Heritrix added seed redirect from http://odbory.fsv.cuni.cz/.
+https://odbory.fsv.cuni.cz/
+# Heritrix added seed redirect from http://trimed2.lf3.cuni.cz/.
+https://donatio-intensivistam.cz/
+# Heritrix added seed redirect from http://www.adplus.cz/.
+https://www.adplus.cz/
+# Heritrix added seed redirect from http://ualk.ff.cuni.cz/.
+https://ualk.ff.cuni.cz/
+# Heritrix added seed redirect from http://www.coi.cz/en/.
+https://www.coi.cz/en/
+# Heritrix added seed redirect from http://www.vurv.cz/.
+https://www.vurv.cz/
+# Heritrix added seed redirect from http://userweb.pedf.cuni.cz/paideia/.
+http://paideia.pedf.cuni.cz/
+# Heritrix added seed redirect from http://socp.ff.cuni.cz/.
+https://socp.ff.cuni.cz/
+# Heritrix added seed redirect from http://www.czechinvest.org/en.
+http://www.czechinvest.org/cz
+# Heritrix added seed redirect from https://mawis.eu/utilityreport/vstupni-body/praha/.
+https://mawis.eu/utilityreport/mesta/praha/
+# Heritrix added seed redirect from http://uajd.ff.cuni.cz/.
+https://uajd.ff.cuni.cz/
+# Heritrix added seed redirect from http://sl.ff.cuni.cz/.
+https://sl.ff.cuni.cz/
+# Heritrix added seed redirect from http://sias.ff.cuni.cz/.
+https://sias.ff.cuni.cz/
+# Heritrix added seed redirect from http://ubva.ff.cuni.cz/.
+https://ubva.ff.cuni.cz/
+# Heritrix added seed redirect from http://kfes-16.karlov.mff.cuni.cz/~standa.
+http://kfes-16.karlov.mff.cuni.cz/~standa/
+# Heritrix added seed redirect from https://www.agentura-api.org/.
+https://www.agentura-api.org/cs/
+# Heritrix added seed redirect from http://www.mmr.cz/cs/uvod.
+https://www.mmr.cz/cs/uvod
+# Heritrix added seed redirect from https://www.bohnice.cz/.
+https://bohnice.cz/
+# Heritrix added seed redirect from http://portal.justice.cz/ms/ms.aspx?o=23&j=33.
+http://portal.justice.cz/Err404.htm?aspxerrorpath=/ms/ms.aspx
+# Heritrix added seed redirect from http://stovezata.praha.eu/index.html.
+http://stovezata.praha.eu/index.php
+# Heritrix added seed redirect from http://www.vuzv.cz/.
+https://www.vuzv.cz/
+# Heritrix added seed redirect from http://logika.ff.cuni.cz/.
+https://logic.ff.cuni.cz/
+# Heritrix added seed redirect from http://www.dzs.cz/cz/program-podpory-ceskeho-kulturniho-dedictvi-v-zahranici/obecne-informace-o-krajinach-cestiny/.
+https://www.dzs.cz/cz/program-podpory-ceskeho-kulturniho-dedictvi-v-zahranici/obecne-informace-o-krajinach-cestiny/
+# Heritrix added seed redirect from http://metabol.lfp.cuni.cz/.
+http://metabol.lfp.cuni.cz/index.asp
+# Heritrix added seed redirect from http://sociologie.ff.cuni.cz/.
+https://sociologie.ff.cuni.cz/
+# Heritrix added seed redirect from http://www.financnisprava.cz/cs/financni-sprava/generalni-financni-reditelstvi.
+https://www.financnisprava.cz/cs/financni-sprava/generalni-financni-reditelstvi
+# Heritrix added seed redirect from http://litenky.ff.cuni.cz/index.php/.
+http://litenky.ff.cuni.cz/index.php.html
+# Heritrix added seed redirect from http://kjbs.ff.cuni.cz/.
+https://kjbs.ff.cuni.cz/
+# Heritrix added seed redirect from https://tcs.cuni.cz/.
+https://tcs.cuni.cz/news
+# Heritrix added seed redirect from http://www.umpod.cz/.
+https://www.umpod.cz/
+# Heritrix added seed redirect from http://prase.cz/.
+https://prase.cz/
+# Heritrix added seed redirect from http://utrl.ff.cuni.cz/.
+https://utrl.ff.cuni.cz/
+# Heritrix added seed redirect from http://knihovnaceletna.ff.cuni.cz/.
+http://www.ff.cuni.cz/knihovna/seznam-knihoven-a-svi/seznam-dilcich-knihoven/knihovna-celetna/
+# Heritrix added seed redirect from https://www.npu.cz/.
+https://www.npu.cz/cs
+# Heritrix added seed redirect from http://orgchem.natur.cuni.cz/.
+https://cas.cuni.cz/cas/login?service=http%3A%2F%2Forgchem.natur.cuni.cz%2Fhome&gateway=true
+# Heritrix added seed redirect from http://bosworthtoller.com/.
+https://bosworthtoller.com/
+# Heritrix added seed redirect from https://karolinum.cz/ink2_stat/index.jsp?include=AUC_detail&id=1221&predkl=1130.
+https://karolinum.cz/casopis/historicka-sociologie
+# Heritrix added seed redirect from https://www.cuzzs.cz/.
+https://www.cuzzs.cz/cs/
+# Heritrix added seed redirect from https://e-shop.ff.cuni.cz/.
+https://e-shop.ff.cuni.cz/ffuk/eoc/products/
+# Heritrix added seed redirect from https://fyziologie.lf2.cuni.cz/.
+https://fyziologie.lf2.cuni.cz/cz/
+# Heritrix added seed redirect from http://etnologie.ff.cuni.cz/.
+https://etnologie.ff.cuni.cz/
+# Heritrix added seed redirect from http://aplikace.mvcr.cz/archiv2008/archivnictvi/periodika/obsah_rocniku_2006.pdf.
+https://aplikace.mvcr.cz/archiv2008/archivnictvi/periodika/obsah_rocniku_2006.pdf
+# Heritrix added seed redirect from http://www.vesmir.cz/.
+http://vesmir.cz/
+# Heritrix added seed redirect from https://envigogika.cuni.cz/.
+https://envigogika.cuni.cz/index.php/Envigogika
+# Heritrix added seed redirect from http://www.rrtv.cz/cz/.
+https://www.rrtv.cz/cz/
+# Heritrix added seed redirect from http://www.mkcr.cz/categories.php?id=322.
+https://www.mkcr.cz/categories.php?id=322
+# Heritrix added seed redirect from https://cas.cuni.cz/.
+https://ldapuser.cuni.cz//
+# Heritrix added seed redirect from https://nzm.cz/.
+http://www.nzm.cz/
+# Heritrix added seed redirect from https://cs.mfcr.cz/.
+https://www.celnisprava.cz/
+# Heritrix added seed redirect from http://urls.ff.cuni.cz/.
+https://urls.ff.cuni.cz/
+# Heritrix added seed redirect from https://artemis.ms.mff.cuni.cz/.
+http://artemis.ms.mff.cuni.cz/main
+# Heritrix added seed redirect from https://hodnoceni.ff.cuni.cz/.
+https://cas.cuni.cz/cas/login?service=http%3A%2F%2Fhodnoceni.ff.cuni.cz%2F
+# Heritrix added seed redirect from https://fu.ff.cuni.cz/.
+http://fonetika.ff.cuni.cz/
+# Heritrix added seed redirect from https://eduroam.cuni.cz/.
+https://uvt.cuni.cz/UVT-75.html
+# Heritrix added seed redirect from http://strada.ff.cuni.cz/.
+https://strada.ff.cuni.cz/
+# Heritrix added seed redirect from https://eks.fhs.cuni.cz/.
+https://eks.fhs.cuni.cz/EKS-1.html
+# Heritrix added seed redirect from http://udlv.ff.cuni.cz/.
+https://udlv.ff.cuni.cz/
+# Heritrix added seed redirect from http://psychologie.ff.cuni.cz/.
+https://psychologie.ff.cuni.cz/
+# Heritrix added seed redirect from https://hiso.fhs.cuni.cz/.
+https://hiso.fhs.cuni.cz/HISO-1.html
+# Heritrix added seed redirect from https://ips.fsv.cuni.cz/.
+https://ips.fsv.cuni.cz/IPSFSV-1.html
+# Heritrix added seed redirect from https://filosofie.fhs.cuni.cz/.
+https://filosofie.fhs.cuni.cz/FIFHS-1.html
+# Heritrix added seed redirect from https://helpdesk.natur.cuni.cz/.
+https://helpdesk.natur.cuni.cz/servlet/HelpdeskDynamic?eid=Rozcestnik
+# Heritrix added seed redirect from https://gender.fhs.cuni.cz/.
+https://gender.fhs.cuni.cz/KGS-1.html
+# Heritrix added seed redirect from https://ftvs.cuni.cz/.
+https://ftvs.cuni.cz/FTVS-1.html
+# Heritrix added seed redirect from https://www.maslo.cz/.
+https://maslo.cz/
+# Heritrix added seed redirect from https://ceses.cuni.cz/.
+https://ceses.cuni.cz/CESES-1.html
+# Heritrix added seed redirect from https://ekonom.cuni.cz/.
+https://ekonom.cuni.cz/EO-1.html
+# Heritrix added seed redirect from https://eis.cuni.cz/.
+https://www.cuni.cz/UK-3399.html
+# Heritrix added seed redirect from https://cozp.cuni.cz/.
+https://cozp.cuni.cz/COZP-1.html
+# Heritrix added seed redirect from https://dg.cuni.cz/.
+https://uvt.cuni.cz/UVT-586.html
+# Heritrix added seed redirect from http://www.szdc.cz/o-nas/organizacni-jednotky-szdc/szg-olomouc.html.
+https://www.spravazeleznic.cz/o-nas/organizacni-jednotky-szdc/szg-olomouc.html
+# Heritrix added seed redirect from https://digitool.cuni.cz/.
+https://digitool.cuni.cz/DIGITOOL-1.html
+# Heritrix added seed redirect from https://europeum.fsv.cuni.cz/.
+https://europeum.fsv.cuni.cz/EUR-1.html
+# Heritrix added seed redirect from https://gremiumkr.cuni.cz/.
+https://gremiumkr.cuni.cz/GKR2-1.html
+# Heritrix added seed redirect from https://alias.natur.cuni.cz/.
+https://alias.natur.cuni.cz/aliasy/
+# Heritrix added seed redirect from https://cl.ff.cuni.cz/.
+https://uclk.ff.cuni.cz/
+# Heritrix added seed redirect from http://uhsd.ff.cuni.cz/.
+https://uhsd.ff.cuni.cz/
+# Heritrix added seed redirect from http://urs.ff.cuni.cz/.
+https://urs.ff.cuni.cz/
+# Heritrix added seed redirect from https://finstina.ff.cuni.cz/.
+https://fin.ff.cuni.cz/
+# Heritrix added seed redirect from https://knihovna.jabok.cuni.cz/.
+https://knihovna.jabok.cuni.cz/eg/opac/home
+# Heritrix added seed redirect from https://el.lf1.cuni.cz/.
+https://el.lf1.cuni.cz/admin?domain=el.lf1.cuni.cz
+# Heritrix added seed redirect from http://udu.ff.cuni.cz/.
+https://udu.ff.cuni.cz/
+# Heritrix added seed redirect from http://ujca.ff.cuni.cz/.
+https://ujca.ff.cuni.cz/
+# Heritrix added seed redirect from https://cppt.cuni.cz/.
+https://cppt.cuni.cz/CPPTN-1.html
+# Heritrix added seed redirect from https://aleph.cuni.cz/.
+https://aleph.cuni.cz/ALEPH-1.html
+# Heritrix added seed redirect from http://uclk.ff.cuni.cz/.
+https://uclk.ff.cuni.cz/
+# Heritrix added seed redirect from http://ucjtk.ff.cuni.cz/.
+https://ucjtk.ff.cuni.cz/
+# Heritrix added seed redirect from https://www.antikvariatnerudova.cz/.
+https://antikvariatnerudova.cz/
+# Heritrix added seed redirect from http://uprav.ff.cuni.cz/.
+https://uprav.ff.cuni.cz/
+# Heritrix added seed redirect from https://czso.cz/.
+https://www.czso.cz/
+# Heritrix added seed redirect from https://www.leonclifton.cz/.
+https://www.leonclifton.cz/novinky
+# Heritrix added seed redirect from https://iforum.cuni.cz/.
+https://iforum.cuni.cz/IFORUM-1.html
+# Heritrix added seed redirect from http://ucnk.ff.cuni.cz/.
+https://ucnk.ff.cuni.cz/
+# Heritrix added seed redirect from https://www.wallstreet.sk/.
+https://www.wallstreet.sk/antique.php
+# Heritrix added seed redirect from http://uisk.ff.cuni.cz/.
+https://uisk.ff.cuni.cz/
+# Heritrix added seed redirect from https://www.compet.cz/.
+https://www.uohs.cz/
+# Heritrix added seed redirect from http://paideia.pedf.cuni.cz/.
+https://ojs.cuni.cz/paideia/
+# Heritrix added seed redirect from https://www.nipos-mk.cz/.
+https://www.nipos.cz/
+# Heritrix added seed redirect from https://ipsc.cuni.cz/.
+https://ukpoint.cuni.cz/IPSC-1.html
+# Heritrix added seed redirect from https://granty.praha.eu/.
+https://granty.praha.eu/GrantyPortal
+# Heritrix added seed redirect from https://mzp.cz/.
+https://www.mzp.cz/
+# Heritrix added seed redirect from https://acpo.fsv.cuni.cz/.
+https://acpo.fsv.cuni.cz/ACPON-1.html
+# Heritrix added seed redirect from https://www.modrovous.cz/.
+https://modrovous.cz/
+# Heritrix added seed redirect from https://unmz.cz/.
+https://www.unmz.cz/
+# Heritrix added seed redirect from https://www.praguecomputerscience.cz/.
+https://praguecomputerscience.cz/
+# Heritrix added seed redirect from https://www.ksi.mff.cuni.cz/.
+https://www.mff.cuni.cz/cs/informaticka-sekce/pracoviste/ksi
+# Heritrix added seed redirect from https://hus.cuni.cz/.
+https://hus.cuni.cz/HUS-1.html
+# Heritrix added seed redirect from https://airbnb.praha.eu/.
+https://www.praha.eu/jnp/cz/index.html
+# Heritrix added seed redirect from https://www.antikvariat-liberec.cz/.
+http://www.gramodesky.shop/gramodesky
+# Heritrix added seed redirect from https://www.ktf.cuni.cz/.
+https://www.ktf.cuni.cz/KTF-1.html
+# Heritrix added seed redirect from https://www.prazskenaplavky.cz/.
+https://prazskenaplavky.cz/
+# Heritrix added seed redirect from https://www.antikvariat-divis.cz/cze/home.
+https://www.antikvariat-divis.cz/cze/novinky
+# Heritrix added seed redirect from https://cck-isc.ff.cuni.cz/.
+https://cckisc.ff.cuni.cz/
+# Heritrix added seed redirect from https://litacka.praha.eu/.
+https://www.praha.eu/jnp/cz/potrebuji_resit/litacka/index.html
+# Heritrix added seed redirect from http://userweb.pedf.cuni.cz/specialnipedagogika/.
+http://specpeda.cz/
+# Heritrix added seed redirect from https://kam.cuni.cz/.
+https://kam.cuni.cz/KAM-1.html
+# Heritrix added seed redirect from https://www.stuter.fsv.cuni.cz/.
+https://www.stuter.fsv.cuni.cz/stuter
+# Heritrix added seed redirect from https://web.etf.cuni.cz/.
+https://web.etf.cuni.cz/ETFN-1.html
+# Heritrix added seed redirect from http://www.plbohnice.cz/.
+http://www.bohnice.cz/
+# Heritrix added seed redirect from https://www.pacholek.com/.
+https://pacholek.com/
+# Heritrix added seed redirect from https://film.ff.cuni.cz/.
+https://kfs.ff.cuni.cz/
+# Heritrix added seed redirect from https://css.ff.cuni.cz/.
+https://css.ff.cuni.cz/?lang=cs
+# Heritrix added seed redirect from https://czechtrade.cz/.
+http://www.czechtrade.cz/
+# Heritrix added seed redirect from https://www.antikvariat-u-prahy.cz/.
+https://antikvariat-u-prahy.cz/
+# Heritrix added seed redirect from https://estetika.ff.cuni.cz/.
+https://kest.ff.cuni.cz/
+# Heritrix added seed redirect from https://ipc.cuni.cz/.
+https://ukpoint.cuni.cz/IPSC-1.html
+# Heritrix added seed redirect from https://musicology.ff.cuni.cz/.
+https://uhv.ff.cuni.cz/
+# Heritrix added seed redirect from https://www.denczv.cuni.cz/.
+https://ipsc.cuni.cz/IPSC-137.html
+# Heritrix added seed redirect from https://andragogika.ff.cuni.cz/.
+https://kanpr.ff.cuni.cz/
+# Heritrix added seed redirect from https://www.suro.cz/.
+https://www.suro.cz/cz/index_html
+# Heritrix added seed redirect from http://www.divus.cc/praha/.
+http://www.divus.cc/praha/cs/
+# Heritrix added seed redirect from https://surao.cz/.
+https://www.surao.cz/
+# Heritrix added seed redirect from https://kamweb.ruk.cuni.cz/.
+https://kamweb.ruk.cuni.cz/webkredit/
+# Heritrix added seed redirect from https://www.tisickrate.cz/.
+https://tisickrate.cz/
+# Heritrix added seed redirect from https://edis.cuni.cz/.
+https://knihovna.fsv.cuni.cz/edis
+# Heritrix added seed redirect from https://clip.lf2.cuni.cz/.
+https://clip.lf2.cuni.cz/cs/
+# Heritrix added seed redirect from https://www.vupp.cz/.
+https://www.vupp.cz/cs/
+# Heritrix added seed redirect from http://german.ff.cuni.cz/pmwiki/pmwiki.php/Goethe/Goethe-Gesellschaft/.
+https://german.ff.cuni.cz/pmwiki/pmwiki.php/Goethe/Goethe-Gesellschaft/
+# Heritrix added seed redirect from https://egyptologie.ff.cuni.cz/.
+https://cegu.ff.cuni.cz/
+# Heritrix added seed redirect from https://www.szrcr.cz/.
+https://www.szrcr.cz/cs/
+# Heritrix added seed redirect from https://pes.ff.cuni.cz/.
+https://pes.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://iforumeng.cuni.cz/.
+https://iforum.cuni.cz/IFORUMENG-1.html
+# Heritrix added seed redirect from https://www.nature.cz/.
+http://www.ochranaprirody.cz/
+# Heritrix added seed redirect from https://www.sfrb.cz/.
+https://sfpi.cz/
+# Heritrix added seed redirect from https://www.techlib.cz/.
+https://www.techlib.cz/en/
+# Heritrix added seed redirect from https://cksvv.vuv.cz/.
+https://cksvv.vuv.cz/index.php/cz/
+# Heritrix added seed redirect from https://www.ducr.cz/.
+https://www.ducr.cz/cs/
+# Heritrix added seed redirect from https://petrol.natur.cuni.cz/.
+https://www.natur.cuni.cz/geologie/petrologie/
+# Heritrix added seed redirect from https://www.narodni-divadlo.cz/.
+https://www.narodni-divadlo.cz/cs
+# Heritrix added seed redirect from https://www.multiplace.org/.
+https://www.multiplace.org/2017
+# Heritrix added seed redirect from https://kis.is.cuni.cz/.
+https://kis.is.cuni.cz/KSIS-1.html
+# Heritrix added seed redirect from https://medialnivychova.fsv.cuni.cz/.
+https://medialnivychova.fsv.cuni.cz/MVP-1.html
+# Heritrix added seed redirect from https://dantikvariat.cz/.
+http://www.dantikvariat.cz//
+# Heritrix added seed redirect from https://koleje.cuni.cz/.
+https://kam.cuni.cz/KAM-33.html
+# Heritrix added seed redirect from https://www.czechtourism.cz/.
+http://www.czechtourism.cz/cs-CZ
+# Heritrix added seed redirect from https://search.cuni.cz/.
+https://www.cuni.cz/UK-4564.html
+# Heritrix added seed redirect from https://pedagogika.ff.cuni.cz/.
+https://kped.ff.cuni.cz/
+# Heritrix added seed redirect from https://www.vuv.cz/.
+https://www.vuv.cz/index.php/cz/
+# Heritrix added seed redirect from https://informacniden.cuni.cz/.
+https://ipsc.cuni.cz/IPSC-118.html
+# Heritrix added seed redirect from https://iuuk.mff.cuni.cz/.
+https://www.mff.cuni.cz/cs/iuuk
+# Heritrix added seed redirect from http://www.czp.cuni.cz/.
+https://www.czp.cuni.cz/
+# Heritrix added seed redirect from https://www.antikvariatjusticna.sk/.
+https://www.antikvariatjusticna.sk/?v=928568b84963
+# Heritrix added seed redirect from https://www.metropolevsech.eu/.
+https://www.metropolevsech.eu/cs/
+# Heritrix added seed redirect from http://email.jinonice.cuni.cz/.
+https://email.jinonice.cuni.cz/
+# Heritrix added seed redirect from http://www.financnisprava.cz/cs/financni-sprava/organy-financni-spravy/odvolaci-financni-reditelstvi.
+https://www.financnisprava.cz/cs/financni-sprava/organy-financni-spravy/odvolaci-financni-reditelstvi
+# Heritrix added seed redirect from https://lists.karlov.mff.cuni.cz/.
+https://lists.karlov.mff.cuni.cz/mailman/listinfo/
+# Heritrix added seed redirect from https://senat.cuni.cz/.
+http://www.cuni.cz/UK-5760.html
+# Heritrix added seed redirect from https://rektorskyden.cuni.cz/.
+https://rektorskyden.cuni.cz/RD-1.html
+# Heritrix added seed redirect from https://udauk.cuni.cz/.
+https://udauk.cuni.cz/ARCH-1.html
+# Heritrix added seed redirect from https://karolinka.fsv.cuni.cz/.
+https://karolinka.fsv.cuni.cz/KFSV-1.html
+# Heritrix added seed redirect from https://ruk.cuni.cz/.
+https://www.cuni.cz/
+# Heritrix added seed redirect from https://uvt.cuni.cz/.
+https://uvt.cuni.cz/UVT-1.html
+# Heritrix added seed redirect from http://ldap1.cuni.cz/.
+https://ldap.cuni.cz/
+# Heritrix added seed redirect from https://udu2.ff.cuni.cz/.
+https://udu.ff.cuni.cz/
+# Heritrix added seed redirect from http://tarantula.ruk.cuni.cz/EKS-1.html.
+https://tarantula.ruk.cuni.cz/EKS-1.html
+# Heritrix added seed redirect from http://artemis.ms.mff.cuni.cz/main.
+https://artemis.ms.mff.cuni.cz/main
+# Heritrix added seed redirect from https://www.celnisprava.cz/.
+https://www.celnisprava.cz/Pages/VariationRoot.aspx
+# Heritrix added seed redirect from https://sfx.cuni.cz/.
+https://sfx.cuni.cz/SFX-1.html
+# Heritrix added seed redirect from http://aplikace.mvcr.cz/archiv2008/archivnictvi/periodika/rejstrik1996_2005.pdf.
+https://aplikace.mvcr.cz/archiv2008/archivnictvi/periodika/rejstrik1996_2005.pdf
+# Heritrix added seed redirect from https://zes.fsv.cuni.cz/.
+https://kes.fsv.cuni.cz/KZS-1.html
+# Heritrix added seed redirect from https://senat.ff.cuni.cz/.
+http://www.ff.cuni.cz/FF-5004.html
+# Heritrix added seed redirect from http://www.szdc.cz/o-nas/organizacni-jednotky-szdc/szg-praha.html.
+https://www.spravazeleznic.cz/o-nas/organizacni-jednotky-szdc/szg-praha.html
+# Heritrix added seed redirect from https://migration.cuni.cz/.
+http://www.migration.cz/
+# Heritrix added seed redirect from https://www.nconzo.cz/.
+https://www.nconzo.cz/cs/
+# Heritrix added seed redirect from http://plavebniurad.cz/.
+https://plavebniurad.cz/
+# Heritrix added seed redirect from https://kas.fsv.cuni.cz/.
+https://ims.fsv.cuni.cz/institut/katedra-severoamerickych-studii
+# Heritrix added seed redirect from http://www.mkcr.cz/scripts/detail.php?id=243.
+https://www.mkcr.cz/scripts/detail.php?id=243
+# Heritrix added seed redirect from https://su.mff.cuni.cz/.
+https://su.mff.cuni.cz/redirhome
+# Heritrix added seed redirect from https://skuk.cuni.cz/.
+https://www.cuni.cz/UK-309.html
+# Heritrix added seed redirect from https://kjp.fsv.cuni.cz/.
+https://fsv.cuni.cz/studium/vyuka-jazyku
+# Heritrix added seed redirect from https://alias.natur.cuni.cz/aliasy/.
+http://alias.natur.cuni.cz/aliasy/login?next=/aliasy/
+# Heritrix added seed redirect from https://uprps.pedf.cuni.cz/.
+https://uprps.pedf.cuni.cz/UPRPS-1.html
+# Heritrix added seed redirect from https://ubytovani.cuni.cz/.
+https://kam.cuni.cz/
+# Heritrix added seed redirect from http://ublg.lf1.cuni.cz/.
+https://ublg.lf1.cuni.cz/
+# Heritrix added seed redirect from https://romanistika.ff.cuni.cz/.
+https://urs.ff.cuni.cz/
+# Heritrix added seed redirect from https://el.lf1.cuni.cz/admin?domain=el.lf1.cuni.cz.
+https://el.lf1.cuni.cz/system/login?domain=el.lf1.cuni.cz&next=%2Fadmin%3Fdomain%3Del.lf1.cuni.cz&set-lang=nl&OWASP_CSRFTOKEN=64d0d71150f90a112789c3461560742e644a2b44cc2abad6eacec0c0a52ae46a
+# Heritrix added seed redirect from https://www.poladprahu.cz/.
+https://poladprahu.cz/
+# Heritrix added seed redirect from https://ceses.cuni.cz/CESES-1.html.
+http://www.ceses.cuni.cz/CESES-4.html
+# Heritrix added seed redirect from https://www.htf.cuni.cz/.
+https://htf.cuni.cz/HTF-1.html
+# Heritrix added seed redirect from https://tinlib.cuni.cz/.
+https://tseries.cuni.cz/TSERIES-1.html
+# Heritrix added seed redirect from https://oldweb.ff.cuni.cz/.
+https://oldweb.ff.cuni.cz/FF-1.html
+# Heritrix added seed redirect from https://strediska.fsv.cuni.cz/.
+https://strediska.fsv.cuni.cz/front.sign/in
+# Heritrix added seed redirect from http://acpo.fsv.cuni.cz/.
+https://acpo.fsv.cuni.cz/
+# Heritrix added seed redirect from https://rozvrh.lf3.cuni.cz/.
+https://rozvrh.lf3.cuni.cz/kalendar/
+# Heritrix added seed redirect from https://www.ksi.mff.cuni.cz/.
+https://www.mff.cuni.cz/cs/informaticka-sekce/pracoviste/ksi
+# Heritrix added seed redirect from https://kjp.ff.cuni.cz/.
+http://www.ff.cuni.cz/FF-8252.html
+# Heritrix added seed redirect from https://transcript.fsv.cuni.cz/.
+https://transcript.fsv.cuni.cz/sign/in
+# Heritrix added seed redirect from http://portalzp.praha.eu/.
+http://portalzp.praha.eu/jnp/
+# Heritrix added seed redirect from https://www.filharmonickysbor.cz/.
+https://filharmonickysbor.cz/
+# Heritrix added seed redirect from http://www.ochranaprirody.cz/.
+https://www.ochranaprirody.cz/
+# Heritrix added seed redirect from https://vsc.cz/.
+https://www.vsc.cz/
+# Heritrix added seed redirect from https://etm.praha.eu/.
+https://etm.praha.eu/jnp/
+# Heritrix added seed redirect from https://granty.praha.eu/GrantyPortal.
+https://granty.praha.eu/GrantyPortal/
+# Heritrix added seed redirect from https://www.jabok.cz/.
+https://www.jabok.cz/cs
+# Heritrix added seed redirect from https://magazin-test-1.ff.cuni.cz/.
+https://sites.ff.cuni.cz/
+# Heritrix added seed redirect from http://prazskyvoucher.cz/www/.
+http://prazskyvoucher.cz//
+# Heritrix added seed redirect from https://kcj.pedf.cuni.cz/.
+https://kcj.pedf.cuni.cz/PEDFKCJ-1.html
+# Heritrix added seed redirect from https://www.knihovna.upm.cz/.
+https://knihovna-upm.cz/
+# Heritrix added seed redirect from https://nrs.fsv.cuni.cz/.
+https://knrs.fsv.cuni.cz/KNRS-1.html
+# Heritrix added seed redirect from http://stovezata.praha.eu/index.php.
+http://stovezata.praha.eu/index.html
+# Heritrix added seed redirect from http://portal.justice.cz/soud/soud.aspx?o=202&j=212&k=2015.
+https://verejnazaloba.cz/
+# Heritrix added seed redirect from https://mail.google.com/a/natur.cuni.cz.
+https://www.google.com/a/natur.cuni.cz/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&ltmpl=default&ltmplcache=2&emr=1&osid=1
+# Heritrix added seed redirect from http://iksz.fsv.cuni.cz/veda-vyzkum/cemes.
+https://iksz.fsv.cuni.cz/veda-vyzkum/cemes
+# Heritrix added seed redirect from http://www.antikvariat59.cz/.
+https://www.antikvariat59.cz/
+# Heritrix added seed redirect from https://ldap.cuni.cz/.
+https://ldapuser.cuni.cz/
+# Heritrix added seed redirect from https://ipsc.cuni.cz/IPSC-148.html.
+https://ukpoint.cuni.cz/IPSC-148.html
+# Heritrix added seed redirect from http://www.vfn.cz/pracoviste/kliniky-a-oddeleni/gynekologicko-porodnicka-klinika/.
+https://www.vfn.cz/pracoviste/kliniky-a-oddeleni/gynekologicko-porodnicka-klinika/
+# Heritrix added seed redirect from https://ujkn.ff.cuni.cz/.
+https://ujkn.ff.cuni.cz/cs/
+# Heritrix added seed redirect from http://www.fulbright.cz/.
+https://www.fulbright.cz/
+# Heritrix added seed redirect from http://www.collegiummarianum.cz/.
+https://www.collegiummarianum.cz/
+# Heritrix added seed redirect from https://tydendiverzity.ff.cuni.cz/.
+https://tydendiverzity.cz/
+# Heritrix added seed redirect from https://www.wallstreet.sk/antique.php.
+https://www.wallstreet.sk/antique.php
+# Heritrix added seed redirect from https://www.techlib.cz/.
+https://www.techlib.cz/en/
+# Heritrix added seed redirect from http://estetikajournal.org/.
+https://estetikajournal.org/
+# Heritrix added seed redirect from https://ufal-point.mff.cuni.cz/.
+https://lindat.mff.cuni.cz/
+# Heritrix added seed redirect from https://odbory.fsv.cuni.cz/.
+https://odbory.fsv.cuni.cz/FSVO-1.html
+# Heritrix added seed redirect from https://www.multiplace.org/2017.
+https://www.multiplace.org/2017/
+# Heritrix added seed redirect from http://pedf.cuni.cz/PEDF-482.html.
+https://pedf.cuni.cz/PEDF-482.html
+# Heritrix added seed redirect from http://sedmagenerace.cz/.
+https://sedmagenerace.cz/
+# Heritrix added seed redirect from http://www.czechtourism.cz/cs-CZ.
+https://www.czechtourism.cz/cs-CZ
+# Heritrix added seed redirect from http://cfm.gynpor.cz/.
+https://cfm.gynpor.cz/
+# Heritrix added seed redirect from https://uves.ff.cuni.cz/.
+https://uves.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://pcjs.ff.cuni.cz/.
+https://pcjs.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://tcs.cuni.cz/news.
+https://tcs.cuni.cz/news/
+# Heritrix added seed redirect from https://www.penizeproprahu.cz//.
+https://www.penizeproprahu.cz/
+# Heritrix added seed redirect from https://www.metropolevsech.eu/cs/.
+https://metropolevsech.eu/cs/
+# Heritrix added seed redirect from https://artemis.ms.mff.cuni.cz/main.
+https://artemis.ms.mff.cuni.cz/main/
+# Heritrix added seed redirect from https://www.celnisprava.cz/.
+https://www.celnisprava.cz/Pages/VariationRoot.aspx
+# Heritrix added seed redirect from http://aplikace.mvcr.cz/archiv2008/index.html.
+https://aplikace.mvcr.cz/archiv2008/index.html
+# Heritrix added seed redirect from https://www.ktn.cz//.
+https://www.ktn.cz/index
+# Heritrix added seed redirect from https://ukar.ff.cuni.cz/.
+https://ukar.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://www.cuni.cz/UK-4436.html.
+https://cuni.cz/UK-4436.html
+# Heritrix added seed redirect from https://www.nlk.cz/.
+https://nlk.cz/
+# Heritrix added seed redirect from https://su.mff.cuni.cz/redirhome.
+https://idp.cuni.cz/cas/login?service=https%3A%2F%2Fsu.mff.cuni.cz%2FauthService%2Fredirhome
+# Heritrix added seed redirect from https://cas.cuni.cz/cas/login?service=http%3A%2F%2Forgchem.natur.cuni.cz%2Fhome&gateway=true.
+http://orgchem.natur.cuni.cz/home
+# Heritrix added seed redirect from https://ubva.ff.cuni.cz/.
+https://kbv.ff.cuni.cz/
+# Heritrix added seed redirect from https://ling.ff.cuni.cz/.
+https://ling.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://german.ff.cuni.cz/.
+https://german.ff.cuni.cz/cs/
+# Heritrix added seed redirect from http://alias.natur.cuni.cz/aliasy/login?next=/aliasy/.
+https://alias.natur.cuni.cz/aliasy/login?next=/aliasy/
+# Heritrix added seed redirect from https://sias.ff.cuni.cz/.
+https://sias.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://kjbs.ff.cuni.cz/.
+https://kjbs.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://nordic.ff.cuni.cz/.
+https://nordic.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://www.ksi.mff.cuni.cz/.
+https://www.mff.cuni.cz/cs/informaticka-sekce/pracoviste/ksi
+# Heritrix added seed redirect from https://sl.ff.cuni.cz/.
+https://svetliteratury.ff.cuni.cz/
+# Heritrix added seed redirect from https://kses.ff.cuni.cz/.
+https://kses.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://urls.ff.cuni.cz/.
+https://urls.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://rozvrh.lf3.cuni.cz/kalendar/.
+https://rozvrh.lf3.cuni.cz/login?next=/kalendar/
+# Heritrix added seed redirect from https://socp.ff.cuni.cz/.
+https://ksocp.ff.cuni.cz/
+# Heritrix added seed redirect from https://www.dzs.cz/cz/program-podpory-ceskeho-kulturniho-dedictvi-v-zahranici/krajiny-cestiny-dokumenty/.
+https://www.dzs.cz/program/program-podpory-ceskeho-kulturniho-dedictvi-v-zahranici
+# Heritrix added seed redirect from https://www.dzs.cz/cz/program-podpory-ceskeho-kulturniho-dedictvi-v-zahranici/krajiny-cestiny-dokumenty/.
+https://www.dzs.cz/cz/program-podpory-ceskeho-kulturniho-dedictvi-v-zahranici/krajiny-cestiny-dokumenty/'https://www.dzs.cz/program/program-podpory-ceskeho-kulturniho-dedictvi-v-zahranici'
+# Heritrix added seed redirect from https://utrl.ff.cuni.cz/.
+https://utrl.ff.cuni.cz/cs/
+# Heritrix added seed redirect from http://www.gramodesky.shop/gramodesky.
+https://www.gramodesky.shop/gramodesky
+# Heritrix added seed redirect from http://portal.justice.cz/soud/soud.aspx?o=203&j=213&k=2027.
+https://verejnazaloba.cz/
+# Heritrix added seed redirect from https://granty.praha.eu/GrantyPortal/.
+https://granty.praha.eu/GrantyPortal/default
+# Heritrix added seed redirect from https://sociologie.ff.cuni.cz/.
+https://ksoc.ff.cuni.cz/
+# Heritrix added seed redirect from http://stovezata.praha.eu/index.html.
+http://stovezata.praha.eu/index.php
+# Heritrix added seed redirect from https://sites.google.com/site/pedfukkbev/.
+https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fpedfukkbev%2F
+# Heritrix added seed redirect from http://fsv.cuni.cz/en/.
+https://fsv.cuni.cz/en/
+# Heritrix added seed redirect from https://ubs.ff.cuni.cz/.
+https://ubs.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://bezpecnostniprupravadeti.praha.eu/.
+https://bezpecnostniprupravadeti.praha.eu/jnp/
+# Heritrix added seed redirect from https://verso.is.cuni.cz/.
+https://verso.is.cuni.cz/fcgi/verso.fpl?fname=web_index
+# Heritrix added seed redirect from https://www.multiplace.org/2017/.
+https://multiplace.org/2017/
+# Heritrix added seed redirect from https://detskeskupiny.praha.eu/.
+https://detskeskupiny.praha.eu/jnp/
+# Heritrix added seed redirect from https://www.narodni-divadlo.cz/.
+https://www.narodni-divadlo.cz/cs
+# Heritrix added seed redirect from https://www.czp.cuni.cz/.
+https://www.czp.cuni.cz/czp/
+# Heritrix added seed redirect from https://eba.praha.eu/.
+https://eba.praha.eu/jnp/
+# Heritrix added seed redirect from https://pamatky.praha.eu/.
+https://pamatky.praha.eu/jnp/
+# Heritrix added seed redirect from http://www.fnmotol.cz/ortopedicka-klinika-uk-1-lf.
+https://www.fnmotol.cz/kliniky-a-oddeleni/cast-pro-dospele/ortopedicka-klinika-uk-1-lf-a-fn-motol/
+# Heritrix added seed redirect from http://www.bohnice.cz/.
+https://bohnice.cz/
+# Heritrix added seed redirect from https://cestovniruch.praha.eu/.
+https://cestovniruch.praha.eu/jnp/
+# Heritrix added seed redirect from https://www.ktn.cz/index.
+https://www.ktn.cz/intro
+# Heritrix added seed redirect from https://psychologie.ff.cuni.cz/.
+https://kps.ff.cuni.cz/
+# Heritrix added seed redirect from https://kultura.praha.eu/.
+https://kultura.praha.eu/jnp/
+# Heritrix added seed redirect from https://etnologie.ff.cuni.cz/.
+https://uetn.ff.cuni.cz/
+# Heritrix added seed redirect from https://www.scholapragensis.cz/.
+https://www.scholapragensis.cz/jnp/
+# Heritrix added seed redirect from https://www.celnisprava.cz/Pages/VariationRoot.aspx.
+https://www.celnisprava.cz/cz
+# Heritrix added seed redirect from https://cestakevzdelani.praha.eu/.
+https://cestakevzdelani.praha.eu/jnp/
+# Heritrix added seed redirect from https://prahart.praha.eu/.
+https://prahart.praha.eu/jnp/
+# Heritrix added seed redirect from https://tarantula.ruk.cuni.cz/EKS-1.html.
+https://eks.fhs.cuni.cz/EKS-1.html
+# Heritrix added seed redirect from https://bezpecnapraha.praha.eu/.
+https://bezpecnapraha.praha.eu/jnp/
+# Heritrix added seed redirect from https://email.jinonice.cuni.cz/.
+https://email.jinonice.cuni.cz/owa/
+# Heritrix added seed redirect from https://sdileneubytovani.praha.eu/.
+http://sdileneubytovani.praha.eu/jnp/
+# Heritrix added seed redirect from https://taxi.praha.eu/.
+https://taxi.praha.eu/jnp/
+# Heritrix added seed redirect from https://www.szif.cz/.
+https://www.szif.cz/cs
+# Heritrix added seed redirect from https://acpo.fsv.cuni.cz/.
+https://acpo.fsv.cuni.cz/ACPON-1.html
+# Heritrix added seed redirect from https://uisk.ff.cuni.cz/.
+https://uisk.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://udlv.ff.cuni.cz/.
+https://ksi.ff.cuni.cz/
+# Heritrix added seed redirect from http://mluvniceanglictiny.cz/.
+https://mluvniceanglictiny.cz/
+# Heritrix added seed redirect from https://ucnk.ff.cuni.cz/.
+https://ucnk.ff.cuni.cz/cs/
+# Heritrix added seed redirect from http://portal.justice.cz/soud/soud.aspx?o=205&j=215&k=2046.
+https://verejnazaloba.cz/
+# Heritrix added seed redirect from https://uprav.ff.cuni.cz/.
+https://upa.ff.cuni.cz/
+# Heritrix added seed redirect from https://www.dzs.cz/cz/program-podpory-ceskeho-kulturniho-dedictvi-v-zahranici/obecne-informace-o-krajinach-cestiny/.
+https://www.dzs.cz/program/program-podpory-ceskeho-kulturniho-dedictvi-v-zahranici
+# Heritrix added seed redirect from https://www.dzs.cz/cz/program-podpory-ceskeho-kulturniho-dedictvi-v-zahranici/obecne-informace-o-krajinach-cestiny/.
+https://www.dzs.cz/cz/program-podpory-ceskeho-kulturniho-dedictvi-v-zahranici/obecne-informace-o-krajinach-cestiny/'https://www.dzs.cz/program/program-podpory-ceskeho-kulturniho-dedictvi-v-zahranici'
+# Heritrix added seed redirect from https://www.vuzv.cz/.
+https://vuzv.cz/
+# Heritrix added seed redirect from http://fsv.cuni.cz/pro-zamestnance/.
+https://fsv.cuni.cz/pro-zamestnance/
+# Heritrix added seed redirect from https://www.gramodesky.shop/gramodesky.
+https://www.gramodesky.shop/
+# Heritrix added seed redirect from http://ujca.ff.cuni.cz/.
+https://ujca.ff.cuni.cz/
+# Heritrix added seed redirect from http://www.prf.cuni.cz/eduroam-1404045974.html.
+https://www.prf.cuni.cz/eduroam-1404045974.html
+# Heritrix added seed redirect from https://www.czp.cuni.cz/czp/.
+https://www.czp.cuni.cz/czp/index.php/cz/
+# Heritrix added seed redirect from https://udu.ff.cuni.cz/.
+https://udu.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://uhsd.ff.cuni.cz/.
+https://uhsd.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://is.cuni.cz/studium/.
+https://idp.cuni.cz/cas/login?service=https%3A%2F%2Fis.cuni.cz%2Fstudium%2Findex.php%3Fsso_id%3Dd48c8551315328e0901c44bc93984df8&gateway=true
+# Heritrix added seed redirect from http://prazskyvoucher.cz//.
+https://prazskyvoucher.cz/
+# Heritrix added seed redirect from https://www.celnisprava.cz/Pages/VariationRoot.aspx.
+https://www.celnisprava.cz/cz
+# Heritrix added seed redirect from https://verso.is.cuni.cz/fcgi/verso.fpl?fname=web_index.
+https://login-veda.is.cuni.cz/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZLLboMwEEV%2FBXkPJuRFrIBEk0UjpQ0KtItuKmNMsGRs6jHp4%2BtLQqqmXWQ9d47nHnkJtJEtSTpbqz1%2F6zhY56ORCsh5EKHOKKIpCCCKNhyIZSRLHrYk8HzSGm010xI5CQA3Vmi10gq6hpuMm6Ng%2FGm%2FjVBtbQsE4yM3oD0BHuuU8NgXzmpRFFpyW3sAGp%2B4AU53WY6cdX%2BIUPSE%2FAVIfRDKPfKSXlNE2eL%2BkkpIfkHseSkMZxZn2Q45m3WEXku2KGYLP5xTPxhPx6yq5rNpUM3DMCxnxcLvYwAd3yiwVNkIBX4wcv2JGwS5H5LxhEzDF%2BSkl8J3QpVCHW7bKYYQkPs8T92h1nOv4FypD6B4eXJMzg%2BbK%2Bu3sfRHNYr%2FC13iK%2BBAb8ljT9isUy0F%2B3QSKfX7ynBqeYRGCMfDyt8PEH8D&RelayState=https%3A%2F%2Fverso.is.cuni.cz%2Ffcgi%2Fverso.fpl%3Ffname%3Dweb_index&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=kc1jontxkSuAVuILSp9c39wGmjN00z976VZ47RWI3qTX8CMTvs57Yu3w37Qm%2BybWkWnGRVyYPocRNxZL7SszuZZ4ApDT4EJJRp3cki0D9%2BN5y9vsFDE1cSRx%2F2gdCfIJu%2BmHj%2FdSmDH88TKVWg7xP1JXGvsrnoRl%2B%2FfBKEcNGyXZzOp5ZD54SXXiQPmomTx8KScxnTCOjqZhfsbaxdDZnnXLcxV%2FSekniZsJh7ITty%2BVzqakR%2Fcu31otdUSAvFnrYU%2BvsW5pKKligI5KkjR4sAjpQMDu4SzHkB67UeaR0EoAS3kdXiOBdMQnNmlo7V%2FVSWiH%2BxW8a%2BhGJlOwRyk276RkBcy9ZXUjzixsPhGaDi6A%2FXarHUx88gXpK24bbnxHj0lrzhLwu7yGMthEmtK2GuX3ra%2BBtIZPiJrsGsyVqoO15BAQ1Sfxhaj%2Fr6RdRTE8B%2Ft%2B3VoBf0UMuoSQ56lGphlzbvkUkP5FsyESUZROmEHQQr3w6Fpuqu1cEx4x%2FCRD
+# Heritrix added seed redirect from https://www.wallstreet.sk/antique.php.
+https://www.wallstreet.sk/antique.php
+# Heritrix added seed redirect from http://www.bohnice.cz/.
+https://bohnice.cz/
+# Heritrix added seed redirect from http://ujca.ff.cuni.cz/.
+https://ujca.ff.cuni.cz/
+# Heritrix added seed redirect from http://portal.justice.cz/soud/soud.aspx?o=207&j=217&k=2064.
+https://verejnazaloba.cz/
+# Heritrix added seed redirect from https://udu.ff.cuni.cz/.
+https://udu.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://is.cuni.cz/studium/index.php.
+https://idp.cuni.cz/cas/login?service=https%3A%2F%2Fis.cuni.cz%2Fstudium%2Findex.php%3Fsso_id%3Dbfb67d8c878451496e4c4a5216636656&gateway=true
+# Heritrix added seed redirect from http://www.fnmotol.cz/ublg/.
+https://www.fnmotol.cz/ublg/
+# Heritrix added seed redirect from https://www.celnisprava.cz/cz.
+https://www.celnisprava.cz/cz/Stranky/default.aspx
+# Heritrix added seed redirect from https://email.jinonice.cuni.cz/owa/.
+https://email.jinonice.cuni.cz/owa/auth/logon.aspx?url=https%3a%2f%2femail.jinonice.cuni.cz%2fowa%2f&reason=0
+# Heritrix added seed redirect from https://ujca.ff.cuni.cz/.
+https://uas.ff.cuni.cz/
+# Heritrix added seed redirect from http://portal.justice.cz/soud/soud.aspx?o=7&j=17&k=220.
+https://verejnazaloba.cz/
+# Heritrix added seed redirect from https://is.cuni.cz/webapps/whois/search/.
+https://is.cuni.cz/webapps/whois2/
+# Heritrix added seed redirect from http://www.vfn.cz/.
+https://www.vfn.cz/
+# Heritrix added seed redirect from https://www.prf.cuni.cz/svoc-1404048554.html.
+http://www.prf.cuni.cz/studentske-souteze/svoc-akademicky-rok-202021
+# Heritrix added seed redirect from https://www.prf.cuni.cz/svoc-1404048554.html.
+http://www.prf.cuni.cz/studentske-souteze/svoc-akademicky-rok-202021
+# Heritrix added seed redirect from https://ipsc.cuni.cz/IPSC-137.html.
+https://ukpoint.cuni.cz/IPSC-137.html
+# Heritrix added seed redirect from https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fpedfukkbev%2F.
+https://accounts.google.com/ServiceLogin?service=jotspot&passive=1209600&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/pedfukkbev/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/pedfukkbev/
+# Heritrix added seed redirect from https://ujca.ff.cuni.cz/.
+https://uas.ff.cuni.cz/
+# Heritrix added seed redirect from https://www.csvs.cz/.
+https://csvs.cz/
+# Heritrix added seed redirect from https://www.mff.cuni.cz/cs/matematicka-sekce/o-sekci.
+https://www.mff.cuni.cz/cs/math/o-sekci
+# Heritrix added seed redirect from https://www.mff.cuni.cz/cs/matematicka-sekce/o-sekci.
+https://www.mff.cuni.cz/cs/math/o-sekci
+# Heritrix added seed redirect from http://sociologickevecery.fsv.cuni.cz/.
+http://sociologickevecery.fsv.cuni.cz/vecer.php?sid=189
+# Heritrix added seed redirect from https://portal.justice.cz/.
+https://portal.justice.cz/Justice2/Uvod/uvod.aspx
+# Heritrix added seed redirect from https://ipsc.cuni.cz/IPSC-118.html.
+https://ukpoint.cuni.cz/IPSC-118.html
+# Heritrix added seed redirect from https://kam.cuni.cz/.
+https://kam.cuni.cz/KAM-1.html
+# Heritrix added seed redirect from http://sdileneubytovani.praha.eu/jnp/.
+https://sdileneubytovani.praha.eu/jnp/
+# Heritrix added seed redirect from http://www.ff.cuni.cz/knihovna.
+https://www.ff.cuni.cz/knihovna
+# Heritrix added seed redirect from http://www.mff.cuni.cz/search.
+https://www.mff.cuni.cz/search
+# Heritrix added seed redirect from https://ujca.ff.cuni.cz/.
+https://uas.ff.cuni.cz/
+# Heritrix added seed redirect from http://pages.pedf.cuni.cz/kssp/.
+https://pages.pedf.cuni.cz/kssp/
+# Heritrix added seed redirect from http://portal.justice.cz/Err404.htm?aspxerrorpath=/ms/ms.aspx.
+https://portal.justice.cz/Justice2/Uvod/uvod.aspx
+# Heritrix added seed redirect from https://www.ankst.cz/008.
+https://www.ankst.cz/008/
+# Heritrix added seed redirect from https://www.mff.cuni.cz/fakulta/as/skas/.
+https://www.mff.cuni.cz/fakulta/as/skas
+# Heritrix added seed redirect from https://www.mff.cuni.cz/fakulta/as/skas/.
+https://www.mff.cuni.cz/fakulta/as/skas
+# Heritrix added seed redirect from https://www.prf.cuni.cz/eduroam-1404045974.html.
+http://www.prf.cuni.cz/it-sluzby/eduroam
+# Heritrix added seed redirect from https://www.prf.cuni.cz/eduroam-1404045974.html.
+http://www.prf.cuni.cz/it-sluzby/eduroam
+# Heritrix added seed redirect from http://pages.pedf.cuni.cz/ksppg/.
+https://pages.pedf.cuni.cz/ksppg/
+# Heritrix added seed redirect from https://lf1.cuni.cz/.
+https://www.lf1.cuni.cz/
+# Heritrix added seed redirect from http://www.ff.cuni.cz/fakulta/o-fakulte/pravidelne-akce/den-latiny.
+https://www.ff.cuni.cz/fakulta/o-fakulte/pravidelne-akce/den-latiny
+# Heritrix added seed redirect from http://www.prf.cuni.cz/studentske-souteze/svoc-akademicky-rok-202021.
+https://www.prf.cuni.cz/studentske-souteze/svoc-akademicky-rok-202021
+# Heritrix added seed redirect from http://pages.pedf.cuni.cz/kddd/.
+https://pages.pedf.cuni.cz/kddd/
+# Heritrix added seed redirect from https://idos.idnes.cz/.
+https://idos.idnes.cz/vlakyautobusymhdvse/spojeni/
+# Heritrix added seed redirect from http://physics.mff.cuni.cz/kfpp/.
+https://physics.mff.cuni.cz/kfpp/
+# Heritrix added seed redirect from http://www.ff.cuni.cz/uchazec.
+https://www.ff.cuni.cz/uchazec
+# Heritrix added seed redirect from http://www.prf.cuni.cz/studentske-souteze/svoc-akademicky-rok-202021.
+https://www.prf.cuni.cz/studentske-souteze/svoc-akademicky-rok-202021
+# Heritrix added seed redirect from http://pages.pedf.cuni.cz/kbes/.
+https://pages.pedf.cuni.cz/kbes/
+# Heritrix added seed redirect from https://fsv.cuni.cz/en/.
+https://fsv.cuni.cz/en
+# Heritrix added seed redirect from https://fsv.cuni.cz/en/.
+https://fsv.cuni.cz/en/'https://fsv.cuni.cz/en'
+# Heritrix added seed redirect from http://pages.pedf.cuni.cz/pedagogika/.
+https://pages.pedf.cuni.cz/pedagogika/
+# Heritrix added seed redirect from https://fsv.cuni.cz/pro-zamestnance/.
+https://fsv.cuni.cz/pro-zamestnance
+# Heritrix added seed redirect from https://fsv.cuni.cz/pro-zamestnance/.
+https://fsv.cuni.cz/pro-zamestnance/'https://fsv.cuni.cz/pro-zamestnance'
+# Heritrix added seed redirect from http://pages.pedf.cuni.cz/uvrv/.
+https://pages.pedf.cuni.cz/uvrv/
+# Heritrix added seed redirect from https://www.google.com/a/natur.cuni.cz/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&ltmpl=default&ltmplcache=2&emr=1&osid=1.
+https://www.google.com/accounts/AccountChooser?hd=natur.cuni.cz&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&osid=1&service=mail&ss=1&ltmpl=default
+# Heritrix added seed redirect from http://www.prf.cuni.cz/it-sluzby/eduroam.
+https://www.prf.cuni.cz/it-sluzby/eduroam
+# Heritrix added seed redirect from http://www.ff.cuni.cz/uchazec.
+https://www.ff.cuni.cz/uchazec
+# Heritrix added seed redirect from http://www.prf.cuni.cz/it-sluzby/eduroam.
+https://www.prf.cuni.cz/it-sluzby/eduroam
+# Heritrix added seed redirect from http://www.ff.cuni.cz/dok/fferror.php.
+https://www.ff.cuni.cz/dok/fferror.php
+# Heritrix added seed redirect from https://www.mff.cuni.cz/cs/informaticka-sekce/pracoviste/ksi.
+https://cs.mff.cuni.cz/cs/pracoviste/ksi
+# Heritrix added seed redirect from https://www.mff.cuni.cz/cs/informaticka-sekce/pracoviste/ksi.
+https://cs.mff.cuni.cz/cs/pracoviste/ksi
+# Heritrix added seed redirect from http://pages.pedf.cuni.cz/.
+https://pages.pedf.cuni.cz/
+# Heritrix added seed redirect from http://vesmir.cz/.
+https://vesmir.cz/
+# Heritrix added seed redirect from https://sberdat.uiv.cz/rozcestnik.
+https://sberdat.uiv.cz/rozcestnik/
+# Heritrix added seed redirect from http://www.ff.cuni.cz/fakulta/katedry-a-ustavy/.
+https://www.ff.cuni.cz/fakulta/katedry-a-ustavy/
+# Heritrix added seed redirect from https://www.mff.cuni.cz/cs/informaticka-sekce/pracoviste/ksi.
+https://cs.mff.cuni.cz/cs/pracoviste/ksi
+# Heritrix added seed redirect from https://www.mff.cuni.cz/cs/informaticka-sekce/pracoviste/ksi.
+https://cs.mff.cuni.cz/cs/pracoviste/ksi
+# Heritrix added seed redirect from https://vesmir.cz/.
+https://vesmir.cz/cz/
+# Heritrix added seed redirect from https://www.mff.cuni.cz/cs/informaticka-sekce/pracoviste/ksi.
+https://cs.mff.cuni.cz/cs/pracoviste/ksi
+# Heritrix added seed redirect from https://www.mff.cuni.cz/cs/informaticka-sekce/pracoviste/ksi.
+https://cs.mff.cuni.cz/cs/pracoviste/ksi
+# Heritrix added seed redirect from http://www.ff.cuni.cz/FF-23.html.
+https://www.ff.cuni.cz/FF-23.html
+# Heritrix added seed redirect from https://www.google.com/accounts/AccountChooser?hd=natur.cuni.cz&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&osid=1&service=mail&ss=1&ltmpl=default.
+https://accounts.google.com/AccountChooser?hd=natur.cuni.cz&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&osid=1&service=mail&ss=1&ltmpl=default
+# Heritrix added seed redirect from https://www.mff.cuni.cz/search.
+https://www.mff.cuni.cz/cs/vyhledavani
+# Heritrix added seed redirect from https://www.mff.cuni.cz/search.
+https://www.mff.cuni.cz/cs/vyhledavani
+# Heritrix added seed redirect from https://www.cuni.cz/UK-3399.html.
+https://cuni.cz/UK-3399.html
+# Heritrix added seed redirect from https://cuni.cz/UK-3399.html.
+http://knihovna.cuni.cz/evropske-dokumentacni-a-informacni-stredisko-edis/
+# Heritrix added seed redirect from https://sites.ff.cuni.cz/.
+https://sites.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://www.mff.cuni.cz/fakulta/as/skas.
+https://www.mff.cuni.cz/cs/akademicky-senat/studentska-komora-akademickeho-senatu
+# Heritrix added seed redirect from https://www.mff.cuni.cz/fakulta/as/skas.
+https://www.mff.cuni.cz/cs/akademicky-senat/studentska-komora-akademickeho-senatu
+# Heritrix added seed redirect from https://www.cuni.cz/UK-4564.html.
+https://cuni.cz/UK-4564.html
+# Heritrix added seed redirect from http://www.cuni.cz/UK-5760.html.
+https://www.cuni.cz/UK-5760.html
+# Heritrix added seed redirect from https://www.mff.cuni.cz/fakulta/as/skas.
+https://www.mff.cuni.cz/cs/akademicky-senat/studentska-komora-akademickeho-senatu
+# Heritrix added seed redirect from https://www.mff.cuni.cz/fakulta/as/skas.
+https://www.mff.cuni.cz/cs/akademicky-senat/studentska-komora-akademickeho-senatu
+# Heritrix added seed redirect from https://www.cuni.cz/.
+https://cuni.cz/UK-1.html
+# Heritrix added seed redirect from https://www.cuni.cz/UK-309.html.
+https://cuni.cz/UK-309.html
+# Heritrix added seed redirect from https://www.uohs.cz/.
+https://www.uohs.cz/cs/uvodni-stranka.html
+# Heritrix added seed redirect from http://www.ff.cuni.cz/knihovna/seznam-knihoven-a-svi/seznam-dilcich-knihoven/knihovna-celetna/.
+https://www.ff.cuni.cz/knihovna/seznam-knihoven-a-svi/seznam-dilcich-knihoven/knihovna-celetna/
+# Heritrix added seed redirect from https://sites.ff.cuni.cz/.
+https://sites.ff.cuni.cz/cs/
+# Heritrix added seed redirect from http://www.ff.cuni.cz/FF-5004.html.
+https://www.ff.cuni.cz/FF-5004.html
+# Heritrix added seed redirect from http://www.ff.cuni.cz/FF-8252.html.
+https://www.ff.cuni.cz/FF-8252.html
+# Heritrix added seed redirect from https://kam.mff.cuni.cz/.
+https://www.mff.cuni.cz/en/kam
+# Heritrix added seed redirect from http://www.ktiml.mff.cuni.cz/.
+https://www.ktiml.mff.cuni.cz/
+# Heritrix added seed redirect from http://www.ktiml.mff.cuni.cz/.
+https://www.ktiml.mff.cuni.cz/
+# Heritrix added seed redirect from https://www.ff.cuni.cz/knihovna.
+https://www.ff.cuni.cz/knihovna/
+# Heritrix added seed redirect from http://www.ktiml.mff.cuni.cz/.
+https://www.ktiml.mff.cuni.cz/
+# Heritrix added seed redirect from https://www.ff.cuni.cz/fakulta/o-fakulte/pravidelne-akce/den-latiny.
+https://www.ff.cuni.cz/fakulta/o-fakulte/pravidelne-akce/den-latiny/
+# Heritrix added seed redirect from https://www.ff.cuni.cz/uchazec.
+https://www.ff.cuni.cz/prijimaci-rizeni/uchazec/
+# Heritrix added seed redirect from https://www.ktiml.mff.cuni.cz/.
+https://www.ktiml.mff.cuni.cz/KTIML-1.html
+# Heritrix added seed redirect from http://www.natur.cuni.cz/geografie.
+https://www.natur.cuni.cz/geografie
+# Heritrix added seed redirect from https://www.ktiml.mff.cuni.cz/.
+https://www.ktiml.mff.cuni.cz/KTIML-1.html
+# Heritrix added seed redirect from https://www.natur.cuni.cz/.
+https://www.natur.cuni.cz/fakulta
+# Heritrix added seed redirect from https://www.ktiml.mff.cuni.cz/.
+https://www.ktiml.mff.cuni.cz/KTIML-1.html
+# Heritrix added seed redirect from http://www.natur.cuni.cz/geografie.
+https://www.natur.cuni.cz/geografie
+# Heritrix added seed redirect from https://www.ff.cuni.cz/uchazec.
+https://www.ff.cuni.cz/prijimaci-rizeni/uchazec/
+# Heritrix added seed redirect from https://www.cuni.cz/UK-5760.html.
+https://cuni.cz/UK-5760.html
+# Heritrix added seed redirect from http://www.natur.cuni.cz/.
+https://www.natur.cuni.cz/
+# Heritrix added seed redirect from https://www.natur.cuni.cz/.
+https://www.natur.cuni.cz/fakulta
+# Heritrix added seed redirect from http://www.natur.cuni.cz/.
+https://www.natur.cuni.cz/
+# Heritrix added seed redirect from https://www.ff.cuni.cz/FF-23.html.
+https://www.ff.cuni.cz/
+# Heritrix added seed redirect from https://www.ff.cuni.cz/knihovna/seznam-knihoven-a-svi/seznam-dilcich-knihoven/knihovna-celetna/.
+https://www.ff.cuni.cz/knihovna/oborove-a-prirucni-knihovny/budova-celetna-20/knihovna-celetna/
+# Heritrix added seed redirect from https://www.ff.cuni.cz/FF-5004.html.
+http://www.ff.cuni.cz/?page_id=1229
+# Heritrix added seed redirect from https://www.ff.cuni.cz/FF-8252.html.
+http://www.ff.cuni.cz/?page_id=4396
+# Heritrix added seed redirect from http://fonetika.ff.cuni.cz/.
+https://fonetika.ff.cuni.cz/
+# Heritrix added seed redirect from https://www.natur.cuni.cz/faculty/cit/navody/wifi/.
+https://www.natur.cuni.cz/fakulta/cit/navody/wifi
+# Heritrix added seed redirect from https://www.natur.cuni.cz/.
+https://www.natur.cuni.cz/fakulta
+# Heritrix added seed redirect from https://www.natur.cuni.cz/.
+https://www.natur.cuni.cz/fakulta
+# Heritrix added seed redirect from http://www.a2larm.cz/.
+https://www.a2larm.cz/
+# Heritrix added seed redirect from https://www.a2larm.cz/.
+https://a2larm.cz/
+# Heritrix added seed redirect from http://www.nzm.cz/.
+https://www.nzm.cz/
+# Heritrix added seed redirect from http://www.dantikvariat.cz//.
+https://www.dantikvariat.cz/
+# Heritrix added seed redirect from https://ukpoint.cuni.cz/IPSC-137.html.
+https://cczv.cuni.cz/CCZV-378.html
+# Heritrix added seed redirect from http://www.migration.cz/.
+http://migration.cz/
+# Heritrix added seed redirect from https://fin.ff.cuni.cz/.
+https://fin.ff.cuni.cz/cs/
+# Heritrix added seed redirect from http://specpeda.cz/.
+http://pages.pedf.cuni.cz/specpeda/
+# Heritrix added seed redirect from https://cckisc.ff.cuni.cz/.
+https://cckisc.ff.cuni.cz/cs/
+# Heritrix added seed redirect from http://www.czechtrade.cz/.
+https://www.czechtrade.cz/
+# Heritrix added seed redirect from https://kfs.ff.cuni.cz/.
+https://kfs.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://cegu.ff.cuni.cz/.
+https://cegu.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://uhv.ff.cuni.cz/.
+https://uhv.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://kest.ff.cuni.cz/.
+https://kest.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://kanpr.ff.cuni.cz/.
+https://kanpr.ff.cuni.cz/cs/
+# Heritrix added seed redirect from http://pages.pedf.cuni.cz/specpeda/.
+https://pages.pedf.cuni.cz/specpeda/
+# Heritrix added seed redirect from https://kped.ff.cuni.cz/.
+https://kped.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://kes.fsv.cuni.cz/KZS-1.html.
+https://ims.fsv.cuni.cz/institut/katedra-evropskych-studii
+# Heritrix added seed redirect from https://idp.cuni.cz/cas/login?service=https%3A%2F%2Fis.cuni.cz%2Fstudium%2Findex.php%3Fsso_id%3Dd48c8551315328e0901c44bc93984df8&gateway=true.
+https://is.cuni.cz/studium/index.php?sso_id=d48c8551315328e0901c44bc93984df8
+# Heritrix added seed redirect from https://idp.cuni.cz/cas/login?service=https%3A%2F%2Fis.cuni.cz%2Fstudium%2Findex.php%3Fsso_id%3Dbfb67d8c878451496e4c4a5216636656&gateway=true.
+https://is.cuni.cz/studium/index.php?sso_id=bfb67d8c878451496e4c4a5216636656
+# Heritrix added seed redirect from https://is.cuni.cz/studium/index.php?sso_id=d48c8551315328e0901c44bc93984df8.
+https://idp.cuni.cz/cas/login?service=https%3A%2F%2Fis.cuni.cz%2Fstudium%2Findex.php%3Fsso_id%3Dd48c8551315328e0901c44bc93984df8&gateway=true
+# Heritrix added seed redirect from https://is.cuni.cz/studium/index.php?sso_id=bfb67d8c878451496e4c4a5216636656.
+https://idp.cuni.cz/cas/login?service=https%3A%2F%2Fis.cuni.cz%2Fstudium%2Findex.php%3Fsso_id%3Dbfb67d8c878451496e4c4a5216636656&gateway=true
+# Heritrix added seed redirect from http://www.ceses.cuni.cz/CESES-4.html.
+https://www.ceses.cuni.cz/CESES-4.html
+# Heritrix added seed redirect from https://knrs.fsv.cuni.cz/KNRS-1.html.
+https://ims.fsv.cuni.cz/institut/katedra-nemeckych-rakouskych-st
+# Heritrix added seed redirect from https://kbv.ff.cuni.cz/.
+https://kbv.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://ksocp.ff.cuni.cz/.
+https://ksocp.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://uetn.ff.cuni.cz/.
+https://uetn.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://kps.ff.cuni.cz/.
+https://kps.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://upa.ff.cuni.cz/.
+https://upa.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://ksi.ff.cuni.cz/.
+https://ksi.ff.cuni.cz/cs/
+# Heritrix added seed redirect from https://cs.mff.cuni.cz/cs/pracoviste/ksi.
+https://cs.mff.cuni.cz/cs/informaticka-sekce/o-sekci/pracoviste/ksi/
+# Heritrix added seed redirect from https://cs.mff.cuni.cz/cs/pracoviste/ksi.
+https://cs.mff.cuni.cz/cs/informaticka-sekce/o-sekci/pracoviste/ksi/
+# Heritrix added seed redirect from https://cs.mff.cuni.cz/cs/pracoviste/ksi.
+https://cs.mff.cuni.cz/cs/informaticka-sekce/o-sekci/pracoviste/ksi/
+# Heritrix added seed redirect from https://cs.mff.cuni.cz/cs/pracoviste/ksi.
+https://cs.mff.cuni.cz/cs/informaticka-sekce/o-sekci/pracoviste/ksi/
+# Heritrix added seed redirect from https://cs.mff.cuni.cz/cs/pracoviste/ksi.
+https://cs.mff.cuni.cz/cs/informaticka-sekce/o-sekci/pracoviste/ksi/
+# Heritrix added seed redirect from https://cs.mff.cuni.cz/cs/pracoviste/ksi.
+https://cs.mff.cuni.cz/cs/informaticka-sekce/o-sekci/pracoviste/ksi/
+# Heritrix added seed redirect from https://cs.mff.cuni.cz/cs/pracoviste/ksi.
+https://cs.mff.cuni.cz/cs/informaticka-sekce/o-sekci/pracoviste/ksi/
+# Heritrix added seed redirect from https://cs.mff.cuni.cz/cs/pracoviste/ksi.
+https://cs.mff.cuni.cz/cs/informaticka-sekce/o-sekci/pracoviste/ksi/
+# Heritrix added seed redirect from https://cs.mff.cuni.cz/cs/pracoviste/ksi.
+https://cs.mff.cuni.cz/cs/informaticka-sekce/o-sekci/pracoviste/ksi/
+# Heritrix added seed redirect from https://cs.mff.cuni.cz/cs/pracoviste/ksi.
+https://cs.mff.cuni.cz/cs/informaticka-sekce/o-sekci/pracoviste/ksi/
+# Heritrix added seed redirect from https://cs.mff.cuni.cz/cs/pracoviste/ksi.
+https://cs.mff.cuni.cz/cs/informaticka-sekce/o-sekci/pracoviste/ksi/
+# Heritrix added seed redirect from https://cs.mff.cuni.cz/cs/pracoviste/ksi.
+https://cs.mff.cuni.cz/cs/informaticka-sekce/o-sekci/pracoviste/ksi/
