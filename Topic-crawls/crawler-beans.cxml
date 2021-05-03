@@ -40,22 +40,22 @@
 
 # Values changing with each crawl
 
-metadata.jobName=Topics 2018-01-T2018VolPrezII
-metadata.operator=Zdenko Vozár
-metadata.description=Výberová sklizeň webov pri príležitosti voľby českého prezidenta a II. kolo. v den volieb. 12-13 leden 2018. Predsklizeň pustená z dôvodov širších operácií na diskových poliach NK v predvečer voľby.
-warcWriter.prefix=Topics-2018-01-T2018VolPrezII-crawler01_
-warcWriter.storePaths=/mnt/archives/14/2018/topics/Topics-2018-01-T2018VolPrezII
-frontier.queueTotalBudget=-1
+metadata.jobName=Topics_2021-04_T-CUNI_NA_10webprovec_MGHMP_antik
+metadata.operator=Petra Habetinova, Zdenko Vozar
+metadata.description=Tematicka sklizen webarchiv - # CUNI # Národní archiv - veřejnoprávní původci # 10 webů pro věčnost  # Magistrát hl. města Prahy #Antikvariáty.
+warcWriter.prefix=Topics_2021-04_T-CUNI_NA_10webprovec_MGHMP_antik
+warcWriter.storePaths=/mnt/archives/21/topics/Topics_2021-04_T-CUNI_NA_10webprovec_MGHMP_antik
+frontier.queueTotalBudget=20000
 
 # State directory for duplication reduction, we keep state files for calendar year. Change to bdb for other crawls.
-historyBdb.dir=/opt/heritrix/jobs/history/2018-history-state
+historyBdb.dir=/opt/heritrix/jobs/history/2021-history-state
 #historyBdb.dir=/opt/heritrix/jobs/history/2018-history-state- / PROBLEM
 
 # State directory for each crawl, it is not necessary to change it.
-bdb.dir=/opt/heritrix/jobs/states/topics/
+bdb.dir=/opt/heritrix/jobs/states/topics/2021
 
 # INSPECT: There is change that balanceReplenishAmount doesnt work as expected IE: Crawl 5k URIs, and wait for other seeds to crawl until 5k URIs - check FRONTIER
-frontier.balanceReplenishAmount=1500
+frontier.balanceReplenishAmount=5000
 # YOUTUBE: Do you wanna save youtube videos?
 extractorYoutubeWatchPage.enabled=true
 
@@ -66,10 +66,10 @@ hashCrawlMapper.enabled=false
 hashCrawlMapper.localName=0
 #0,1,2,3, .. x-1
 # Number of crawlers among which to split up the URIs.
-hashCrawlMapper.crawlerCount=0
+hashCrawlMapper.crawlerCount=1
 #je ich jedenast celkom ale jeden nepojde
 # Diversions directory should be shared between crawlers per job.
-hashCrawlMapper.diversionDir=/mnt/archives/14/2018/topics/prefetch-diversions/
+hashCrawlMapper.diversionDir=/mnt/archives/20/topics/prefetch-diversions/
 
 # YOUTUBE: Do you wanna save youtube videos?
 extractorYoutubeWatchPage.enabled=true
@@ -80,7 +80,7 @@ extractorYoutubeWatchPage.enabled=true
 # Stable values
 crawlController.scratchDir=/opt/heritrix/jobs/scratch
 #po sklizni promazat
-metadata.operatorContactUrl=http://webarchiv.cz/kontakty/
+metadata.operatorContactUrl=http://webarchiv.cz/kontakty
 metadata.operatorFrom=webarchiv@nkp.cz
 metadata.organization=National Library of the Czech Republic - Webarchiv.cz
 metadata.audience=Webarchiv.cz Users
@@ -164,7 +164,7 @@ http://example.example/example
   <!-- <property name="seedsAsSurtPrefixes" value="true" /> -->
   <property name="alsoCheckVia" value="true" />
   <!-- <property name="surtsSourceFile" value="" /> -->
-  <property name="surtsDumpFile" value="/surts.dump" />
+  <property name="surtsDumpFile" value="${launchId}/surts.dump" />
   <property name="surtsSource">
    <bean class="org.archive.spring.ConfigFile">
     <property name="path" value="../Shared-config/surts.txt" />
@@ -184,7 +184,7 @@ http://example.example/example
     <ref bean="acceptSurts" />
     <!-- ...but REJECT those more than a configured link-hop-count from start... -->
     <bean class="org.archive.modules.deciderules.TooManyHopsDecideRule">
-     <!-- <property name="maxHops" value="20" /> -->
+     <property name="maxHops" value="3" />
     </bean>
     <!-- ...but ACCEPT those more than a configured link-hop-count from start... -->
     <bean class="org.archive.modules.deciderules.TransclusionDecideRule">
@@ -195,7 +195,7 @@ http://example.example/example
     <bean class="org.archive.modules.deciderules.surt.SurtPrefixedDecideRule">
           <property name="decision" value="REJECT"/>
           <property name="seedsAsSurtPrefixes" value="false"/>
-          <property name="surtsDumpFile" value="/negative-surts.dump" />
+          <property name="surtsDumpFile" value="${launchId}/negative-surts.dump" />
           <property name="surtsSource">
            <bean class="org.archive.spring.ConfigFile">
             <property name="path" value="../Shared-config/negative-surts.txt" />
@@ -260,12 +260,16 @@ http://example.example/example
                 <value>http://twitter\.com/login.*</value>
                 <value>http://twitter\.com/share.*</value>
                 <value>http://www\.google\.com/reader.*</value>
-                <value>www.df.biom.cz.*</value>
-                <value>www.geofond.cz/mapsphere/EEARTH/default.aspx?lang=cs.*</value>
-                <value>www.geofond.cz/mapsphere/MapWin.aspx?M_WizID=24&amp;M_Site=geofond&amp;M_Lang=cs.*</value>
-                <value>www.spnv.cz/file.php?nid=9560&amp;oid=1998061.*</value>
-                <value>www.spnv.cz/file.php?nid=9560&amp;oid=1998070.*</value>
-                <value>www.svaz.chf.cz/shop.aspx?catid=225.*</value>
+                <value>www\.df\.biom\.cz.*</value>
+                <value>www\.geofond\.cz/mapsphere/EEARTH/default\.aspx?lang=cs.*</value>
+                <value>www\.geofond\.cz/mapsphere/MapWin\.aspx?M_WizID=24&amp;M_Site=geofond&amp;M_Lang=cs.*</value>
+                <value>www\.spnv\.cz/file\.php?nid=9560&amp;oid=1998061.*</value>
+                <value>www\.spnv\.cz/file\.php?nid=9560&amp;oid=1998070.*</value>
+                <value>www\.svaz\.chf\.cz/shop\.aspx?catid=225.*</value>
+                <!-- Následující semínko sklízet pouze v celoplošné sklizni -->
+                <value>.*linuxreview\.org\.*</value>
+                <!-- Následující semínko sklízet pouze v celoplošné sklizni -->
+                <value>.*hlidacky\.cz.*</value>
            </list>
           </property>
     </bean>
@@ -287,6 +291,31 @@ http://example.example/example
   </property>
  </bean>
 
+  <!-- CREDENTIALS - RFC2617 credential -->
+ <bean id="credential"
+   class="org.archive.modules.credential.HttpAuthenticationCredential">
+    <property name="domain">
+        <value>
+            facebook.com
+        </value>
+    </property>
+    <property name="realm">
+        <value>
+            https://www.facebook.com/login/device-based/regular/login
+        </value>
+    </property>
+    <property name="login">
+        <value>
+            jiri.horak@nkp.cz
+        </value>
+    </property>
+    <property name="password">
+        <value>
+            DpwmcRw5sGi7K47
+        </value>
+    </property>
+ </bean>
+ 
  <!--
    PROCESSING CHAINS
     Much of the crawler's work is specified by the sequential
@@ -522,7 +551,7 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
  <bean id="warcWriter" class="org.archive.modules.writer.WARCWriterProcessor">
   <!-- <property name="compress" value="true" /> -->
   <property name="prefix" value="[See override above]"/>
-  <!-- <property name="suffix" value="" /> -->
+  <!-- <property name="suffix" value="crawler00" /> -->
   <!-- <property name="maxFileSizeBytes" value="1000000000" /> -->
   <!-- INSPECT: in H1 we had 5 arc pool, setting to 2 for now -->
        <property name="poolMaxActive" value="2" />
@@ -1159,7 +1188,7 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
       Pauses the crawl if disk space at monitored paths falls below minimum threshold -->
 
  <bean id="diskSpaceMonitor" class="org.archive.crawler.monitor.DiskSpaceMonitor">
-   <property name="pauseThresholdMiB" value="5000" />
+   <property name="pauseThresholdMiB" value="500" />
    <property name="monitorConfigPaths" value="true" />
    <property name="monitorPaths">
      <list>
@@ -1251,8 +1280,8 @@ Note that by sending these headers, the crawler may receive a '304-Not Modified'
 
 
  <!-- BDBCOOKIESTORAGE: disk-based cookie storage for FetchHTTP -->
- <bean id="cookieStorage"
-   class="org.archive.modules.fetcher.BdbCookieStorage">
+ <bean id="cookieStore"
+   class="org.archive.modules.fetcher.BdbCookieStore">
   <!-- <property name="cookiesLoadFile"><null/></property> -->
   <!-- <property name="cookiesSaveFile"><null/></property> -->
   <!-- <property name="bdb">
